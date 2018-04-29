@@ -1,0 +1,5 @@
+SELECT ?subject1 ?object ?predicate2 ?object2 WHERE {?subject1 <http://swrc.ontoware.org/ontology#editor> ?object . ?object ?predicate2 ?object2 .}
+SELECT ?subject1 ?object ?predicate2 ?object2 WHERE {?subject1 <http://swrc.ontoware.org/ontology#series> ?object . ?object ?predicate2 ?object2 .}
+SELECT ?subject1 ?object ?predicate2 ?object2 WHERE {?subject1 <http://purl.org/dc/terms/references> ?object . ?object ?predicate2 ?object2 .}
+SELECT ?subject1 ?object ?predicate2 ?object2 WHERE {?subject1 <http://swrc.ontoware.org/ontology#journal> ?object . ?object ?predicate2 ?object2 .}
+SELECT ?subject1 ?object ?predicate2 ?object2 WHERE {?subject1 <http://purl.org/dc/terms/partOf> ?object . ?object ?predicate2 ?object2 .}

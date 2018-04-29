@@ -1,0 +1,11 @@
+SELECT ?subject1 ?object ?subject2 ?predicate2 WHERE {?subject1 <http://dbpedia.org/property/redirect> ?object . ?subject2 ?predicate2 ?object .}
+SELECT ?subject1 ?object ?subject2 ?predicate2 WHERE {?subject1 <http://dbpedia.org/property/before> ?object . ?subject2 ?predicate2 ?object .}
+SELECT ?subject1 ?object ?subject2 ?predicate2 WHERE {?subject1 <http://www.w3.org/2000/01/rdf-schema#label> ?object . ?subject2 ?predicate2 ?object .}
+SELECT ?subject1 ?object ?subject2 ?predicate2 WHERE {?subject1 <http://dbpedia.org/ontology/thumbnail> ?object . ?subject2 ?predicate2 ?object .}
+SELECT ?subject1 ?object ?subject2 ?predicate2 WHERE {?subject1 <http://dbpedia.org/ontology/abstract> ?object . ?subject2 ?predicate2 ?object .}
+SELECT ?subject1 ?object ?subject2 ?predicate2 WHERE {?subject1 <http://dbpedia.org/property/title> ?object . ?subject2 ?predicate2 ?object .}
+SELECT ?subject1 ?object ?subject2 ?predicate2 WHERE {?subject1 <http://www.w3.org/2004/02/skos/core#broader> ?object . ?subject2 ?predicate2 ?object .}
+SELECT ?subject1 ?object ?subject2 ?predicate2 WHERE {?subject1 <http://www.w3.org/2004/02/skos/core#subject> ?object . ?subject2 ?predicate2 ?object .}
+SELECT ?subject1 ?object ?subject2 ?predicate2 WHERE {?subject1 <http://dbpedia.org/property/populationDensitySqMi> ?object . ?subject2 ?predicate2 ?object .}
+SELECT ?subject1 ?object ?subject2 ?predicate2 WHERE {?subject1 <http://dbpedia.org/property/attendance> ?object . ?subject2 ?predicate2 ?object .}
+SELECT ?subject1 ?object ?subject2 ?predicate2 WHERE {?subject1 <http://dbpedia.org/property/revisionId> ?object . ?subject2 ?predicate2 ?object .}

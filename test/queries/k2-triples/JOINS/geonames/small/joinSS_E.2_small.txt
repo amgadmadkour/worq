@@ -1,0 +1,25 @@
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://www.geonames.org/ontology#parentADM3> <http://sws.geonames.org/6542023/> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://www.geonames.org/ontology#alternateName> "\u1E28\u0101jj\u012B N\u0101r\u016B'\u012B"@fa . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://www.geonames.org/ontology#name> "El Chicho" . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://www.geonames.org/ontology#parentADM2> <http://sws.geonames.org/5352462/> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://www.geonames.org/ontology#neighbouringFeatures> <http://sws.geonames.org/3582678/neighbours.rdf> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> "http://sws.geonames.org/4307877/about.rdf" . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://www.geonames.org/ontology#nearbyFeatures> <http://sws.geonames.org/1626758/nearby.rdf> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://www.geonames.org/ontology#countryCode> "MK" . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://www.geonames.org/ontology#wikipediaArticle> <http://en.wikipedia.org/wiki/Enderby_Land> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://www.geonames.org/ontology#countryCode> "LU" . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://www.geonames.org/ontology#parentADM2> <http://sws.geonames.org/6322866/> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://www.geonames.org/ontology#parentCountry> <http://sws.geonames.org/7609695/> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "52.12582" . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://www.geonames.org/ontology#population> "3179" . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://www.geonames.org/ontology#officialName> "Anfalikha"@no . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://www.geonames.org/ontology#population> "53015" . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://www.geonames.org/ontology#postalCode> "28616" . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://www.geonames.org/ontology#featureCode> <http://www.geonames.org/ontology#T.ISLET> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://www.geonames.org/ontology#postalCode> "05008" . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://www.geonames.org/ontology#featureCode> <http://www.geonames.org/ontology#H.DPRG> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://www.geonames.org/ontology#postalCode> "20706" . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://www.geonames.org/ontology#nearbyFeatures> <http://sws.geonames.org/5235623/nearby.rdf> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://www.geonames.org/ontology#name> "Bulger Residence Hall" . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://www.geonames.org/ontology#officialName> "\u0410\u043A\u0442\u0430\u0448"@ru . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Govi-Altai_Province> . ?subject ?predicate2 ?object2 .}

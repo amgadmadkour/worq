@@ -1,0 +1,25 @@
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 "http://sws.geonames.org/2405921/about.rdf" . ?subject ?predicate2 <http://sws.geonames.org/2404798/> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 "107.54807" . ?subject ?predicate2 "Liudan" .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 "25.93315" . ?subject ?predicate2 <http://dbpedia.org/resource/North_Miami_Beach%2C_Florida> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 "Catstown" . ?subject ?predicate2 "52.43861" .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 "Quebrada Grande Chaparral" . ?subject ?predicate2 "Quebrada Grande" .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://www.geonames.org/5303504/mail-carrier-spring.html> . ?subject ?predicate2 "http://sws.geonames.org/5303504/about.rdf" .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://www.geonames.org/5498674/wright-well.html> . ?subject ?predicate2 <http://sws.geonames.org/5461428/> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 "http://sws.geonames.org/5010039/about.rdf" . ?subject ?predicate2 "46.43113" .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 "http://sws.geonames.org/6911104/about.rdf" . ?subject ?predicate2 <http://sws.geonames.org/1814991/> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://sws.geonames.org/2643617/nearby.rdf> . ?subject ?predicate2 <http://www.geonames.org/ontology#P> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://rdf.insee.fr/geo/COM_67040> . ?subject ?predicate2 <http://sws.geonames.org/6450591/> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 "Mastar\u0101b\u0101d" . ?subject ?predicate2 "BD" .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://www.geonames.org/3616297/shackle-reef.html> . ?subject ?predicate2 "NI" .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://www.geonames.org/3599250/cajuil.html> . ?subject ?predicate2 <http://sws.geonames.org/3595415/> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://www.geonames.org/6183321/wintering-lake.html> . ?subject ?predicate2 <http://sws.geonames.org/6065171/> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://www.geonames.org/2826926/stocka.html> . ?subject ?predicate2 <http://www.geonames.org/ontology#P.PPL> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 "-12.12194" . ?subject ?predicate2 <http://sws.geonames.org/1051823/> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 "http://sws.geonames.org/140866/about.rdf" . ?subject ?predicate2 "IR" .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 "-165.4225" . ?subject ?predicate2 "Ruby Creek" .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 "http://sws.geonames.org/5163082/about.rdf" . ?subject ?predicate2 <http://www.geonames.org/ontology#S> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 "Cayo Chacho" . ?subject ?predicate2 <http://www.geonames.org/3613736/cayo-chacho.html> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 "18.87969" . ?subject ?predicate2 <http://sws.geonames.org/2386243/> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://www.geonames.org/1941847/jitou.html> . ?subject ?predicate2 "1700" .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://sws.geonames.org/3320356/nearby.rdf> . ?subject ?predicate2 <http://www.geonames.org/ontology#L> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 "http://sws.geonames.org/6762429/about.rdf" . ?subject ?predicate2 "-6.0342" .}

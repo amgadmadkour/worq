@@ -1,0 +1,7 @@
+SELECT ?subject1 ?object ?subject2 WHERE {?subject1 <http://xmlns.com/foaf/0.1/maker> ?object . ?subject2 <http://xmlns.com/foaf/0.1/maker> ?object .}
+SELECT ?subject1 ?object ?subject2 WHERE {?subject1 <http://purl.org/dc/elements/1.1/date> ?object . ?subject2 <http://purl.org/dc/elements/1.1/date> ?object .}
+SELECT ?subject1 ?object ?subject2 WHERE {?subject1 <http://www.holygoat.co.uk/owl/redwood/0.1/tags/tagName> ?object . ?subject2 <http://purl.org/dc/elements/1.1/title> ?object .}
+SELECT ?subject1 ?object ?subject2 WHERE {?subject1 <http://xmlns.com/foaf/0.1/name> ?object . ?subject2 <http://purl.org/dc/elements/1.1/title> ?object .}
+SELECT ?subject1 ?object ?subject2 WHERE {?subject1 <http://purl.org/ontology/mo/text> ?object . ?subject2 <http://purl.org/ontology/mo/text> ?object .}
+SELECT ?subject1 ?object ?subject2 WHERE {?subject1 <http://xmlns.com/foaf/0.1/based_near> ?object . ?subject2 <http://xmlns.com/foaf/0.1/based_near> ?object .}
+SELECT ?subject1 ?object ?subject2 WHERE {?subject1 <http://purl.org/ontology/mo/biography> ?object . ?subject2 <http://purl.org/dc/elements/1.1/description> ?object .}

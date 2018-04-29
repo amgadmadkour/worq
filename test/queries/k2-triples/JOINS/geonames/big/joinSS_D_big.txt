@@ -1,0 +1,7 @@
+SELECT ?subject ?predicate2 WHERE {?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> . ?subject ?predicate2 <http://sws.geonames.org/127082/> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://www.geonames.org/ontology#countryCode> "BO" . ?subject ?predicate2 <http://www.geonames.org/ontology#Feature> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://www.geonames.org/ontology#featureClass> <http://www.geonames.org/ontology#null> . ?subject ?predicate2 <http://www.geonames.org/ontology#Feature> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> . ?subject ?predicate2 "IR" .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> . ?subject ?predicate2 <http://sws.geonames.org/130758/> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> . ?subject ?predicate2 <http://www.geonames.org/ontology#T> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://www.geonames.org/ontology#countryCode> "DK" . ?subject ?predicate2 <http://www.geonames.org/ontology#Feature> .}

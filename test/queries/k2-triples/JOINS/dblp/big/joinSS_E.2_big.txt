@@ -1,0 +1,16 @@
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://purl.org/dc/elements/1.1/type> <http://purl.org/dc/dcmitype/Text> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://purl.org/dc/terms/issued> "2005"^^<http://www.w3.org/2001/XMLSchema#gYear> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://purl.org/dc/elements/1.1/type> <http://purl.org/dc/dcmitype/Collection> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://purl.org/dc/terms/issued> "2003"^^<http://www.w3.org/2001/XMLSchema#gYear> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://purl.org/dc/terms/issued> "2001"^^<http://www.w3.org/2001/XMLSchema#gYear> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#Proceedings> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://purl.org/dc/terms/issued> "2007"^^<http://www.w3.org/2001/XMLSchema#gYear> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#InProceedings> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#Article> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://purl.org/dc/terms/issued> "1995"^^<http://www.w3.org/2001/XMLSchema#gYear> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://purl.org/dc/terms/issued> "1994"^^<http://www.w3.org/2001/XMLSchema#gYear> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://purl.org/dc/terms/issued> "2008"^^<http://www.w3.org/2001/XMLSchema#gYear> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://purl.org/dc/terms/issued> "2006"^^<http://www.w3.org/2001/XMLSchema#gYear> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://purl.org/dc/terms/issued> "2009"^^<http://www.w3.org/2001/XMLSchema#gYear> . ?subject ?predicate2 ?object2 .}

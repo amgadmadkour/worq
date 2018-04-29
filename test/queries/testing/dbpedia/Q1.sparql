@@ -1,0 +1,10 @@
+PREFIX dbr: <http://dbpedia.org/resource/>
+
+select ?s ?y ?z ?w
+where
+{
+    ?s dbr:tweet ?z .
+    ?s dbr:friends ?w .
+    ?s dbr:lives ?y .
+    ?s dbr:mention dbr:Mary .
+}

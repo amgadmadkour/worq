@@ -1,0 +1,4 @@
+rdf	http://www.w3.org/1999/02/22-rdf-syntax-ns#
+ub	http://www.lehigh.edu/~zhp2/2004/0401/univ-bench.owl#
+swt	http://swat.cse.lehigh.edu/onto/univ-bench.owl#
+w3c	http://www.w3.org/2002/07/owl#

@@ -1,0 +1,25 @@
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://dbpedia.org/property/greatGreatNieces> ?object . ?object ?predicate2 "1993-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://dbpedia.org/property/basedAt> ?object . ?object ?predicate2 <http://dbpedia.org/resource/Territorial_authority> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://dbpedia.org/property/religiousStance> ?object . ?object ?predicate2 <http://en.wikipedia.org/wiki/Atheist> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://dbpedia.org/property/contry> ?object . ?object ?predicate2 <http://dbpedia.org/resource/Bulgarian-presidency-guardians.jpg> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://dbpedia.org/property/demographic> ?object . ?object ?predicate2 <http://dbpedia.org/resource/Adult> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://dbpedia.org/property/periodActive> ?object . ?object ?predicate2 <http://dbpedia.org/resource/Federal_Republic_of_Yugoslavia> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://dbpedia.org/property/originPlace> ?object . ?object ?predicate2 <http://dbpedia.org/resource/Primate> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://dbpedia.org/property/motogpManufacturers> ?object . ?object ?predicate2 "Motorcycles & Scooters"@en .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://dbpedia.org/property/developedBy> ?object . ?object ?predicate2 <http://dbpedia.org/resource/United_Nation> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://dbpedia.org/property/pedigree> ?object . ?object ?predicate2 <http://dbpedia.org/resource/Category:Grape_varieties> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://dbpedia.org/property/narator> ?object . ?object ?predicate2 <http://dbpedia.org/resource/The_New_Yorker> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://dbpedia.org/property/constituencyWestminster> ?object . ?object ?predicate2 "71.97"^^<http://www.w3.org/2001/XMLSchema#double> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://dbpedia.org/property/periodActive> ?object . ?object ?predicate2 <http://dbpedia.org/resource/November_20> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://dbpedia.org/property/appearances> ?object . ?object ?predicate2 <http://dbpedia.org/resource/Michael_S._Chernuchin> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://dbpedia.org/property/priminister> ?object . ?object ?predicate2 "Finance Minister of India"@en .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://dbpedia.org/property/workUniversity> ?object . ?object ?predicate2 <http://dbpedia.org/resource/Category:Exempt_charities> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://dbpedia.org/property/ratings> ?object . ?object ?predicate2 <http://dbpedia.org/resource/Age_of_majority> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://dbpedia.org/property/colonelOfTheRegimentLabel> ?object . ?object ?predicate2 <http://dbpedia.org/resource/Cold_War> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://dbpedia.org/property/mmff> ?object . ?object ?predicate2 <http://dbpedia.org/resource/Category:1975_racehorse_births> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://dbpedia.org/ontology/operator> ?object . ?object ?predicate2 <http://dbpedia.org/resource/Norwegian_Sea> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://dbpedia.org/property/formerMllTeam> ?object . ?object ?predicate2 <http://dbpedia.org/resource/Template:MLL_Team_Infobox> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://dbpedia.org/ontology/startPoint> ?object . ?object ?predicate2 "53.00926 -0.06336"@en .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://dbpedia.org/ontology/previousMission> ?object . ?object ?predicate2 <http://en.wikipedia.org/wiki/Apollo-Soyuz_Test_Project> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://dbpedia.org/property/renFirm> ?object . ?object ?predicate2 <http://dbpedia.org/resource/Carillion.png> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://dbpedia.org/property/rd1t1Loc> ?object . ?object ?predicate2 <http://dbpedia.org/resource/Lambar%C3%A9> .}

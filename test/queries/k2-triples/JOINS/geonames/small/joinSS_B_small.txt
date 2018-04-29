@@ -1,0 +1,25 @@
+SELECT ?subject ?object1 WHERE {?subject <http://www.geonames.org/ontology#parentADM4> ?object1 . ?subject <http://www.geonames.org/ontology#name> "Bait Gujji" .}
+SELECT ?subject ?object1 WHERE {?subject <http://www.w3.org/2003/01/geo/wgs84_pos#long> ?object1 . ?subject <http://www.geonames.org/ontology#alternateName> "Koninklijk Greenwich Observatorium"@nl .}
+SELECT ?subject ?object1 WHERE {?subject <http://www.geonames.org/ontology#locationMap> ?object1 . ?subject <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "32.98333" .}
+SELECT ?subject ?object1 WHERE {?subject <http://www.geonames.org/ontology#locationMap> ?object1 . ?subject <http://www.w3.org/2003/01/geo/wgs84_pos#long> "49.13333" .}
+SELECT ?subject ?object1 WHERE {?subject <http://www.geonames.org/ontology#wikipediaArticle> ?object1 . ?subject <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> "http://sws.geonames.org/4228732/about.rdf" .}
+SELECT ?subject ?object1 WHERE {?subject <http://www.geonames.org/ontology#parentADM2> ?object1 . ?subject <http://www.geonames.org/ontology#parentADM1> <http://sws.geonames.org/89341/> .}
+SELECT ?subject ?object1 WHERE {?subject <http://www.geonames.org/ontology#parentFeature> ?object1 . ?subject <http://www.geonames.org/ontology#nearbyFeatures> <http://sws.geonames.org/7577033/nearby.rdf> .}
+SELECT ?subject ?object1 WHERE {?subject <http://www.w3.org/2003/01/geo/wgs84_pos#long> ?object1 . ?subject <http://www.geonames.org/ontology#wikipediaArticle> <http://en.wikipedia.org/wiki/Royal_Observatory%2C_Greenwich> .}
+SELECT ?subject ?object1 WHERE {?subject <http://www.geonames.org/ontology#parentADM2> ?object1 . ?subject <http://www.geonames.org/ontology#parentCountry> <http://sws.geonames.org/99237/> .}
+SELECT ?subject ?object1 WHERE {?subject <http://www.geonames.org/ontology#wikipediaArticle> ?object1 . ?subject <http://www.geonames.org/ontology#featureCode> <http://www.geonames.org/ontology#S.TOWR> .}
+SELECT ?subject ?object1 WHERE {?subject <http://www.geonames.org/ontology#neighbouringFeatures> ?object1 . ?subject <http://www.geonames.org/ontology#wikipediaArticle> <http://pl.wikipedia.org/wiki/Arabia_Saudyjska> .}
+SELECT ?subject ?object1 WHERE {?subject <http://www.geonames.org/ontology#parentADM3> ?object1 . ?subject <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> "http://sws.geonames.org/1119056/about.rdf" .}
+SELECT ?subject ?object1 WHERE {?subject <http://xmlns.com/foaf/0.1/page> ?object1 . ?subject <http://www.geonames.org/ontology#locationMap> <http://www.geonames.org/3033623/arrondissement-de-belley.html> .}
+SELECT ?subject ?object1 WHERE {?subject <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> ?object1 . ?subject <http://www.geonames.org/ontology#name> "K\u016Bh-e Zardar" .}
+SELECT ?subject ?object1 WHERE {?subject <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> ?object1 . ?subject <http://www.geonames.org/ontology#parentADM1> <http://sws.geonames.org/127082/> .}
+SELECT ?subject ?object1 WHERE {?subject <http://www.geonames.org/ontology#featureClass> ?object1 . ?subject <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> "http://sws.geonames.org/100049/about.rdf" .}
+SELECT ?subject ?object1 WHERE {?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?object1 . ?subject <http://www.geonames.org/ontology#name> "K\u016Bh-e Zardar" .}
+SELECT ?subject ?object1 WHERE {?subject <http://www.geonames.org/ontology#alternateName> ?object1 . ?subject <http://www.geonames.org/ontology#alternateName> "\u1E28\u0101j\u012B \u1E28asan"@ar .}
+SELECT ?subject ?object1 WHERE {?subject <http://www.geonames.org/ontology#neighbouringFeatures> ?object1 . ?subject <http://www.geonames.org/ontology#wikipediaArticle> <http://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A6%E3%82%B8%E3%82%A2%E3%83%A9%E3%83%93%E3%82%A2> .}
+SELECT ?subject ?object1 WHERE {?subject <http://www.geonames.org/ontology#parentFeature> ?object1 . ?subject <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "523" .}
+SELECT ?subject ?object1 WHERE {?subject <http://www.geonames.org/ontology#featureClass> ?object1 . ?subject <http://www.geonames.org/ontology#parentCountry> <http://sws.geonames.org/99237/> .}
+SELECT ?subject ?object1 WHERE {?subject <http://www.geonames.org/ontology#name> ?object1 . ?subject <http://www.geonames.org/ontology#parentADM1> <http://sws.geonames.org/7602005/> .}
+SELECT ?subject ?object1 WHERE {?subject <http://www.geonames.org/ontology#childrenFeatures> ?object1 . ?subject <http://www.geonames.org/ontology#name> "Qa\u1E11\u0101\u2019 Ab\u016B al Kha\u015F\u012Bb" .}
+SELECT ?subject ?object1 WHERE {?subject <http://www.w3.org/2003/01/geo/wgs84_pos#long> ?object1 . ?subject <http://www.geonames.org/ontology#alternateName> "Observatoire royal de Greenwich"@fr .}
+SELECT ?subject ?object1 WHERE {?subject <http://www.geonames.org/ontology#childrenFeatures> ?object1 . ?subject <http://www.geonames.org/ontology#parentCountry> <http://sws.geonames.org/99237/> .}

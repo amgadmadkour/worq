@@ -1,0 +1,9 @@
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://www.geonames.org/ontology#parentFeature> ?object . ?object ?predicate2 <http://sws.geonames.org/130758/> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://www.geonames.org/ontology#parentFeature> ?object . ?object ?predicate2 <http://www.geonames.org/ontology#T> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://www.geonames.org/ontology#parentADM1> ?object . ?object ?predicate2 <http://www.geonames.org/ontology#A> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://www.geonames.org/ontology#parentADM2> ?object . ?object ?predicate2 <http://www.geonames.org/ontology#Feature> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://www.geonames.org/ontology#parentFeature> ?object . ?object ?predicate2 <http://www.geonames.org/ontology#Feature> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://www.geonames.org/ontology#parentFeature> ?object . ?object ?predicate2 <http://www.geonames.org/ontology#T.MT> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://www.geonames.org/ontology#parentADM3> ?object . ?object ?predicate2 <http://www.geonames.org/ontology#Feature> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://www.geonames.org/ontology#parentADM1> ?object . ?object ?predicate2 <http://www.geonames.org/ontology#Feature> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://www.geonames.org/ontology#parentFeature> ?object . ?object ?predicate2 "IR" .}

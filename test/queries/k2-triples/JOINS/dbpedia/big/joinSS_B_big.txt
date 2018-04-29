@@ -1,0 +1,3 @@
+SELECT ?subject ?object1 WHERE {?subject <http://dbpedia.org/ontology/Lake/areaOfCatchment> ?object1 . ?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .}
+SELECT ?subject ?object1 WHERE {?subject <http://dbpedia.org/property/recorded> ?object1 . ?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .}
+SELECT ?subject ?object1 WHERE {?subject <http://dbpedia.org/property/spanIn> ?object1 . ?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .}

@@ -1,0 +1,500 @@
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/itssa/GrunertHKKW06> ?predicate <http://bibsonomy.org/uri/bibtexkey/journals/itssa/GrunertHKKW06/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/lisp/Monniaux09> ?predicate "DBLP journals/lisp/Monniaux09"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/jqis/WangHFCL11> ?predicate <http://dblp.l3s.de/d2r/resource/authors/Xiao-Dong_Chen> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/jct/Kahn84> ?predicate <http://dblp.rkbexplorer.com/id/journals/jct/Kahn84> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/mscs/SpittersGNW07> ?predicate <http://bibsonomy.org/uri/bibtexkey/journals/mscs/SpittersGNW07/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/aspdac/GlasserC95> ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/aspdac/GlasserC95/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icann/Gorodnichy96> ?predicate "DOI 10.1007%2F3-540-61510-5%5F81"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/sigcse/Gal-Ezer06> ?predicate <http://dx.doi.org/10.1145%2F1189136.1189152> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/Yuanqiang_Huang> ?predicate <http://dblp.l3s.de/Authors/Yuanqiang+Huang> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/siamcomp/ChorN99> ?predicate <http://dx.doi.org/10.1137%2FS0097539795294979> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/Masaru_Fukushige> ?predicate "Masaru Fukushige" .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/kybernetes/Fidelman09> ?predicate "DBLP journals/kybernetes/Fidelman09"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/reference/db/X09fl> ?predicate "Clinical Classifications."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/iticse/SaeedYS10> ?predicate <http://dx.doi.org/10.1145%2F1822090.1822130> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/isca/WilsonOR96> ?predicate <http://dblp.rkbexplorer.com/id/conf/isca/WilsonOR96> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/iccv/WolfS03> ?predicate <http://doi.ieeecomputersociety.org/10.1109/ICCV.2003.1238369> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/apin/DaybelgeC11> ?predicate "A ranking method for example based machine translation results by learning from user feedback."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/eswa/LinG08> ?predicate "DOI 10.1016%2Fj.eswa.2007.04.016"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/simpra/BomposN11> ?predicate <http://dblp.l3s.de/d2r/resource/authors/Pantelis_G._Nikolakopoulos> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/C._Uhrik> ?predicate <http://dblp.l3s.de/Authors/C.+Uhrik> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/Marco_Tilgner> ?predicate <http://dblp.l3s.de/Authors/Marco+Tilgner> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/S._Reda> ?predicate <http://www.bibsonomy.org/uri/author/S.+Reda> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/ialp/RuangrajitpakornBSB10> ?predicate <http://dx.doi.org/10.1109/IALP.2010.17> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/fuin/BogdanovicCPIS99> ?predicate "Traps, Cores, Extensions and Subdirect Decompositions of Unary Algebras."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/tcs/Greibach78> ?predicate "175-221"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/mobicom/0002SC07> ?predicate "Trade-offs between mobility and density for coverage in wireless sensor networks."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/networks/AverbakhB03> ?predicate "An improved algorithm for the minmax regret median problem on a tree."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/G._Audisio> ?predicate "G. Audisio" .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/Asit_K._Chandra> ?predicate "Asit K. Chandra" .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/Robert_M._Losee> ?predicate <http://dblp.l3s.de/Authors/Robert+M.+Losee> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/pldi/PallasU88> ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/pldi/PallasU88/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/procomet/UseltonS94> ?predicate <http://dblp.uni-trier.de/rec/bibtex/conf/procomet/UseltonS94> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/Chenxi_Lu> ?predicate <http://www.bibsonomy.org/uri/author/Chenxi+Lu> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/wiamis/ChenV09> ?predicate "DOI 10.1109%2FWIAMIS.2009.5031437"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/isipta/KenneyS99> ?predicate <http://dblp.uni-trier.de/db/conf/isipta/isipta1999.html#KenneyS99> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/esi/BeranP08> ?predicate "DBLP journals/esi/BeranP08"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/pdcat/SongYS04> ?predicate <http://link.springer.de/link/service/series/0558/bibs/3320/33200372.htm> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/ecra/QuahL02> ?predicate "DOI 10.1016%2FS1567-4223%2802%2900019-4"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/talg/AulettaPPP07> ?predicate <http://dblp.uni-trier.de/rec/bibtex/journals/talg/AulettaPPP07> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/software/FernstromNO92> ?predicate <http://dblp.rkbexplorer.com/id/journals/software/FernstromNO92> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/fc/ParnoKP06> ?predicate "Phoolproof Phishing Prevention."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/sac/KolesnikovA07> ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/sac/KolesnikovA07/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/computer/PantelPH05> ?predicate <http://doi.ieeecomputersociety.org/10.1109/MC.2005.406> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/tit/PucarS98> ?predicate "DBLP journals/tit/PucarS98"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/aspdac/Chakradhar04> ?predicate "DOI 10.1145%2F1015090.1015172"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/edutainment/SteinerKA09> ?predicate <http://dx.doi.org/10.1007%2F978-3-642-03364-3%5F20> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/Harry_C._Gundrum> ?predicate <http://dblp.l3s.de/Authors/Harry+C.+Gundrum> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/ifip7/Mironosetskii74> ?predicate <http://dblp.rkbexplorer.com/id/conf/ifip7/Mironosetskii74> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/stoc/MoshkovitzR06> ?predicate <http://doi.acm.org/10.1145/1132516.1132520> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/cbms/MeadowsACSPVW01> ?predicate <http://dblp.l3s.de/d2r/resource/authors/Carolyn_Pifer> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/ijisp/Yadav10> ?predicate "A Six-View Perspective Framework for System Security: Issues, Risks, and Requirements."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/ijcai/Salzberg85> ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/ijcai/Salzberg85/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/cis/XuLW09> ?predicate <http://dblp.uni-trier.de/rec/bibtex/conf/cis/XuLW09> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/vldb/BuckleyS83> ?predicate <http://dblp.uni-trier.de/rec/bibtex/conf/vldb/BuckleyS83> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/dlog/GalinskiKM05> ?predicate "Development of a server to support the formal semantic web query language OWL-QL."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/eor/PandaKMM08> ?predicate <http://dx.doi.org/10.1016/j.ejor.2007.04.009> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/dagstuhl/HeringsJMTS07> ?predicate "DBLP conf/dagstuhl/HeringsJMTS07"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/eccv/PangHJ08> ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/eccv/PangHJ08/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/acisp/NakanishiKHF05> ?predicate <http://dblp.uni-trier.de/db/conf/acisp/acisp2005.html#NakanishiKHF05> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/dm/DuffusPR81> ?predicate <http://bibsonomy.org/uri/bibtexkey/journals/dm/DuffusPR81/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/dm/Andres09a> ?predicate <http://dx.doi.org/10.1016/j.disc.2008.03.022> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/acm/Hirshfield87> ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/acm/Hirshfield87/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/quantumcomm/2009> ?predicate "DOI 10.1007%2F978-3-642-11731-2"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/iwann/PicoGAL95> ?predicate <http://dblp.l3s.de/d2r/resource/authors/D._Corredor_Lacha> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/dmgt/ImrichK07> ?predicate <http://dblp.uni-trier.de/rec/bibtex/journals/dmgt/ImrichK07> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icec/NakaoCTKN96> ?predicate <http://dblp.rkbexplorer.com/id/conf/icec/NakaoCTKN96> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/ce/Hubscher-YoungerN03> ?predicate <http://bibsonomy.org/uri/bibtexkey/journals/ce/Hubscher-YoungerN03/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/scalespace/KuijperO05> ?predicate <http://dblp.uni-trier.de/rec/bibtex/conf/scalespace/KuijperO05> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/Yusi_Teng> ?predicate <http://www.bibsonomy.org/uri/author/Yusi+Teng> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/fgcn/FangWHLL07> ?predicate "DOI 10.1109%2FFGCN.2007.64"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/dss/ParkSC00> ?predicate "Quality of service provision in noncooperative networks with diverse user requirements."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/iicai/DuttaH05> ?predicate <http://dblp.uni-trier.de/rec/bibtex/conf/iicai/DuttaH05> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/ccs/SistlaVZB08> ?predicate "DOI 10.1145%2F1368310.1368327"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/complexity/JanutkaM10> ?predicate <http://dblp.l3s.de/d2r/resource/authors/Piotr_Magnuszewski> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icsm/MerloAPR04> ?predicate <http://dblp.uni-trier.de/db/conf/icsm/icsm2004.html#MerloAPR04> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/dm/HenningH03> ?predicate "DBLP journals/dm/HenningH03"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/biocomp/RinaldiMB08> ?predicate <http://dblp.uni-trier.de/rec/bibtex/conf/biocomp/RinaldiMB08> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/uist/DeyAPW97> ?predicate <http://dblp.rkbexplorer.com/id/conf/uist/DeyAPW97> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/joc/LindellP09> ?predicate "DOI 10.1007%2Fs00145-008-9036-8"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/Christoph_Lengger> ?predicate "Christoph Lengger" .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/sdm/MinatoU10> ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/sdm/MinatoU10/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/Mustafa_%C3%87oban> ?predicate "Mustafa \u00C7oban" .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/ieicet/Kuzuhara10> ?predicate "DBLP journals/ieicet/Kuzuhara10"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/sLogica/Farulewski05> ?predicate <http://dblp.rkbexplorer.com/id/journals/sLogica/Farulewski05> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/tvcg/HuangC05> ?predicate "DBLP journals/tvcg/HuangC05"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/tcs/BouajjaniH99> ?predicate <http://dx.doi.org/10.1016/S0304-3975(99)00033-X> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/aose/SantosRB07> ?predicate <http://dblp.uni-trier.de/db/conf/aose/aose2007.html#SantosRB07> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/ncm/LiuG09> ?predicate "DOI 10.1109%2FNCM.2009.311"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/adma/LiLL10> ?predicate <http://dblp.uni-trier.de/db/conf/adma/adma2010-2.html#LiLL10> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/Mariele_Hagen> ?predicate "Mariele Hagen" .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/corr/abs-1006-1282> ?predicate <http://dblp.uni-trier.de/db/journals/corr/corr1006.html#abs-1006-1282> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/sopr/Dalcher09> ?predicate "DBLP journals/sopr/Dalcher09"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/cacm/ErikssonBB06> ?predicate <http://bibsonomy.org/uri/bibtexkey/journals/cacm/ErikssonBB06/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/gpc/WengHLL10> ?predicate <http://dblp.uni-trier.de/rec/bibtex/conf/gpc/WengHLL10> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/taslp/NestaWJ11> ?predicate <http://bibsonomy.org/uri/bibtexkey/journals/taslp/NestaWJ11/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/globecom/MuhammadMCWCT10> ?predicate <http://dblp.l3s.de/d2r/resource/authors/Ajmal_Muhammad> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/chi/SchnadelbachKFFICFBGR02> ?predicate "DBLP conf/chi/SchnadelbachKFFICFBGR02"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/webnet/PaloPK99> ?predicate <http://dblp.l3s.de/d2r/resource/authors/Mikko_Kerttula> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/iam/BennettDB90> ?predicate <http://dblp.l3s.de/d2r/resource/authors/Samuel_Betty> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/fmcad/CimattiRS04> ?predicate <http://dx.doi.org/10.1007%2F978-3-540-30494-4%5F18> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/iri/Song10c> ?predicate "DOI 10.1109%2FIRI.2010.5558898"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/pik/KochG05> ?predicate "DBLP journals/pik/KochG05"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/Valentin_Polishchuk> ?predicate <http://dblp.l3s.de/Authors/Valentin+Polishchuk> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/sigir/HannaRR09> ?predicate <http://dblp.uni-trier.de/db/conf/sigir/sigir2009.html#HannaRR09> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/infocom/YaoWLL07> ?predicate "DBLP conf/infocom/YaoWLL07"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/Heng_Xue> ?predicate <http://dblp.l3s.de/Authors/Heng+Xue> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/scalespace/HontaniD99> ?predicate "DOI 10.1007%2F3-540-48236-9%5F47"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/dam/BrunettaMT00> ?predicate <http://dblp.uni-trier.de/rec/bibtex/journals/dam/BrunettaMT00> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/ijcai/DenneheuvelK91> ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/ijcai/DenneheuvelK91/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/Ilias_Mavridis> ?predicate <http://dblp.l3s.de/Authors/Ilias+Mavridis> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/oclc/Fox10b> ?predicate <http://dx.doi.org/10.1108/10650751011073599> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/J._A._Aten> ?predicate "J. A. Aten" .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/tcs/SgarbasFK03> ?predicate <http://bibsonomy.org/uri/bibtexkey/journals/tcs/SgarbasFK03/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/Vlad_Manilici> ?predicate <http://www.bibsonomy.org/uri/author/Vlad+Manilici> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/dexaw/BressanZ05> ?predicate "DBLP conf/dexaw/BressanZ05"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/asap/ChanGCWV06> ?predicate <http://dblp.uni-trier.de/rec/bibtex/conf/asap/ChanGCWV06> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/logcom/Belohlavek02> ?predicate <http://dblp.uni-trier.de/db/journals/logcom/logcom12.html#Belohlavek02> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icassp/ChenZT09> ?predicate <http://dblp.uni-trier.de/rec/bibtex/conf/icassp/ChenZT09> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/Charles_Zhang> ?predicate "Charles Zhang" .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icml/DietterichF95> ?predicate <http://dblp.rkbexplorer.com/id/conf/icml/DietterichF95> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/reference/db/X09um> ?predicate "Faceted Classifications."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/arscom/FaroT01> ?predicate "DBLP journals/arscom/FaroT01"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/ifip8-1/MehlerC01> ?predicate <http://dblp.l3s.de/d2r/resource/conferences/ifip8-1> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/annals/Kita11b> ?predicate <http://dblp.uni-trier.de/rec/bibtex/journals/annals/Kita11b> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/webist/LuYD10> ?predicate "DBLP conf/webist/LuYD10"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/iv/FilliesS02> ?predicate <http://dblp.rkbexplorer.com/id/conf/iv/FilliesS02> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/Shanli_Chen> ?predicate "Shanli Chen" .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/nips/KuhPR91> ?predicate "Incrementally Learning Time-Varying Half Planes."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/cor/ZachariadisK10> ?predicate <http://dblp.rkbexplorer.com/id/journals/cor/ZachariadisK10> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/tse/BellBD77> ?predicate <http://dblp.uni-trier.de/rec/bibtex/journals/tse/BellBD77> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icde/ChenP10> ?predicate "Supporting top-K keyword search in XML databases."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/jss/HeLW08> ?predicate <http://dblp.rkbexplorer.com/id/journals/jss/HeLW08> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/Oscar_Rojo> ?predicate <http://dblp.l3s.de/Authors/Oscar+Rojo> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/miccai/SunPGF06> ?predicate <http://dx.doi.org/10.1007%2F11866763%5F70> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/Mi-Sook_Lim> ?predicate "Mi-Sook Lim" .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/webi/VoutsadakisSHB08> ?predicate <http://dblp.rkbexplorer.com/id/conf/webi/VoutsadakisSHB08> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/comcom/AhmedBO01> ?predicate "On a congestion management scheme for high speed networks using aggregated large deviations principle."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/scheduling/NissenH06> ?predicate "Duty-period-based network model for crew rescheduling in European airlines."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/iandc/LeviM04> ?predicate <http://dblp.uni-trier.de/db/journals/iandc/iandc188.html#LeviM04> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/cn/EsnaashariM10> ?predicate "DOI 10.1016%2Fj.comnet.2010.03.014"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/jbcb/LiPHL07> ?predicate "DOI 10.1142%2FS0219720007002746"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/S._Chamanian> ?predicate <http://dblp.l3s.de/Authors/S.+Chamanian> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/bioinformatics/XiaZSS09> ?predicate "MICAlign: a sequence-to-structure alignment tool integrating multiple sources of information in conditional random fields."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/iclp/CumboFGL04> ?predicate "DBLP conf/iclp/CumboFGL04"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/interact/HakanssonLH03> ?predicate "Like Solving a Giant Puzzle: Supporting Collaborative Scheduling at a Film Festival."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/iceei/PurwiyantiNH11> ?predicate <http://dx.doi.org/10.1109%2FICEEI.2011.6021788> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/jdi/Erickson02> ?predicate <http://bibsonomy.org/uri/bibtexkey/journals/jdi/Erickson02/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/dm/DrakeRW99> ?predicate "DOI 10.1016%2FS0012-365X%2898%2900119-8"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/ejc/GreenhillHW08> ?predicate "Expansion properties of a random regular graph after random vertex deletions."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/iwlcs/Booker05> ?predicate <http://dblp.rkbexplorer.com/id/conf/iwlcs/Booker05> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/mr/KumarR03> ?predicate "DOI 10.1016%2FS0026-2714%2803%2900140-9"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/jmiv/YinB97> ?predicate <http://dx.doi.org/10.1023/A:1008214007262> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/ercim/KlonowskiKK09> ?predicate <http://dblp.rkbexplorer.com/id/journals/ercim/KlonowskiKK09> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/sc/ChenZA06> ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/sc/ChenZA06/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/iser/KrupaDGMMSLG02> ?predicate "Towards Semi-autonomy in Laparoscopic Surgery: First Live Experiments."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/dasfaa/MonteiroAZS04> ?predicate "DOI 10.1007%2F978-3-540-24571-1%5F23"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/pr/SheuB92> ?predicate <http://dblp.rkbexplorer.com/id/journals/pr/SheuB92> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/wer/FernandezP06> ?predicate <http://dblp.uni-trier.de/rec/bibtex/conf/wer/FernandezP06> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/N._Sghaier> ?predicate <http://dblp.l3s.de/Authors/N.+Sghaier> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/kes/HaKZB97> ?predicate "DOI 10.1109%2FKES.1997.616852"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/jct/LaflammeTPS11> ?predicate "DOI 10.1016%2Fj.jcta.2009.10.007"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/globecom/LiL06> ?predicate "DBLP conf/globecom/LiL06"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/Sastry_Konduri> ?predicate <http://www.bibsonomy.org/uri/author/Sastry+Konduri> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/lics/Pitassi11> ?predicate <http://dblp.uni-trier.de/rec/bibtex/conf/lics/Pitassi11> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/vc/TrebienO09> ?predicate <http://dblp.l3s.de/d2r/resource/authors/Fernando_Trebien> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/colt/Hutter03> ?predicate <http://dblp.uni-trier.de/db/conf/colt/colt2003.html#Hutter03> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/pami/Favata01> ?predicate <http://bibsonomy.org/uri/bibtexkey/journals/pami/Favata01/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/jql/MetinK11> ?predicate "DBLP journals/jql/MetinK11"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/sdmw/BlancoFTJ10> ?predicate <http://dblp.rkbexplorer.com/id/conf/sdmw/BlancoFTJ10> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/jcm/GhasemiS07> ?predicate <http://bibsonomy.org/uri/bibtexkey/journals/jcm/GhasemiS07/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/aois/SchmitzLJ06> ?predicate <http://dblp.uni-trier.de/rec/bibtex/conf/aois/SchmitzLJ06> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/ieeesp/Amin03> ?predicate <http://dblp.uni-trier.de/rec/bibtex/journals/ieeesp/Amin03> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/aml/CampagnoloO08> ?predicate "The elementary computable functions over the real numbers: applying two new techniques."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icdcs/LumezanuBA08> ?predicate <http://dblp.uni-trier.de/db/conf/icdcs/icdcs2008.html#LumezanuBA08> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/ijsm/LiGB07> ?predicate <http://dblp.rkbexplorer.com/id/journals/ijsm/LiGB07> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/ipps/CongCWKMNM10> ?predicate <http://dx.doi.org/10.1109%2FIPDPSW.2010.5470771> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/podc/GoldreichJS11> ?predicate <http://doi.acm.org/10.1145/1993806.1993863> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/dcsp/DupuisH95> ?predicate <http://dblp.rkbexplorer.com/id/conf/dcsp/DupuisH95> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/ispd/SaxenaMCK03> ?predicate <http://dblp.l3s.de/d2r/resource/authors/Pasquale_Cocchini> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/esoa/NowostawskiP06> ?predicate "DOI 10.1007%2F978-3-540-69868-5%5F12"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/fccm/YunSS97> ?predicate <http://dblp.rkbexplorer.com/id/conf/fccm/YunSS97> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icann/Kokcharov97> ?predicate <http://dx.doi.org/10.1007/BFb0020257> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/ijbc/TangC03> ?predicate <http://dx.doi.org/10.1142%2FS0218127403007011> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/btw/KaferM93> ?predicate <http://dblp.rkbexplorer.com/id/conf/btw/KaferM93> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icmla/BarbuLL06> ?predicate "DBLP conf/icmla/BarbuLL06"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/comcom/Nokes78> ?predicate "DOI 10.1016%2F0140-3664%2878%2990110-X"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/gvd/HornK92> ?predicate "DBLP conf/gvd/HornK92"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/interspeech/SuCL91> ?predicate <http://dblp.uni-trier.de/rec/bibtex/conf/interspeech/SuCL91> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/tsp/LvBW11> ?predicate <http://dblp.rkbexplorer.com/id/journals/tsp/LvBW11> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/sigmod/FrewD97> ?predicate "DBLP journals/sigmod/FrewD97"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/aamas/GarlandA04> ?predicate <http://bibsonomy.org/uri/bibtexkey/journals/aamas/GarlandA04/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/P._E._Oakey> ?predicate <http://dblp.l3s.de/Authors/P.+E.+Oakey> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/insk/Pierer94> ?predicate "DBLP journals/insk/Pierer94"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/plc/AgarwalW05> ?predicate "DBLP conf/plc/AgarwalW05"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/cmpb/WolkewitzS11> ?predicate <http://dblp.uni-trier.de/db/journals/cmpb/cmpb104.html#WolkewitzS11> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/dexaw/BichlerK99> ?predicate <http://dblp.uni-trier.de/db/conf/dexaw/dexaw99.html#BichlerK99> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/ki/BeetzBW07> ?predicate <http://dx.doi.org/10.1007/978-3-540-74565-5_3> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/mva/DonoserWB05> ?predicate "A New Automated Microtomy Concept for 3D Paper Structure Analysis."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/cascon/ChechikD01> ?predicate "Lightweight reasoning about program correctness."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/Diego_J._D%C3%ADaz> ?predicate <http://dblp.l3s.de/Authors/Diego+J.+D%C3%ADaz> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/cc/Bloch94> ?predicate "DBLP journals/cc/Bloch94"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/miccai/KoikkalainenL03> ?predicate <http://dx.doi.org/10.1007%2F978-3-540-39899-8%5F12> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/imis/HuangCWG11> ?predicate <http://dx.doi.org/10.1109%2FIMIS.2011.97> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/B._J._Choi> ?predicate <http://dblp.l3s.de/Authors/B.+J.+Choi> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/Vishal_Kachroo> ?predicate <http://dblp.l3s.de/Authors/Vishal+Kachroo> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/globecom/LiABS06> ?predicate <http://dx.doi.org/10.1109%2FGLOCOM.2006.807> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/biocomp/FaroneFKKQS09> ?predicate <http://dblp.uni-trier.de/db/conf/biocomp/biocomp2009.html#FaroneFKKQS09> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/Phil_Yonghui_Wang> ?predicate <http://dblp.l3s.de/Authors/Phil+Yonghui+Wang> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icpr/SeoH00> ?predicate <http://dblp.rkbexplorer.com/id/conf/icpr/SeoH00> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/pr/HotiH04> ?predicate <http://dblp.l3s.de/d2r/resource/authors/Fabian_Hoti> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/iscas/ChenZM10> ?predicate <http://dx.doi.org/10.1109%2FISCAS.2010.5537121> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/jasis/Himma03> ?predicate <http://dblp.uni-trier.de/rec/bibtex/journals/jasis/Himma03> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/Jo%C3%A3o_Carlos_Freitas> ?predicate <http://dblp.l3s.de/Authors/Jo%C3%A3o+Carlos+Freitas> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/anss/ZerfiridisK03> ?predicate <http://dx.doi.org/10.1109%2FSIMSYM.2003.1192828> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/comcom/PooZN04> ?predicate "Special issue for IEEE International Conference on Networks (ICON 2002), Singapore."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/Scott_Crosby> ?predicate <http://www.bibsonomy.org/uri/author/Scott+Crosby> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/Xavier_Estivill> ?predicate "Xavier Estivill" .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/jcphy/MataB11> ?predicate "A numerical scheme for particle-laden thin film flow in two dimensions."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/cviu/WagnerLD99> ?predicate "DOI 10.1006%2Fcviu.1998.0739"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/ieicet/WengZP07> ?predicate <http://dblp.l3s.de/d2r/resource/authors/ShaoWei_Weng> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/lacl/YoshinakaK05> ?predicate <http://dx.doi.org/10.1007%2F11422532%5F22> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/ibmrd/SauerC75> ?predicate <http://dblp.rkbexplorer.com/id/journals/ibmrd/SauerC75> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/ijseke/Huhns01> ?predicate <http://dx.doi.org/10.1142/S0218194001000530> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icsm/ZhangCZ06> ?predicate "DBLP conf/icsm/ZhangCZ06"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/qic/Schlingemann04> ?predicate "DBLP journals/qic/Schlingemann04"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/Jos%C3%A9_B._Arag%C3%A3o_Jr.> ?predicate <http://dblp.l3s.de/Authors/Jos%C3%A9+B.+Arag%C3%A3o+Jr.> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/jcisd/Jorgensen06> ?predicate <http://dblp.uni-trier.de/db/journals/jcisd/jcisd46.html#Jorgensen06> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icmlc/FerngT11> ?predicate <http://dblp.l3s.de/d2r/resource/authors/Robby_Tendean> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/middleware/CostaZG03> ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/middleware/CostaZG03/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/gd/CibulkaKMSV08> ?predicate <http://dblp.uni-trier.de/rec/bibtex/conf/gd/CibulkaKMSV08> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/csfw/MeydenS04> ?predicate <http://dx.doi.org/10.1109%2FCSFW.2004.19> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/concurrency/CaiEHKSW06> ?predicate <http://bibsonomy.org/uri/bibtexkey/journals/concurrency/CaiEHKSW06/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/ieicet/KasugaTI06> ?predicate "DOI 10.1093%2Fietele%2Fe89-c.8.1224"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/services/KoskelaJKKY09> ?predicate <http://doi.ieeecomputersociety.org/10.1109/SERVICES-I.2009.33> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/caise/MaoBPF09> ?predicate <http://dblp.uni-trier.de/db/conf/caise/caise2009.html#MaoBPF09> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icml/NelsonC07> ?predicate <http://dx.doi.org/10.1145%2F1273496.1273581> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/its/MatsudaKRTSCK10> ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/its/MatsudaKRTSCK10/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/Ludi_Akue> ?predicate "Ludi Akue" .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/Jinping_Li> ?predicate "Jinping Li" .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/pami/HeCXC10> ?predicate <http://doi.ieeecomputersociety.org/10.1109/TPAMI.2010.15> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/reference/portal/Stewart07> ?predicate <http://dblp.rkbexplorer.com/id/reference/portal/Stewart07> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/tcs/Albers98> ?predicate <http://bibsonomy.org/uri/bibtexkey/journals/tcs/Albers98/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/csedu/GregoriadesPP09> ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/csedu/GregoriadesPP09/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/jiis/Kiringa09> ?predicate <http://dx.doi.org/10.1007/s10844-007-0050-3> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/grc/QadirFN07> ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/grc/QadirFN07/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/Wilfred_Ndifon> ?predicate <http://www.bibsonomy.org/uri/author/Wilfred+Ndifon> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/csl/LamelGA02> ?predicate <http://dblp.uni-trier.de/db/journals/csl/csl16.html#LamelGA02> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/ictai/SuZM00> ?predicate <http://doi.ieeecomputersociety.org/10.1109/TAI.2000.889879> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/caepia/RodriguezPV07> ?predicate "DOI 10.1007%2F978-3-540-75271-4%5F9"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icip/JiaBC05> ?predicate "DOI 10.1109%2FICIP.2005.1530183"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/acisp/YuW09> ?predicate "SHA-256 .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/ijfcs/Sun00> ?predicate "On the Dealer's Randomness Required in Perfect Secret Sharing Schemes with Access Structures of Constant Rank."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/isda/LepagnotNOS09> ?predicate <http://dblp.uni-trier.de/rec/bibtex/conf/isda/LepagnotNOS09> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/snpd/HuL07a> ?predicate "Ring Blind Signature Scheme."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icip/SullivanO94> ?predicate "DBLP conf/icip/SullivanO94"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/jsac/JinSKP10> ?predicate "DBLP journals/jsac/JinSKP10"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/classification/Sclove02> ?predicate <http://bibsonomy.org/uri/bibtexkey/journals/classification/Sclove02/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/ijisp/AlhaqbaniF10> ?predicate "Probabilistic Inference Channel Detection and Restriction Applied to Patients' Privacy Assurance."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/tlsdkcs/ChongGKL11> ?predicate <http://dblp.uni-trier.de/rec/bibtex/journals/tlsdkcs/ChongGKL11> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/aughuman/IshiguroMMR10> ?predicate "Aided eyes: eye activity sensing for daily life."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/fuin/BockenhauerHS11> ?predicate <http://dblp.uni-trier.de/db/journals/fuin/fuin110.html#BockenhauerHS11> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/ijcm/ZhangX11> ?predicate "A new infeasible interior-point algorithm with full step for linear optimization based on a simple function."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/taco/LongMMM08> ?predicate <http://doi.acm.org/10.1145/1400112.1400114> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/mc/BeiglGS01> ?predicate <http://dblp.uni-trier.de/db/conf/mc/mc2001.html#BeiglGS01> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/endm/SousaSMM10> ?predicate <http://dblp.uni-trier.de/db/journals/endm/endm36.html#SousaSMM10> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/aspdac/MiyaokaTYO04> ?predicate <http://dblp.uni-trier.de/rec/bibtex/conf/aspdac/MiyaokaTYO04> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/M._Teresa_Cabr%C3%A9> ?predicate <http://dblp.l3s.de/Authors/M.+Teresa+Cabr%C3%A9> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/async/KondratyevKCLY97> ?predicate "DBLP conf/async/KondratyevKCLY97"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/entcs/Fernando06> ?predicate "DOI 10.1016%2Fj.entcs.2006.05.035"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/cacm/Cohen08a> ?predicate "DOI 10.1145%2F1342327.1342332"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/Alejandro_A._Valenzuela> ?predicate <http://dblp.l3s.de/Authors/Alejandro+A.+Valenzuela> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/tomacs/JinC11> ?predicate <http://dblp.rkbexplorer.com/id/journals/tomacs/JinC11> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/mva/HayakawaWYK90> ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/mva/HayakawaWYK90/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/wsc/Kemper07> ?predicate <http://dblp.uni-trier.de/rec/bibtex/conf/wsc/Kemper07> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/agtive/HellerJ03a> ?predicate <http://dblp.uni-trier.de/rec/bibtex/conf/agtive/HellerJ03a> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/corr/abs-1001-3491> ?predicate <http://dblp.l3s.de/d2r/resource/authors/P._R._Sujin> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/ecbs/NagayamaNFT99> ?predicate "Object-Oriented Model, Real-time Switching System, Computer and Telephony Integration (CTI), Voice over IP (VoIP)"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/isorc/SinghD05> ?predicate <http://dblp.rkbexplorer.com/id/conf/isorc/SinghD05> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/jancl/Fuhrmann93> ?predicate <http://dblp.uni-trier.de/db/journals/jancl/jancl3.html#Fuhrmann93> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/iscis/OzmenB06> ?predicate "DBLP conf/iscis/OzmenB06"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/jvis/NgKSHF10> ?predicate <http://dblp.l3s.de/d2r/resource/authors/G._J._Sheard> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/focs/Lloyd77> ?predicate <http://doi.ieeecomputersociety.org/10.1109/SFCS.1977.21> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icc/VargasST07> ?predicate "3835-3840"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/focm/CohenDD02> ?predicate <http://bibsonomy.org/uri/bibtexkey/journals/focm/CohenDD02/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/webi/WuMR04> ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/webi/WuMR04/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icpr/BariamisIMK04> ?predicate <http://dblp.uni-trier.de/rec/bibtex/conf/icpr/BariamisIMK04> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/Derek_McColl> ?predicate "Derek McColl" .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icccn/PereiraBDOP10> ?predicate "DOI 10.1109%2FICCCN.2010.5560156"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/twc/HwangKA08> ?predicate "5100-5107"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/anor/Creane02> ?predicate <http://dblp.l3s.de/d2r/resource/authors/Anthony_Creane> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/pakm/MishraRST02> ?predicate "DOI 10.1007%2F3-540-36277-0%5F52"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/isci/SidorovHGYCLD02> ?predicate <http://dblp.l3s.de/d2r/resource/authors/D._Gee> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/J%C3%A9r%C3%B4me_Ambroise> ?predicate <http://www.bibsonomy.org/uri/author/J%C3%A9r%C3%B4me+Ambroise> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/wicomm/DianatiTSN10a> ?predicate "DBLP journals/wicomm/DianatiTSN10a"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/soco/ChaturvediMSK03> ?predicate <http://bibsonomy.org/uri/bibtexkey/journals/soco/ChaturvediMSK03/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/opodis/2006> ?predicate <urn:isbn:3-540-49990-3> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/cbms/GlatardBO08> ?predicate <http://dblp.uni-trier.de/rec/bibtex/conf/cbms/GlatardBO08> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icann/YinN09> ?predicate <http://dblp.uni-trier.de/db/conf/icann/icann2009-1.html#YinN09> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/ijon/OkamotoF04> ?predicate "DBLP journals/ijon/OkamotoF04"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/Seongyun_Kim> ?predicate "Seongyun Kim" .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/computer/BoseC98> ?predicate <http://bibsonomy.org/uri/bibtexkey/journals/computer/BoseC98/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/tit/HirakawaW11> ?predicate <http://dx.doi.org/10.1109/TIT.2011.2158895> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/hicss/Mount99> ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/hicss/Mount99/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/ijcai/Steck11> ?predicate <http://dblp.uni-trier.de/db/conf/ijcai/ijcai2011.html#Steck11> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/iam/Yoon09> ?predicate "DBLP journals/iam/Yoon09"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/dagstuhl/Goseva-PopstojanovaT00> ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/dagstuhl/Goseva-PopstojanovaT00/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/fse/Wallen03> ?predicate <http://dx.doi.org/10.1007%2F978-3-540-39887-5%5F20> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/ichit/HanOSC09> ?predicate "CCD, PSD, calibration, disparity, motion capture"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/corr/abs-0912-3927> ?predicate <http://bibsonomy.org/uri/bibtexkey/journals/corr/abs-0912-3927/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/iui/CamarataDJG02> ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/iui/CamarataDJG02/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/kbs/CamurriIM94> ?predicate "DBLP journals/kbs/CamurriIM94"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/isbi/WenP02> ?predicate "Mapping 3D myocardial wall motion over the left ventricle in a breath-hold."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/is/CioccaOS12> ?predicate <http://dx.doi.org/10.1016/j.is.2011.09.009> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/Chia-Lung_Horng> ?predicate <http://dblp.l3s.de/Authors/Chia-Lung+Horng> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icmas/MehraC98> ?predicate <http://dblp.rkbexplorer.com/id/conf/icmas/MehraC98> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/kes/SeguraGML10> ?predicate <http://dblp.uni-trier.de/db/conf/kes/kes2010-1.html#SeguraGML10> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/jct/NeetilZ04> ?predicate "On sparse graphs with given colorings and homomorphisms."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/synthese/Lasersohn09> ?predicate <http://dblp.uni-trier.de/db/journals/synthese/synthese166.html#Lasersohn09> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/questa/Sudhesh10> ?predicate <http://bibsonomy.org/uri/bibtexkey/journals/questa/Sudhesh10/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/Hae_Kyung_Seong> ?predicate <http://www.bibsonomy.org/uri/author/Hae+Kyung+Seong> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/dna/GutierrezFAA07> ?predicate <http://dx.doi.org/10.1007%2F978-3-540-77962-9%5F22> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/Nina_Ort> ?predicate <http://dblp.l3s.de/Authors/Nina+Ort> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/corr/abs-1009-0806> ?predicate "A Quartic Kernel for Pathwidth-One Vertex Deletion"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/crypto/Theobald95> ?predicate <http://dx.doi.org/10.1007/3-540-44750-4_11> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/Amin_Habibi_Shahri> ?predicate "Amin Habibi Shahri" .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/ijcai/BrandtSS07> ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/ijcai/BrandtSS07/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/atal/ShiloniLFK10> ?predicate <http://dblp.uni-trier.de/db/conf/atal/aamas2010.html#ShiloniLFK10> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/ijufks/Laurent03> ?predicate <http://dx.doi.org/10.1142%2FS0218488503002259> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/hybrid/PetterssonL97> ?predicate <http://dblp.rkbexplorer.com/id/conf/hybrid/PetterssonL97> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/isr/ParthasarathyB98> ?predicate <http://dblp.uni-trier.de/db/journals/isr/isr9.html#ParthasarathyB98> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/queue/Schneier05> ?predicate <http://dx.doi.org/10.1145%2F1071713.1071729> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/cases/ZhongJ03> ?predicate "GUI, energy characterization, graphical user interface, handheld computers, low power, low power design"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/titb/Saranummi03> ?predicate "Editorial - IEEE Transactions on Information Technology in Biomedicine (T-ITB)."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/iscas/AzarmehrAJ10> ?predicate "DOI 10.1109%2FISCAS.2010.5537705"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/fse/RijmenRPV01> ?predicate <http://dblp.rkbexplorer.com/id/conf/fse/RijmenRPV01> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/jfr/Dooner03> ?predicate <http://dblp.uni-trier.de/rec/bibtex/journals/jfr/Dooner03> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icmi/SunYT00> ?predicate "Multi-level Human Tracking."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icwe/FonsGPP03> ?predicate <http://dx.doi.org/10.1007/3-540-45068-8_91> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/algorithmica/BeierV06> ?predicate <http://dblp.uni-trier.de/db/journals/algorithmica/algorithmica45.html#BeierV06> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/comcom/KumarS11> ?predicate <http://dblp.l3s.de/d2r/resource/authors/P._Arun_Raj_Kumar> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/Zhe-Yan_Piao> ?predicate <http://www.bibsonomy.org/uri/author/Zhe-Yan+Piao> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/Valent%C3%ADn_S%C3%A1nchez> ?predicate "Valent\u00EDn S\u00E1nchez" .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/ccl/1999> ?predicate "Constraints in Computational Logics: Theory and Applications, International Summer School, CCL'99 Gif-sur-Yvette, France, September 5-8, 1999, Revised Lectures"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/dgci/BaloghKLN02> ?predicate <http://dblp.rkbexplorer.com/id/conf/dgci/BaloghKLN02> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/jco/KuoF07> ?predicate <http://dx.doi.org/10.1007%2Fs10878-007-9066-4> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icdcsw/LuX05> ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/icdcsw/LuX05/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/jlp/BielovaDMNS09> ?predicate "Matching in security-by-contract for mobile code."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/ifip/Radai92> ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/ifip/Radai92/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icpr/LiH02> ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/icpr/LiH02/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/isaac/SakuraiZ96> ?predicate <http://dblp.rkbexplorer.com/id/conf/isaac/SakuraiZ96> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/expert/Klein09> ?predicate "Computational Modeling in Complex Multinational Domains."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/webi/SungKCS05> ?predicate <http://doi.ieeecomputersociety.org/10.1109/WI.2005.119> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icee/JiangYS10> ?predicate <http://dx.doi.org/10.1109%2FICEE.2010.25> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/Alison_Attrill> ?predicate <http://dblp.l3s.de/Authors/Alison+Attrill> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/tomacs/HsuD07> ?predicate "DOI 10.1145%2F1315575.1315576"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/crossroads/SilbermanIR10> ?predicate <http://dx.doi.org/10.1145%2F1869086.1869100> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/wob/Ribeiro-AlvesN04> ?predicate "Microarray pre-Analysis."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/atal/GuoMW03> ?predicate "Elicitation of user preferences for multi-attribute negotiation."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/Alexandre_Ulisses_Silva> ?predicate <http://www.bibsonomy.org/uri/author/Alexandre+Ulisses+Silva> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/tkdd/LuTNLW08> ?predicate "DBLP journals/tkdd/LuTNLW08"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/csse/AnderssonE08> ?predicate <http://dx.doi.org/10.1109%2FCSSE.2008.1425> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/ict/GopalakrishnanU10> ?predicate <http://dblp.uni-trier.de/rec/bibtex/conf/ict/GopalakrishnanU10> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/cmmr/WilkieSD07> ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/cmmr/WilkieSD07/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/Masahiro_Hoshaku> ?predicate <http://dblp.l3s.de/Authors/Masahiro+Hoshaku> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/joop/Riehle98> ?predicate "Simplifying Introductory Ada."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/eScience/WoodBSDW08> ?predicate <http://dblp.rkbexplorer.com/id/conf/eScience/WoodBSDW08> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/lcn/TjhieR96> ?predicate <http://dblp.uni-trier.de/rec/bibtex/conf/lcn/TjhieR96> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/tit/GilesH02> ?predicate <http://bibsonomy.org/uri/bibtexkey/journals/tit/GilesH02/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/nips/KeTM94> ?predicate <http://dblp.uni-trier.de/db/conf/nips/nips1994.html#KeTM94> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/SanJue_Hu> ?predicate <http://www.bibsonomy.org/uri/author/SanJue+Hu> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/Radhakrishna_Pillai> ?predicate "Radhakrishna Pillai" .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/semweb/HarthHDUOD07> ?predicate "DBLP conf/semweb/HarthHDUOD07"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/acj/Hunt75> ?predicate <http://dblp.uni-trier.de/db/journals/acj/acj7.html#Hunt75> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/nime/2004> ?predicate "New Interfaces for Musical Expression, NIME-04, Proceedings, Hamamatsu, June 3-5, 2004"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/ic/AldwairiA10> ?predicate "IP Lookup using Two-level Indexing and B-Trees."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/fuin/Leivant08> ?predicate <http://dblp.rkbexplorer.com/id/journals/fuin/Leivant08> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/jss/HsuehCC08> ?predicate <http://dblp.uni-trier.de/rec/bibtex/journals/jss/HsuehCC08> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/scjapan/Aizawa98> ?predicate <http://dblp.uni-trier.de/rec/bibtex/journals/scjapan/Aizawa98> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/wcnc/SmidaHA08> ?predicate <http://dblp.uni-trier.de/rec/bibtex/conf/wcnc/SmidaHA08> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/sigmobile/XiaoR03> ?predicate <http://bibsonomy.org/uri/bibtexkey/journals/sigmobile/XiaoR03/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/dexa/MondalGK03> ?predicate "Effective Load-Balancing via Migration and Replication in Spatial Grids."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/John_Cloutier> ?predicate "John Cloutier" .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/visualization/DelmarcelleH94> ?predicate <http://dblp.uni-trier.de/db/conf/visualization/visualization1994.html#DelmarcelleH94> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/ppsn/Mumford06> ?predicate "New Order-Based Crossovers for the Graph Coloring Problem."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/Nobuyuki_Sasaki> ?predicate <http://dblp.l3s.de/Authors/Nobuyuki+Sasaki> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/Ed_Nijssen> ?predicate "Ed Nijssen" .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/puc/GeldofT01> ?predicate <http://dx.doi.org/10.1007/s007790170033> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/mt/Azeh90> ?predicate <http://dx.doi.org/10.1007/BF00713704> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/sigpro/KandanvliK09a> ?predicate <http://bibsonomy.org/uri/bibtexkey/journals/sigpro/KandanvliK09a/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/dm/WangH08> ?predicate <http://dblp.uni-trier.de/rec/bibtex/journals/dm/WangH08> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icdar/PalT05> ?predicate "DBLP conf/icdar/PalT05"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/gamestudies/Woods04> ?predicate <http://dblp.rkbexplorer.com/id/journals/gamestudies/Woods04> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/ar/KubotaKKN00> ?predicate "DBLP journals/ar/KubotaKKN00"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/dagm/GlauserB89> ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/dagm/GlauserB89/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/ijseke/Boone91> ?predicate <http://dx.doi.org/10.1142/S0218194091000147> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/ics/RauchwergerP94> ?predicate "DOI 10.1145%2F181181.181254"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/ieicet/LeeSLW05> ?predicate <http://dblp.uni-trier.de/db/journals/ieicet/ieicet88d.html#LeeSLW05> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/toms/HowellD05> ?predicate "DBLP journals/toms/HowellD05"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/it/RothermelBB03> ?predicate "DBLP journals/it/RothermelBB03"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/dimea/UchidaNHI07> ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/dimea/UchidaNHI07/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/Mark_Motayne> ?predicate <http://www.bibsonomy.org/uri/author/Mark+Motayne> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/reference/gis/MichaelisA08> ?predicate <http://dblp.rkbexplorer.com/id/reference/gis/MichaelisA08> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/A._G._Gravina> ?predicate "A. G. Gravina" .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/pami/LeeL05> ?predicate "An Improved Cluster Labeling Method for Support Vector Clustering."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/etra/BlignautBS08> ?predicate <http://doi.acm.org/10.1145/1344471.1344514> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/apchi/LeeTGF04> ?predicate <http://dx.doi.org/10.1007/978-3-540-27795-8_63> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/nips/KoiranS95> ?predicate <http://dblp.uni-trier.de/db/conf/nips/nips1995.html#KoiranS95> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/C.-H._Cho> ?predicate <http://dblp.l3s.de/Authors/C.-H.+Cho> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icc/RajoreNJ09> ?predicate "DBLP conf/icc/RajoreNJ09"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/twc/NikjahB08b> ?predicate "DBLP journals/twc/NikjahB08b"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/gecco/Ortiz-BaylissTRFV09> ?predicate <http://dblp.uni-trier.de/db/conf/gecco/gecco2009.html#Ortiz-BaylissTRFV09> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/see/Varelius09> ?predicate <http://bibsonomy.org/uri/bibtexkey/journals/see/Varelius09/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/dm/HalupczokS08> ?predicate "3470-3478"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/tit/Yamamoto94> ?predicate "DBLP journals/tit/Yamamoto94"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/Rainer_Fritz> ?predicate "Rainer Fritz" .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/IEEEscc/JamshidiSM08> ?predicate "DBLP conf/IEEEscc/JamshidiSM08"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/secrypt/ChenV11> ?predicate "DBLP conf/secrypt/ChenV11"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/dagstuhl/CourcelleL93> ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/dagstuhl/CourcelleL93/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/ijac/BartholdiR08> ?predicate "DBLP journals/ijac/BartholdiR08"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/gi/Zhu07> ?predicate <http://dblp.uni-trier.de/db/conf/gi/gi2008-1.html#Zhu07> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/dagm/Besslich84> ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/dagm/Besslich84/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/apsec/ElfwingPL02> ?predicate "DBLP conf/apsec/ElfwingPL02"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/serp/Gul07> ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/serp/Gul07/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/Sungcheol_Park> ?predicate <http://www.bibsonomy.org/uri/author/Sungcheol+Park> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/ijbc/ZengYL08> ?predicate <http://dx.doi.org/10.1142%2FS0218127408020215> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/prozess/Burkhardt77> ?predicate <http://dblp.uni-trier.de/db/conf/prozess/prozess1977.html#Burkhardt77> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/siamnum/ArandigaCDD05> ?predicate <http://dx.doi.org/10.1137/S0036142903426245> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/iclp/SchrijversBD02> ?predicate "DOI 10.1007%2F3-540-45619-8%5F4"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/anss/Du04> ?predicate <http://doi.ieeecomputersociety.org/10.1109/SIMSYM.2004.1299475> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/dsn/X05f> ?predicate "DBLP conf/dsn/X05f"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/corr/abs-1007-4109> ?predicate "An Application-oriented Model for Wireless Sensor Networks integrated with Telecom Infra"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/siamam/GelbGWR04> ?predicate "DOI 10.1137%2FS0036139902420407"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/eccc/KolR11> ?predicate <http://bibsonomy.org/uri/bibtexkey/journals/eccc/KolR11/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/qre/AmiriJK10> ?predicate <http://dblp.l3s.de/d2r/resource/authors/Amirhossein_Amiri> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icfem/BrandtS05> ?predicate <http://dx.doi.org/10.1007%2F11576280%5F28> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/A._Meinesz> ?predicate <http://dblp.l3s.de/Authors/A.+Meinesz> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/endm/GharbiLMS10> ?predicate <http://dx.doi.org/10.1016%2Fj.endm.2010.05.138> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/chb/SeufertJB07> ?predicate <http://bibsonomy.org/uri/bibtexkey/journals/chb/SeufertJB07/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/ipps/MiciclS02> ?predicate <http://csdl.computer.org/comp/proceedings/ipdps/2002/1573/02/15730147babs.htm> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/aei/WongDB88> ?predicate "DOI 10.1016%2F0954-1810%2888%2990039-8"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/bioinformatics/PritchardWBT06> ?predicate <http://dblp.l3s.de/d2r/resource/authors/Leighton_Pritchard> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/dft/MichelsPLKC06> ?predicate <http://dblp.rkbexplorer.com/id/conf/dft/MichelsPLKC06> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/iwfm/KilpatrickCK98> ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/iwfm/KilpatrickCK98/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/tse/OwreRSH95> ?predicate "DOI 10.1109%2F32.345827"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/ipl/CrvenkovicDE99> ?predicate <http://dblp.rkbexplorer.com/id/journals/ipl/CrvenkovicDE99> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/Cl%C3%A1udia_Ferlin> ?predicate <http://dblp.l3s.de/Authors/Cl%C3%A1udia+Ferlin> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icip/Fernandez-EscribanoCOG05> ?predicate <http://dblp.uni-trier.de/rec/bibtex/conf/icip/Fernandez-EscribanoCOG05> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/esa/ChaudhryC05> ?predicate <http://dblp.uni-trier.de/rec/bibtex/conf/esa/ChaudhryC05> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/pr/DirekogluN11> ?predicate <http://dx.doi.org/10.1016%2Fj.patcog.2011.02.016> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/Dae-Young_Seo> ?predicate <http://www.bibsonomy.org/uri/author/Dae-Young+Seo> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/fpga/AndersonSR98> ?predicate "DBLP conf/fpga/AndersonSR98"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/sigdial/MeyerPZC11> ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/sigdial/MeyerPZC11/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/fskd/Wang11d> ?predicate <http://dx.doi.org/10.1109/FSKD.2011.6019799> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/cin/GramfortPOC11> ?predicate <http://bibsonomy.org/uri/bibtexkey/journals/cin/GramfortPOC11/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/irmj/SakaguchiND04> ?predicate <http://dblp.uni-trier.de/rec/bibtex/journals/irmj/SakaguchiND04> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/corr/abs-1110-0404> ?predicate <http://arxiv.org/abs/1110.0404> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/profes/McLoughlinR10> ?predicate <http://dblp.uni-trier.de/rec/bibtex/conf/profes/McLoughlinR10> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/stacs/Tantau02> ?predicate <http://dx.doi.org/10.1007%2F3-540-45841-7%5F38> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/ieicet/QiuU11> ?predicate <http://dblp.uni-trier.de/db/journals/ieicet/ieicet94d.html#QiuU11> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/3dim/HolteMNP11> ?predicate "DOI 10.1109%2F3DIMPVT.2011.50"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/dm/Kang91> ?predicate <http://bibsonomy.org/uri/bibtexkey/journals/dm/Kang91/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/date/AndersKG07> ?predicate <http://dx.doi.org/10.1145%2F1266366.1266518> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/ACISicis/ViswanathanYWKG05> ?predicate "DOI 10.1109%2FICIS.2005.79"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/Dong-Yeon_Lee> ?predicate <http://www.bibsonomy.org/uri/author/Dong-Yeon+Lee> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/dfrws/RichardR05> ?predicate "DBLP conf/dfrws/RichardR05"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/medbiometrics/FangCYC08> ?predicate "Examining the Influence of Occupational Therapy and Its Effectiveness in Long-Term Care on Dementia Patients Through Ontology-Based Clustering."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/Sung-Gon_Yi> ?predicate "Sung-Gon Yi" .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/ieaaie/EaswaranP00> ?predicate <http://dblp.rkbexplorer.com/id/conf/ieaaie/EaswaranP00> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/Carlos_J._Camacho> ?predicate <http://dblp.l3s.de/Authors/Carlos+J.+Camacho> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/dgo/GillettLF03> ?predicate "BOF Report: Public-Private Partnerships for Internet Development."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/ir/MittendorfMS00> ?predicate <http://dx.doi.org/10.1023%2FA%3A1026520926673> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icml/GrolimundG96> ?predicate "Speeding-up Nearest Neighbour Memories: The Template Tree Case Memory Organisation."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/iconip/IchikiS07> ?predicate "DBLP conf/iconip/IchikiS07"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/Sung-Hee_Choi> ?predicate <http://dblp.l3s.de/Authors/Sung-Hee+Choi> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/fskd/LinW09> ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/fskd/LinW09/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/swat/BlellochGV08> ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/swat/BlellochGV08/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/tfs/TaoTCC10> ?predicate <http://dblp.uni-trier.de/rec/bibtex/journals/tfs/TaoTCC10> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/globecom/SorourV10> ?predicate <http://dblp.uni-trier.de/rec/bibtex/conf/globecom/SorourV10> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/sigops/Stroud93> ?predicate <http://dblp.rkbexplorer.com/id/journals/sigops/Stroud93> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/tcom/MatthaiouCKN11> ?predicate "1591-1603"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/jasss/StallerP01> ?predicate "Introducing Emotions into the Computational Study of Social Norms: A First Evaluation."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/rtas/BalasubramanianTLGGS09> ?predicate "DBLP conf/rtas/BalasubramanianTLGGS09"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/tsmc/FarinaA04> ?predicate <http://bibsonomy.org/uri/bibtexkey/journals/tsmc/FarinaA04/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/ieicet/HasegawaOYS08> ?predicate <http://bibsonomy.org/uri/bibtexkey/journals/ieicet/HasegawaOYS08/dblp> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/ipps/KlaueH05> ?predicate <http://dblp.l3s.de/d2r/resource/authors/Jirka_Klaue> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/jsat/ChuHS09> ?predicate <http://dblp.uni-trier.de/rec/bibtex/journals/jsat/ChuHS09> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/authors/T.-F._Wu> ?predicate <http://dblp.l3s.de/Authors/T.-F.+Wu> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/jcs/CamenischLMCS10> ?predicate <http://dblp.rkbexplorer.com/id/journals/jcs/CamenischLMCS10> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icpr/KolschT04> ?predicate <http://dblp.uni-trier.de/db/conf/icpr/icpr2004-3.html#KolschT04> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/cmg/BerkowitzPF85> ?predicate <http://dblp.l3s.de/d2r/resource/authors/Walter_E._Palmer> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/sigmod/Bussche00> ?predicate <http://dx.doi.org/10.1145%2F362084.362136> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/aina/WangLHKL05> ?predicate <http://dblp.uni-trier.de/db/conf/aina/aina2005.html#WangLHKL05> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/acpc/Palenichka99> ?predicate <http://dblp.rkbexplorer.com/id/conf/acpc/Palenichka99> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/cnsm/ChangQGLQ10> ?predicate "A flow-based anomaly detection method using sketch and combinations of traffic features."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/cscw/HeathSHLL02> ?predicate <http://dblp.uni-trier.de/rec/bibtex/journals/cscw/HeathSHLL02> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/cacm/Lee05> ?predicate "The CAN-SPAM Act: a silver bullet solution?"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/cscwd/TanCSZH06> ?predicate <http://dblp.uni-trier.de/db/conf/cscwd/cscwd2006lncs.html#TanCSZH06> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/ieeesp/Irvine03> ?predicate "Teaching Constructive Security."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/ijns/BreslinS99> ?predicate <http://dblp.uni-trier.de/rec/bibtex/journals/ijns/BreslinS99> .}
+SELECT ?predicate WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/jql/EmbletonW97> ?predicate <http://dx.doi.org/10.1080%2F09296179708590082> .}

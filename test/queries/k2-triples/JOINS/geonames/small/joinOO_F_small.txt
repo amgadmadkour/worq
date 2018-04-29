@@ -1,0 +1,4 @@
+SELECT ?subject1 ?object ?subject2 ?predicate2 WHERE {?subject1 <http://www.geonames.org/ontology#parentADM3> ?object . ?subject2 ?predicate2 ?object .}
+SELECT ?subject1 ?object ?subject2 ?predicate2 WHERE {?subject1 <http://www.geonames.org/ontology#parentADM4> ?object . ?subject2 ?predicate2 ?object .}
+SELECT ?subject1 ?object ?subject2 ?predicate2 WHERE {?subject1 <http://www.geonames.org/ontology#postalCode> ?object . ?subject2 ?predicate2 ?object .}
+SELECT ?subject1 ?object ?subject2 ?predicate2 WHERE {?subject1 <http://www.geonames.org/ontology#parentADM2> ?object . ?subject2 ?predicate2 ?object .}

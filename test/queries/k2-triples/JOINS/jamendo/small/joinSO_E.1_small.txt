@@ -1,0 +1,25 @@
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://purl.org/ontology/mo/license> ?object . ?object ?predicate2 <http://xmlns.com/foaf/0.1/Document> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://purl.org/ontology/mo/track> ?object . ?object ?predicate2 <http://www.jamendo.com/get/track/id/track/audio/play/100000> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://purl.org/ontology/mo/recorded_as> ?object . ?object ?predicate2 <http://dbtune.org/jamendo/track/100000> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://purl.org/NET/c4dm/event.owl#factor> ?object . ?object ?predicate2 <http://purl.org/ontology/mo/Lyrics> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://purl.org/ontology/mo/time> ?object . ?object ?predicate2 <http://dbtune.org/jamendo/timeline/100000> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://www.holygoat.co.uk/owl/redwood/0.1/tags/taggedWithTag> ?object . ?object ?predicate2 "004903033091851"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://xmlns.com/foaf/0.1/made> ?object . ?object ?predicate2 <http://dbtune.org/jamendo/track/97314> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://xmlns.com/foaf/0.1/made> ?object . ?object ?predicate2 "MIND VS PC - Vol. 1: IQ"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://xmlns.com/foaf/0.1/maker> ?object . ?object ?predicate2 <http://img.jamendo.com/artists/h/hattrickman.jpg> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://purl.org/ontology/mo/recorded_as> ?object . ?object ?predicate2 <http://dbtune.org/jamendo/interval/100000> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://xmlns.com/foaf/0.1/made> ?object . ?object ?predicate2 <http://dbtune.org/jamendo/track/97084> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://purl.org/ontology/mo/track> ?object . ?object ?predicate2 "6"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://xmlns.com/foaf/0.1/maker> ?object . ?object ?predicate2 <http://www.cicada.fr.st> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://xmlns.com/foaf/0.1/made> ?object . ?object ?predicate2 <http://dbtune.org/jamendo/track/97081> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://purl.org/ontology/mo/track> ?object . ?object ?predicate2 <http://www.jamendo.com/get/track/id/track/audio/xspf/100000> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://xmlns.com/foaf/0.1/maker> ?object . ?object ?predicate2 <http://dbtune.org/jamendo/record/8309> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://xmlns.com/foaf/0.1/made> ?object . ?object ?predicate2 <http://www.jamendo.com/get/album/id/album/p2p/redirect/10000/?p2pnet=ed2k&are=ogg3> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://purl.org/ontology/mo/published_as> ?object . ?object ?predicate2 "6"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://purl.org/ontology/mo/published_as> ?object . ?object ?predicate2 "06-Down"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://purl.org/ontology/mo/track> ?object . ?object ?predicate2 "06-Down"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://xmlns.com/foaf/0.1/maker> ?object . ?object ?predicate2 <http://sws.geonames.org/3031359/> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://xmlns.com/foaf/0.1/maker> ?object . ?object ?predicate2 <http://purl.org/ontology/mo/MusicArtist> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://purl.org/ontology/mo/published_as> ?object . ?object ?predicate2 <http://www.jamendo.com/get/track/id/track/audio/xspf/100000> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://purl.org/ontology/mo/published_as> ?object . ?object ?predicate2 <http://www.jamendo.com/get/track/id/track/audio/play/100000> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://xmlns.com/foaf/0.1/made> ?object . ?object ?predicate2 <http://dbtune.org/jamendo/track/97082> .}

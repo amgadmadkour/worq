@@ -1,0 +1,2 @@
+SELECT ?object ?subject2 ?predicate2 WHERE {<http://dbtune.org/jamendo/record/2620> <http://purl.org/ontology/mo/track> ?object . ?subject2 ?predicate2 ?object .}
+SELECT ?object ?subject2 ?predicate2 WHERE {<http://dbtune.org/jamendo/record/5114> <http://www.holygoat.co.uk/owl/redwood/0.1/tags/taggedWithTag> ?object . ?subject2 ?predicate2 ?object .}

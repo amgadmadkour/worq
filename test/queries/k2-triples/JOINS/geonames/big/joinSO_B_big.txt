@@ -1,0 +1,9 @@
+SELECT ?subject1 ?object WHERE {?subject1 <http://www.geonames.org/ontology#parentADM3> ?object . ?object <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://www.geonames.org/ontology#parentADM1> ?object . ?object <http://www.geonames.org/ontology#featureClass> <http://www.geonames.org/ontology#A> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://www.geonames.org/ontology#parentFeature> ?object . ?object <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://www.geonames.org/ontology#parentADM2> ?object . ?object <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://www.geonames.org/ontology#parentFeature> ?object . ?object <http://www.geonames.org/ontology#featureCode> <http://www.geonames.org/ontology#T.MT> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://www.geonames.org/ontology#parentADM1> ?object . ?object <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://www.geonames.org/ontology#parentFeature> ?object . ?object <http://www.geonames.org/ontology#countryCode> "IR" .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://www.geonames.org/ontology#parentFeature> ?object . ?object <http://www.geonames.org/ontology#featureClass> <http://www.geonames.org/ontology#T> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://www.geonames.org/ontology#parentFeature> ?object . ?object <http://www.geonames.org/ontology#parentCountry> <http://sws.geonames.org/130758/> .}

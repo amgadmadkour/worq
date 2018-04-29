@@ -1,0 +1,25 @@
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://dbpedia.org/property/forms> "L,M,N,P,Q,R,S"@en . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://dbpedia.org/ontology/headquarters> <http://dbpedia.org/resource/Flint> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://dbpedia.org/property/environmentprotection> "third party covers and housings, rain deflector"@en . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://dbpedia.org/property/governmentElevationImperial> "620"^^<http://www.w3.org/2001/XMLSchema#int> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://dbpedia.org/property/schoolmaster> "Gail Kovach"@en . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://dbpedia.org/property/sir> "yes"@en . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://dbpedia.org/property/ownedCompanies> "Bryn Melyn, Chaloner's, Hanmers Coaches, M&H Coaches, Vale Travel"@en . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://dbpedia.org/property/settlementType> <http://dbpedia.org/resource/Census_designated_place> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://dbpedia.org/property/verify> "October 2007"@en . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://dbpedia.org/property/awarded> "Marksmanship"@en . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://dbpedia.org/property/phds> "3"^^<http://www.w3.org/2001/XMLSchema#int> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://dbpedia.org/property/wingcommander> "Herman Sundin"@en . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://dbpedia.org/property/reGrandOpening> "December 2009"@en . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://dbpedia.org/property/betriebsaufnahme> "1956-01-07"^^<http://www.w3.org/2001/XMLSchema#date> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://dbpedia.org/property/l_percent_C3_percent_A9gende> "Le Plain et l'\u00E9glise Saint-Martin"@en . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://dbpedia.org/property/callCentre> <http://dbpedia.org/resource/Calgary> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://dbpedia.org/property/kurtosis> "0"^^<http://www.w3.org/2001/XMLSchema#int> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://dbpedia.org/property/mimp2y> "1979, 1986, 1999"@en . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://dbpedia.org/property/museumDirector> "Daniel Stejerean"@en . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://dbpedia.org/property/allgamePs> "4/5"@en . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://dbpedia.org/property/collegehofid> "60077"^^<http://www.w3.org/2001/XMLSchema#int> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://dbpedia.org/property/gameproGba> "4 / 5"@en . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://dbpedia.org/property/etos> "220 Wh/L"@en . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://dbpedia.org/property/award6w> "6"^^<http://www.w3.org/2001/XMLSchema#int> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://dbpedia.org/property/_2ndAsst.Chief> "Carl L. Pugliese"@en . ?subject ?predicate2 ?object2 .}

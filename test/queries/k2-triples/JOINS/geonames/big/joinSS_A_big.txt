@@ -1,0 +1,9 @@
+SELECT ?subject WHERE {?subject <http://www.geonames.org/ontology#featureClass> <http://www.geonames.org/ontology#R> . ?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .}
+SELECT ?subject WHERE {?subject <http://www.geonames.org/ontology#featureClass> <http://www.geonames.org/ontology#H> . ?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> . ?subject <http://www.geonames.org/ontology#featureCode> <http://www.geonames.org/ontology#T.MT> .}
+SELECT ?subject WHERE {?subject <http://www.geonames.org/ontology#featureClass> <http://www.geonames.org/ontology#A> . ?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> . ?subject <http://www.geonames.org/ontology#countryCode> "IR" .}
+SELECT ?subject WHERE {?subject <http://www.geonames.org/ontology#featureCode> <http://www.geonames.org/ontology#S.DAM> . ?subject <http://www.geonames.org/ontology#featureClass> <http://www.geonames.org/ontology#S> .}
+SELECT ?subject WHERE {?subject <http://www.geonames.org/ontology#countryCode> "IR" . ?subject <http://www.geonames.org/ontology#featureClass> <http://www.geonames.org/ontology#T> .}
+SELECT ?subject WHERE {?subject <http://www.geonames.org/ontology#featureClass> <http://www.geonames.org/ontology#U> . ?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> . ?subject <http://www.geonames.org/ontology#featureClass> <http://www.geonames.org/ontology#T> .}

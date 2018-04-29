@@ -1,0 +1,25 @@
+SELECT ?object ?predicate2 WHERE {<http://sws.geonames.org/3429007/> <http://www.geonames.org/ontology#parentFeature> ?object . ?object ?predicate2 <http://zh.wikipedia.org/wiki/%E5%B8%83%E5%AE%9C%E8%AF%BA%E6%96%AF%E8%89%BE%E5%88%A9%E6%96%AF%E7%9C%81> .}
+SELECT ?object ?predicate2 WHERE {<http://sws.geonames.org/1767332/> <http://www.geonames.org/ontology#parentADM1> ?object . ?object ?predicate2 "101" .}
+SELECT ?object ?predicate2 WHERE {<http://sws.geonames.org/5941259/> <http://www.geonames.org/ontology#parentFeature> ?object . ?object ?predicate2 <http://www.geonames.org/ontology#A.ADM1> .}
+SELECT ?object ?predicate2 WHERE {<http://sws.geonames.org/1768603/> <http://www.geonames.org/ontology#parentFeature> ?object . ?object ?predicate2 <http://dbpedia.org/resource/Sabah> .}
+SELECT ?object ?predicate2 WHERE {<http://sws.geonames.org/3113950/> <http://www.geonames.org/ontology#parentADM2> ?object . ?object ?predicate2 <http://sws.geonames.org/2510769/> .}
+SELECT ?object ?predicate2 WHERE {<http://sws.geonames.org/1255977/> <http://www.geonames.org/ontology#parentFeature> ?object . ?object ?predicate2 "Andhra Pradesh" .}
+SELECT ?object ?predicate2 WHERE {<http://sws.geonames.org/3341519/> <http://www.geonames.org/ontology#parentFeature> ?object . ?object ?predicate2 "44.93333" .}
+SELECT ?object ?predicate2 WHERE {<http://sws.geonames.org/3304868/> <http://www.geonames.org/ontology#parentCountry> ?object . ?object ?predicate2 <http://gl.wikipedia.org/wiki/Illa_da_Irlanda> .}
+SELECT ?object ?predicate2 WHERE {<http://sws.geonames.org/4990652/> <http://www.geonames.org/ontology#parentADM1> ?object . ?object ?predicate2 <http://en.wikipedia.org/wiki/Michigan> .}
+SELECT ?object ?predicate2 WHERE {<http://sws.geonames.org/5302570/> <http://www.geonames.org/ontology#parentADM1> ?object . ?object ?predicate2 "\uC560\uB9AC\uC870\uB098 \uC8FC"@ko .}
+SELECT ?object ?predicate2 WHERE {<http://sws.geonames.org/2566248/> <http://www.geonames.org/ontology#parentADM1> ?object . ?object ?predicate2 "CG" .}
+SELECT ?object ?predicate2 WHERE {<http://sws.geonames.org/839696/> <http://www.geonames.org/ontology#parentFeature> ?object . ?object ?predicate2 "40" .}
+SELECT ?object ?predicate2 WHERE {<http://sws.geonames.org/3610204/> <http://www.geonames.org/ontology#parentFeature> ?object . ?object ?predicate2 <http://www.geonames.org/3613527/departamento-de-choluteca.html> .}
+SELECT ?object ?predicate2 WHERE {<http://sws.geonames.org/5306540/> <http://www.geonames.org/ontology#parentADM2> ?object . ?object ?predicate2 "Cochise County" .}
+SELECT ?object ?predicate2 WHERE {<http://sws.geonames.org/3725210/> <http://www.geonames.org/ontology#parentFeature> ?object . ?object ?predicate2 <http://www.geonames.org/ontology#A.ADM1> .}
+SELECT ?object ?predicate2 WHERE {<http://sws.geonames.org/5846845/> <http://www.geonames.org/ontology#parentFeature> ?object . ?object ?predicate2 <http://sws.geonames.org/5879092/> .}
+SELECT ?object ?predicate2 WHERE {<http://sws.geonames.org/3612082/> <http://www.geonames.org/ontology#parentFeature> ?object . ?object ?predicate2 <http://en.wikipedia.org/wiki/La_Paz_Department_%28Honduras%29> .}
+SELECT ?object ?predicate2 WHERE {<http://sws.geonames.org/1783552/> <http://www.geonames.org/ontology#parentFeature> ?object . ?object ?predicate2 <http://da.wikipedia.org/wiki/Gansu> .}
+SELECT ?object ?predicate2 WHERE {<http://sws.geonames.org/1695249/> <http://www.geonames.org/ontology#parentCountry> ?object . ?object ?predicate2 "Republika ng Pilipinas" .}
+SELECT ?object ?predicate2 WHERE {<http://sws.geonames.org/3782523/> <http://www.geonames.org/ontology#parentFeature> ?object . ?object ?predicate2 <http://sws.geonames.org/3686110/> .}
+SELECT ?object ?predicate2 WHERE {<http://sws.geonames.org/6020463/> <http://www.geonames.org/ontology#parentADM1> ?object . ?object ?predicate2 <http://www.geonames.org/ontology#A.ADM1> .}
+SELECT ?object ?predicate2 WHERE {<http://sws.geonames.org/5044379/> <http://www.geonames.org/ontology#parentFeature> ?object . ?object ?predicate2 <http://dbpedia.org/resource/Stevens_County%2C_Minnesota> .}
+SELECT ?object ?predicate2 WHERE {<http://sws.geonames.org/52751/> <http://www.geonames.org/ontology#parentADM1> ?object . ?object ?predicate2 "Commissariat de l\u2019 Uebi Scebeli" .}
+SELECT ?object ?predicate2 WHERE {<http://sws.geonames.org/335768/> <http://www.geonames.org/ontology#parentFeature> ?object . ?object ?predicate2 "6.05862" .}
+SELECT ?object ?predicate2 WHERE {<http://sws.geonames.org/6213164/> <http://www.geonames.org/ontology#parentADM1> ?object . ?object ?predicate2 <http://www.geonames.org/2192628/canterbury.html> .}

@@ -1,0 +1,16 @@
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 "40.53806" .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://sws.geonames.org/2255422/> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 "970" .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 "Robinson" .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 "821" .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://sws.geonames.org/2987966/> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 "105.13333" .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 "787" .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://sws.geonames.org/2998323/> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 "Wuli" .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 "Rudnik" .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 "-68.26667" .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 "110.42278" .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 "Bakau" .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 "32.35014" .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://sws.geonames.org/4273980/> .}

@@ -1,0 +1,16 @@
+SELECT ?subject ?object1 ?predicate2 ?object2 WHERE {?subject <http://purl.org/dc/elements/1.1/description> ?object1 . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?object1 ?predicate2 ?object2 WHERE {?subject <http://xmlns.com/foaf/0.1/img> ?object1 . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?object1 ?predicate2 ?object2 WHERE {?subject <http://www.w3.org/2002/07/owl#sameAs> ?object1 . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?object1 ?predicate2 ?object2 WHERE {?subject <http://purl.org/ontology/mo/image> ?object1 . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?object1 ?predicate2 ?object2 WHERE {?subject <http://purl.org/ontology/mo/biography> ?object1 . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?object1 ?predicate2 ?object2 WHERE {?subject <http://xmlns.com/foaf/0.1/based_near> ?object1 . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?object1 ?predicate2 ?object2 WHERE {?subject <http://xmlns.com/foaf/0.1/made> ?object1 . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?object1 ?predicate2 ?object2 WHERE {?subject <http://xmlns.com/foaf/0.1/name> ?object1 . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?object1 ?predicate2 ?object2 WHERE {?subject <http://purl.org/NET/c4dm/event.owl#factor> ?object1 . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?object1 ?predicate2 ?object2 WHERE {?subject <http://xmlns.com/foaf/0.1/maker> ?object1 . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?object1 ?predicate2 ?object2 WHERE {?subject <http://www.holygoat.co.uk/owl/redwood/0.1/tags/tagName> ?object1 . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?object1 ?predicate2 ?object2 WHERE {?subject <http://xmlns.com/foaf/0.1/homepage> ?object1 . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?object1 ?predicate2 ?object2 WHERE {?subject <http://purl.org/ontology/mo/text> ?object1 . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?object1 ?predicate2 ?object2 WHERE {?subject <http://vocab.sindice.net/date> ?object1 . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?object1 ?predicate2 ?object2 WHERE {?subject <http://vocab.sindice.net/size> ?object1 . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?object1 ?predicate2 ?object2 WHERE {?subject <http://purl.org/dc/elements/1.1/date> ?object1 . ?subject ?predicate2 ?object2 .}

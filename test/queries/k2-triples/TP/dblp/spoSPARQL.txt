@@ -1,0 +1,500 @@
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/globecom/SamboGACVC06> <http://xmlns.com/foaf/0.1/maker> <http://dblp.l3s.de/d2r/resource/authors/Alessio_Giorgetti> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/desrist/JablonskiM10> <http://purl.org/dc/terms/bibliographicCitation> <http://dblp.uni-trier.de/rec/bibtex/conf/desrist/JablonskiM10> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/evoW/ChardaireMM01> <http://xmlns.com/foaf/0.1/homepage> <http://dx.doi.org/10.1007%2F3-540-45365-2%5F4> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/pods/KrishnakumarB91> <http://purl.org/dc/elements/1.1/type> <http://purl.org/dc/dcmitype/Text> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Keita_Uchiyama> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icra/CarlisleGRW94> <http://swrc.ontoware.org/ontology#pages> "1650-1655"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Tazama_U._St._Julien> <http://xmlns.com/foaf/0.1/name> "Tazama U. St. Julien" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/iticse/LewisM98> <http://purl.org/dc/terms/partOf> <http://dblp.l3s.de/d2r/resource/publications/conf/iticse/1998> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Allan_Gr%C3%B8nlund_J%C3%B8rgensen> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.l3s.de/Authors/Allan+Gr%C3%B8nlund+J%C3%B8rgensen> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/jct/DavidsonO72> <http://purl.org/dc/elements/1.1/type> <http://purl.org/dc/dcmitype/Text> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/isbi/KockaraYM09> <http://www.w3.org/2000/01/rdf-schema#label> "Balls Hierarchy: Image Segmentation by Graph Spanner."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/actaC/Egri-NagyN06> <http://purl.org/dc/elements/1.1/creator> <http://dblp.l3s.de/d2r/resource/authors/Attila_Egri-Nagy> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/esa/GilI95> <http://www.w3.org/2000/01/rdf-schema#label> "Packing Trees."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/apal/BagariaF01> <http://purl.org/dc/terms/bibliographicCitation> <http://dblp.uni-trier.de/rec/bibtex/journals/apal/BagariaF01> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/trustbus/AgudoFL08> <http://purl.org/dc/elements/1.1/type> <http://purl.org/dc/dcmitype/Text> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Qinghui_Shao> <http://xmlns.com/foaf/0.1/name> "Qinghui Shao" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/tgrs/HoCHG04> <http://purl.org/dc/elements/1.1/creator> <http://dblp.l3s.de/d2r/resource/authors/Dominic_K._C._Ho> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/rtdb/GriffinHKLZ97> <http://swrc.ontoware.org/ontology#series> <http://dblp.l3s.de/d2r/resource/conferences/rtdb> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/M._A._Helal> <http://www.w3.org/2000/01/rdf-schema#label> "M. A. Helal" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/fuin/Polkowski04> <http://xmlns.com/foaf/0.1/homepage> <http://iospress.metapress.com/content/nvwymwx34uhhheex/> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/cartographica/ParushPPD06> <http://purl.org/dc/elements/1.1/creator> <http://dblp.l3s.de/d2r/resource/authors/Avi_Parush> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Charles_Smith> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/anor/AboolianBK09> <http://swrc.ontoware.org/ontology#volume> "167"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/vvg/NeagleNR03> <http://xmlns.com/foaf/0.1/maker> <http://dblp.l3s.de/d2r/resource/authors/Kia_Ng> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/jam/HeDS11> <http://xmlns.com/foaf/0.1/homepage> <http://dx.doi.org/10.1155%2F2011%2F325690> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Maren_L%C3%BCbcke> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Yi-Ching_Liu> <http://www.w3.org/2000/01/rdf-schema#label> "Yi-Ching Liu" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/pdpcs/CardoneCFM95> <http://purl.org/dc/elements/1.1/type> <http://purl.org/dc/dcmitype/Text> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/sopr/DowneyC08> <http://xmlns.com/foaf/0.1/maker> <http://dblp.l3s.de/d2r/resource/authors/Fergal_Downey> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/iwc/Sluis-ThieschefferBEVR11> <http://purl.org/dc/elements/1.1/title> "Development and application of a framework for comparing early design methods for young children."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icinco/UrbanoTNMK05> <http://purl.org/dc/elements/1.1/type> <http://purl.org/dc/dcmitype/Text> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/cai/SunYMW04> <http://purl.org/dc/elements/1.1/type> <http://purl.org/dc/dcmitype/Text> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/aips/Edelkamp06> <http://swrc.ontoware.org/ontology#pages> "374-377"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/jacm/AlonM94> <http://purl.org/dc/elements/1.1/subject> "computational geometry, linear programming, multidimensional search, parallel computation, probabilistic computation"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/iwann/RamirezG01> <http://purl.org/dc/elements/1.1/creator> <http://dblp.l3s.de/d2r/resource/authors/Gianmichele_Grittani> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/euromicro/DerstenAF11> <http://xmlns.com/foaf/0.1/homepage> <http://doi.ieeecomputersociety.org/10.1109/SEAA.2011.44> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/wicomm/WuLC06> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/sLogica/SpinksV08> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.uni-trier.de/db/journals/sLogica/sLogica88.html#SpinksV08> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/ictai/TalonP96> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.uni-trier.de/db/conf/ictai/ictai1996.html#TalonP96> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icfca/2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/soda/CharikarK05> <http://purl.org/dc/elements/1.1/title> "A tight threshold for metric Ramsey phenomena."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/ki/Ohlbach85> <http://swrc.ontoware.org/ontology#pages> "77-100"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/awic/BettaharMB07> <http://swrc.ontoware.org/ontology#series> <http://dblp.l3s.de/d2r/resource/conferences/awic> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/ifip5-5/Picard09> <http://xmlns.com/foaf/0.1/homepage> <http://dx.doi.org/10.1007%2F978-3-642-04568-4%5F18> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/isci/PardoM92> <http://www.w3.org/2002/07/owl#sameAs> <http://bibsonomy.org/uri/bibtexkey/journals/isci/PardoM92/dblp> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/tsp/LuH05> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.uni-trier.de/db/journals/tsp/tsp53.html#LuH05> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/isbi/LieblingVF08> <http://purl.org/dc/terms/issued> "2008"^^<http://www.w3.org/2001/XMLSchema#gYear> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Ricardo_Dahab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/cis/ChenLHZ08> <http://xmlns.com/foaf/0.1/homepage> <http://doi.ieeecomputersociety.org/10.1109/CIS.2008.178> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/chi/GeorgeVN90> <http://swrc.ontoware.org/ontology#pages> "361-368"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/cma/Ilic10> <http://purl.org/dc/elements/1.1/creator> <http://dblp.l3s.de/d2r/resource/authors/Aleksandar_Ilic> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Timo._Schnadhorst> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icmlc/JiangSL11> <http://swrc.ontoware.org/ontology#series> <http://dblp.l3s.de/d2r/resource/conferences/icmlc> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/M._Aoki> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/tsd/MotlicekGHGA08> <http://swrc.ontoware.org/ontology#pages> "435-442"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/jcal/ErhelJ06> <http://swrc.ontoware.org/ontology#volume> "22"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/A._Buzin> <http://xmlns.com/foaf/0.1/name> "A. Buzin" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Mohamed_Noureddine> <http://www.w3.org/2000/01/rdf-schema#label> "Mohamed Noureddine" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Klaus_Kespohl> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.l3s.de/Authors/Klaus+Kespohl> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/conferences/wer> <http://purl.org/dc/elements/1.1/title> "WER"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icadl/AzcarragaCT02> <http://purl.org/dc/elements/1.1/identifier> "DBLP conf/icadl/AzcarragaCT02"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/fgcs/Mizoguchi92> <http://www.w3.org/2002/07/owl#sameAs> <http://bibsonomy.org/uri/bibtexkey/conf/fgcs/Mizoguchi92/dblp> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Yelena_M._Gambarova> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/cms/DietlU03> <http://purl.org/dc/elements/1.1/type> <http://purl.org/dc/dcmitype/Text> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/winet/PanRD99> <http://swrc.ontoware.org/ontology#journal> <http://dblp.l3s.de/d2r/resource/journals/winet> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/toms/Renka99> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.uni-trier.de/db/journals/toms/toms25.html#Renka99> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Jinxiu_Chen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/mms/ShenoyV99> <http://xmlns.com/foaf/0.1/maker> <http://dblp.l3s.de/d2r/resource/authors/Harrick_M._Vin> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icpr/DrotDMZ02> <http://purl.org/dc/terms/issued> "2002"^^<http://www.w3.org/2001/XMLSchema#gYear> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Garrick_L._Wallstrom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/prl/Piper95> <http://xmlns.com/foaf/0.1/maker> <http://dblp.l3s.de/d2r/resource/authors/Jim_Piper> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Nauman_Rafique> <http://www.w3.org/2000/01/rdf-schema#label> "Nauman Rafique" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/cacm/Neumann95a> <http://purl.org/dc/elements/1.1/identifier> "DBLP journals/cacm/Neumann95a"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/dam/IwamaT07> <http://xmlns.com/foaf/0.1/maker> <http://dblp.l3s.de/d2r/resource/authors/Kazuo_Iwama> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/jar/AlferesP98> <http://xmlns.com/foaf/0.1/maker> <http://dblp.l3s.de/d2r/resource/authors/Jos%C3%A9_J%C3%BAlio_Alferes> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/ai/Gordon07> <http://purl.org/dc/elements/1.1/creator> <http://dblp.l3s.de/d2r/resource/authors/Geoffrey_J._Gordon> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/ejc/LehtonenN10> <http://xmlns.com/foaf/0.1/maker> <http://dblp.l3s.de/d2r/resource/authors/Erkko_Lehtonen> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Yasuo_Wada> <http://www.w3.org/2000/01/rdf-schema#label> "Yasuo Wada" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/atmn/PintoH94> <http://www.w3.org/2002/07/owl#sameAs> <http://bibsonomy.org/uri/bibtexkey/conf/atmn/PintoH94/dblp> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Julien_Maisonneuve> <http://www.w3.org/2000/01/rdf-schema#label> "Julien Maisonneuve" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/cascon/MurrayL05> <http://purl.org/dc/elements/1.1/identifier> "DBLP conf/cascon/MurrayL05"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Pavel_Hobza> <http://xmlns.com/foaf/0.1/name> "Pavel Hobza" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Wenhao_Song> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/informaticaSI/HexmoorES06> <http://swrc.ontoware.org/ontology#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/fmsd/HavelundR04> <http://www.w3.org/2002/07/owl#sameAs> <http://bibsonomy.org/uri/bibtexkey/journals/fmsd/HavelundR04/dblp> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/fm/AgerholmF97> <http://swrc.ontoware.org/ontology#series> <http://dblp.l3s.de/d2r/resource/conferences/fm> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Stacey_Simpson> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.l3s.de/Authors/Stacey+Simpson> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Arnault_Pousset> <http://www.w3.org/2000/01/rdf-schema#label> "Arnault Pousset" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/eswa/ChangWJ11> <http://purl.org/dc/elements/1.1/type> <http://purl.org/dc/dcmitype/Text> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Anton_Petrov> <http://xmlns.com/foaf/0.1/name> "Anton Petrov" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/aici/WangJH11> <http://swrc.ontoware.org/ontology#series> <http://dblp.l3s.de/d2r/resource/conferences/aici> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/ijbc/Upadhyay09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/jcb/Hubbell01> <http://swrc.ontoware.org/ontology#journal> <http://dblp.l3s.de/d2r/resource/journals/jcb> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/appml/CandanD09> <http://xmlns.com/foaf/0.1/maker> <http://dblp.l3s.de/d2r/resource/authors/R._S._Dahiya> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Jean-Paul_Leclercq> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/tc/LinHCHW08> <http://purl.org/dc/elements/1.1/identifier> "DBLP journals/tc/LinHCHW08"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/compos/BoerR97> <http://purl.org/dc/elements/1.1/creator> <http://dblp.l3s.de/d2r/resource/authors/Frank_S._de_Boer> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/tsp/ShyuPH09> <http://swrc.ontoware.org/ontology#journal> <http://dblp.l3s.de/d2r/resource/journals/tsp> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Mert_%C3%87aglar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/fss/FengHS01> <http://xmlns.com/foaf/0.1/maker> <http://dblp.l3s.de/d2r/resource/authors/Huisheng_Shu> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/lata/Blanchet-SadriCN07> <http://purl.org/dc/elements/1.1/type> <http://purl.org/dc/dcmitype/Text> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icmcs/PasqualeNK00> <http://purl.org/dc/elements/1.1/title> "PBS: A Predictive Block Sampling Algorithm for Desktop Multimedia Video Applications."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/John_Rowe> <http://xmlns.com/foaf/0.1/name> "John Rowe" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Florie_Bugeaud> <http://xmlns.com/foaf/0.1/name> "Florie Bugeaud" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/sttt/MarchettoRT08> <http://purl.org/dc/elements/1.1/title> "A case study-based comparison of web testing techniques applied to AJAX web applications."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Stefan_Fritzemeier> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.l3s.de/Authors/Stefan+Fritzemeier> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/ACMse/HungS10> <http://xmlns.com/foaf/0.1/maker> <http://dblp.l3s.de/d2r/resource/authors/Chih-Cheng_Hung> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/expert/Shadbolt04d> <http://xmlns.com/foaf/0.1/homepage> <http://doi.ieeecomputersociety.org/10.1109/MIS.2004.73> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/www/VinayWMC05> <http://purl.org/dc/elements/1.1/type> <http://purl.org/dc/dcmitype/Text> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/ijcai/WenJ91> <http://purl.org/dc/elements/1.1/type> <http://purl.org/dc/dcmitype/Text> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Shanghong_Li> <http://www.w3.org/2000/01/rdf-schema#label> "Shanghong Li" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/reference/gis/Luhmann08> <http://purl.org/dc/elements/1.1/creator> <http://dblp.l3s.de/d2r/resource/authors/Thomas_Luhmann> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/ijcm/MurugeshM09> <http://xmlns.com/foaf/0.1/maker> <http://dblp.l3s.de/d2r/resource/authors/K._Murugesan> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/comcom/YuC07> <http://purl.org/dc/elements/1.1/title> "An efficient cluster-based multi-channel management protocol for wireless Ad Hoc networks."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icann/KobialkaK10> <http://purl.org/dc/terms/partOf> <http://dblp.l3s.de/d2r/resource/publications/conf/icann/2010-1> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Sue_Nichols> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/fbt/RockSW99> <http://purl.org/dc/terms/partOf> <http://dblp.l3s.de/d2r/resource/publications/conf/fbt/1999> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/ife/GebauerR00> <http://purl.org/dc/terms/issued> "2000"^^<http://www.w3.org/2001/XMLSchema#gYear> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/iccl/Thiemann92> <http://purl.org/dc/terms/issued> "1992"^^<http://www.w3.org/2001/XMLSchema#gYear> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/mor/GobernaTT10> <http://purl.org/dc/terms/bibliographicCitation> <http://dblp.uni-trier.de/rec/bibtex/journals/mor/GobernaTT10> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/bmvc/SchwarzMCN10> <http://purl.org/dc/terms/bibliographicCitation> <http://dblp.uni-trier.de/rec/bibtex/conf/bmvc/SchwarzMCN10> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Hezier_Qiahan> <http://xmlns.com/foaf/0.1/name> "Hezier Qiahan" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/dagstuhl/PolleresTF05> <http://www.w3.org/2002/07/owl#sameAs> <http://bibsonomy.org/uri/bibtexkey/conf/dagstuhl/PolleresTF05/dblp> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/jdfp/LydaH06> <http://purl.org/dc/elements/1.1/type> <http://purl.org/dc/dcmitype/Text> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Srikanth_Nadella> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/cg/Mokrzycki88> <http://purl.org/dc/terms/issued> "1988"^^<http://www.w3.org/2001/XMLSchema#gYear> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icra/WangSQ98> <http://purl.org/dc/elements/1.1/creator> <http://dblp.l3s.de/d2r/resource/authors/Helen_C._Shen> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/jsyml/Cluckers03> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icec/LimaGPR96> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/krdb/99> <http://purl.org/dc/elements/1.1/title> "Proceedings of the 6th International Workshop on Knowledge Representation meets Databases (KRDB'99), Link\u00F6ping, Sweden, July 29-30, 1999"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/cicsyn/VelmuruganN11> <http://xmlns.com/foaf/0.1/homepage> <http://doi.ieeecomputersociety.org/10.1109/CICSyN.2011.45> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/ijbc/Starkov09> <http://purl.org/dc/terms/bibliographicCitation> <http://dblp.uni-trier.de/rec/bibtex/journals/ijbc/Starkov09> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/toplas/ChandyM84> <http://www.w3.org/2002/07/owl#sameAs> <http://bibsonomy.org/uri/bibtexkey/journals/toplas/ChandyM84/dblp> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/ipps/DorronsoroB11> <http://purl.org/dc/terms/bibliographicCitation> <http://dblp.uni-trier.de/rec/bibtex/conf/ipps/DorronsoroB11> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Glenn_Hollowell> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.l3s.de/Authors/Glenn+Hollowell> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/gi/BlindEF01> <http://www.w3.org/2002/07/owl#sameAs> <http://bibsonomy.org/uri/bibtexkey/conf/gi/BlindEF01/dblp> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/scientometrics/MeloBC06> <http://swrc.ontoware.org/ontology#volume> "67"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Kevin_J._Lynch> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.l3s.de/Authors/Kevin+J.+Lynch> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/tit/WangKP05> <http://swrc.ontoware.org/ontology#journal> <http://dblp.l3s.de/d2r/resource/journals/tit> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/ftrtft/TapkenD98> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.uni-trier.de/db/conf/ftrtft/ftrtft1998.html#TapkenD98> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Shide_Guo> <http://www.w3.org/2000/01/rdf-schema#label> "Shide Guo" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/iceis/RosaGPSMLP06> <http://purl.org/dc/elements/1.1/title> "Frequency Calibrations with Conventional Time Interval Counters via GPS Traceability."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Francis_Hunt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/cade/Pfenning94> <http://www.w3.org/2002/07/owl#sameAs> <http://bibsonomy.org/uri/bibtexkey/conf/cade/Pfenning94/dblp> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/lcn/Mirfakhraei95> <http://purl.org/dc/elements/1.1/identifier> "DBLP conf/lcn/Mirfakhraei95"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Ian_W._Marshall> <http://www.w3.org/2000/01/rdf-schema#label> "Ian W. Marshall" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/lpar/YangG01> <http://swrc.ontoware.org/ontology#series> <http://dblp.l3s.de/d2r/resource/conferences/lpar> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/corr/abs-0909-4876> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/aspdac/Tsunakawa09> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.uni-trier.de/db/conf/aspdac/aspdac2009.html#Tsunakawa09> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Donald_Morgan> <http://www.w3.org/2000/01/rdf-schema#label> "Donald Morgan" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/software/Bollinger03> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.uni-trier.de/db/journals/software/software20.html#Bollinger03> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Yardena_Peres> <http://xmlns.com/foaf/0.1/name> "Yardena Peres" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/jsac/CaiILQC10> <http://purl.org/dc/terms/bibliographicCitation> <http://dblp.uni-trier.de/rec/bibtex/journals/jsac/CaiILQC10> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/fmsd/HojatiB95> <http://purl.org/dc/terms/bibliographicCitation> <http://dblp.uni-trier.de/rec/bibtex/journals/fmsd/HojatiB95> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/gd/Tunkelang98> <http://purl.org/dc/terms/bibliographicCitation> <http://dblp.uni-trier.de/rec/bibtex/conf/gd/Tunkelang98> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/jcc/BaranowskaS10> <http://swrc.ontoware.org/ontology#journal> <http://dblp.l3s.de/d2r/resource/journals/jcc> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icra/ZengZLL11> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.uni-trier.de/db/conf/icra/icra2011.html#ZengZLL11> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/arobots/SujanMB06> <http://swrc.ontoware.org/ontology#pages> "15-28"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/delos/KnezevicMNRTF04> <http://purl.org/dc/elements/1.1/title> "Supporting Information Access in Next Generation Digital Library Architectures."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/iconip/Yamaguchi10> <http://www.w3.org/2000/01/rdf-schema#label> "Self-Organizing Hidden Markov Models."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/entcs/Thiagarajan98> <http://swrc.ontoware.org/ontology#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Cirrus_Shakeri> <http://www.w3.org/2000/01/rdf-schema#label> "Cirrus Shakeri" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/amc/LiuHL11> <http://purl.org/dc/elements/1.1/identifier> "DBLP journals/amc/LiuHL11"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/compcon/Silverman94> <http://www.w3.org/2000/01/rdf-schema#label> "Power, Vision and the Death of the Radio Studio."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/corr/abs-0803-0924> <http://purl.org/dc/elements/1.1/title> "What Can We Learn Privately?"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/cj/McCallum93> <http://swrc.ontoware.org/ontology#volume> "36"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/jcc/ShaytanISK10> <http://swrc.ontoware.org/ontology#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/recomb/LeeDW98> <http://purl.org/dc/terms/issued> "1998"^^<http://www.w3.org/2001/XMLSchema#gYear> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/europki/BerbecaruL07> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.uni-trier.de/db/conf/europki/europki2007.html#BerbecaruL07> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Jan_Sieber> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/kesamsta/CentenoFBO09> <http://purl.org/dc/elements/1.1/title> "Supporting Medical Emergencies by MAS."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/eccv/FinlaysonCF96> <http://purl.org/dc/elements/1.1/identifier> "DBLP conf/eccv/FinlaysonCF96"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Marko_Kolakovic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Shirlina_Po> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/apgv/KuangJF06> <http://xmlns.com/foaf/0.1/maker> <http://dblp.l3s.de/d2r/resource/authors/Garrett_M._Johnson> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/charme/RomanPK97> <http://www.w3.org/2000/01/rdf-schema#label> "Model checking without hardware drivers."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Yang-Ting_Yeh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/visapp/Marichal-HernandezRR06> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.uni-trier.de/db/conf/visapp/visapp2006-1.html#Marichal-HernandezRR06> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/ipl/KavrakiK95> <http://swrc.ontoware.org/ontology#journal> <http://dblp.l3s.de/d2r/resource/journals/ipl> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/ipl/Pitt87> <http://swrc.ontoware.org/ontology#journal> <http://dblp.l3s.de/d2r/resource/journals/ipl> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/recosoc/Szczesniak07> <http://purl.org/dc/terms/bibliographicCitation> <http://dblp.uni-trier.de/rec/bibtex/conf/recosoc/Szczesniak07> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/C._Edwards> <http://www.w3.org/2000/01/rdf-schema#label> "C. Edwards" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Albert_Alonso> <http://www.w3.org/2000/01/rdf-schema#label> "Albert Alonso" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/caise/UbayashiONY09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/jcdl/SilvaLG05> <http://swrc.ontoware.org/ontology#pages> "176-177"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Christian_M%C3%A4hler> <http://www.w3.org/2000/01/rdf-schema#label> "Christian M\u00E4hler" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/spe/Libes97> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Fred_Baker> <http://xmlns.com/foaf/0.1/name> "Fred Baker" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Geoffrey_Sampson> <http://xmlns.com/foaf/0.1/name> "Geoffrey Sampson" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/adaptive/Kobsa07> <http://swrc.ontoware.org/ontology#pages> "136-154"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icsoft/HermannsK11> <http://purl.org/dc/elements/1.1/creator> <http://dblp.l3s.de/d2r/resource/authors/Christian_Hermanns> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/nar/MarcaudGER86> <http://swrc.ontoware.org/ontology#volume> "14"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Yusaku_Okamura> <http://www.w3.org/2000/01/rdf-schema#label> "Yusaku Okamura" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/corr/abs-1007-4418> <http://swrc.ontoware.org/ontology#journal> <http://dblp.l3s.de/d2r/resource/journals/corr> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/ijitm/MishraM06> <http://xmlns.com/foaf/0.1/maker> <http://dblp.l3s.de/d2r/resource/authors/Alok_Mishra> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/mms/2009> <http://swrc.ontoware.org/ontology#editor> <http://dblp.l3s.de/d2r/resource/authors/Hagen_H%C3%B6pfner> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/V._Valle> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.l3s.de/Authors/V.+Valle> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/mva/MitsugamiUK05> <http://purl.org/dc/elements/1.1/title> "Fixed-Center Pan-Tilt Projector and Its Calibration Methods."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/dcv/AbeM01> <http://xmlns.com/foaf/0.1/homepage> <http://doi.ieeecomputersociety.org/10.1109/DCV.2001.929942> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Jian-Wen_Feng> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/iastedSE/JuneidiV04> <http://swrc.ontoware.org/ontology#pages> "433-440"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Nic_Mokhoff> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.l3s.de/Authors/Nic+Mokhoff> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/iconip/Yuan09> <http://purl.org/dc/terms/issued> "2008"^^<http://www.w3.org/2001/XMLSchema#gYear> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/ishpc/KusanoSS00> <http://swrc.ontoware.org/ontology#pages> "403-414"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/eacl/NarayananH93> <http://purl.org/dc/elements/1.1/creator> <http://dblp.l3s.de/d2r/resource/authors/Ajit_Narayanan> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/tcs/JunghannsS01> <http://purl.org/dc/elements/1.1/title> "Sokoban: improving the search with relevance cuts."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/pricai/MoshiriBTB04> <http://purl.org/dc/elements/1.1/type> <http://purl.org/dc/dcmitype/Text> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Hugh_Hudson> <http://www.w3.org/2000/01/rdf-schema#label> "Hugh Hudson" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/sigmod/Franklin97b> <http://purl.org/dc/elements/1.1/title> "Editor's Notes."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/ipl/AtallahK81> <http://xmlns.com/foaf/0.1/maker> <http://dblp.l3s.de/d2r/resource/authors/Mikhail_J._Atallah> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/infsof/DingCAH09> <http://purl.org/dc/elements/1.1/type> <http://purl.org/dc/dcmitype/Text> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Mustapha_Rachik> <http://www.w3.org/2000/01/rdf-schema#label> "Mustapha Rachik" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/apweb/HattoriHOPS06> <http://purl.org/dc/terms/partOf> <http://dblp.l3s.de/d2r/resource/publications/conf/apweb/2006> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/synthese/Doria07> <http://swrc.ontoware.org/ontology#pages> "401-415"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/fss/BroekhovenB08> <http://purl.org/dc/elements/1.1/creator> <http://dblp.l3s.de/d2r/resource/authors/Bernard_De_Baets> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/titb/BankmanNSGWB97> <http://swrc.ontoware.org/ontology#volume> "1"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/intenv/G-EscribanoZGEMP09> <http://purl.org/dc/terms/issued> "2009"^^<http://www.w3.org/2001/XMLSchema#gYear> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Shawn_M._Gomez> <http://xmlns.com/foaf/0.1/name> "Shawn M. Gomez" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/deec/X05> <http://www.w3.org/2002/07/owl#sameAs> <http://bibsonomy.org/uri/bibtexkey/conf/deec/X05/dblp> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icnc/Yue10> <http://xmlns.com/foaf/0.1/maker> <http://dblp.l3s.de/d2r/resource/authors/Panxiang_Yue> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Chandramouli_Paramanand> <http://xmlns.com/foaf/0.1/name> "Chandramouli Paramanand" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Sheng-Hung_Lai> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/date/ReedLBMC04> <http://xmlns.com/foaf/0.1/maker> <http://dblp.l3s.de/d2r/resource/authors/D._K._Reed> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/fskd/Zhang07> <http://xmlns.com/foaf/0.1/homepage> <http://dx.doi.org/10.1109%2FFSKD.2007.495> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/secrypt/KiyomotoFM09> <http://www.w3.org/2000/01/rdf-schema#label> "An Offline Peer-to-peer Broadcasting Scheme with Anonymity."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/A._P._Baraban> <http://www.w3.org/2000/01/rdf-schema#label> "A. P. Baraban" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/jgaa/Mezzini07> <http://swrc.ontoware.org/ontology#pages> "239-257"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/cmg/Foxon99> <http://www.w3.org/2002/07/owl#sameAs> <http://bibsonomy.org/uri/bibtexkey/conf/cmg/Foxon99/dblp> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/cata/MeehanW06> <http://purl.org/dc/elements/1.1/type> <http://purl.org/dc/dcmitype/Text> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/sac/YanML09> <http://swrc.ontoware.org/ontology#series> <http://dblp.l3s.de/d2r/resource/conferences/sac> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/wilf/CeccarelliM05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Sang-Yub_Lee> <http://www.w3.org/2000/01/rdf-schema#label> "Sang-Yub Lee" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/cicling/FerroOG05> <http://purl.org/dc/elements/1.1/type> <http://purl.org/dc/dcmitype/Text> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/jcss/Spielmann03> <http://xmlns.com/foaf/0.1/maker> <http://dblp.l3s.de/d2r/resource/authors/Marc_Spielmann> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/gecco/Ortegon-CanoHS10> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.uni-trier.de/db/conf/gecco/gecco2010.html#Ortegon-CanoHS10> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Ching-Chih_Kuo> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.l3s.de/Authors/Ching-Chih+Kuo> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Arnaud_Buhot> <http://www.w3.org/2000/01/rdf-schema#label> "Arnaud Buhot" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/ftcs/WangCHE97> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/S._Heikkil%C3%A4> <http://xmlns.com/foaf/0.1/name> "S. Heikkil\u00E4" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/ias/HonderdJA86> <http://swrc.ontoware.org/ontology#series> <http://dblp.l3s.de/d2r/resource/conferences/ias> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/corr/abs-cs-0512019> <http://purl.org/dc/elements/1.1/title> "Amazing geometry of genetic space or are genetic algorithms convergent?"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/mobicom/GuptaLMC06> <http://purl.org/dc/terms/issued> "2006"^^<http://www.w3.org/2001/XMLSchema#gYear> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Tyler_Anderson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/ismvl/Chiueh91> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icip/HuangC98a> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.uni-trier.de/db/conf/icip/icip1998-3.html#HuangC98a> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/ewc/YangWC05> <http://xmlns.com/foaf/0.1/maker> <http://dblp.l3s.de/d2r/resource/authors/Maria_C._Yang> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/cacm/Glass99a> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.uni-trier.de/db/journals/cacm/cacm42.html#Glass99a> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/bioinformatics/ODonovanMGCA99> <http://purl.org/dc/terms/bibliographicCitation> <http://dblp.uni-trier.de/rec/bibtex/journals/bioinformatics/ODonovanMGCA99> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/R._Guidry> <http://xmlns.com/foaf/0.1/name> "R. Guidry" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/speech/VallabhaT02> <http://swrc.ontoware.org/ontology#pages> "141-160"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Josep_Cant%C3%B3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/dcg/SikiricSV10> <http://swrc.ontoware.org/ontology#volume> "44"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Lucio_Trodella> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/ifip5-3/IungRDR02> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.uni-trier.de/db/conf/ifip5-3/basys2002.html#IungRDR02> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/ijcgt/MuratetTJV09> <http://purl.org/dc/elements/1.1/creator> <http://dblp.l3s.de/d2r/resource/authors/Fabienne_Viallet> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Hisayuki_Hirabayashi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/sigmod/TaylorI06> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Yusuke_Manabe> <http://xmlns.com/foaf/0.1/name> "Yusuke Manabe" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Elizabeth_Fisher> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.l3s.de/Authors/Elizabeth+Fisher> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/issta/SevcikovaBSB06> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Tsong-Ming_Tsai> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.l3s.de/Authors/Tsong-Ming+Tsai> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/dam/FaigleST92> <http://purl.org/dc/elements/1.1/title> "The Communication Complexity of Interval Orders."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/P._Mart%C3%ADnez-Gonz%C3%A1lez> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.l3s.de/Authors/P.+Mart%C3%ADnez-Gonz%C3%A1lez> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/adma/LengY06> <http://purl.org/dc/terms/issued> "2006"^^<http://www.w3.org/2001/XMLSchema#gYear> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Tedros_Weldemicael_Zeratsion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/egpgv/RuitersRK09> <http://www.w3.org/2000/01/rdf-schema#label> "Parallelized Matrix Factorization for fast BTF Compression."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Yuping_Deng> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.l3s.de/Authors/Yuping+Deng> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/nips/SaundersAP93> <http://www.w3.org/2000/01/rdf-schema#label> "Structural and Behavioral Evolution of Recurrent Networks."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Hilary_F._Clark> <http://www.w3.org/2000/01/rdf-schema#label> "Hilary F. Clark" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/iccad/ChoudhuryM10> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.uni-trier.de/db/conf/iccad/iccad2010.html#ChoudhuryM10> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icip/MattaD07> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/aina/ZewduDL09> <http://purl.org/dc/elements/1.1/type> <http://purl.org/dc/dcmitype/Text> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Sean_Owen> <http://xmlns.com/foaf/0.1/name> "Sean Owen" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/entcs/Pratt97> <http://purl.org/dc/elements/1.1/title> "Towards full completeness of the linear logic of Chu spaces."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/tit/HostJZ02> <http://purl.org/dc/terms/issued> "2002"^^<http://www.w3.org/2001/XMLSchema#gYear> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/interspeech/HozjanK03> <http://xmlns.com/foaf/0.1/homepage> <http://www.isca-speech.org/archive/eurospeech_2003/e03_0133.html> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/nips/MurataYA92> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.uni-trier.de/db/conf/nips/nips1992.html#MurataYA92> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Lino_A._S._de_Carvalho> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.l3s.de/Authors/Lino+A.+S.+de+Carvalho> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/computer/KhoshgoftaarO94> <http://www.w3.org/2000/01/rdf-schema#label> "Software Metrics: Charting the Course - Guest Editors' Introduction."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Yasuhiro_Watashiba> <http://xmlns.com/foaf/0.1/name> "Yasuhiro Watashiba" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/questa/GlazebrookLA03> <http://purl.org/dc/elements/1.1/title> "Index Heuristics for Multiclass M/G/1 Systems with Nonpreemptive Service and Convex Holding Costs."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Shih-Hau_Fang> <http://xmlns.com/foaf/0.1/name> "Shih-Hau Fang" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/opnetec/LeeYJW04> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.uni-trier.de/db/conf/opnetec/opnetec2004.html#LeeYJW04> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/eor/DemangeP05> <http://www.w3.org/2002/07/owl#sameAs> <http://bibsonomy.org/uri/bibtexkey/journals/eor/DemangeP05/dblp> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/iwdw/ZhengHCYY09> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.uni-trier.de/db/conf/iwdw/iwdw2009.html#ZhengHCYY09> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/iscas/ToumazouPP95> <http://purl.org/dc/elements/1.1/creator> <http://dblp.l3s.de/d2r/resource/authors/Alison_Payne> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Hans-Joachim_Zabel> <http://www.w3.org/2000/01/rdf-schema#label> "Hans-Joachim Zabel" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icra/MunozOPS94> <http://purl.org/dc/terms/bibliographicCitation> <http://dblp.uni-trier.de/rec/bibtex/conf/icra/MunozOPS94> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Carlota_M._Cuesta> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.l3s.de/Authors/Carlota+M.+Cuesta> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/itse/AdamNN09> <http://www.w3.org/2002/07/owl#sameAs> <http://bibsonomy.org/uri/bibtexkey/journals/itse/AdamNN09/dblp> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/L._Snider> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/T._Soma> <http://www.w3.org/2000/01/rdf-schema#label> "T. Soma" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/nc/CarboneS03> <http://purl.org/dc/elements/1.1/identifier> "DBLP journals/nc/CarboneS03"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/amc/NaimzadaR08> <http://xmlns.com/foaf/0.1/homepage> <http://dx.doi.org/10.1016%2Fj.amc.2007.09.061> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Z._Z._Li> <http://xmlns.com/foaf/0.1/name> "Z. Z. Li" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/K._D._Powell> <http://xmlns.com/foaf/0.1/name> "K. D. Powell" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/rtas/AlEnawyA05> <http://xmlns.com/foaf/0.1/homepage> <http://doi.ieeecomputersociety.org/10.1109/RTAS.2005.20> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/webdb/BoimKMR10> <http://www.w3.org/2000/01/rdf-schema#label> "Improved Recommendations via (More) Collaboration."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/D._Waxman> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.l3s.de/Authors/D.+Waxman> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/tip/IvanoviciR11> <http://www.w3.org/2000/01/rdf-schema#label> "Fractal Dimension of Color Fractal Images."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Athanasios_K._Noulas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/mkwi/EymannK08> <http://purl.org/dc/terms/bibliographicCitation> <http://dblp.uni-trier.de/rec/bibtex/conf/mkwi/EymannK08> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Melissa_O%27Neill> <http://www.w3.org/2000/01/rdf-schema#label> "Melissa O'Neill" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/ivc/WangKK07> <http://xmlns.com/foaf/0.1/maker> <http://dblp.l3s.de/d2r/resource/authors/Chi-Wah_Kok> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/S._Okuda> <http://xmlns.com/foaf/0.1/name> "S. Okuda" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/gecco/RenF10> <http://purl.org/dc/terms/partOf> <http://dblp.l3s.de/d2r/resource/publications/conf/gecco/2010> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Lionel_Loubersac> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.l3s.de/Authors/Lionel+Loubersac> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Krystle_Kocik> <http://xmlns.com/foaf/0.1/name> "Krystle Kocik" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/rita/Schulte96> <http://purl.org/dc/elements/1.1/type> <http://purl.org/dc/dcmitype/Text> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Susan_Harvey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/et/BalenCLR07> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.uni-trier.de/db/journals/et/et23.html#BalenCLR07> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/mbec/KaurCS05> <http://purl.org/dc/elements/1.1/title> "Space-frequency quantiser design for ultrasound image compression based on minimum description length criterion."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Pierre_Fraise> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.l3s.de/Authors/Pierre+Fraise> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/aina/NakamuraTBMS05> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.uni-trier.de/db/conf/aina/aina2005.html#NakamuraTBMS05> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/euc/DuMLWG10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/jcit/Streeter78> <http://purl.org/dc/terms/bibliographicCitation> <http://dblp.uni-trier.de/rec/bibtex/conf/jcit/Streeter78> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Florian_Jaehn> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.l3s.de/Authors/Florian+Jaehn> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Steve_Tanny> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.l3s.de/Authors/Steve+Tanny> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/ijcomsys/BarrittSAM11> <http://purl.org/dc/terms/bibliographicCitation> <http://dblp.uni-trier.de/rec/bibtex/journals/ijcomsys/BarrittSAM11> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/bmcbi/NgVFCZPC09> <http://www.w3.org/2002/07/owl#sameAs> <http://bibsonomy.org/uri/bibtexkey/journals/bmcbi/NgVFCZPC09/dblp> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/irmj/SeshasaiG07> <http://purl.org/dc/terms/issued> "2007"^^<http://www.w3.org/2001/XMLSchema#gYear> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Li-Ping_Jia> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.l3s.de/Authors/Li-Ping+Jia> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/incdm/LeeLP09> <http://purl.org/dc/elements/1.1/subject> "Clustering .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Natalia_Burciu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Han_Ngee_Tan> <http://xmlns.com/foaf/0.1/name> "Han Ngee Tan" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/cp/GrimesW07> <http://swrc.ontoware.org/ontology#series> <http://dblp.l3s.de/d2r/resource/conferences/cp> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/tim/WangCR07> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.uni-trier.de/db/journals/tim/tim56.html#WangCR07> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/jcst/WanXGC00> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.uni-trier.de/db/journals/jcst/jcst15.html#WanXGC00> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Muhibur_Rasheed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/cor/DanielsHW99> <http://purl.org/dc/terms/issued> "1999"^^<http://www.w3.org/2001/XMLSchema#gYear> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/bibm/ChenCWN10> <http://xmlns.com/foaf/0.1/homepage> <http://dx.doi.org/10.1109%2FBIBM.2010.5706619> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/wcnc/BeaulieuC11> <http://purl.org/dc/terms/issued> "2011"^^<http://www.w3.org/2001/XMLSchema#gYear> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Joong-seok_Song> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/momm/AL-Suhail08> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/interspeech/IshiharaHNKOO04> <http://purl.org/dc/elements/1.1/creator> <http://dblp.l3s.de/d2r/resource/authors/Hiroshi_G._Okuno> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/concurrency/Benkner00> <http://swrc.ontoware.org/ontology#journal> <http://dblp.l3s.de/d2r/resource/journals/concurrency> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/W._R._Melville> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icassp/LiFXL11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/pr/IkedaYMFTK81> <http://xmlns.com/foaf/0.1/maker> <http://dblp.l3s.de/d2r/resource/authors/Katsuo_Ikeda> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/itc/KwonW95> <http://purl.org/dc/elements/1.1/type> <http://purl.org/dc/dcmitype/Text> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/reading/BohnackerFMR04> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Andreas_Tielmann> <http://xmlns.com/foaf/0.1/name> "Andreas Tielmann" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/simulation/KaratzaF06> <http://purl.org/dc/elements/1.1/creator> <http://dblp.l3s.de/d2r/resource/authors/Helen_D._Karatza> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Sina_Farsiu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/hci/Solberg99> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.uni-trier.de/db/conf/hci/hci1999-1.html#Solberg99> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/jcss/GoldmanKS01> <http://purl.org/dc/terms/issued> "2001"^^<http://www.w3.org/2001/XMLSchema#gYear> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/acl/IdeR01> <http://swrc.ontoware.org/ontology#series> <http://dblp.l3s.de/d2r/resource/conferences/acl> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/chi/NeustaedterF09> <http://purl.org/dc/terms/issued> "2009"^^<http://www.w3.org/2001/XMLSchema#gYear> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Bryan_Ford> <http://xmlns.com/foaf/0.1/homepage> <http://www.brynosaurus.com/> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Yehlin_Lee> <http://xmlns.com/foaf/0.1/name> "Yehlin Lee" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/R._P%C3%A9rez> <http://www.w3.org/2000/01/rdf-schema#label> "R. P\u00E9rez" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/artmed/HyfteMTR01> <http://swrc.ontoware.org/ontology#volume> "22"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icalp/AdamyAAE02> <http://swrc.ontoware.org/ontology#pages> "788-799"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/dft/2000> <http://www.w3.org/2002/07/owl#sameAs> <http://bibsonomy.org/uri/bibtexkey/conf/dft/2000/dblp> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/IEEEcit/JalalZ07> <http://www.w3.org/2000/01/rdf-schema#label> "Security and QoS Optimization for Distributed Real Time Environment."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Guo-Qiang_Li> <http://www.w3.org/2000/01/rdf-schema#label> "Guo-Qiang Li" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/cogsci/CrowleyS93> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.uni-trier.de/db/journals/cogsci/cogsci17.html#CrowleyS93> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/cec/Lopez-IbanezPP05> <http://purl.org/dc/terms/partOf> <http://dblp.l3s.de/d2r/resource/publications/conf/cec/2005> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/ipps/Fredj02a> <http://xmlns.com/foaf/0.1/maker> <http://dblp.l3s.de/d2r/resource/authors/E._Fredj> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/aaai/MenendezP07> <http://swrc.ontoware.org/ontology#series> <http://dblp.l3s.de/d2r/resource/conferences/aaai> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/igarss/AumannR10> <http://www.w3.org/2000/01/rdf-schema#label> "Correlation between the Sea Surface Temperature and the frequency of severe storms in the tropical oceans using seven years of AIRS data."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/mcm/SanchezMPFJ09> <http://swrc.ontoware.org/ontology#pages> "869-878"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Lawrence_F._Cunningham> <http://xmlns.com/foaf/0.1/name> "Lawrence F. Cunningham" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/iet-cdt/ChenT11> <http://swrc.ontoware.org/ontology#pages> "160-168"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Laetitia_Todesco> <http://www.w3.org/2000/01/rdf-schema#label> "Laetitia Todesco" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icpr/HaindlH10a> <http://purl.org/dc/elements/1.1/creator> <http://dblp.l3s.de/d2r/resource/authors/Martin_Hatka> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Sergei_Fotin> <http://www.w3.org/2000/01/rdf-schema#label> "Sergei Fotin" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Tilman_Lamparter> <http://xmlns.com/foaf/0.1/name> "Tilman Lamparter" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/ijprai/LiuL00> <http://www.w3.org/2000/01/rdf-schema#label> "A Compensated Fuzzy Hopfield Neural Network for Codebook Design in Vector Quantization."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/ecoi/Kool09> <http://purl.org/dc/terms/bibliographicCitation> <http://dblp.uni-trier.de/rec/bibtex/journals/ecoi/Kool09> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/ideas/YuMV06> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.uni-trier.de/db/conf/ideas/ideas2006.html#YuMV06> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/inffus/Phan-Luong08> <http://xmlns.com/foaf/0.1/homepage> <http://dx.doi.org/10.1016%2Fj.inffus.2007.01.002> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/George_Giannoulis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Pierre_Thorel> <http://xmlns.com/foaf/0.1/name> "Pierre Thorel" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/stoc/AndrewsJS07> <http://xmlns.com/foaf/0.1/homepage> <http://doi.acm.org/10.1145/1250790.1250813> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/iajit/NemaA09> <http://swrc.ontoware.org/ontology#volume> "6"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/nar/MilesMGW90> <http://www.w3.org/2002/07/owl#sameAs> <http://bibsonomy.org/uri/bibtexkey/journals/nar/MilesMGW90/dblp> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icra/SchleglBOS01> <http://swrc.ontoware.org/ontology#pages> "103-108"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/zmp/Kramer02> <http://purl.org/dc/elements/1.1/type> <http://purl.org/dc/dcmitype/Text> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/europar/ShipmanGB07> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icinco/MaioneLR05> <http://www.w3.org/2002/07/owl#sameAs> <http://bibsonomy.org/uri/bibtexkey/conf/icinco/MaioneLR05/dblp> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/oopsla/Rumbaugh87> <http://purl.org/dc/terms/issued> "1987"^^<http://www.w3.org/2001/XMLSchema#gYear> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Erik_Cuevas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Simone_Pulcini> <http://www.w3.org/2000/01/rdf-schema#label> "Simone Pulcini" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Baoan_Chen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Yuta_Goto> <http://xmlns.com/foaf/0.1/name> "Yuta Goto" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/nca/ChenI07> <http://purl.org/dc/terms/bibliographicCitation> <http://dblp.uni-trier.de/rec/bibtex/conf/nca/ChenI07> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/rivf/NguyenJLB08> <http://swrc.ontoware.org/ontology#series> <http://dblp.l3s.de/d2r/resource/conferences/rivf> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Adib_Rastegarnia> <http://www.w3.org/2000/01/rdf-schema#label> "Adib Rastegarnia" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Guilherme_Szundy> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.l3s.de/Authors/Guilherme+Szundy> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/William_L._McGill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Karell_Bertet> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.l3s.de/Authors/Karell+Bertet> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Alexander_Dieterle> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.l3s.de/Authors/Alexander+Dieterle> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/gc/HonkalaL03> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.uni-trier.de/db/journals/gc/gc19.html#HonkalaL03> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icra/ZolloATFG08> <http://swrc.ontoware.org/ontology#pages> "2031-2036"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/iolts/Mitra08> <http://swrc.ontoware.org/ontology#series> <http://dblp.l3s.de/d2r/resource/conferences/iolts> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Takuya_Tojo> <http://www.w3.org/2000/01/rdf-schema#label> "Takuya Tojo" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/hicss/HwangALSM03> <http://www.w3.org/2000/01/rdf-schema#label> "IRTL (Information Resource Transaction Layer) Middleware Design for P2P and Open GRID Services."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Astrid_Paeschke> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Marcin_Kuta> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.l3s.de/Authors/Marcin+Kuta> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/ijbc/AntoneliS08> <http://xmlns.com/foaf/0.1/maker> <http://dblp.l3s.de/d2r/resource/authors/Fernando_Antoneli> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icalt/HoelH09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/el/Fitzgerald06> <http://purl.org/dc/elements/1.1/title> "VICNET and Victoria's virtual library: a decade of online achievements."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/agis/WuGT97> <http://swrc.ontoware.org/ontology#number> "1&2"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/iscis/WooP09> <http://purl.org/dc/elements/1.1/title> "Stereo line matching based on the combination of geometric and intensity data."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icmcs/ShyuC00> <http://swrc.ontoware.org/ontology#series> <http://dblp.l3s.de/d2r/resource/conferences/icmcs> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/comsis/SunPW10> <http://www.w3.org/2000/01/rdf-schema#label> "3D mesh skeleton extraction using prominent segmentation."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/cdc/AraujoO09> <http://purl.org/dc/terms/bibliographicCitation> <http://dblp.uni-trier.de/rec/bibtex/conf/cdc/AraujoO09> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/cacm/Stonebraker08> <http://xmlns.com/foaf/0.1/homepage> <http://doi.acm.org/10.1145/1409360.1409379> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/isbi/MontaldoMCBTF10> <http://purl.org/dc/terms/issued> "2010"^^<http://www.w3.org/2001/XMLSchema#gYear> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/G%C3%A9rard_Le_Coq> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.l3s.de/Authors/G%C3%A9rard+Le+Coq> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/aici/AlvariHH11> <http://purl.org/dc/elements/1.1/title> "Detecting Overlapping Communities in Social Networks by Game Theory and Structural Equivalence Concept."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/eurasiaict/JungOKA02> <http://xmlns.com/foaf/0.1/maker> <http://dblp.l3s.de/d2r/resource/authors/Dong-Ik_Oh> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/John_Moeller> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.l3s.de/Authors/John+Moeller> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/jasss/Perfors02> <http://purl.org/dc/elements/1.1/title> "Simulated Evolution of Language: a Review of the Field."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/nhm/AndreianovLST10> <http://xmlns.com/foaf/0.1/maker> <http://dblp.l3s.de/d2r/resource/authors/Boris_Andreianov> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Robert_Hurst> <http://xmlns.com/foaf/0.1/name> "Robert Hurst" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/entcs/SteelB05> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.uni-trier.de/db/journals/entcs/entcs125.html#SteelB05> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/ar/LeeS10> <http://purl.org/dc/terms/issued> "2010"^^<http://www.w3.org/2001/XMLSchema#gYear> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/jpdc/WooUG99> <http://purl.org/dc/elements/1.1/creator> <http://dblp.l3s.de/d2r/resource/authors/Arif_Ghafoor> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Jongsu_Kim> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/swat/DegenerGL08> <http://swrc.ontoware.org/ontology#series> <http://dblp.l3s.de/d2r/resource/conferences/swat> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/colcom/SchulteDKSE09> <http://purl.org/dc/terms/bibliographicCitation> <http://dblp.uni-trier.de/rec/bibtex/conf/colcom/SchulteDKSE09> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icip/TanO00> <http://www.w3.org/2002/07/owl#sameAs> <http://bibsonomy.org/uri/bibtexkey/conf/icip/TanO00/dblp> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Matthew_Swift> <http://xmlns.com/foaf/0.1/name> "Matthew Swift" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/S._Henriksson> <http://www.w3.org/2002/07/owl#sameAs> <http://dblp.l3s.de/d2r/resource/authors/Timea_Illes-Seifert> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/sigite/CormanA04> <http://purl.org/dc/terms/bibliographicCitation> <http://dblp.uni-trier.de/rec/bibtex/conf/sigite/CormanA04> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/comcom/MastichiadisED94> <http://purl.org/dc/terms/bibliographicCitation> <http://dblp.uni-trier.de/rec/bibtex/journals/comcom/MastichiadisED94> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/iscas/MitranBE02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icc/RhiemeierB00> <http://xmlns.com/foaf/0.1/maker> <http://dblp.l3s.de/d2r/resource/authors/Arnd-Ragnar_Rhiemeier> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Xu-ping_Zhang> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.l3s.de/Authors/Xu-ping+Zhang> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/visalg/WeberFRM88> <http://swrc.ontoware.org/ontology#series> <http://dblp.l3s.de/d2r/resource/conferences/visalg> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/waltd/2008> <http://purl.org/dc/elements/1.1/type> <http://purl.org/dc/dcmitype/Collection> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Jana_K._Shen> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.l3s.de/Authors/Jana+K.+Shen> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Akinori_Okada> <http://www.w3.org/2000/01/rdf-schema#label> "Akinori Okada" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/tit/ZhangL09> <http://swrc.ontoware.org/ontology#journal> <http://dblp.l3s.de/d2r/resource/journals/tit> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/mompes/Demir06> <http://purl.org/dc/terms/bibliographicCitation> <http://dblp.uni-trier.de/rec/bibtex/conf/mompes/Demir06> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/kdd/YuJ08> <http://swrc.ontoware.org/ontology#series> <http://dblp.l3s.de/d2r/resource/conferences/kdd> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/tapsoft/Breugel91> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.uni-trier.de/db/conf/tapsoft/tapsoft91-1.html#Breugel91> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/his/RastegarAHM04> <http://swrc.ontoware.org/ontology#series> <http://dblp.l3s.de/d2r/resource/conferences/his> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/%C3%96mer_F._%C3%87elebi> <http://xmlns.com/foaf/0.1/name> "\u00D6mer F. \u00C7elebi" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/sede/BurginDL07> <http://xmlns.com/foaf/0.1/maker> <http://dblp.l3s.de/d2r/resource/authors/Haesun_K._Lee> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/moc/GuermondS04> <http://www.w3.org/2002/07/owl#sameAs> <http://bibsonomy.org/uri/bibtexkey/journals/moc/GuermondS04/dblp> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Daria_Podmetina> <http://xmlns.com/foaf/0.1/name> "Daria Podmetina" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/wscg/Bhatia04> <http://purl.org/dc/terms/bibliographicCitation> <http://dblp.uni-trier.de/rec/bibtex/conf/wscg/Bhatia04> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Ferit_Ke%C3%A7eci> <http://xmlns.com/foaf/0.1/name> "Ferit Ke\u00E7eci" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/nspw/WeirichS01> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.uni-trier.de/db/conf/nspw/nspw2001.html#WeirichS01> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/eurossc/JungKPCH06> <http://swrc.ontoware.org/ontology#series> <http://dblp.l3s.de/d2r/resource/conferences/eurossc> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/coling/Kipper06> <http://purl.org/dc/elements/1.1/title> "Argument Realization."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/cacm/Bond05> <http://purl.org/dc/elements/1.1/type> <http://purl.org/dc/dcmitype/Text> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/ifip8/CuzzocreaDGMS07> <http://www.w3.org/2000/01/rdf-schema#label> "Grid-VirtuE: A Layered Architecture for Grid Virtual Enterprises."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/gd/GoodrichLS05> <http://purl.org/dc/elements/1.1/creator> <http://dblp.l3s.de/d2r/resource/authors/George_S._Lueker> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/books/kl/Cordeschi02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/C._R._Harvey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/jnw/JirattigalachoteMWKT10> <http://swrc.ontoware.org/ontology#journal> <http://dblp.l3s.de/d2r/resource/journals/jnw> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/vlsi/PassosNMLFC06> <http://purl.org/dc/elements/1.1/creator> <http://dblp.l3s.de/d2r/resource/authors/Ant%C3%B4nio_Ot%C3%A1vio_Fernandes> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/vip/ChangY02> <http://purl.org/dc/terms/bibliographicCitation> <http://dblp.uni-trier.de/rec/bibtex/conf/vip/ChangY02> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/icc/HeDDNH00> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.uni-trier.de/db/conf/icc/icc2000-1.html#HeDDNH00> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Shan-Qing_Li> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.l3s.de/Authors/Shan-Qing+Li> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/cores/OwnH05> <http://xmlns.com/foaf/0.1/homepage> <http://dx.doi.org/10.1007%2F3-540-32390-2%5F47> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Rohit_Prasad> <http://www.w3.org/2000/01/rdf-schema#label> "Rohit Prasad" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/ifip3/McDougallCC03> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Zhongzhi_He> <http://www.w3.org/2000/01/rdf-schema#label> "Zhongzhi He" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/ieicet/ChenIZORTS11> <http://purl.org/dc/elements/1.1/type> <http://purl.org/dc/dcmitype/Text> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/rtcsa/KatoY06> <http://www.w3.org/2000/01/rdf-schema#label> "Extended U-Link Scheduling to Increase the Execution Efficiency for SMT Real-Time Systems."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/acsac/KumarSJZ05> <http://purl.org/dc/terms/partOf> <http://dblp.l3s.de/d2r/resource/publications/conf/acsac/2005> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/ijseke/AlvesF03> <http://www.w3.org/2000/01/rdf-schema#label> "Investigating Conflicts in Cots Decision-Making."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/aor/CastilloLP08> <http://purl.org/dc/elements/1.1/type> <http://purl.org/dc/dcmitype/Text> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/rsp/ShrivastavaJ99> <http://xmlns.com/foaf/0.1/maker> <http://dblp.l3s.de/d2r/resource/authors/S._Shrivastava> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Peter_T._Highnam> <http://www.w3.org/2000/01/rdf-schema#label> "Peter T. Highnam" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Geanbry_Demming> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/wia/Kempe00> <http://purl.org/dc/terms/issued> "2000"^^<http://www.w3.org/2001/XMLSchema#gYear> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/coling/ShimizuHOTN08> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.uni-trier.de/db/conf/coling/coling2008.html#ShimizuHOTN08> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/books/daglib/0020193> <http://purl.org/dc/terms/bibliographicCitation> <http://dblp.uni-trier.de/rec/bibtex/books/daglib/0020193> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Yuanhao_Liu> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.l3s.de/Authors/Yuanhao+Liu> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/wicsa/RadhakrishnanS07> <http://purl.org/dc/elements/1.1/creator> <http://dblp.l3s.de/d2r/resource/authors/Badri_Sriraman> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Thierry_Saunier> <http://xmlns.com/foaf/0.1/name> "Thierry Saunier" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Janet_E._Cahn> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.l3s.de/Authors/Janet+E.+Cahn> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/aaai/GhoseP99> <http://purl.org/dc/elements/1.1/identifier> "DBLP conf/aaai/GhoseP99"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/cp/MaherNQW08> <http://purl.org/dc/elements/1.1/creator> <http://dblp.l3s.de/d2r/resource/authors/Claude-Guy_Quimper> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/iolts/PougetDFPLFV08> <http://xmlns.com/foaf/0.1/homepage> <http://doi.ieeecomputersociety.org/10.1109/IOLTS.2008.39> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/jct/Trung84> <http://purl.org/dc/elements/1.1/identifier> "DBLP journals/jct/Trung84"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/M._Saraniti> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Sarah_Ricker> <http://xmlns.com/foaf/0.1/name> "Sarah Ricker" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/gis/DemiryurekPKS09> <http://swrc.ontoware.org/ontology#pages> "13-18"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/cogsci/CunhaC10> <http://xmlns.com/foaf/0.1/maker> <http://dblp.l3s.de/d2r/resource/authors/Fabio_Caldieraro> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/jsyml/Schmerl03> <http://purl.org/dc/elements/1.1/type> <http://purl.org/dc/dcmitype/Text> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/compcon/Scrutchin87> <http://purl.org/dc/elements/1.1/type> <http://purl.org/dc/dcmitype/Text> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/swat/TarhioU90> <http://purl.org/dc/terms/bibliographicCitation> <http://dblp.uni-trier.de/rec/bibtex/conf/swat/TarhioU90> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/ki/SpradoGH10> <http://purl.org/dc/elements/1.1/type> <http://purl.org/dc/dcmitype/Text> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/uist/MankoffA98> <http://www.w3.org/2000/01/rdf-schema#label> "Cirrin: A Word-Level Unistroke Keyboard for Pen Input."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/P._Anantha_Lakshmi> <http://www.w3.org/2000/01/rdf-schema#label> "P. Anantha Lakshmi" .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/ipm/AnegonVCCSM05> <http://purl.org/dc/elements/1.1/creator> <http://dblp.l3s.de/d2r/resource/authors/Benjam%C3%ADn_Vargas-Quesada> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/ipps/ElsterM09> <http://purl.org/dc/terms/issued> "2009"^^<http://www.w3.org/2001/XMLSchema#gYear> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/jcss/Hastad01> <http://swrc.ontoware.org/ontology#journal> <http://dblp.l3s.de/d2r/resource/journals/jcss> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/interact/RouetDB95> <http://purl.org/dc/elements/1.1/title> "Documentation as part of design: exploratory field studies."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/jcm/RakAMS10> <http://purl.org/dc/elements/1.1/type> <http://purl.org/dc/dcmitype/Text> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Wen-Hao_Lee> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.l3s.de/Authors/Wen-Hao+Lee> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/cisim/OngkittikulWK08> <http://www.w3.org/2002/07/owl#sameAs> <http://bibsonomy.org/uri/bibtexkey/conf/cisim/OngkittikulWK08/dblp> .}
+SELECT * WHERE {<http://dblp.l3s.de/d2r/resource/authors/Tim_C._Lukins> <http://xmlns.com/foaf/0.1/name> "Tim C. Lukins" .}

@@ -1,0 +1,14 @@
+SELECT ?subject ?object1 ?predicate2 ?object2 WHERE {?subject <http://www.geonames.org/ontology#parentFeature> ?object1 . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?object1 ?predicate2 ?object2 WHERE {?subject <http://www.geonames.org/ontology#featureClass> ?object1 . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?object1 ?predicate2 ?object2 WHERE {?subject <http://www.w3.org/2003/01/geo/wgs84_pos#lat> ?object1 . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?object1 ?predicate2 ?object2 WHERE {?subject <http://www.geonames.org/ontology#nearbyFeatures> ?object1 . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?object1 ?predicate2 ?object2 WHERE {?subject <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> ?object1 . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?object1 ?predicate2 ?object2 WHERE {?subject <http://www.geonames.org/ontology#alternateName> ?object1 . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?object1 ?predicate2 ?object2 WHERE {?subject <http://www.geonames.org/ontology#locationMap> ?object1 . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?object1 ?predicate2 ?object2 WHERE {?subject <http://www.geonames.org/ontology#countryCode> ?object1 . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?object1 ?predicate2 ?object2 WHERE {?subject <http://www.w3.org/2003/01/geo/wgs84_pos#long> ?object1 . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?object1 ?predicate2 ?object2 WHERE {?subject <http://www.geonames.org/ontology#featureCode> ?object1 . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?object1 ?predicate2 ?object2 WHERE {?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?object1 . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?object1 ?predicate2 ?object2 WHERE {?subject <http://www.geonames.org/ontology#parentADM1> ?object1 . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?object1 ?predicate2 ?object2 WHERE {?subject <http://www.geonames.org/ontology#name> ?object1 . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?object1 ?predicate2 ?object2 WHERE {?subject <http://www.geonames.org/ontology#parentCountry> ?object1 . ?subject ?predicate2 ?object2 .}

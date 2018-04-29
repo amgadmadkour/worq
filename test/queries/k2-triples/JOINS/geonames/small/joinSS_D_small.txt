@@ -1,0 +1,25 @@
+SELECT ?subject ?predicate2 WHERE {?subject <http://www.geonames.org/ontology#parentFeature> <http://sws.geonames.org/6360727/> . ?subject ?predicate2 "Tezanos" .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://www.geonames.org/ontology#postalCode> "12231" . ?subject ?predicate2 "\u10D0\u10DA\u10D1\u10D0\u10DC\u10D8"@ka .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://www.geonames.org/ontology#featureClass> <http://www.geonames.org/ontology#null> . ?subject ?predicate2 <http://sws.geonames.org/4043988/> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://www.geonames.org/ontology#featureClass> <http://www.geonames.org/ontology#V> . ?subject ?predicate2 "30.76667" .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://www.geonames.org/ontology#wikipediaArticle> <http://vo.wikipedia.org/wiki/V%C3%A9rac> . ?subject ?predicate2 <http://sws.geonames.org/2970023/nearby.rdf> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://www.geonames.org/ontology#parentFeature> <http://sws.geonames.org/3047449/> . ?subject ?predicate2 <http://sws.geonames.org/3045856/nearby.rdf> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://www.geonames.org/ontology#parentADM4> <http://sws.geonames.org/7086967/> . ?subject ?predicate2 <http://www.geonames.org/ontology#A.ADM4> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://www.geonames.org/ontology#featureClass> <http://www.geonames.org/ontology#T> . ?subject ?predicate2 <http://sws.geonames.org/127082/> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://www.geonames.org/ontology#featureCode> <http://www.geonames.org/ontology#S.AIRP> . ?subject ?predicate2 "H\u012Btrovas lidosta"@lv .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/American_Airlines_Theatre> . ?subject ?predicate2 <http://www.geonames.org/ontology#S> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://www.geonames.org/ontology#parentFeature> <http://sws.geonames.org/4813878/> . ?subject ?predicate2 <http://www.geonames.org/4799924/boydville.html> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://www.geonames.org/ontology#nearbyFeatures> <http://sws.geonames.org/3409162/nearby.rdf> . ?subject ?predicate2 <http://www.geonames.org/ontology#H.STMI> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://www.geonames.org/ontology#parentCountry> <http://sws.geonames.org/895949/> . ?subject ?predicate2 <http://sws.geonames.org/175497/> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://www.geonames.org/ontology#featureCode> <http://www.geonames.org/ontology#S.RHSE> . ?subject ?predicate2 "PK" .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://www.geonames.org/ontology#childrenFeatures> <http://sws.geonames.org/6536146/contains.rdf> . ?subject ?predicate2 <http://sws.geonames.org/3174618/> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://www.geonames.org/ontology#wikipediaArticle> <http://nl.wikipedia.org/wiki/Lancieux> . ?subject ?predicate2 <http://sws.geonames.org/6447680/> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://www.geonames.org/ontology#population> "28015" . ?subject ?predicate2 "\u0416\u0430\u0440\u0430"@ru .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "50.48724" . ?subject ?predicate2 <http://www.geonames.org/ontology#P> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://www.geonames.org/ontology#parentADM3> <http://sws.geonames.org/6356067/> . ?subject ?predicate2 "41.73161" .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://www.geonames.org/ontology#officialName> "Sn\u00F6k\u00F6len"@no . ?subject ?predicate2 "Sn\u00F8k\u00F8len"@no .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://www.geonames.org/ontology#alternateName> "Sunpingzhen" . ?subject ?predicate2 "107.42249" .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://www.geonames.org/ontology#parentFeature> <http://sws.geonames.org/2748469/> . ?subject ?predicate2 <http://www.geonames.org/ontology#P.PPLX> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://xmlns.com/foaf/0.1/page> <http://rdf.insee.fr/geo/COM_58157> . ?subject ?predicate2 <http://www.geonames.org/6438009/marigny-l-eglise.html> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://www.geonames.org/ontology#countryCode> "PG" . ?subject ?predicate2 <http://sws.geonames.org/2083546/> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://www.geonames.org/ontology#childrenFeatures> <http://sws.geonames.org/6451212/contains.rdf> . ?subject ?predicate2 <http://sws.geonames.org/3017382/> .}

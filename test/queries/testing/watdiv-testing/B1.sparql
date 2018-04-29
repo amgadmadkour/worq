@@ -1,0 +1,23 @@
+PREFIX dc: <http://purl.org/dc/terms/>
+PREFIX foaf:  <http://xmlns.com/foaf/>
+PREFIX gr:    <http://purl.org/goodrelations/>
+PREFIX gn:    <http://www.geonames.org/ontology#>
+PREFIX mo:    <http://purl.org/ontology/mo/>
+PREFIX og:    <http://ogp.me/ns#>
+PREFIX rev:   <http://purl.org/stuff/rev#>
+PREFIX rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs:  <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX sorg:  <http://schema.org/>
+PREFIX wsdbm: <http://db.uwaterloo.ca/~galuc/wsdbm/>
+
+SELECT ?v2 ?v0 ?v1 ?v6 ?v4 ?v5
+WHERE
+{
+    ?v2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://db.uwaterloo.ca/~galuc/wsdbm/Genre13> .
+    ?v2 <http://ogp.me/ns#tag> ?v1 .
+    ?v0 <http://db.uwaterloo.ca/~galuc/wsdbm/hasGenre> ?v2 .
+    ?v0 <http://ogp.me/ns#tag> ?v1 .
+    ?v0 <http://schema.org/author> ?v6 .
+    ?v4 <http://purl.org/stuff/rev#reviewer> ?v6 .
+    ?v4 <http://purl.org/stuff/rev#rating> ?v5 .
+}

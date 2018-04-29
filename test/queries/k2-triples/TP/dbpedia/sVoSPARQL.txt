@@ -1,0 +1,500 @@
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Hans_von_Kantzow> ?predicate <http://dbpedia.org/resource/Category:People_from_Storfors_Municipality> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Trent_%28Westside%29> ?predicate "Trent is the retail arm of the Tata group. Started in 1998, Trent operates Westside, one of the many growing retail chains in India."@en .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Infiband> ?predicate "225400432"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Bernard_Cornwell> ?predicate "Bernard Cornwell OBE (born 23 February 1944) is an English author of historical novels. He is best known for his novels about Napoleonic Wars rifleman Richard Sharpe which were adapted into a series of Sharpe television films."@en .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Peter_Charles_Anthony_of_Spain_de_Bourbon> ?predicate "21642119"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/%C5%81%C4%85ki_Kozielskie> ?predicate "21524394"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/List_of_Greek_episodes> ?predicate "The Big Easy Does It"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Hired_Truck_Program> ?predicate <http://dbpedia.org/resource/American_Mafia_events> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Robert_B._Lewis_Stakes> ?predicate <http://dbpedia.org/resource/Millennium_Wind%28horse%29> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Council_of_Ephesus%2C_449> ?predicate <http://dbpedia.org/resource/Council_of_Ephesus%2C_449> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/The_Coast_News> ?predicate "828 N. Coast Highway 101"@en .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Har_Hamenuchot> ?predicate "175055051"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Kot_chibban> ?predicate "342467806"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Public_finance_in_Oregon> ?predicate "286992822"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Pyrylium_compound> ?predicate "91329829"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Decima_Moore> ?predicate <http://en.wikipedia.org/wiki/Decima_Moore> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Alliance%2C_Suriname> ?predicate <http://dbpedia.org/resource/G.N._Gummels> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Tickle_Me_Elmo> ?predicate "Tickle Me Elmo, is a children's toy from Tyco-Prescool, a division of Tyco Toys. It was introduced in the United States in 1996, becoming that year's top fad. Bright red in color and based on Elmo, a Muppet character from Sesame Street, when squeezed, Elmo would chortle. When squeezed three times in a row, Elmo would begin to shake and laugh hysterically. Tickle Me Elmo was invented by Ron Dubren and Greg Hyman, two veteran toy inventors. It was presented to Tyco Preschool as a laughing monkey."@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Summer_Wars> ?predicate <http://dbpedia.org/resource/Japan_Academy_Prize_for_Animation_of_the_Year> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Eagle%27s_Nest_%28Ontario%29> ?predicate <http://en.wikipedia.org/wiki/Eagle%27s_Nest_%28Ontario%29> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Shrek_the_Halls_Coverart.png> ?predicate "20936961"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Olympic_silver_medalists_for_China> ?predicate "313761917"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Reginald_McKnight> ?predicate <http://dbpedia.org/resource/Drue_Heinz_Literature_Prize> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Consall_railway_station> ?predicate "4839206"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Two_Hearts%2C_Two_Kisses_%28Make_One_Love%29> ?predicate <http://en.wikipedia.org/wiki/Two_Hearts%2C_Two_Kisses_%28Make_One_Love%29> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Temminck%27s_lark> ?predicate "178093398"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Duchenne_smile> ?predicate "303534826"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/SAO_228257> ?predicate <http://dbpedia.org/resource/SAO_228257> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Zebry-Wierzchlas> ?predicate <http://en.wikipedia.org/wiki/Zebry-Wierzchlas> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/property/peak7d> ?predicate "peak7D"@en .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Palatal_muscle> ?predicate "62550810"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Arms-Isenburg-Cleberg.png> ?predicate "9123848"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://upload.wikimedia.org/wikipedia/commons/2/2c/Wappen_Merkers-Kieselbach.png> ?predicate <http://en.wikipedia.org/wiki/Image:Wappen_Merkers-Kieselbach.png> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Abdelbaset_ali_Mohmed_al-Megrahi> ?predicate "259504759"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Radio_stations_in_Guerrero> ?predicate "17712364"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Walter_de_Luci> ?predicate "349556764"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/76_%28album%29> ?predicate "All tracks produced and engineered by Armin van Buuren"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/List_of_stock_market_indices> ?predicate <http://dbpedia.org/resource/FTSE_Global_100> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/St._Louis_County_Police_Department_%28Missouri%29> ?predicate "342870267"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/US_National_Agricultural_Library> ?predicate "6867620"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Suprachiasmatic_cistern> ?predicate "140151809"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Des%27ree> ?predicate "220783"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Jock_Anderson> ?predicate "268499413"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Sonority_hierarchy> ?predicate "A sonority hierarchy or sonority scale is a ranking of speech sounds by amplitude. For example, if you say the vowel &#91 .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Midland_School%2C_Los_Olivos%2C_California> ?predicate "Midland School, Los Olivos, California"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/La_Cenerentola> ?predicate <http://www.operadis-opera-discography.org.uk/CLROCENE.HTM> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Shadow_pokemon> ?predicate <http://dbpedia.org/resource/Shadow_pokemon> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Red-bellied> ?predicate <http://en.wikipedia.org/wiki/Red-bellied> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Colemanite> ?predicate "Bright pale yellow fluorescence, may phosphoresce pale green .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Radk%C3%B3w%2C_%C5%9Awi%C4%99tokrzyskie_Voivodeship> ?predicate "19.985277777777778"^^<http://www.w3.org/2001/XMLSchema#double> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/SubtleTea> ?predicate "245713499"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/The_Vanity_Projects> ?predicate "9280009"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/%28I%27m_in_Love_with%29_a_Wonderful_Guy> ?predicate "16908256"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Dr_BD_Kalla.jpg> ?predicate "313744312"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/List_of_mammals_of_Germany> ?predicate <http://dbpedia.org/resource/Hedgehog> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Henry_Lohmann> ?predicate "Lohmann, Henry"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Machine_Man> ?predicate <http://www.marveldirectory.com/individuals/m/machineman.htm> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Escanaba_River_State_Forest> ?predicate "12311043"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Albert_Corbiaux> ?predicate <http://dbpedia.org/resource/Albert_Corbiaux> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Mount_Konocti> ?predicate "348533033"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Vernon_Ward> ?predicate <http://dbpedia.org/resource/Henry_Tonks> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Kana_Oyama> ?predicate <http://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kana_Oyama%2C_2007-11-06.jpg/200px-Kana_Oyama%2C_2007-11-06.jpg> .}
+SELECT ?predicate WHERE {<http://upload.wikimedia.org/wikipedia/commons/d/d0/Vince_Desi.jpg> ?predicate <http://en.wikipedia.org/wiki/Image:Vince_Desi.jpg> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Brazil_at_the_2004_Summer_Olympics> ?predicate <http://dbpedia.org/resource/Renata_Costa> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Cultural_arts_playhouse> ?predicate <http://en.wikipedia.org/wiki/Cultural_arts_playhouse> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/William_Rockhill> ?predicate "William Rockhill (February 10, 1793 - January 15, 1865) was a U.S. Representative from Indiana. Born in Burlington, New Jersey, Rockhill attended the public schools. He moved to Fort Wayne, Indiana, in 1822. He engaged in agricultural pursuits. He served as commissioner of Allen County, Indiana, in 1825 Justice of the Peace. He served as member of the first city council of Fort Wayne and also city assessor. He served as member of the State house of representatives 1834-1837. He served in the State senate 1844-1847. Rockhill was elected as a Democrat to the Thirtieth Congress (March 4, 1847-March 3, 1849). He resumed agricultural pursuits. He died at Fort Wayne, Indiana, January 15, 1865. He was interred in Lindenwood Cemetery."@en .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/SS_Empire_Beaconsfield> ?predicate "320566834"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Farquharson_rifle> ?predicate "Farquharson rifle"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Department_of_Computer_Science%2C_FPMI%2C_Comenius_University> ?predicate <http://dbpedia.org/resource/Department_of_Computer_Science%2C_FMPI%2C_Comenius_University> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/She_%28Angel%29> ?predicate "1ADH13"@en .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Cissy_van_marxveldt> ?predicate "23364925"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Time-Limited_Error_Recovery> ?predicate <http://www.intel.com/products/desktop/chipsets/index.htm?iid=chipsets_body+dt_all> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Montr%C3%A9al_%28QC%29> ?predicate "Montr\u00E9al (QC)"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Sculptariidae> ?predicate "Sculptariidae"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Orchestral_Tubular_Bells> ?predicate <http://en.wikipedia.org/wiki/Orchestral_Tubular_Bells> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/List_of_California_state_parks> ?predicate <http://dbpedia.org/resource/Cayucos_State_Beach> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Shankaraji_Narayan> ?predicate <http://en.wikipedia.org/wiki/Shankaraji_Narayan> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/List_of_French_words_of_Germanic_origin> ?predicate <http://dbpedia.org/resource/Wikt:brailleur%23French> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/List_of_Kid_Nation_participants> ?predicate "14480494"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Miss_Ellie> ?predicate "18566202"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Bringhurst%2C_Indiana> ?predicate <http://dbpedia.org/resource/Bringhurst%2C_Indiana> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Anahata> ?predicate <http://dbpedia.org/resource/Tiphereth> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Khet_Thung_Khru> ?predicate "100.51"^^<http://www.w3.org/2001/XMLSchema#float> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/180th_Street_%E2%80%93_Bronx_Park_%28IRT_White_Plains_Road_Line%29> ?predicate <http://stationreporter.net/2train.htm> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Time_Requiem> ?predicate "337194114"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Peter_Fluck> ?predicate "Peter Nigel Fluck (born April 7, 1941, Cambridge) is a caricaturist and one half of the partnership known as \"Luck and Flaw\", creators of the satirical TV puppet show Spitting Image."@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Holy_Cross_Abbey_%28disambiguation%29> ?predicate <http://dbpedia.org/resource/Holy_Cross_Abbey_%28Canon_City%2C_Colorado%29> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/SydBarrettDoubleAlbum.jpg> ?predicate "254554363"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Sweets_Corners%2C_Leeds_and_Grenville_United_Counties%2C_Ontario> ?predicate "16785652"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Bonewood> ?predicate "21900065"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Jared_V._Peck> ?predicate "11592407"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Constitution_of_Peru> ?predicate <http://www.garciabelaunde.com/biblioteca/LasConstitucionesdelPeru.pdf> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Fergus_mac_L%C3%A9ide> ?predicate <http://dbpedia.org/resource/Fergus_mac_L%C3%A9ide> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Retreat_%28spiritual%29> ?predicate <http://dbpedia.org/resource/BJ23-chapel.jpg> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Flag_of_the_Vatican_City> ?predicate "The flag of the Vatican City was adopted on June 7, 1929, the year Pope Pius XI signed the Lateran Treaty with Italy, creating a new independent state governed by the Holy See. The Vatican flag is modeled on the flag of the earlier Papal States. The flag consists of two vertical bands, one of gold and one of white with the crossed keys of Saint Peter and the Papal Tiara centered in the white band. It is one of only two square country flags in the world, the other being the flag of Switzerland."@en .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Burt_Klakring> ?predicate <http://dbpedia.org/resource/Burt_Klakring> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Geri-Ann_Galanti> ?predicate "Geri-Ann Galanti is a medical anthropologist, and lecturer at the UCLA School of Medicine. Dr. Galanti is also a part-time professor at California State University's Department of Anthropology and California State University's School of Nursing. Dr. Galanti is a consultant to Doctors in Touch. Galanti is the author of the book Caring for Patients from Different Cultures, published by University of Pennsylvania Press."@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Thunderdome_%28arena%29> ?predicate <http://en.wikipedia.org/wiki/Thunderdome_%28arena%29> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Mount_Arapiles> ?predicate <http://www.chockstone.org/Arapiles/Arapiles.htm?page=arapiles> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/List_of_K-On%21_episodes> ?predicate <http://www.tbs.co.jp/anime/k-on/> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/DescartesCircles2.png> ?predicate "531773"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/CFR_Cluj> ?predicate <http://dbpedia.org/resource/UEFA_Champions_League_2008%E2%80%9309> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Bonsly> ?predicate "1742079"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Carl_Doyle> ?predicate "Carl Doyle"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Coalville_Town_F.C.> ?predicate "Cameron Stuart"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Upper_Tadong> ?predicate "Upper Tadong"@en .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Wing-nut> ?predicate "19614455"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/M%C3%A9m%C3%A9nil> ?predicate "48.2211111111 6.61166666667"@en .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/S._Francesco_di_Paola_ai_Monti> ?predicate "8086237"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/MS_Nils_Holgersson_%284%29> ?predicate "15798670"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/History_of_Bombay_under_British_rule> ?predicate <http://dbpedia.org/resource/Bombay_Thane_train_1853.jpg> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/1995_Rugby_World_Cup> ?predicate "Tries: 'Otai, Tu'ipulotu, Latukefu"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Holm_%28island%29> ?predicate "There are numerous islands containing the word Holm, especially in Scotland. In many cases the name is derived from the Old Norse holmr, meaning \"a small and rounded islet\". These include:"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/University_College%2C_Durham> ?predicate <http://dbpedia.org/resource/Joseph_Waite> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Independent_agency_of_the_United_States_Government> ?predicate <http://en.wikipedia.org/wiki/Independent_agency_of_the_United_States_Government> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Ain_es_Saheb_airstrike> ?predicate "Ain es Saheb airstrike"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Sean_MacEntee> ?predicate "Sean MacEntee"@en .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Dus%C3%A1n_S%C5%BEetzeti%C5%BEic%C5%BE> ?predicate "26363802"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Bowlder_walls> ?predicate <http://en.wikipedia.org/wiki/Bowlder_walls> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Applications_software> ?predicate <http://en.wikipedia.org/wiki/Applications_software> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Online_databases> ?predicate "348459949"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Southwark_Cathedral> ?predicate <http://www.shipoffools.com/mystery/specials/london_05/reports/1071.html> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Robert_Rogerson> ?predicate "Robert Rogerson"@en .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Third-party_software_component> ?predicate "349218"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Iran_at_the_2002_Asian_Games> ?predicate <http://dbpedia.org/resource/Elham_Hashemi> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Page_of_the_backstairs> ?predicate <http://dbpedia.org/resource/Page_of_the_backstairs> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Madrasas> ?predicate "54254642"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Salvador_Option> ?predicate <http://dbpedia.org/resource/Interior_Ministry_%28Iraq%29> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Glan_Conwy> ?predicate <http://www.llansanffraid-glan-conwy.co.uk/> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Boletus_frostii> ?predicate <http://dbpedia.org/resource/Quercus_seemanii> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Jonathan_Prince> ?predicate "Jonathan Alexander Prince (born August 16, 1958) is an American actor, director, screenwriter and movie producer."@en .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/A.V._Roe_IV> ?predicate "134146800"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Jonesboro_Massacre> ?predicate "2686840"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Jungfrun_i_tornet> ?predicate <http://en.wikipedia.org/wiki/Jungfrun_i_tornet> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/List_of_African_languages> ?predicate <http://dbpedia.org/resource/Heiban_Nuba> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/New_Democratic_Party_leadership_election%2C_1971> ?predicate <http://en.wikipedia.org/wiki/New_Democratic_Party_leadership_election%2C_1971> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/2000s-Hindi-film-stub> ?predicate "335457297"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Lucia_Quinciani> ?predicate "333490049"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Tufani_Saroj> ?predicate "7034875"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Tabitha_Babbitt> ?predicate "1840718"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/%C5%81ugowina> ?predicate "21934939"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/C.H.O%27D_Alexander> ?predicate "4103558"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Spole> ?predicate <http://dbpedia.org/resource/Spole> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Nude_dancing> ?predicate "16318523"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Rahr_West_Art_Museum> ?predicate <http://dbpedia.org/resource/Museums_in_Manitowoc_County%2C_Wisconsin> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Karrick%27s_Grocery_Store> ?predicate <http://en.wikipedia.org/wiki/Karrick%27s_Grocery_Store> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Nguyen_Van_L%C3%A9m> ?predicate "Nguyen Van L\u00E9m"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Ayla_Brown> ?predicate "Ayla Marie Brown (born July 28, 1988) is an American NCAA basketball player and recording artist from Wrentham, Massachusetts who is best known for her American Idol showing placing in the Top 16 on season 5 in 2005/06. She is the elder daughter of United States Senator Scott Brown of Massachusetts and WCVB-TV reporter Gail Huff."@en .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Bodenham> ?predicate "298602008"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/19th_Legislative_Assembly_of_Ontario> ?predicate <http://dbpedia.org/resource/Ian_Thomas_Strachan> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/BNP_Paribas_New_York> ?predicate <http://dbpedia.org/resource/BNP_Paribas_New_York> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Amtrak_rolling_stock> ?predicate "10490838"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Grand_Duchess_Anastasia_Nikolaevna_of_Russia> ?predicate <http://dbpedia.org/resource/Lastpic.jpg> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/New_Holland_railway_station> ?predicate "4947180"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Paradies%2C_wo_bist_du> ?predicate <http://dbpedia.org/resource/Paradies%2C_wo_bist_du> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Glorious_First_of_June> ?predicate <http://dbpedia.org/resource/%23notea> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Erythrina> ?predicate <http://dbpedia.org/resource/Erythrina_lanceolata> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Battle_of_Liegnitz_%281760%29> ?predicate "1760-08-15"^^<http://www.w3.org/2001/XMLSchema#date> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/ICD-10_Chapter_I:_Certain_infectious_and_parasitic_diseases> ?predicate <http://dbpedia.org/resource/Recrudescent_typhus> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/BL_8_inch_Howitzer_Mk_VI_-_VIII> ?predicate "BL 8 inch Howitzer Mk VI - VIII"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/1930_British_Empire_Games> ?predicate <http://dbpedia.org/resource/Cyril_Kennett> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Losey%2C_Joseph_Walton> ?predicate "2524863"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Utah_State_Route_89_Alternate> ?predicate <http://en.wikipedia.org/wiki/Utah_State_Route_89_Alternate> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Listenable_Records> ?predicate <http://dbpedia.org/resource/Bloodjinn> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Trinil_Tiger> ?predicate "Trinil Tiger"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Jaroslav_Erik_Fri%C4%8D> ?predicate <http://dbpedia.org/resource/Jaroslav_Erik_Fri%C4%8D_01.jpg> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Vote-icon.PNG> ?predicate "313912577"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/2nd_Rounds_on_Me> ?predicate "5394623"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Piedmont_Atlantic_MegaRegion> ?predicate <http://en.wikipedia.org/wiki/Piedmont_Atlantic_MegaRegion> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Velvet_Revolver_albums> ?predicate "277174888"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Kid_Courageous> ?predicate <http://www.kidcourageous.com> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Richard_Wigginton_Thompson> ?predicate "Richard Wigginton Thompson"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Staphylinoidea> ?predicate <http://en.wikipedia.org/wiki/Staphylinoidea> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Universities_and_colleges_in_Burma> ?predicate "14738359"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Ramakanta_Rath> ?predicate <http://www.loc.gov/acq/ovop/delhi/salrp/ramakantrath.html> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Fahna> ?predicate "Fahna"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Vale_of_Lune_RUFC> ?predicate "Vale Of Lune Rugby Union Football Club"@en .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Endicott_College> ?predicate "349553399"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Dvopop.jpg> ?predicate "334823663"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Army_of_Maldives> ?predicate "Army of Maldives"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Shaun_Hutchinson> ?predicate "Shaun Hutchinson"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Cavalier_Air_Force_Station> ?predicate <http://dbpedia.org/resource/Cavalierairforcestationparcs.jpg> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Lewis_de_Charleton> ?predicate "330575361"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Fricke_v._Lynch> ?predicate <http://dbpedia.org/resource/Aaron_Fricke> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/List_of_awards_and_nominations_for_Brazilian_films> ?predicate "1959: Black Orpheus Academy Award Best Foreign Language Film (won, credited as being a French production) *Cannes International Film Festival Palme d'Or (won) *BAFTA Film Award Best Film from Any Source (nominated, credited as being a French/Italian/Brazilian production) *Golden Globe Best Foreign Language Film (won, credited as being a French production - tied with other 4 films)"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/List_of_postal_codes_of_Switzerland> ?predicate <http://dbpedia.org/resource/Momp%C3%A9_Medel> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Fredrik_Johansson_%28musician%29> ?predicate <http://en.wikipedia.org/wiki/Fredrik_Johansson_%28musician%29> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Danielle_Peck_%28album%29> ?predicate "http://www.allmusic.com/cg/amg.dll?p=amg&sql=10:wcfuxqldldde"^^<http://www.w3.org/2001/XMLSchema#anyURI> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Out_Goin%27_Cattin%27> ?predicate "Out Goin' Cattin'"@en .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Arnold_Pannartz_and_Konrad_Sweynheim> ?predicate "11502064"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Ceropegia_woodii> ?predicate "291801982"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Ian_Aspinall> ?predicate <http://en.wikipedia.org/wiki/Ian_Aspinall> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/1737_Severny> ?predicate "16631555"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Transfer_of_sovereignty_over_Hong_Kong> ?predicate "349828542"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Independent_State_of_Rainbow_Creek> ?predicate <http://dbpedia.org/resource/Rainbow_Creek_02.JPG> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Thibaw_Min> ?predicate "Maung Pu"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Prairie_du_Sac%2C_WI> ?predicate <http://en.wikipedia.org/wiki/Prairie_du_Sac%2C_WI> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Teo_Castellanos> ?predicate <http://dbpedia.org/resource/Byron_Carlyle_Theater> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Roldanillo> ?predicate "4.416666666666667 -76.15"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/List_of_children%27s_literature_authors> ?predicate <http://dbpedia.org/resource/The_Adventure_Series_%28Willard_Price%29> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Kamnik%E2%80%93Savinja_Alps> ?predicate <http://dbpedia.org/resource/Vellach_Valley> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Hampton_Roads> ?predicate <http://www.thenmc.org/> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Cimhova> ?predicate "342095194"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Nya_Sverige> ?predicate "3708500"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Rue_de_la_Poulaillerie> ?predicate "45.764189"^^<http://www.w3.org/2001/XMLSchema#double> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Cear%C3%A1> ?predicate <http://dbpedia.org/resource/Ceara_SC_x_Fortaleza_EC_in_07_19_2008.jpg> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/For_The_Boys.jpg> ?predicate "18585305"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Georgetown_Hoyas_women%27s_basketball_players> ?predicate "5864909"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Bretton%2C_Derbyshire> ?predicate <http://en.wikipedia.org/wiki/Bretton%2C_Derbyshire> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Kluyveromyces> ?predicate <http://dbpedia.org/resource/Kluyveromyces_piceae> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Category:1956_in_Portugal> ?predicate "1956 in Portugal"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/June_2004_in_sports> ?predicate <http://news.bbc.co.uk/sport1/hi/tennis/3854959.stm> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Major_Major_Major> ?predicate "668783"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Hapaxanthous> ?predicate <http://en.wikipedia.org/wiki/Hapaxanthous> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Klosari> ?predicate "21284048"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Turkey%E2%80%93Greece_pipeline> ?predicate "7791066"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Jean_Seznec> ?predicate <http://dbpedia.org/resource/Emile_Male> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Muhammad_Ali%27s_seizure_of_power> ?predicate "The process of Muhammad Ali's seizure of power in Egypt was a long three way civil war between the Ottoman Turks, Egyptian Mamluks, and Albanian mercenaries. It ended in victory for the Albanians led by Muhammad Ali of Egypt. The war was a result of the French invasion of Egypt by Napoleon. After the French defeat by the British a power vacuum was created in Egypt. The Mamelukes had governed Egypt before the French invasion and still had much power in the area. Egypt was officially a part of the Ottoman Empire and Egypt still had many Turkish troops that were sent to evict the French. Many of the best troops were from Albania, then a province of the Ottoman Empire."@en .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Taxi_%28album%29> ?predicate "24640497"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Wisner%2C_LA> ?predicate <http://dbpedia.org/resource/Wisner%2C_Louisiana> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Monroe_Township%2C_Michigan> ?predicate "26-55060"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Milkwhite_Sheets> ?predicate "Sunday at Devil Dirt"@en .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Euclidean_travelling_salesman> ?predicate "273293203"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Sinnamarink_tv> ?predicate "3963733"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Emil_Gilels> ?predicate "Emil Gilels"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Fruit_anatomy> ?predicate <http://dbpedia.org/resource/Triterpenoid> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/List_of_cities_in_Montenegro> ?predicate <http://dbpedia.org/resource/Ibarac> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Viduthalai_Siruthaigal> ?predicate "21625327"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Sebasti%C3%A1n_Ligarde> ?predicate "509873"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Can_Tho_Museum> ?predicate "Can Tho Museum is a museum in Can Tho, Vietnam. Situated on the corner of Hoa Binh and Tran Quoc Toan streets it was established in 1976 and has more than 5000 objects and historical relics. It has a number of notable exhibits such as a traditional teahouse, a life-like tableau of a herbalist tending to a patient and various artifacts."@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Men_in_Black_II:_Alien_Escape> ?predicate <http://en.wikipedia.org/wiki/Men_in_Black_II:_Alien_Escape> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Midtown_Plaza_%28Rochester%29> ?predicate <http://www.youtube.com/watch?v=LtG2CfAwMGE> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/NYSE_Technologies> ?predicate "24286332"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Kobierzyn%2C_Pomeranian_Voivodeship> ?predicate "Kobierzyn, Pomeranian Voivodeship"@en .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Cambridge_University_v_Oxford_University_28_June-1_July_2005> ?predicate "1957846"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Football_at_the_1924_Summer_Olympics_%E2%80%93_Men%27s_team_squads> ?predicate <http://dbpedia.org/resource/Grigor_Stoyanov> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Data_transformation_%28statistics%29> ?predicate <http://www.sportsci.org/resource/stats/logtrans.html> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/ASKY_Airlines> ?predicate "ASKY Airlines"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/1st_Cavalry_Brigade_%28France%29> ?predicate <http://dbpedia.org/resource/Brigades_of_France> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/2009_Air_Force_Falcons_football_team> ?predicate "10:00 AM"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Meikleour> ?predicate "56.53333333333333 -3.3666666666666667"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/2008_Summer_Paralympics_Torch_Relay> ?predicate <http://dbpedia.org/resource/Tiantan> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/N_rocket> ?predicate "315430918"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Malayalam_films_of_the_1980s> ?predicate <http://dbpedia.org/resource/Ashwaradham> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Bischheim%2C_Germany> ?predicate "49.67098611111111"^^<http://www.w3.org/2001/XMLSchema#float> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Joseph_Varnum> ?predicate "11713430"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Proferrin> ?predicate "Proferrin"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Esad_Kari%C5%A1ik> ?predicate "Esad Kari\u0161ik"@en .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Padure_Manor> ?predicate "22206724"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/M7_highway_%28Russia%29> ?predicate <http://dbpedia.org/resource/Vorotynets> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/List_of_United_States_Supreme_Court_cases%2C_volume_307> ?predicate <http://dbpedia.org/resource/United_States_v._Marxen> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/2001_World_Championships_in_Athletics_-_Women%27s_Pole_Vault> ?predicate "19077396"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Category:Assassinated_Filipino_politicians> ?predicate "Assassinated Filipino politicians"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Nordland> ?predicate <http://eosweb.larc.nasa.gov/HPDOCS/misr/misr_html/norway_coast.html> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Ufo_abei> ?predicate "Melika et Pujade-Villar, 2005"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Gamasolaelaps> ?predicate <http://dbpedia.org/resource/Gamasolaelaps_aurantiacus> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Anne_of_Windy_Poplars> ?predicate "Anne of Windy Poplars, also published as Anne of Windy Willows in the UK, Australia and Japan, is an epistolary novel by L. M. Montgomery. First published in 1936 by McClelland and Stewart, it details Anne Shirley's experiences over three years teaching at a high school in Summerside, Prince Edward Island. The novel features a series of letters Anne sends to her intended, Gilbert Blythe, who is completing medical school. Chronologically, this book is fourth in the series, but it was the seventh book written."@en .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/World_Religions_Conference> ?predicate "19670082"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/San_Jose_Police_Department_%28California%29> ?predicate "343409111"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Generational_list_of_programming_languages> ?predicate <http://csgwww.uwaterloo.ca/sdtp/watfor.html> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Shinji_Nagashima> ?predicate <http://dbpedia.org/resource/Atsushi_Sugimura> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Winston_and_Weston_Doty.jpg> ?predicate "339840849"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Saxby_railway_station> ?predicate <http://en.wikipedia.org/wiki/Saxby_railway_station> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/SELENE> ?predicate "347664488"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/List_of_American_sabre_fencers> ?predicate <http://dbpedia.org/resource/Jason_Rogers> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Lagoa_do_taquaral> ?predicate "Lagoa do taquaral"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Tertiary_referral_centre> ?predicate "Tertiary referral centre"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Lake_evans_%28quebec%29> ?predicate <http://en.wikipedia.org/wiki/Lake_evans_%28quebec%29> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Cusick%2C_Washington> ?predicate "Cusick is a town in Pend Oreille County, Washington, United States. The population was 212 at the 2000 census."@en .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Die_Losgekaufte> ?predicate "67743695"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Naschitz%2C_Brandes_%26_Co.> ?predicate "Naschitz, Brandes & Co."@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Prix_Royal-Oak> ?predicate <http://dbpedia.org/resource/Bokbul> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Bradford%2C_Massachusetts> ?predicate "341211419"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Chinese_launch_complexes> ?predicate "26440796"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Vi%C5%A1egrad_massacres> ?predicate "Visegrad Briagde,Bosnian Serb Army"@en .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/List_of_characters_In_Fire_Emblem:_Fuin_no_Tsurugi> ?predicate "200507190"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Ajax-_Hark_the_Herald_Angel_Sings.jpg> ?predicate "25604006"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/William_Woodward_House> ?predicate "85001529"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/LG_Arts_Center> ?predicate <http://en.wikipedia.org/wiki/LG_Arts_Center> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Isoma_%28disambiguation%29> ?predicate "Isoma (disambiguation)"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/List_of_Songs_Used_on_Strictly_Come_Dancing> ?predicate <http://dbpedia.org/resource/Dave_Arch> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Roman_sites_in_Tyne_and_Wear> ?predicate "346530763"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Buelach_district> ?predicate <http://dbpedia.org/resource/Buelach_district> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Berkowo%2C_Warmian-Masurian_Voivodeship> ?predicate "21733036"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Transdev_London> ?predicate "344112968"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Moves_management> ?predicate <http://en.wikipedia.org/wiki/Moves_management> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Lewis_grizzard> ?predicate "Lewis grizzard"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Tepeyacac> ?predicate "Tepeyacac"@en .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/San_Francisco_%28album%29> ?predicate "348749310"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/John_Breckinridge_Castleman> ?predicate "12533737"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Wiktorzyn%2C_Masovian_Voivodeship> ?predicate <http://dbpedia.org/resource/Wiktorzyn%2C_Masovian_Voivodeship> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Sissy_Schwarz> ?predicate "Schwarz, Elisabeth"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Long-tailed_Duck> ?predicate <http://dbpedia.org/resource/Congener%23Biology> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Francheville%2C_Orne> ?predicate "48.6372222222"^^<http://www.w3.org/2001/XMLSchema#float> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Indulgentiarum_Doctrina> ?predicate <http://en.wikipedia.org/wiki/Indulgentiarum_Doctrina> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/The_Owers> ?predicate "The Owers"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Federal_Highway_22> ?predicate "Federal Highway 22"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Nouvelle%2C_Quebec> ?predicate "230.63"^^<http://www.w3.org/2001/XMLSchema#double> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Nuxeo> ?predicate <http://trac.nuxeo.org/> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Moroccan_princes> ?predicate "130132821"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Diocese_of_arras> ?predicate <http://dbpedia.org/resource/Diocese_of_arras> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Metro_%28Portland_regional_government%29> ?predicate "16303231"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/NCC_Class_S2> ?predicate <http://dbpedia.org/resource/2-4-4> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Central_Bukidnon_Institute> ?predicate <http://dbpedia.org/resource/Central_Bukidnon_Institute.jpg> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/UN_veterans_in_Ireland> ?predicate "UN veterans in Ireland"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Agalactia> ?predicate <http://en.wikipedia.org/wiki/Agalactia> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Peasants%27_Party_%28Romania%29> ?predicate <http://upload.wikimedia.org/wikipedia/commons/a/a6/Harvest_time_in_Romania%2C_1920.jpg> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Vipera_latastei_monticola> ?predicate "Vipera latastei monticola"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Pont-sur-Meuse> ?predicate "48.8022222222 5.54888888889"@en .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/King_Mo> ?predicate "21931324"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Debbie_Rochon> ?predicate <http://en.wikipedia.org/wiki/Debbie_Rochon> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/ATP_citrate_synthase> ?predicate <http://dbpedia.org/resource/ATP_citrate_synthase> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Treaty_of_London_%281359%29> ?predicate "The Treaty of London (also known as the Second Treaty of London) was proposed by England, accepted by France, and signed in 1359. After Edward of Woodstook soundly defeated the French at Poitiers, where they captured Jean II of France, the French were forced to accept the terms of the English. Based on the terms of the accord, England was permitted to annex much of western France."@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Main_Street_%28TTC%29> ?predicate "43.68902777777778"^^<http://www.w3.org/2001/XMLSchema#double> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Cockneye> ?predicate <http://dbpedia.org/resource/Cockneye> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Edwin_Yates> ?predicate "1871-05-14"^^<http://www.w3.org/2001/XMLSchema#date> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Anchusa_class_sloop> ?predicate <http://dbpedia.org/resource/HMS_Coreopsis_%281917%29> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Norton_Center_Historic_District> ?predicate "329441930"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/BLAST%21_%28movie%29> ?predicate "BLAST! (movie)"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Ettore_Meini> ?predicate "1961-08=29"@en .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Tom_Shaw_%28football_player%29> ?predicate "249558914"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Albert_Einstein> ?predicate <http://dbpedia.org/resource/Wikilivres:Albert_Einstein> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Shawqat> ?predicate <http://en.wikipedia.org/wiki/Shawqat> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Partitioning_%28IBM_PC%29> ?predicate <http://dbpedia.org/resource/Partitioning_%28IBM_PC%29> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Over_the_Edge_%28Zimbabwe%29> ?predicate "Over the Edge (OTE for short) is a Zimbabwean multi-racial Theatrical company. It is one of Zimbabwe's most prolific and successful independent theatre companies. They have won both local and international acclaim, as well as numerous awards. They are best known for the imaginative re-inventions of Shakespeare and their original African works. They have had a long relationship with the Edinburgh Festival Fringe and have close links to Reps Theatre."@en .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Mongolia-party-stub> ?predicate "307075238"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Wayne_County%2C_Indiana> ?predicate "199076639"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Transportation_disasters_in_the_United_States> ?predicate "4436018"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Race_to_produce_a_plug-in_hybrid_car> ?predicate "17381698"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Zeiss_Ikon_Kolibri> ?predicate <http://www.powerhousemuseum.com/collection/database/?irn=346038> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/BFDW38_churchandthecrown_big.jpg> ?predicate "2848248"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/I%27m_Like_a_Virgin_Losing_a_Child> ?predicate "*AbsolutePunk \n*IGN \n*Pitchfork Media \n*Rocklouder \n*Sputnikmusic"@en .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/David_K._Bruce> ?predicate "249453434"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Lapd_exterior.jpg> ?predicate "9180081"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Polish_ultimatum_to_Lithuania_1938> ?predicate "16311864"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/El_Puente_%28Guarayos%29> ?predicate "345382725"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Aujon> ?predicate <http://dbpedia.org/resource/Orges%2C_Haute-Marne> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Encirclement_campaign_against_northeastern_jiangxi_soviet> ?predicate "Encirclement campaign against northeastern jiangxi soviet"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Cemetery_of_Barcelona> ?predicate "The Cemetery of Barcelona is located on the Montju\u00EFch. On one of the rocky slopes there are over one million buried dead. The main cemetery of Barcelona was opened in 1883. It was the consequence of the growing of that city that since early 19th C. went through the industrialisation and with it the demographic growth. At that time Barcelona reassured its central position in the Principality of Catalonia, as well as turning into the locomotive of Spain. The new cemetery was a second push to a movement calling for more hygiene and secularisation, bringing burial places away from the city centre and becoming city owned. The modernisation of societies in the industrial countries came hand by hand with a renovation of the arts. The always present classicism was displaced by a new regard to the gothic art, the discovering of exotic worlds as Egypt and Mesopotamia, together with the awe for a new free passionate spirit of those touched by Nature. As a synthesis of that new artistic trend we find a Line, the crack of whip and the style generated by it was called Art-Nouveau. In Catalonia, that style, called Modernisme in Catalan language, became very popular and even landed into so rare place as the cemetery. Essay about Barcelona's graveyard"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Norwegian_Festival_of_Literature> ?predicate <http://dbpedia.org/resource/D%C3%B8laJazz> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Basque_dialects> ?predicate "Much has been studied too on the Basque dialect spoken formerly in Alava. In 1997, Koldo Zuazo released research carried out on the issue based on dispersed recorded evidence (Landuchio's glossary,... ) and papers drawn up especially by Koldo Mitxelena. The pundit outlines three main linguistic areas running north to south, where features related to Western and Navarrese dialects mix up to different degrees according to their geographical position."@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Romkerhall_Waterfall> ?predicate <http://en.wikipedia.org/wiki/Romkerhall_Waterfall> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/D%C3%BAn_L%C3%BAiche> ?predicate "270999890"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Henry_Evans_Maude> ?predicate <http://www.adelaide.edu.au/library/special/maude.html> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Maryland_Route_560> ?predicate "Maryland Route 560 (MD 560) is a state highway in the U.S. state of Maryland. Known for most of its length as Gorman Road, the state highway runs 9.32 mi (15.00 km) from U.S. Route 50 (US 50) in Gorman north to MD 135 in Mountain Lake Park. MD 560 serves as the main street of Loch Lynn Heights and also provides a connection between US 50 on the east side of Backbone Mountain and the Oakland area. The state highway was constructed from both ends beginning in the early 1930s."@en .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Lighting> ?predicate "337767717"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Weteringbrug> ?predicate "Map NL - Haarlemmermeer - Weteringbrug.png"@en .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/W._James_Overton> ?predicate "328358759"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Chapman_State_Park> ?predicate "347369864"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Parable_of_the_Mustard_Seed> ?predicate <http://dbpedia.org/resource/The_Leaven> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Tony_McMahon> ?predicate <http://dbpedia.org/resource/Tony_McMahon.jpg> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/PZL_104_Wilga> ?predicate <http://dbpedia.org/resource/PZL_104_Wilga> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/E._A._Smyth> ?predicate <http://en.wikipedia.org/wiki/E._A._Smyth> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Tony_Haynes> ?predicate "21173695"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Professional_Ski_Simulator_Cover.jpg> ?predicate "24145268"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Sedelnikovskiy_Raion> ?predicate <http://dbpedia.org/resource/Sedelnikovskiy_Raion> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Wikipedian_Montreal_Alouettes_fans> ?predicate "68685954"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Rex_Connor> ?predicate "Reginald Francis Xavier \"Rex\" Connor (26 January 1907 - 22 August 1977), Australian politician, was a minister in the Whitlam government and promoted government investment to support national development. Surreptitious attempts to raise foreign loans led to his forced resignation and the fall of the Whitlam Government in 1975. The journalist Paul Kelly wrote in his book November 1975: \"It was the national interest that drove Rex Connor. He can be criticised for his naivety and poor judgement."@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/List_of_dolichopodid_genera> ?predicate <http://hbs.bishopmuseum.org/aocat/doli.html> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Rail_transport_in_South_Africa> ?predicate "3386397"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Dan_Glading> ?predicate "Glading"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/The_Fabulous_Kangaroos> ?predicate "NWA New Mexico"@en .}
+SELECT ?predicate WHERE {<http://upload.wikimedia.org/wikipedia/commons/e/ef/Bremgarten_Altstadt.jpg> ?predicate <http://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Bremgarten_Altstadt.jpg/200px-Bremgarten_Altstadt.jpg> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/This_Time_%28JoJo_song%29> ?predicate "83026336"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Acmella_oleracea> ?predicate <http://dbpedia.org/resource/Spilanthol> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Vanj> ?predicate "\u0412\u0430\u043D\u04B7"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Brian_Greene> ?predicate <http://arxiv.org/abs/hep-th/0409121> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/National_Youth_Rights_Association> ?predicate <http://www.youthrights.net> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Oahu_Railway_and_Land_Company_Right-of-Way> ?predicate "326453121"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Tanaophysopsis> ?predicate <http://dbpedia.org/resource/Tanaophysopsis> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Ascott_House> ?predicate <http://dbpedia.org/resource/Ascott_Madeira_walk.jpg> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Yanshou_County> ?predicate "The xian of Yanshou is an administrative subdivision of the province of Heilongjiang, China. It is under the jurisdiction of the prefecture-level city of Harbin."@en .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Ed_Kealty> ?predicate "337180928"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/WGLD_%28AM%29> ?predicate <http://en.wikipedia.org/wiki/WGLD_%28AM%29> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/List_of_Texas_state_forests> ?predicate "NameLocation (by alphabetical order)(of main entrance) E.O. Siecke State ForestNewton County I.D. Fairchild State ForestCherokee County John Henry Kirby Memorial State ForestTyler County Masterson State ForestJasper County W. Goodrich Jones State ForestMontgomery County"@en .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/450_mx_bike> ?predicate "23862098"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Alpha_Boys_School> ?predicate "Alpha Boy's School"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/President_of_Costa_Rica> ?predicate <http://en.wikipedia.org/wiki/President_of_Costa_Rica> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/W%C5%82adys%C5%82aw_Umiastowski> ?predicate <http://dbpedia.org/resource/Umiastowski> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Aarau> ?predicate <http://dbpedia.org/resource/Kern_%26_Co.> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Radionuclide_imaging> ?predicate "5598341"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Nonviolent_revolution> ?predicate <http://www.rferl.org/features/features_article_old.aspx?id=defcdd8b-273e-4087-83ad-604183cf796a&y=2005&m=03> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Hurricane_Alma_%281970%29> ?predicate "Tropical Depression Alma .JPG"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Jorge_Mart%C3%ADnez_%28motorcyclist%29> ?predicate <http://dbpedia.org/resource/1996_City_of_Imola_motorcycle_Grand_Prix> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Hawes_Township%2C_MI> ?predicate <http://dbpedia.org/resource/Hawes_Township%2C_MI> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Downham_Town_F.C.> ?predicate <http://en.wikipedia.org/wiki/Downham_Town_F.C.> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/French_franc> ?predicate "balle \nb\u00E2ton, patate, plaque, brique"@en .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Leroy_Gordon_Cooper> ?predicate "138687422"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Joseph_Rakowski> ?predicate "345105937"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Goodyear_airship_Columbia_IV> ?predicate <http://en.wikipedia.org/wiki/Goodyear_airship_Columbia_IV> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Love_Makes_the_World> ?predicate "Carole King, Humberto Gatica, Pop Rox, Kenny \"Babyface\" Edmonds"@en .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Underground_hip_hop> ?predicate "10419789"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Earley> ?predicate "51.433333"^^<http://www.w3.org/2001/XMLSchema#float> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Category:Human_death_in_Bangladesh> ?predicate "Human death in Bangladesh"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Heuksando> ?predicate "Korea-Heuksando Island-01.jpg"@en .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Tour_Adria> ?predicate "315501272"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Semyon_Varlamov_2009.jpg/200px-Semyon_Varlamov_2009.jpg> ?predicate <http://en.wikipedia.org/wiki/Image:Semyon_Varlamov_2009.jpg> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Ctsc.jpg> ?predicate "158939199"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Church_of_the_Holy_Cross%2C_Middlezoy> ?predicate "22734322"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Frequency-resolved_optical_gating> ?predicate "332066790"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/XHOCC-TV> ?predicate "XHOCC-TV"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Hemslingen> ?predicate "Hemslingen is a municipality in the district of Rotenburg, in Lower Saxony, Germany. Hemslingen belonged to the Prince-Bishopric of Verden, established in 1180. In 1648 the Prince-Bishopric was transformed into the Principality of Verden, which was first ruled in personal union by the Swedish Crown - interrupted by a Danish occupation (1712-1715) - and from 1715 on by the Hanoverian Crown. In 1807 the ephemeric Kingdom of Westphalia annexed the Principality, before France annexed it in 1810. In 1813 the Principality was restored to the Electorate of Hanover, which - after its upgrade to the Kingdom of Hanover in 1814 - incorporated the Principality in a real union and the Princely territory, including Hemslingen, became part of the new Stade Region, established in 1823."@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Jos%C3%A9_Pedro_Costigliolo> ?predicate <http://en.wikipedia.org/wiki/Jos%C3%A9_Pedro_Costigliolo> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Credited> ?predicate "212443051"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Bao_Thang%2C_Lao_Cai> ?predicate "274428794"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/EN6> ?predicate <http://en.wikipedia.org/wiki/EN6> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Anthony_Munroe> ?predicate <http://upload.wikimedia.org/wikipedia/en/5/5c/AnthonyMunroeTrinity.jpg> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Nazand_Begikhani> ?predicate <http://www.exiledwriters.co.uk/writers.shtml#Begikhani> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Chiyonofuji_Mitsugu> ?predicate <http://dbpedia.org/resource/Fukushima%2C_Hokkaid%C5%8D> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Small_School_Initiative> ?predicate "Small School Initiative"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Lucy_Gringe> ?predicate "Lucy Gringe"@en .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/XF5U> ?predicate "1230558"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Drosera_prostratoscaposa> ?predicate <http://dbpedia.org/resource/Sherwin_Carlquist> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/H%C5%99ensko> ?predicate "50.86666666666667 14.233333333333333"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Jedalla_Farda> ?predicate "Jedalla Farda"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Reading_High_School_%28Reading%2C_Pennsylvania%29> ?predicate "Reading High School"@en .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Musicals_by_Betty_Comden_and_Adolph_Green> ?predicate "314248974"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Theft_of_the_Jules_Rimet_Trophy> ?predicate <http://dbpedia.org/resource/Battersea_Park> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Runza_%28restaurant%29> ?predicate "Runza (previously also Runza Hut) is the name of a regional restaurant chain specializing in ethnic cuisine once served by the Volga German immigrants to the United States. In 1949, Sarah \"Sally\" Everett and her brother, Alex Brening opened the first Runza Drive-Inn in Lincoln, Nebraska and began serving runza sandwiches, a type of pastry filled with ground beef, onion, and cabbage from a small building near Pioneers Park. They eventually opened more locations in the late 1950s and added hamburgers to the menu. Her son, Donald Everett and friend Rod Beckman, who took over operations in 1966, began franchising and established a company. Today there are locations throughout Nebraska with additional locations in Colorado (2 locations), Iowa (1) and Kansas (1). In October 2008, the company's official website reported it operates and franchises 83 locations. The menu offers several types of Runza sandwiches, 100% beef hamburgers, grilled chicken sandwiches, homemade onion rings, soups, and milkshakes. The regional chain began a children's menu featuring \"Runza Rex and Friends\" and participates in reading and literacy programs. Runza's Lincoln, NE, location was reviewed by posters at Roadfood. com, a site dedicated to regional cuisine served in traditional \"roadside\" restaurants. The chain was also reported on in another well-known online guide to such cuisine, \"tesg's guide to big chain road food consumption\". Recent reviews are also posted on Yelp. com, another food review site popular with travelers. The meat and cabbage sandwiches are popular with sports fans, as the Western Illinois University's student newspaper, the Western Courier, reported that 10,000 Runza sandwiches were sold at vending stands in the stadium during the September 2004 football match between Western Illinois and the University of Nebraska."@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Ventiseri-Solenzara_Air_Base> ?predicate <http://en.wikipedia.org/wiki/Ventiseri-Solenzara_Air_Base> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Stenia_%28moth%29> ?predicate <http://dbpedia.org/resource/Stenia_pulverulalis> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Poland_in_the_Iron_Ages> ?predicate <http://dbpedia.org/resource/Poland_in_the_Iron_Ages> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Biology_cell> ?predicate <http://dbpedia.org/resource/Biology_cell> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Nucklavee> ?predicate "18949995"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Music_of_Sierra_Leone> ?predicate <http://www.sierra-leone.org/heroes10.html> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Toyota_TA-1> ?predicate "6129950"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Mayon_Volcano> ?predicate "349820181"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Railway_stations_in_Italy> ?predicate <http://dbpedia.org/resource/Albenga_railway_station> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/%D8%AA%D9%87%D8%B1%D8%A7%D9%86> ?predicate "170935138"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Urhunden_Prizes> ?predicate "332209449"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Duncan%2C_Iowa> ?predicate "Duncan, Iowa was founded in 1892 by Frank Urich Sr. and his wife Mary. This makes Drew Urich the long lost prince of Duncan. Located just 5 miles south of Duncan on 180th St. is \"The Ranch\" where Sir Prince Urich resides with Jessie Pup. Andrew Dale Urich, you are a turd."@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Kukkal> ?predicate <http://commons.wikimedia.org/w/index.php?title=Special:Upload&uselang=ownwork&uploadformstyle=plain> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Fire_troupe> ?predicate <http://www.pyrosutra.com/> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/1st_Battalion%2C_206th_Field_Artillery> ?predicate <http://en.wikipedia.org/wiki/1st_Battalion%2C_206th_Field_Artillery> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Fame_and_Fortune> ?predicate "Fame And Fortune is the seventh album by Bad Company, released in 1986. The group's lineup now consisted of Brian Howe in place of Paul Rodgers as lead vocalist. The first Bad Company album released by the reformed Bad Company. Released in 1986, the album features original members Mick Ralphs (Guitar) and Simon Kirke (Drums), with the addition of new frontman Brian Howe (formerly of Ted Nugent's band) substituting for original singer Paul Rodgers. While original bassist Boz Burrell appears credited as part of the lineup, a closer inspection of the liner notes reveals that session player Steve Price plays on the album, so it is unknown how much playing Burrell actually does."@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/United_States_Secretary_of_Housing_and_Urban_Development> ?predicate "The United States Secretary of Housing and Urban Development is the head of the United States Department of Housing and Urban Development, a member of the President's Cabinet, and thirteenth in the Presidential line of succession. The post was created with the formation of the Department of Housing and Urban Development on September 9, 1965, by President Lyndon B. Johnson's signing of the Department of Housing and Urban Development Act into law."@en .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/MKE> ?predicate "3291192"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Muse_%28band%29> ?predicate <http://dbpedia.org/resource/One_Big_Weekend> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Trenta> ?predicate <http://en.wikipedia.org/wiki/Trenta> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Billy_Papke> ?predicate <http://upload.wikimedia.org/wikipedia/commons/f/f3/Billy_Papke.jpg> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Expensive_Taste> ?predicate <http://www.ballerstatus.net/features/read/id/78721097/> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Insect_flight> ?predicate "3409272"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Dendrosenecio_adnivalis> ?predicate "Senecio erioneuron"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/List_of_settlements_in_Bosnia_and_Herzegovina> ?predicate <http://dbpedia.org/resource/Kle%C4%8Dkovac> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Inca_2> ?predicate "73347882"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/NASCAR_Mexico_T4_Series> ?predicate <http://dbpedia.org/resource/Carlos_Pardo_%28racecar_driver%29> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/KXSB> ?predicate "431 meters"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Moelyci_%28album%29> ?predicate "Moelyci (album)"@en .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/PEO_spherulitesthrupol1.JPG> ?predicate "9912485"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Norman_Herbert> ?predicate <http://en.wikipedia.org/wiki/Norman_Herbert> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Teemburra_Dam> ?predicate "147500.0"^^<http://dbpedia.org/datatype/megalitre> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Timeline_of_the_2003_Atlantic_hurricane_season> ?predicate <http://dbpedia.org/resource/Hurricane_Danny_%282003%29-_Close_up.jpg> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Robert_Siegel_Architects> ?predicate <http://www.koreaemb.org.cn/> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Bear_Head_Lake_State_Park> ?predicate "Bear Head Lake State Park is a 4,523 acre (18.30 km\u00B2) state park in northern Minnesota near the Boundary Waters Canoe Area Wilderness in St. Louis County."@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Confederation_of_European_Baseball> ?predicate "http://www.baseballeurope.com/"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/USS_Rodgers_%28TB-4%29> ?predicate <http://dbpedia.org/resource/USSRogers1.jpg> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Deinvillers> ?predicate "15923764"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Jami> ?predicate <http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Jami_Rose_Garden.jpg/200px-Jami_Rose_Garden.jpg> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Flag_of_Bhutan> ?predicate <http://dbpedia.org/resource/%C3%96nrey_Dharma_Sengye> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/%C5%8Cdomari_Dam> ?predicate "19667240"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Retezat_National_Park> ?predicate "337772615"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/List_of_law_enforcement_agencies_in_Michigan> ?predicate <http://dbpedia.org/resource/Ithaca_Police_Department_%28Michigan%29> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Bertha_Madras> ?predicate <http://dbpedia.org/resource/Association_of_University_Technology_Masters> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/List_of_Reno_911%21_episodes> ?predicate "After being trapped in a crook's getaway vehicle, Wiegel and Rizzo take advantage of this prime opportunity to get better acquainted."@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Bighapur> ?predicate "Bighapur"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Francis_Marion_Stokes> ?predicate <http://upload.wikimedia.org/wikipedia/commons/b/b2/Residence_Tudor_Front.jpg> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/101.7_WSFM> ?predicate "1645734"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Yu-Gi-Oh%21_The_Movie:_Fusion_Ultra%21_Bond_Over_Time_and_Space> ?predicate "341030176"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Dimitri_Djordjadze> ?predicate <http://www.purtonstoke.com/dmitri.htm> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Austrian_football_championship> ?predicate "Austrian football championship"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/New_Providence_School_District> ?predicate "The New Providence School District is a comprehensive community public school serving students from pre-kindergarten through twelfth grade in New Providence in Union County, New Jersey, United States. Students from Murray Hill share the New Providence school facilities. As of the 2007-08 school year, the district's four schools had an enrollment of 2,197 students and 172.9 classroom teachers (on an FTE basis), for a student\u2013teacher ratio of 12.7. The district is classified by the New Jersey Department of Education as being in District Factor Group \"I\", the second highest of eight groupings. District Factor Groups organize districts statewide to allow comparison by common socioeconomic characteristics of the local districts. From lowest socioeconomic status to highest, the categories are A, B, CD, DE, FG, GH, I and J."@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Church_of_North_India> ?predicate <http://dbpedia.org/resource/SR_Cutting> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Ark%C3%B6sund> ?predicate <http://dbpedia.org/resource/Sankt_Anna> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Centerville%2C_New_Jersey> ?predicate <http://en.wikipedia.org/wiki/Centerville%2C_New_Jersey> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Anatomy_of_the_Spirit> ?predicate "The Seven Stages of Power and Healing"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/List_of_flags_of_Belarus> ?predicate <http://dbpedia.org/resource/Coat_of_arms_of_Belarus> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Surcamps> ?predicate "50.0702778"^^<http://www.w3.org/2001/XMLSchema#double> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Peter_Aldis> ?predicate "&ndash .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Shake_ya_moneymaker> ?predicate <http://dbpedia.org/resource/Shake_ya_moneymaker> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Maya_Bond> ?predicate "\"Cute Papa\""@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Piacenza-Bobbio> ?predicate <http://dbpedia.org/resource/Peli_%28Coli%29> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Emergency_medical_responder_levels_by_state> ?predicate <http://dbpedia.org/resource/Emergency_medical_responder_levels_by_U.S._state> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Muthukrishnaperi> ?predicate <http://en.wikipedia.org/wiki/Muthukrishnaperi> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Wushu_at_the_2006_Asian_Games> ?predicate <http://dbpedia.org/resource/Medet_Abzhanov> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/International_Standard_Audiovisual_Number> ?predicate "344178990"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Category:Mexican_comedians> ?predicate <http://dbpedia.org/resource/Category:Mexican_comedy_and_humour> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Homosexuality_and_conservative_judaism> ?predicate <http://en.wikipedia.org/wiki/Homosexuality_and_conservative_judaism> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Operation_Plymouth_Rock> ?predicate "340377843"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/KMIK-AM> ?predicate <http://dbpedia.org/resource/KMIK-AM> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Al_Williamson> ?predicate "Self-portrait circa 1983"@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Henderson%2C_Western_Australia> ?predicate "Henderson is a suburb of Perth, Western Australia, located within the City of Cockburn."@en .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Ouro_Verde_de_Goi%C3%A1s> ?predicate <http://upload.wikimedia.org/wikipedia/commons/c/ca/Goias_Municip_OuroVerdedeGoias.svg> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/A_great_night_in_harlem> ?predicate <http://dbpedia.org/resource/A_great_night_in_harlem> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Frederic_William_II_of_Prussia> ?predicate <http://dbpedia.org/resource/Frederic_William_II_of_Prussia> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Collaboration_with_Nazis> ?predicate <http://dbpedia.org/resource/Collaboration_with_Nazis> .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Nekketsu_Kooha_Kunio_Kun> ?predicate "149140945"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Baden%2C_Switzerland> ?predicate "17792"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/1976_Summer_Paralympics> ?predicate <http://en.wikipedia.org/wiki/1976_Summer_Paralympics> .}
+SELECT ?predicate WHERE {<http://dbpedia.org/resource/Fayetteville_Street> ?predicate "Fayetteville Street"@en .}
+SELECT ?predicate WHERE {<http://en.wikipedia.org/wiki/Dervis_Mehmed> ?predicate "16333934"^^<http://www.w3.org/2001/XMLSchema#integer> .}

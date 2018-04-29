@@ -1,0 +1,25 @@
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://www.geonames.org/ontology#H> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 "Rothekrug" .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 "http://sws.geonames.org/2434177/about.rdf" .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://sws.geonames.org/2152274/> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://www.geonames.org/1907102/juroku.html> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://sws.geonames.org/5128581/> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://sws.geonames.org/688437/nearby.rdf> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://www.geonames.org/ontology#H.STM> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://sws.geonames.org/203312/> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://sws.geonames.org/2328926/> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://sws.geonames.org/2589581/> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 "-39.01823" .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://sws.geonames.org/5666480/> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://www.geonames.org/ontology#Feature> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://www.geonames.org/ontology#Feature> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://www.geonames.org/ontology#P> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://sws.geonames.org/2276622/> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://sws.geonames.org/2437797/> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 "http://sws.geonames.org/1637754/about.rdf" .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 "1003" .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 "http://sws.geonames.org/1838380/about.rdf" .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 "Ngadirejo Dua" .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://sws.geonames.org/2249221/> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://www.geonames.org/ontology#P.PPL> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 "9.5" .}

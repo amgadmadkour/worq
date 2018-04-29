@@ -1,0 +1,25 @@
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://www.geonames.org/3929888/san-agustin.html> . ?subject ?predicate2 <http://www.geonames.org/ontology#Feature> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 "-0.53352" . ?subject ?predicate2 <http://www.geonames.org/ontology#Feature> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://sws.geonames.org/5864445/nearby.rdf> . ?subject ?predicate2 <http://www.geonames.org/ontology#Feature> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://sws.geonames.org/276467/nearby.rdf> . ?subject ?predicate2 <http://www.geonames.org/ontology#Feature> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://sws.geonames.org/5554468/nearby.rdf> . ?subject ?predicate2 <http://www.geonames.org/ontology#Feature> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://sws.geonames.org/3271181/nearby.rdf> . ?subject ?predicate2 <http://www.geonames.org/ontology#Feature> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 "Monti Malad" . ?subject ?predicate2 <http://www.geonames.org/ontology#Feature> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 "http://sws.geonames.org/4842461/about.rdf" . ?subject ?predicate2 <http://www.geonames.org/ontology#Feature> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://www.geonames.org/6905361/helinping.html> . ?subject ?predicate2 <http://www.geonames.org/ontology#Feature> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 "Barrowman Lake" . ?subject ?predicate2 <http://www.geonames.org/ontology#Feature> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://www.geonames.org/2029768/obgoen-hara-toyrim.html> . ?subject ?predicate2 <http://www.geonames.org/ontology#Feature> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 "-59.01527" . ?subject ?predicate2 <http://www.geonames.org/ontology#Feature> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://www.geonames.org/7378067/doro-pusu.html> . ?subject ?predicate2 <http://www.geonames.org/ontology#Feature> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 "\u4F0F\u9F99\u5BFA"@zh . ?subject ?predicate2 <http://www.geonames.org/ontology#Feature> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 "12.88397" . ?subject ?predicate2 <http://www.geonames.org/ontology#Feature> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 "Klafled" . ?subject ?predicate2 <http://www.geonames.org/ontology#Feature> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://sws.geonames.org/174211/nearby.rdf> . ?subject ?predicate2 <http://www.geonames.org/ontology#Feature> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 "http://sws.geonames.org/7354860/about.rdf" . ?subject ?predicate2 <http://www.geonames.org/ontology#Feature> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://www.geonames.org/2096214/henu-oite-island.html> . ?subject ?predicate2 <http://www.geonames.org/ontology#Feature> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://www.geonames.org/1774680/sungai-gendang.html> . ?subject ?predicate2 <http://www.geonames.org/ontology#Feature> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 "Komaraku" . ?subject ?predicate2 <http://www.geonames.org/ontology#Feature> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 "-77.47666" . ?subject ?predicate2 <http://www.geonames.org/ontology#Feature> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 "http://sws.geonames.org/5398312/about.rdf" . ?subject ?predicate2 <http://www.geonames.org/ontology#Feature> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://www.geonames.org/7755735/tanjung-pandan.html> . ?subject ?predicate2 <http://www.geonames.org/ontology#Feature> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://www.geonames.org/6995891/rampur-naoli.html> . ?subject ?predicate2 <http://www.geonames.org/ontology#Feature> .}

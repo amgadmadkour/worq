@@ -1,0 +1,500 @@
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/5324271/apanolio-creek.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/184398/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Nytych" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/5560305/brazille-flat.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/847489/korpikylae.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Clarendon Township Park" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/1294891/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "-84.55" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/2875249/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/3934589/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/5724001/dry-creek.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Pool 29 8" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Trinity Baptist Church-Tulsa" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "41.23918" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Nayangcun"@zh .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Old Iari" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/3083032/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/3304129/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "-53.07418" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/3214653/puc.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "R\u00EDo Chica\u00F1a" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "26.96278" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/5752045/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "38.5833" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/3679878/la-arada.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/4751812/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/2160041/little-baldy.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/6450786/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Cato-ogan"@fil .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Slovakujo"@eo .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/4908538/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/411667/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/1595778/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/5582409/stevens-gulch-campground.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Desa Brangkal" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/3794856/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/2835921/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/3158426/ekren.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/3634245/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/1914072/guanyi.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Knutshyttan" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Sathani Anamai Ban Kok Ko" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/1983185/meihuaxi.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/5493395/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Kingdom Hall of Jehovahs Witnesses of Sugarhouse" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "53.96877" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/4291384/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/1335796/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/5419274/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/7079489/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "-4.0282" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/5915446/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Arasonkeni Kulam" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/4739272/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/1363390/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/1735828/belawai.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/2398568/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/7707920/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Mandago River" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Rungin" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Golobeci"@id .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/7121638/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "-9.9698" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/5890162/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "109.99503" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/5721493/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/4022460/la-calabaza.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "52.4591" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/765365/malice.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/2363585/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "45.01011" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/2803492/zwist-berg.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/3194481/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/6544660/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/3528101/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/632132/vaeyrylae.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "\u0634\u06CC\u0644\u06C0 \u062A\u0644 \u062E\u0634\u06A9" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/6220292/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "32.74072" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Czarna Novva" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/2016327/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "\u0428\u0438\u043F\u0430\u043A\u043E\u0432\u0430"@ru .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Mukora" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Bek\u00F3sarok" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/6453278/pointe-de-la-couennasse.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "\u062F\u0631\u06C0 \u0627\u0639\u062A\u0645\u0627\u0646" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Tall-e Kors\u012B" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "-112.04097" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/54495/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Changana" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "57.6557" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/1011392/deelvlei.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/7621472/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/7531522/> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/984491/langkloof.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Villa Sanitarium (historical)" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "-97.19138" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "31.13862" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/6898279/songbul-sa.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/7519333/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/601991/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/7769026/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/6531191/best-western-orton-hall-hotel.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/7075185/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/3812707/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/1997915/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/3095768/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Freyen" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/2720526/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/1422374/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "6.23674" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/6597716/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/5491956/snow-course-tank.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/1782689/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "86.4648" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/6547843/contains.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Tjikurutug 1" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/7448765/wahdat-al-mashaf.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/5656222/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/302026/salkimli.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Yale Elementary School" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/2076774/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/3411073/fazenda-vera-cruz.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Lady of the Snows" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/2571741/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "41.27147" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Market Tower" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Em\u0101mz\u0101deh Narges Kh\u0101t\u016Bn" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "44.03866" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/2254513/bafata.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "37.18108" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/6436236/contains.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/531831/malakhi.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "127.63612" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "103.0554" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/6789004/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "120.98759" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/1639339/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Sh\u012Br M\u0101r \u1E28ann\u0101" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Vunivandra Island" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/6439620/> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Stora Knallen" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "40.15646" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Khos B\u0101y" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Olga Marine State Park" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/3179973/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Laguna El Palito" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/1781403/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/7762834/ndala.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://en.wikipedia.org/wiki/Saipal> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/6255072/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/7203166/fredericksburg-montessori-school.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/329055/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/1282170/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/4308321/shotgun-lake.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "-99.12952" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Murim"@ko .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Laguna de la Palma" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/6803617/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Bertrand Township"@en .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "15.10154" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Sumusil" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/3145242/muvatn.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/4750444/calvary-baptist-church.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/2562074/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/158627/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/273854/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "40.7559" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/4916794/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/5552673/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "119.5247" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "30.00787" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "-24.68361" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/1890087/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/3831724/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/5025188/echo-post-office.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/5562903/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/4666162/watson-mine.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/5483029/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Cove Run Station (historical)" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Tsadawa" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/6360340/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Ch\u0101h Gha\u1E95anfarp\u016Br"@fa .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/4989332/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "-73.12427" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/5915974/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/547198/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/7642776/lanxi.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/2235945/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/2605056/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/7304141/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/1521666/kusto.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/6220840/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/6438985/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/4015114/rancho-casa-de-piedra.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "-96.77229" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/1588765/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/1436077/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/4330720/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://en.wikipedia.org/wiki/Feldbach%2C_Austria> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/3490444/four-paths-station.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/1370336/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/6444732/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Sh\u0101d\u012B K\u00EAlay" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/3579871/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/1539780/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/4729565/soil-conservation-service-site-1-dam.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/2665075/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Quebrada Pampa Hermoza" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/1763625/kampong-talau.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/542416/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Jacay" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/7162215/contains.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://zh.wikipedia.org/wiki/%E5%B7%B4%E5%8B%92%E8%8E%AB%E5%B8%82> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/2079380/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Rohwer" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/6734732/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/4266826/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/4784019/saint-peters-church.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/5481505/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Compogne" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/5076606/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/7048713/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/5768426/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/4914543/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/6406315/duwet.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Salsk\u00E4r" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/3974757/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "109.3082" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/6905475/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "29.22305" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "-3.521" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "72.84436" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "57.13006" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/902328/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/1194167/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "35.42267" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/3000251/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/5058376/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "47.77179" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/2566796/tsanda.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/1796619/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/6793102/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/5046403/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Gunnison Valley Volunteer Fire Department" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/5551673/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "-22.52028" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/503298/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/837678/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/3014221/> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "\u0E14\u0E2D\u0E22\u0E2A\u0E31\u0E19\u0E01\u0E30\u0E42\u0E15\u0E4B"@th .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "62.16636" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/4290228/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/2648583/gleann-glas-dhoire.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Holly Grove Township"@en .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/2569818/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/5204023/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Waard" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/5102698/pine-tree-point.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Chim" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/1947269/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/6276422/el-biader.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/180083/siriwo-sub-location.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/1679144/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "-75.98376" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/2625117/ytri-lambadalsa.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "4.29595" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Winota" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Bonzarea" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "-5.59411" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Gorhi Kh\u0101n Kalhoro" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/1613814/ban-rai-tha-manao.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/5980533/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Valamaz"@no .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/3259930/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/4319076/carolina-bluff-cemetery.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/2906053/herle-berg.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/1147390/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "118.5422" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/4152894/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/4316675/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/3377066/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "105.89163" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "-87.53056" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/7669390/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "El Asif" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/5816438/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/2309204/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/2337498/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Yamaquentsa" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/5583014/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/6486006/days-inn-west-broad-richmond.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Trod\u012B\u0101n" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/4597711/stone-station-church-historical.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Belo Pole" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Ouadi Norgoumara" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Store Svellingen" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/7230990/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/4145301/whatcoat-cemetery.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Ardoise Point" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Moh\u00E1csi-sziget" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/2958454/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "0.46298" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Cinyawang"@id .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/287350/manumah.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/411131/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Padiri Totam" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Ch\u0101h \u0100be F\u0113\u1E5F\u014Dz" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/4563775/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Blue Ridge Volunteer Fire and Rescue Company 8" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/164187/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Burketown" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/2906583/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/2720519/bonnarp.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/3151427/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "22.26984" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/4729126/smith-chapel-african-methodist-episcopal-church.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/468465/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/3967919/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/4075417/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/7717612/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "22.13949" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Marriott Austin South Airport" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "27.00714" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/6122088/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/1964640/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/7510750/amphoe-erawan.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/936600/zuurpoort.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/7518116/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/2421020/foleriya.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Soutpekel" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Villasimius"@pl .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/5638284/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "\u0414\u0451\u043C\u0438\u043Do" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "\u1E28asan Mahd\u012B" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/42047/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/7725629/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/106690/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Jib\u0101l Tab el Hamer"@ar .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/2587857/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/171078/buwaytikh.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/5337638/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Bugo"@fil .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "35015" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Lac Tasiarualuk" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "8.46978" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "\uD558\uCD94\uC554\uB9AC" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/6285451/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/3653298/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "-122.84102" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/1943127/lebutu.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Bath"@cs .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Sibsibbu"@fil .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/3108732/somio.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/2491555/daiet-el-korfa.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "30.19674" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Ash Shagh\u0101n\u012Byah" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/582886/alekseyevka.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/6003002/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/1236754/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/7727039/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/5506033/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/1164943/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "\u0411\u043E\u043B\u043E\u0442\u043E \u041C\u0430\u043A\u0441\u0435\u043D\u043E\u0432\u043E" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Yarrab Shrine Temple" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/5255578/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Maelra" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "-84.732" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "107.47595" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/6663203/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/1237417/madawela.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/3094767/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/6283916/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/1021012/baroda.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/2000061/beloran.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/174850/khnatsakh.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/6797714/un-gol.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/5376907/newport-pier.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "W\u0101d\u012B al Ba`r" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "100.56236" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Wat Sang Kaeo" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/3671574/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "T\u2019ai-miao" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/5561728/conard-lake.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "21917" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/4667386/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Kitafuji-damu" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/582575/alfer-yevo.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "T\u00FAnel Santa Barbara"@pt .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Puniasaba"@id .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/4638985/maclin-school.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/4334875/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/171000/wadi-ad-daffa-i.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/5781927/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/1333711/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/4415637/young-hollow.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/4149046/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/5914548/camp-sallimiut.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Khardang" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/6605357/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Namgang-junghakgyo" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/7196599/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/3573880/providence.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Qsh\u0142ax"@ku .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://en.wikipedia.org/wiki/Potlatch%2C_Idaho> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Saratoi Kandao" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/1670696/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/1358033/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/4941184/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/3330631/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/5335416/centerville-junior-high-school.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "-76.94734" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/2329545/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "14.32041" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/2319586/usuman.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/4027847/san-carlos.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/1635066/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/6978867/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/7429425/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/2837086/schoenarts.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://it.wikipedia.org/wiki/%C5%8Ctake> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "14.02375" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/647187/maanselkae.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/6267662/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/5145532/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/679329/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Al Thulaim" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dbpedia.org/resource/Mero%2C_Dominica> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "60.5875" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "-86.14011" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/2399657/lissoka-micouca.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/3237657/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Partzuergo Nagusia"@eu .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "-157.8221" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/1006831/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/3258726/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "97.9734" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/4299115/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://pt.wikipedia.org/wiki/Cedar_Falls> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "-3.72305" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "13.77017" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/6686269/bar-avkan.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/5766598/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/5738882/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Nez\u0327am R\u016Bd" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/7289904/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/4018278/arenal-de-morelos.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/4632580/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Muara Pantai" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Dilworth, City of" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "50.421" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "36.89941" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Sand\u012Bq" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/2672558/storasen.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/6044249/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/6401147/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/5395104/shelby-flat-historical.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/2902950/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/4665290/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Tall-e M\u012Bsh\u016B" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/1297842/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/7080390/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Kas\u012B\u0101n"@fa .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "-17.16727" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/3525586/la-jamaica.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/5043139/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Donji Lukomir" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/6406488/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/4886434/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/2962092/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Wesner Ditch" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/3722120/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "-90.40014" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Lambauing Island" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Stara Voda" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Stuttgartin p\u00E4\u00E4rautatieasema"@fi .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/3159496/dal.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/2699081/kroktjaernvallen.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/5159807/kirkwood-post-office-historical.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Wakefield Mountain" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/7645046/vaehae-pietari.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Three Quarters Creek" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Buzm\u016Bnund" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Chiclayo"@en .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/3595855/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Oulad Abbou" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "10.60365" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/3464573/dom-bosco.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "-102.92437" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "37.11827" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/1237144/mahadeniya-wewa.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/6278399/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "11108 Water Well" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/4724515/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/4771465/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Deerfield Lake Boat Ramp Campground" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/5432406/nebo-creek.html> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "http://sws.geonames.org/5458615/about.rdf" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://sws.geonames.org/2648101/nearby.rdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.geonames.org/7691953/rio-do-barigui.html> .}

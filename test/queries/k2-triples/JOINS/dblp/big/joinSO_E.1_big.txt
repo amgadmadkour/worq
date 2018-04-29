@@ -1,0 +1,5 @@
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://purl.org/dc/elements/1.1/creator> ?object . ?object ?predicate2 <http://xmlns.com/foaf/0.1/Agent> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://xmlns.com/foaf/0.1/maker> ?object . ?object ?predicate2 <http://xmlns.com/foaf/0.1/Agent> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://www.w3.org/2002/07/owl#sameAs> ?object . ?object ?predicate2 <http://xmlns.com/foaf/0.1/Agent> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://purl.org/dc/terms/partOf> ?object . ?object ?predicate2 <http://xmlns.com/foaf/0.1/Document> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://purl.org/dc/terms/partOf> ?object . ?object ?predicate2 <http://purl.org/dc/dcmitype/Text> .}

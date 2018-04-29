@@ -1,0 +1,25 @@
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://dbpedia.org/resource/County_Durham> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 "Estate agent"@en .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://dbpedia.org/resource/Peru_at_the_Olympics> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 "Zinc finger protein 35 is a protein that in humans is encoded by the ZNF35 gene."@en .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://dbpedia.org/resource/9_to_5_%28musical%29> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://dbpedia.org/resource/St_David%27s> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://www.blackwell-synergy.com/doi/pdf/10.1111/j.1467-7717.1984.tb00851.x> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://dbpedia.org/resource/Juan_Luis_Guerra> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://en.wikipedia.org/wiki/James_Humphreys_%28British_activist%29> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://dbpedia.org/resource/Eunet> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://dbpedia.org/resource/Living_people> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://dbpedia.org/resource/Freddie_Hubbard> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://dbpedia.org/resource/Sports_venues_in_Houston%2C_Texas> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://dbpedia.org/resource/Naoto_Kanda> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://dbpedia.org/resource/Sixpence_None_the_Richer> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://www.opengis.net/gml/_Feature> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 "Makuria - ? Nekor - Sa'id I ibn Idris King of Nekor"@en .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://dbpedia.org/ontology/Village> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 "R. Subramaniam"@en .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://dbpedia.org/resource/Sikh> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://dbpedia.org/resource/Supermarine> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 "Don't Worry"@en .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://dbpedia.org/resource/George_Sarton> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://dbpedia.org/ontology/Place> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://dbpedia.org/resource/National_sports_teams_of_Jamaica> .}

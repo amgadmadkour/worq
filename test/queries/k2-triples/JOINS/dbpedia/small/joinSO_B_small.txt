@@ -1,0 +1,25 @@
+SELECT ?subject1 ?object WHERE {?subject1 <http://dbpedia.org/property/pages> ?object . ?object <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/Books_by_type> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://dbpedia.org/property/birthplace> ?object . ?object <http://dbpedia.org/property/redirect> <http://dbpedia.org/resource/Azua_Province> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://dbpedia.org/property/street> ?object . ?object <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/Market_Weighton> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://dbpedia.org/property/usualLanguages> ?object . ?object <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/Grammatical_tense> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://dbpedia.org/property/passedbody> ?object . ?object <http://xmlns.com/foaf/0.1/homepage> <http://www.okhouse.gov/> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://dbpedia.org/property/commandStructure> ?object . ?object <http://www.w3.org/2000/01/rdf-schema#label> "101 (Northumbrian) Regt RA(V)"@en .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://dbpedia.org/property/animal1type> ?object . ?object <http://www.w3.org/2000/01/rdf-schema#label> "Link title"@en .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://dbpedia.org/property/duration> ?object . ?object <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/Amit_Sebastian_Paul> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://dbpedia.org/property/packagers> ?object . ?object <http://xmlns.com/foaf/0.1/page> <http://en.wikipedia.org/wiki/Burt_Sugarman> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://dbpedia.org/property/termstart> ?object . ?object <http://xmlns.com/foaf/0.1/page> <http://en.wikipedia.org/wiki/January_1974> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://dbpedia.org/property/schooling> ?object . ?object <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/Magarey_Medal> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://dbpedia.org/property/stepGrandmothers> ?object . ?object <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/Max_Cunningham> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://dbpedia.org/property/divisionsnames> ?object . ?object <http://dbpedia.org/property/country> "England"@en .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://dbpedia.org/property/agency5Up> ?object . ?object <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/French_Southern_and_Antarctic_Lands> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://dbpedia.org/property/marchingband> ?object . ?object <http://www.w3.org/2000/01/rdf-schema#comment> "The Marching Mountaineers, also known as North Carolina's Band of Distinction, is the 300+ member marching band of Appalachian State University. The band performs at all Mountaineer football games and travels to select away games each year. The Marching Mountaineers were a participant in the 2006 London New Year\u2019s Day Parade."@en .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://dbpedia.org/property/editorInChief> ?object . ?object <http://xmlns.com/foaf/0.1/page> <http://en.wikipedia.org/wiki/...> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://dbpedia.org/property/wildflower> ?object . ?object <http://xmlns.com/foaf/0.1/page> <http://en.wikipedia.org/wiki/California_Poppy> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://dbpedia.org/property/examples> ?object . ?object <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/Symptoms_of_hyperammonemia.svg> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://dbpedia.org/property/teilstreitkraft> ?object . ?object <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/Dresden> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://dbpedia.org/property/prevSeriesYears> ?object . ?object <http://dbpedia.org/property/startDate> "--03-28"^^<http://www.w3.org/2001/XMLSchema#gMonthDay> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://dbpedia.org/property/manufacter> ?object . ?object <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/Austin_Rover> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://dbpedia.org/property/chain> ?object . ?object <http://xmlns.com/foaf/0.1/page> <http://en.wikipedia.org/wiki/Aegean_Islands> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://dbpedia.org/property/home4player> ?object . ?object <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/2011_UEFA_European_Under-21_Football_Championship_qualification> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://dbpedia.org/property/siblingNames> ?object . ?object <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/List_of_bascule_bridges> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://dbpedia.org/property/prospectLeague> ?object . ?object <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/Action_Half-Life> .}

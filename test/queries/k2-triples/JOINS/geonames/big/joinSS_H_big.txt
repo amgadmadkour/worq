@@ -1,0 +1,25 @@
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://sws.geonames.org/5141784/> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://sws.geonames.org/6252001/> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://sws.geonames.org/1427482/nearby.rdf> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 "Kraftwerk Niederaussem" .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 "100.04792" .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 "\u0420\u0443\u0434\u043D\u0438\u043A"@bg .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 "-106.26419" .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://sws.geonames.org/1230423/nearby.rdf> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://sws.geonames.org/5663192/nearby.rdf> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://sws.geonames.org/6835933/contains.rdf> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 "Church of the First Born" .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 "http://sws.geonames.org/7044759/about.rdf" .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 "9081" .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://sws.geonames.org/3145495/> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 "KR" .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://www.geonames.org/ontology#P> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 "2326" .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://sws.geonames.org/3558052/> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 "Kampong Jebong Kanan" .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 "Sant Pere de Reixac"@en .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://sws.geonames.org/1168873/> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 "K\u016Bh-e Hashtband" .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://sws.geonames.org/6175945/nearby.rdf> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 "33.63917" .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 "\u0E2B\u0E49\u0E27\u0E22\u0E42\u0E1B\u0E48\u0E07\u0E0A\u0E49\u0E32\u0E07\u0E04\u0E14"@th .}

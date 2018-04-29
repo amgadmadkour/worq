@@ -1,0 +1,25 @@
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dblp.l3s.de/d2r/resource/authors/Joseph_E._Trevaskis> ?predicate1 ?object . ?object ?predicate2 <http://www.w3.org/2000/01/rdf-schema#Class> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dblp.l3s.de/d2r/resource/authors/Wen_Hui_Chang> ?predicate1 ?object . ?object ?predicate2 <http://www.w3.org/2000/01/rdf-schema#Class> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/dt/X09i> ?predicate1 ?object . ?object ?predicate2 "IEEE Design & Test of Computers"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/interspeech/RamyaHM08> ?predicate1 ?object . ?object ?predicate2 "Hema A. Murthy" .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/emo/KnowlesH05> ?predicate1 ?object . ?object ?predicate2 "Evan J. Hughes" .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/jitt/BuhalisS00> ?predicate1 ?object . ?object ?predicate2 <http://dblp.l3s.de/Authors/Antonella+Spada> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dblp.l3s.de/d2r/resource/authors/Ryu_Mizoguchi> ?predicate1 ?object . ?object ?predicate2 <http://www.w3.org/2000/01/rdf-schema#Class> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dblp.l3s.de/d2r/resource/authors/Jesse_Fox> ?predicate1 ?object . ?object ?predicate2 <http://www.w3.org/2000/01/rdf-schema#Class> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dblp.l3s.de/d2r/resource/publications/reference/spatial/KontchakovKWZ07> ?predicate1 ?object . ?object ?predicate2 "Agi Kurucz" .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/jcisd/ZhengT00> ?predicate1 ?object . ?object ?predicate2 <http://dblp.l3s.de/Authors/Alexander+Tropsha> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/ifip12/KatakisMTBV09> ?predicate1 ?object . ?object ?predicate2 "Georgios Meditskos" .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/aaai/Henderson98> ?predicate1 ?object . ?object ?predicate2 <http://dblp.l3s.de/Authors/John+C.+Henderson> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dblp.l3s.de/d2r/resource/authors/Sriram_Penumatcha> ?predicate1 ?object . ?object ?predicate2 <http://www.w3.org/2000/01/rdf-schema#Class> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dblp.l3s.de/d2r/resource/publications/journals/corr/abs-cs-0606099> ?predicate1 ?object . ?object ?predicate2 "Amin Mobasher" .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dblp.l3s.de/d2r/resource/authors/Kenneth_Prole> ?predicate1 ?object . ?object ?predicate2 <http://www.w3.org/2000/01/rdf-schema#Class> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/ewcg/AichholzerHRST05> ?predicate1 ?object . ?object ?predicate2 <http://www.bibsonomy.org/uri/author/Bettina+Speckmann> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/ieaaie/FelfernigMPS10> ?predicate1 ?object . ?object ?predicate2 "Alexander Felfernig" .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dblp.l3s.de/d2r/resource/authors/M._A._Nazar> ?predicate1 ?object . ?object ?predicate2 <http://www.w3.org/2000/01/rdf-schema#Class> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dblp.l3s.de/d2r/resource/authors/Julia_A._Ekstrom> ?predicate1 ?object . ?object ?predicate2 <http://www.w3.org/2000/01/rdf-schema#Class> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dblp.l3s.de/d2r/resource/authors/Antonio_C._S._Lima> ?predicate1 ?object . ?object ?predicate2 <http://www.w3.org/2000/01/rdf-schema#Class> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dblp.l3s.de/d2r/resource/authors/Colin_Ponce> ?predicate1 ?object . ?object ?predicate2 <http://www.w3.org/2000/01/rdf-schema#Class> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/asiams/MohamadiHA08> ?predicate1 ?object . ?object ?predicate2 "Hamid Mohamadi" .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dblp.l3s.de/d2r/resource/authors/Hosein_Piranfar> ?predicate1 ?object . ?object ?predicate2 <http://www.w3.org/2000/01/rdf-schema#Class> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/swat/Bent90> ?predicate1 ?object . ?object ?predicate2 <http://www.bibsonomy.org/uri/author/Samuel+W.+Bent> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dblp.l3s.de/d2r/resource/publications/conf/ijcai/MeroV75> ?predicate1 ?object . ?object ?predicate2 "L\u00E1szl\u00F3 M\u00E9ro" .}

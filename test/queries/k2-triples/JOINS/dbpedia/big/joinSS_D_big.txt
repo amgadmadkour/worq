@@ -1,0 +1,25 @@
+SELECT ?subject ?predicate2 WHERE {?subject <http://dbpedia.org/property/prodAssist> <http://dbpedia.org/resource/William_J._Bruce_III> . ?subject ?predicate2 "2004"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://dbpedia.org/property/y> "129"^^<http://www.w3.org/2001/XMLSchema#int> . ?subject ?predicate2 <http://dbpedia.org/resource/Victor_Hugo> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://dbpedia.org/property/reefSafe> "With caution"@en . ?subject ?predicate2 <http://dbpedia.org/resource/Chordate> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://dbpedia.org/property/hdiAsof> "2000"^^<http://www.w3.org/2001/XMLSchema#int> . ?subject ?predicate2 <http://dbpedia.org/ontology/Settlement> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://dbpedia.org/property/eliminationRenalHalfLife> "10 hrs"@en . ?subject ?predicate2 "2"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://dbpedia.org/property/recognized> "1980"^^<http://www.w3.org/2001/XMLSchema#int> . ?subject ?predicate2 "150px"@en .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://dbpedia.org/ontology/populationDensity> "455.1"^^<http://www.w3.org/2001/XMLSchema#double> . ?subject ?predicate2 "54"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://dbpedia.org/property/nicknam> "Liba Kollu"@en . ?subject ?predicate2 <http://dbpedia.org/resource/Pop_music> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://dbpedia.org/property/diallingcode> "Penhow exchange"@en . ?subject ?predicate2 <http://www.opengis.net/gml/_Feature> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://dbpedia.org/property/t10yyr> "0"^^<http://www.w3.org/2001/XMLSchema#int> . ?subject ?predicate2 "0"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://dbpedia.org/property/meanRainDays> "99.2"^^<http://www.w3.org/2001/XMLSchema#double> . ?subject ?predicate2 <http://dbpedia.org/ontology/Place> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://dbpedia.org/property/stage1runnerupGames> "82\u201359, .582, GB: 2"@en . ?subject ?predicate2 "7"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://dbpedia.org/property/icupdate> "--08-02"^^<http://www.w3.org/2001/XMLSchema#gMonthDay> . ?subject ?predicate2 <http://dbpedia.org/resource/Category:Living_people> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://dbpedia.org/property/fieldgoalsd> "0"^^<http://www.w3.org/2001/XMLSchema#int> . ?subject ?predicate2 <http://dbpedia.org/resource/Wakefield_Trinity_Wildcats> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://dbpedia.org/property/ruGoals> "1"^^<http://www.w3.org/2001/XMLSchema#int> . ?subject ?predicate2 "0"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://dbpedia.org/property/aphelion> "2.908302"^^<http://www.w3.org/2001/XMLSchema#double> . ?subject ?predicate2 "yes"@en .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://dbpedia.org/property/formerOwner> "Time Warner Cable\n  effective_radiated_power ="@en . ?subject ?predicate2 "16"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://dbpedia.org/property/peak18b> "6"^^<http://www.w3.org/2001/XMLSchema#int> . ?subject ?predicate2 "3"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://dbpedia.org/property/chromaticNumber> "3"^^<http://www.w3.org/2001/XMLSchema#int> . ?subject ?predicate2 "3"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://dbpedia.org/property/fulltextUrl> "http://www.druglibrary.org/Schaffer/hemp/taxact/mjtaxact.htm"@en . ?subject ?predicate2 "5"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://dbpedia.org/property/week1417Color> "npr"@en . ?subject ?predicate2 "8"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://dbpedia.org/property/combinationNat> "KAZ"@en . ?subject ?predicate2 <http://dbpedia.org/resource/Spain> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://dbpedia.org/property/mtvmovieawards> "2006 The Beautiful Lie"@en . ?subject ?predicate2 <http://dbpedia.org/ontology/Actor> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://dbpedia.org/property/utcOffset1Dst> "+2"@en . ?subject ?predicate2 <http://dbpedia.org/resource/Municipalities_of_Spain> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://dbpedia.org/property/rd1Team01Goals> "0"^^<http://www.w3.org/2001/XMLSchema#int> . ?subject ?predicate2 "2"^^<http://www.w3.org/2001/XMLSchema#int> .}

@@ -1,0 +1,8 @@
+SELECT ?subject1 ?object ?subject2 WHERE {?subject1 <http://purl.org/dc/elements/1.1/title> ?object . ?subject2 <http://www.w3.org/2000/01/rdf-schema#label> ?object .}
+SELECT ?subject1 ?object ?subject2 WHERE {?subject1 <http://www.w3.org/2000/01/rdf-schema#label> ?object . ?subject2 <http://purl.org/dc/elements/1.1/title> ?object .}
+SELECT ?subject1 ?object ?subject2 WHERE {?subject1 <http://swrc.ontoware.org/ontology#pages> ?object . ?subject2 <http://swrc.ontoware.org/ontology#volume> ?object .}
+SELECT ?subject1 ?object ?subject2 WHERE {?subject1 <http://swrc.ontoware.org/ontology#journal> ?object . ?subject2 <http://swrc.ontoware.org/ontology#journal> ?object .}
+SELECT ?subject1 ?object ?subject2 WHERE {?subject1 <http://swrc.ontoware.org/ontology#pages> ?object . ?subject2 <http://swrc.ontoware.org/ontology#number> ?object .}
+SELECT ?subject1 ?object ?subject2 WHERE {?subject1 <http://purl.org/dc/terms/references> ?object . ?subject2 <http://purl.org/dc/terms/references> ?object .}
+SELECT ?subject1 ?object ?subject2 WHERE {?subject1 <http://swrc.ontoware.org/ontology#pages> ?object . ?subject2 <http://swrc.ontoware.org/ontology#pages> ?object .}
+SELECT ?subject1 ?object ?subject2 WHERE {?subject1 <http://purl.org/dc/terms/partOf> ?object . ?subject2 <http://purl.org/dc/terms/partOf> ?object .}

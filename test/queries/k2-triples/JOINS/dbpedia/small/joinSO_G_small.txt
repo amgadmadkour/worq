@@ -1,0 +1,25 @@
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://en.wikipedia.org/wiki/Carnival_in_Pasto> ?predicate1 ?object . ?object ?predicate2 <http://en.wikipedia.org/wiki/Carnival_in_Pasto> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://en.wikipedia.org/wiki/Nonalcoholic_fatty_liver_disease> ?predicate1 ?object . ?object ?predicate2 <http://dbpedia.org/resource/Non-alcoholic_fatty_liver_disease> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://en.wikipedia.org/wiki/Mercury_Man> ?predicate1 ?object . ?object ?predicate2 "Space Adventures #44"@en .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dbpedia.org/resource/General_Dreedle> ?predicate1 ?object . ?object ?predicate2 <http://dbpedia.org/resource/Perugia> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://en.wikipedia.org/wiki/Bamora> ?predicate1 ?object . ?object ?predicate2 <http://en.wikipedia.org/wiki/Bamora> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dbpedia.org/resource/Borgerende-Rethwisch> ?predicate1 ?object . ?object ?predicate2 "18211"@en .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dbpedia.org/resource/Wuhan_World_Trade_Tower> ?predicate1 ?object . ?object ?predicate2 <http://dbpedia.org/resource/Amplifier> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dbpedia.org/resource/Kalithea_%28Lemnos%29%2C_Greece> ?predicate1 ?object . ?object ?predicate2 <http://dbpedia.org/resource/North_Aegean> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dbpedia.org/resource/Robert_E._Lamberton> ?predicate1 ?object . ?object ?predicate2 <http://dbpedia.org/resource/Robert_C._White> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dbpedia.org/resource/Paul_Lacoste_%28football_player%29> ?predicate1 ?object . ?object ?predicate2 "Paul Victor Lacoste was a linebacker in the Southeastern Conference at Mississippi State University and in the Canadian Football League."@en .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://en.wikipedia.org/wiki/WBVP-AM> ?predicate1 ?object . ?object ?predicate2 <http://en.wikipedia.org/wiki/WBVP-AM> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dbpedia.org/resource/Wellington_School%2C_Shropshire> ?predicate1 ?object . ?object ?predicate2 "wrekincollege.ac.uk"@en .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://en.wikipedia.org/wiki/Japanese_Aralia> ?predicate1 ?object . ?object ?predicate2 <http://dbpedia.org/resource/Fatsia_japonica> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://en.wikipedia.org/wiki/AMC_Alliance> ?predicate1 ?object . ?object ?predicate2 <http://en.wikipedia.org/wiki/AMC_Alliance> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dbpedia.org/resource/Vellupillai_Prabhakaran> ?predicate1 ?object . ?object ?predicate2 <http://timesofindia.indiatimes.com/Final-showdown-for-Tamil-Tiger-chief-Prabhakaran/articleshow/4439368.cms> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://en.wikipedia.org/wiki/FK_Hajduk_Visnjicevo> ?predicate1 ?object . ?object ?predicate2 <http://dbpedia.org/resource/FK_Hajduk_Vi%C5%A1nji%C4%87evo> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dbpedia.org/resource/Michael_Green_%28theologian%29> ?predicate1 ?object . ?object ?predicate2 <http://dbpedia.org/resource/Wollaton> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://en.wikipedia.org/wiki/Gunaho_Ka_Devta> ?predicate1 ?object . ?object ?predicate2 "Gunaho Ka Devta"@en .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dbpedia.org/resource/Brain_Bender> ?predicate1 ?object . ?object ?predicate2 <http://dbpedia.org/resource/Template:Infobox_VG> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://en.wikipedia.org/wiki/Laguna_navidad> ?predicate1 ?object . ?object ?predicate2 <http://dbpedia.org/resource/Laguna_Navidad> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dbpedia.org/resource/LET_SLEEPING_DOGS_LIE> ?predicate1 ?object . ?object ?predicate2 <http://dbpedia.org/resource/Category:Hank_the_Cowdog> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://en.wikipedia.org/wiki/Victorian_Football_League_season_1905> ?predicate1 ?object . ?object ?predicate2 "Victorian Football League season 1905"@en .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://en.wikipedia.org/wiki/Stephen_Butcher> ?predicate1 ?object . ?object ?predicate2 <http://dbpedia.org/resource/Stephen_Butcher_%28Royal_Marine%29> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://en.wikipedia.org/wiki/Lower_Monumental_Lock_and_Dam> ?predicate1 ?object . ?object ?predicate2 "Lower Monumental Lock and Dam"@en .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://en.wikipedia.org/wiki/Al-Quds> ?predicate1 ?object . ?object ?predicate2 <http://en.wikipedia.org/wiki/Al-Quds> .}

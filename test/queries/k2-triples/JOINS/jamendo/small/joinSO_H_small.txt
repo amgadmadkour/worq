@@ -1,0 +1,25 @@
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://dbtune.org/jamendo/timeline/6720> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://dbtune.org/jamendo/interval/13919> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://dbtune.org/jamendo/interval/40469> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://img.jamendo.com/albums/11025/covers/1.100.jpg> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://www.jamendo.com/get/track/id/track/audio/xspf/92337> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://www.jamendo.com/get/track/id/track/audio/play/33194> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 "Parte 3"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://dbtune.org/jamendo/timeline/42961> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://dbtune.org/jamendo/timeline/98982> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://dbtune.org/jamendo/timeline/74966> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://www.jamendo.com/get/track/id/track/audio/play/20275> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://dbtune.org/jamendo/interval/59359> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://www.jamendo.com/get/track/id/track/audio/play/23739> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://www.jamendo.com/get/album/id/album/p2p/redirect/6104/?p2pnet=ed2k&are=mp32> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://dbtune.org/jamendo/interval/75219> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://www.jamendo.com/get/track/id/album/audio/play/6863/?item_o=track_no_asc&aue=ogg2&n=all> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://www.jamendo.com/get/track/id/track/audio/play/11255> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://www.jamendo.com/get/album/id/album/p2p/redirect/12184/?p2pnet=bittorrent&are=mp32> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://www.jamendo.com/get/album/id/album/p2p/redirect/136/?p2pnet=ed2k&are=ogg3> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://www.jamendo.com/get/track/id/track/audio/xspf/73048> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://www.jamendo.com/get/track/id/track/audio/play/35342> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://www.jamendo.com/get/track/id/track/audio/xspf/93737> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://www.jamendo.com/get/album/id/album/p2p/redirect/3369/?p2pnet=ed2k&are=mp32> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://dbtune.org/jamendo/timeline/67334> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://www.jamendo.com/get/track/id/track/audio/play/3708> .}

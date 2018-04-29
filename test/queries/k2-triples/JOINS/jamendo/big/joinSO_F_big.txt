@@ -1,0 +1,7 @@
+SELECT ?subject1 ?object ?predicate2 ?object2 WHERE {?subject1 <http://purl.org/ontology/mo/license> ?object . ?object ?predicate2 ?object2 .}
+SELECT ?subject1 ?object ?predicate2 ?object2 WHERE {?subject1 <http://www.holygoat.co.uk/owl/redwood/0.1/tags/taggedWithTag> ?object . ?object ?predicate2 ?object2 .}
+SELECT ?subject1 ?object ?predicate2 ?object2 WHERE {?subject1 <http://purl.org/ontology/mo/available_as> ?object . ?object ?predicate2 ?object2 .}
+SELECT ?subject1 ?object ?predicate2 ?object2 WHERE {?subject1 <http://purl.org/ontology/mo/published_as> ?object . ?object ?predicate2 ?object2 .}
+SELECT ?subject1 ?object ?predicate2 ?object2 WHERE {?subject1 <http://purl.org/ontology/mo/recorded_as> ?object . ?object ?predicate2 ?object2 .}
+SELECT ?subject1 ?object ?predicate2 ?object2 WHERE {?subject1 <http://purl.org/ontology/mo/time> ?object . ?object ?predicate2 ?object2 .}
+SELECT ?subject1 ?object ?predicate2 ?object2 WHERE {?subject1 <http://purl.org/ontology/mo/track> ?object . ?object ?predicate2 ?object2 .}

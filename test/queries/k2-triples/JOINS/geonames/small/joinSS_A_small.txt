@@ -1,0 +1,25 @@
+SELECT ?subject WHERE {?subject <http://www.geonames.org/ontology#parentADM1> <http://sws.geonames.org/2134898/> . ?subject <http://www.geonames.org/ontology#featureClass> <http://www.geonames.org/ontology#A> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Fouchy> . ?subject <http://www.geonames.org/ontology#wikipediaArticle> <http://ceb.wikipedia.org/wiki/Fouchy> .}
+SELECT ?subject WHERE {?subject <http://www.geonames.org/ontology#alternateName> "R\u016Bdkh\u0101neh-ye L\u0101y Gaz\u0101n"@fa . ?subject <http://www.geonames.org/ontology#parentFeature> <http://sws.geonames.org/130758/> .}
+SELECT ?subject WHERE {?subject <http://www.geonames.org/ontology#alternateName> "Thorikos" . ?subject <http://www.geonames.org/ontology#wikipediaArticle> <http://ca.wikipedia.org/wiki/Thorikos> .}
+SELECT ?subject WHERE {?subject <http://www.geonames.org/ontology#featureCode> <http://www.geonames.org/ontology#H.CHN> . ?subject <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "-26.16667" .}
+SELECT ?subject WHERE {?subject <http://www.geonames.org/ontology#alternateName> "\u010Cicho\u0159ice" . ?subject <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "50.09753" .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2003/01/geo/wgs84_pos#long> "100.14453" . ?subject <http://www.geonames.org/ontology#featureClass> <http://www.geonames.org/ontology#S> .}
+SELECT ?subject WHERE {?subject <http://www.geonames.org/ontology#nearbyFeatures> <http://sws.geonames.org/5791805/nearby.rdf> . ?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .}
+SELECT ?subject WHERE {?subject <http://www.geonames.org/ontology#parentADM2> <http://sws.geonames.org/7052956/> . ?subject <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> "http://sws.geonames.org/7052956/about.rdf" .}
+SELECT ?subject WHERE {?subject <http://www.geonames.org/ontology#nearbyFeatures> <http://sws.geonames.org/6743735/nearby.rdf> . ?subject <http://www.geonames.org/ontology#countryCode> "IR" .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2003/01/geo/wgs84_pos#alt> "4819" . ?subject <http://www.geonames.org/ontology#parentCountry> <http://sws.geonames.org/1149361/> .}
+SELECT ?subject WHERE {?subject <http://www.geonames.org/ontology#alternateName> "S\u00EDtio Benedito Tavares"@pt . ?subject <http://www.geonames.org/ontology#countryCode> "BR" .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-110.0629" . ?subject <http://www.geonames.org/ontology#parentFeature> <http://sws.geonames.org/5306233/> .}
+SELECT ?subject WHERE {?subject <http://www.geonames.org/ontology#parentCountry> <http://sws.geonames.org/1282988/> . ?subject <http://www.geonames.org/ontology#parentFeature> <http://sws.geonames.org/1282988/> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2002/07/owl#sameAs> <http://dbpedia.org/resource/Klamp> . ?subject <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> "http://sws.geonames.org/2890093/about.rdf" .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/page> <http://rdf.insee.fr/geo/COM_49088> . ?subject <http://www.geonames.org/ontology#parentADM4> <http://sws.geonames.org/6449437/> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/page> <http://rdf.insee.fr/geo/COM_62545> . ?subject <http://www.geonames.org/ontology#population> "144" .}
+SELECT ?subject WHERE {?subject <http://www.geonames.org/ontology#parentADM4> <http://sws.geonames.org/6558657/> . ?subject <http://www.geonames.org/ontology#parentADM2> <http://sws.geonames.org/2870736/> .}
+SELECT ?subject WHERE {?subject <http://www.geonames.org/ontology#population> "47965" . ?subject <http://www.geonames.org/ontology#parentCountry> <http://sws.geonames.org/1269750/> .}
+SELECT ?subject WHERE {?subject <http://www.geonames.org/ontology#parentADM3> <http://sws.geonames.org/6359758/> . ?subject <http://www.geonames.org/ontology#childrenFeatures> <http://sws.geonames.org/6359758/contains.rdf> .}
+SELECT ?subject WHERE {?subject <http://www.geonames.org/ontology#parentADM2> <http://sws.geonames.org/6320416/> . ?subject <http://www.geonames.org/ontology#featureClass> <http://www.geonames.org/ontology#A> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2003/01/geo/wgs84_pos#long> "55.28" . ?subject <http://www.geonames.org/ontology#alternateName> "Dubai"@es .}
+SELECT ?subject WHERE {?subject <http://www.geonames.org/ontology#parentADM4> <http://sws.geonames.org/6436207/> . ?subject <http://www.geonames.org/ontology#locationMap> <http://www.geonames.org/6436207/huilliecourt.html> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/page> <http://rdf.insee.fr/geo/COM_52222> . ?subject <http://www.geonames.org/ontology#parentADM2> <http://sws.geonames.org/3013757/> .}
+SELECT ?subject WHERE {?subject <http://www.geonames.org/ontology#name> "Jaraca" . ?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> .}

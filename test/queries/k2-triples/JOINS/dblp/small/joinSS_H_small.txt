@@ -1,0 +1,25 @@
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://dblp.l3s.de/Authors/Ya+Peng> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://www.bibsonomy.org/uri/author/Jung-Te+Weng> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 "Bert Zwaneveld" .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 "Johan De Vriendt" .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://dblp.l3s.de/Authors/Abdul+Hameed> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 "Sogol Babazadeh Khamaneh" .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://dblp.l3s.de/Authors/Stephan+Kolnsberg> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://dblp.l3s.de/Authors/Hee+Don+Seo> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://www.bibsonomy.org/uri/author/Sudhakar+K.+Venkatesh> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 "Laurence Bourn" .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://dblp.l3s.de/Authors/Youssef+Abdel-Magid> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 "Joo-Yul Park" .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://dblp.l3s.de/Authors/Klinton+Bicknell> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 "E. Tuominen" .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 "Kathleen M. Brown" .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://dblp.l3s.de/Authors/Dimitris+Theofilatos> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 "Anas Basalamah" .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://www.bibsonomy.org/uri/author/D.+Prot> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 "Mariana S. Escalante" .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 "Duk Kyung Kim" .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 "Sougato Bose" .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 "William Staton" .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 "Hong Jiang II" .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 "E. Barka" .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://purl.org/dc/dcmitype/Text> .}

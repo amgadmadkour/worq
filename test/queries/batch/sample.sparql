@@ -1,0 +1,10 @@
+PREFIX dbr: <http://dbpedia.org/resource/> select ?s ?y ?z ?w where { ?s dbr:mention ?y . ?s dbr:tweet ?z . ?s dbr:friends ?w . ?s dbr:lives ?y .}
+PREFIX dbr: <http://dbpedia.org/resource/> select ?x ?y ?z where { ?x dbr:mention ?y . ?y dbr:tweet ?z . ?x dbr:friends ?y . ?x dbr:lives ?y .}
+PREFIX dbr: <http://dbpedia.org/resource/> select ?x where { dbr:Sam dbr:friends ?x . ?x dbr:lives dbr:Atlanta .}
+PREFIX dbr: <http://dbpedia.org/resource/> select ?x ?y where { ?x dbr:mention ?y . ?y dbr:lives dbr:Atlanta .}
+PREFIX dbr: <http://dbpedia.org/resource/> select ?x ?y where { ?x dbr:friends ?y . ?x dbr:lives dbr:Atlanta .}
+PREFIX dbr: <http://dbpedia.org/resource/> select ?x ?y ?z ?w where { ?x dbr:mention ?y . ?x dbr:tweet ?z . ?y dbr:friends ?w . ?x dbr:lives ?y .}
+PREFIX dbr: <http://dbpedia.org/resource/> select ?x ?y where { ?x dbr:tweet "Tweet1" . ?x dbr:mention ?y . ?x dbr:friends ?y . ?x dbr:lives ?y .}
+PREFIX dbr: <http://dbpedia.org/resource/> select ?x ?y where { ?x dbr:lives ?y . ?x dbr:likes "Tweet1" .}
+PREFIX dbr: <http://dbpedia.org/resource/> select ?x ?y where { ?x dbr:likes "Tweet1" . ?x dbr:friends ?y .}
+PREFIX dbr: <http://dbpedia.org/resource/> select ?x ?y where { ?x dbr:mention ?y . ?x dbr:friends ?y .}

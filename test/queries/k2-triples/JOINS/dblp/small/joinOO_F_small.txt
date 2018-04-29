@@ -1,0 +1,4 @@
+SELECT ?subject1 ?object ?subject2 ?predicate2 WHERE {?subject1 <http://purl.org/dc/elements/1.1/title> ?object . ?subject2 ?predicate2 ?object .}
+SELECT ?subject1 ?object ?subject2 ?predicate2 WHERE {?subject1 <http://purl.org/dc/terms/partOf> ?object . ?subject2 ?predicate2 ?object .}
+SELECT ?subject1 ?object ?subject2 ?predicate2 WHERE {?subject1 <http://swrc.ontoware.org/ontology#pages> ?object . ?subject2 ?predicate2 ?object .}
+SELECT ?subject1 ?object ?subject2 ?predicate2 WHERE {?subject1 <http://purl.org/dc/terms/references> ?object . ?subject2 ?predicate2 ?object .}

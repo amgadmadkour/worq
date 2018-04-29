@@ -1,0 +1,25 @@
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://purl.org/dc/elements/1.1/date> "2007-03-24 20:42:57" . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://purl.org/NET/c4dm/timeline.owl#onTimeLine> <http://dbtune.org/jamendo/timeline/57823> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://xmlns.com/foaf/0.1/maker> <http://dbtune.org/jamendo/artist/1789> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/2975246/> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://purl.org/ontology/mo/published_as> <http://dbtune.org/jamendo/track/96146> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://xmlns.com/foaf/0.1/made> <http://dbtune.org/jamendo/record/8495> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://purl.org/ontology/mo/biography> "Psychedelic collective of creatures from the far flung corners of the universe deliver a concentrated dose of heavy, brain splattering psychedeliosity."^^<http://www.w3.org/2001/XMLSchema#string> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://purl.org/ontology/mo/image> <http://img.jamendo.com/albums/6508/covers/1.100.jpg> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://purl.org/ontology/mo/time> <http://dbtune.org/jamendo/interval/61877> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://purl.org/dc/elements/1.1/description> "<p>experimental, electronic</p>"^^<http://www.w3.org/2001/XMLSchema#string> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://purl.org/ontology/mo/image> <http://img.jamendo.com/albums/704/covers/1.100.jpg> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://xmlns.com/foaf/0.1/img> <http://img.jamendo.com/artists/s/sharp.jpg> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://xmlns.com/foaf/0.1/name> "Romain"^^<http://www.w3.org/2001/XMLSchema#string> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://xmlns.com/foaf/0.1/homepage> <http://www.lamusiquenapasdeprix.com/?q=boulbar> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://www.w3.org/2002/07/owl#sameAs> <http://zitgist.com/music/record/11461800-3495-45fb-b780-4ec1f0e55b13> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://www.holygoat.co.uk/owl/redwood/0.1/tags/tagName> "costlow"^^<http://www.w3.org/2001/XMLSchema#string> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://purl.org/dc/elements/1.1/date> "2007-07-05 17:16:21" . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://www.holygoat.co.uk/owl/redwood/0.1/tags/taggedWithTag> <http://dbtune.org/jamendo/tag/wannabeer> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://purl.org/NET/c4dm/timeline.owl#onTimeLine> <http://dbtune.org/jamendo/timeline/48895> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://purl.org/ontology/mo/time> <http://dbtune.org/jamendo/interval/73488> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://www.holygoat.co.uk/owl/redwood/0.1/tags/taggedWithTag> <http://dbtune.org/jamendo/tag/sensitivo> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://purl.org/ontology/mo/time> <http://dbtune.org/jamendo/interval/73023> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/3170646/> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://purl.org/dc/elements/1.1/description> "welcome in my univers"^^<http://www.w3.org/2001/XMLSchema#string> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://purl.org/NET/c4dm/event.owl#factor> <http://dbtune.org/jamendo/lyrics/47197> . ?subject ?predicate2 ?object2 .}

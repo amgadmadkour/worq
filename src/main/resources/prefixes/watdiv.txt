@@ -1,0 +1,11 @@
+dc	http://purl.org/dc/terms/
+foaf	http://xmlns.com/foaf/
+gr	http://purl.org/goodrelations/
+gn	http://www.geonames.org/ontology#
+mo	http://purl.org/ontology/mo/
+og	http://ogp.me/ns#
+rev	http://purl.org/stuff/rev#
+rdf	http://www.w3.org/1999/02/22-rdf-syntax-ns#
+rdfs	http://www.w3.org/2000/01/rdf-schema#
+sorg	http://schema.org/
+wsdbm	http://db.uwaterloo.ca/~galuc/wsdbm/

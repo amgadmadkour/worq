@@ -1,0 +1,25 @@
+SELECT ?subject ?object1 WHERE {?subject <http://dbpedia.org/property/environmental> ?object1 . ?subject <http://www.w3.org/2004/02/skos/core#subject> <http://dbpedia.org/resource/Category:Buildings_and_structures_in_Melbourne> .}
+SELECT ?subject ?object1 WHERE {?subject <http://dbpedia.org/property/chefLieuDeCanton> ?object1 . ?subject <http://dbpedia.org/ontology/populationTotal> "4673"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?subject ?object1 WHERE {?subject <http://dbpedia.org/property/shortsummery> ?object1 . ?subject <http://dbpedia.org/property/shortsummary> "Chi went out of her yard again and chased a butterfly. Chi wandered off again and this time to a acrade street which is a street mall."@en .}
+SELECT ?subject ?object1 WHERE {?subject <http://dbpedia.org/property/birthplace> ?object1 . ?subject <http://dbpedia.org/property/espn> "28799"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject ?object1 WHERE {?subject <http://dbpedia.org/property/timeToMaxPlasmaConcentration> ?object1 . ?subject <http://xmlns.com/foaf/0.1/page> <http://en.wikipedia.org/wiki/Vinpocetine> .}
+SELECT ?subject ?object1 WHERE {?subject <http://dbpedia.org/property/_21a> ?object1 . ?subject <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/Taoisigh_of_Ireland> .}
+SELECT ?subject ?object1 WHERE {?subject <http://dbpedia.org/property/hm31Stat> ?object1 . ?subject <http://dbpedia.org/property/hm19Exit> "Day 277"@en .}
+SELECT ?subject ?object1 WHERE {?subject <http://dbpedia.org/property/type1alle2freq> ?object1 . ?subject <http://dbpedia.org/property/people> "Italy Bergamo"@en .}
+SELECT ?subject ?object1 WHERE {?subject <http://dbpedia.org/property/away6no> ?object1 . ?subject <http://dbpedia.org/property/awayman> <http://dbpedia.org/resource/Alfio_Basile> .}
+SELECT ?subject ?object1 WHERE {?subject <http://dbpedia.org/property/fontcolour> ?object1 . ?subject <http://dbpedia.org/property/owner> <http://dbpedia.org/resource/Arthur_L._Williams%2C_Jr.> .}
+SELECT ?subject ?object1 WHERE {?subject <http://dbpedia.org/property/instructionalSupervisor> ?object1 . ?subject <http://xmlns.com/foaf/0.1/name> "Lee County High School"@en .}
+SELECT ?subject ?object1 WHERE {?subject <http://dbpedia.org/property/street> ?object1 . ?subject <http://www.w3.org/2004/02/skos/core#subject> <http://dbpedia.org/resource/Category:Educational_institutions_established_in_the_1540s> .}
+SELECT ?subject ?object1 WHERE {?subject <http://dbpedia.org/property/suppress> ?object1 . ?subject <http://dbpedia.org/property/marign> "0px"@en .}
+SELECT ?subject ?object1 WHERE {?subject <http://dbpedia.org/property/spruch> ?object1 . ?subject <http://www.w3.org/2004/02/skos/core#subject> <http://dbpedia.org/resource/Category:Association_football_clubs_established_in_1899> .}
+SELECT ?subject ?object1 WHERE {?subject <http://dbpedia.org/ontology/internationally> ?object1 . ?subject <http://www.w3.org/2000/01/rdf-schema#label> "Alchemy Systems"@en .}
+SELECT ?subject ?object1 WHERE {?subject <http://dbpedia.org/property/tsakidsairdate> ?object1 . ?subject <http://dbpedia.org/property/episodenumber> "16"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject ?object1 WHERE {?subject <http://dbpedia.org/property/occasion> ?object1 . ?subject <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/Porto> .}
+SELECT ?subject ?object1 WHERE {?subject <http://dbpedia.org/property/_4v3a> ?object1 . ?subject <http://dbpedia.org/property/rd1t4Loc> "Invercargill, New Zealand"@en .}
+SELECT ?subject ?object1 WHERE {?subject <http://dbpedia.org/property/event4date> ?object1 . ?subject <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/USA> .}
+SELECT ?subject ?object1 WHERE {?subject <http://dbpedia.org/property/home13no> ?object1 . ?subject <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/Osman_Ch%C3%A1vez> .}
+SELECT ?subject ?object1 WHERE {?subject <http://dbpedia.org/property/countryClaim> ?object1 . ?subject <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/Indo-Bangladeshi_relations> .}
+SELECT ?subject ?object1 WHERE {?subject <http://dbpedia.org/property/degreesGranted> ?object1 . ?subject <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/Associate%27s_degree> .}
+SELECT ?subject ?object1 WHERE {?subject <http://dbpedia.org/property/meals> ?object1 . ?subject <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/Tzatziki> .}
+SELECT ?subject ?object1 WHERE {?subject <http://dbpedia.org/property/mouthLat> ?object1 . ?subject <http://dbpedia.org/property/lengthOrientation> "North&ndash .}
+SELECT ?subject ?object1 WHERE {?subject <http://dbpedia.org/property/refract> ?object1 . ?subject <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/Toiletries> .}

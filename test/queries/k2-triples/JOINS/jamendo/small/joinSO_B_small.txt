@@ -1,0 +1,25 @@
+SELECT ?subject1 ?object WHERE {?subject1 <http://xmlns.com/foaf/0.1/maker> ?object . ?object <http://xmlns.com/foaf/0.1/img> <http://img.jamendo.com/artists/h/hattrickman.jpg> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://purl.org/ontology/mo/time> ?object . ?object <http://purl.org/NET/c4dm/timeline.owl#onTimeLine> <http://dbtune.org/jamendo/timeline/100000> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://xmlns.com/foaf/0.1/made> ?object . ?object <http://purl.org/ontology/mo/image> <http://img.jamendo.com/albums/10000/covers/1.500.jpg> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://xmlns.com/foaf/0.1/made> ?object . ?object <http://purl.org/ontology/mo/track> <http://dbtune.org/jamendo/track/96924> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://purl.org/ontology/mo/license> ?object . ?object <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://xmlns.com/foaf/0.1/made> ?object . ?object <http://purl.org/ontology/mo/available_as> <http://www.jamendo.com/get/album/id/album/p2p/redirect/10000/?p2pnet=bittorrent&are=mp32> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://purl.org/ontology/mo/published_as> ?object . ?object <http://purl.org/ontology/mo/available_as> <http://www.jamendo.com/get/track/id/track/audio/play/100000> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://xmlns.com/foaf/0.1/made> ?object . ?object <http://purl.org/ontology/mo/available_as> <http://www.jamendo.com/get/track/id/album/audio/play/10000/?item_o=track_no_asc&aue=ogg2&n=all> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://purl.org/NET/c4dm/event.owl#factor> ?object . ?object <http://purl.org/ontology/mo/text> "Piste cach\u00E9e : \"Who got the power to make the difference?\""^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://xmlns.com/foaf/0.1/maker> ?object . ?object <http://xmlns.com/foaf/0.1/homepage> <http://www.cicada.fr.st> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://xmlns.com/foaf/0.1/made> ?object . ?object <http://purl.org/dc/elements/1.1/description> "<p>Nell'era della digitalizzazione, tutto &egrave .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://purl.org/ontology/mo/recorded_as> ?object . ?object <http://purl.org/ontology/mo/published_as> <http://dbtune.org/jamendo/track/100000> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://xmlns.com/foaf/0.1/made> ?object . ?object <http://www.holygoat.co.uk/owl/redwood/0.1/tags/taggedWithTag> <http://dbtune.org/jamendo/tag/psychedelique> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://xmlns.com/foaf/0.1/maker> ?object . ?object <http://xmlns.com/foaf/0.1/made> <http://dbtune.org/jamendo/record/1086> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://xmlns.com/foaf/0.1/made> ?object . ?object <http://xmlns.com/foaf/0.1/maker> <http://dbtune.org/jamendo/artist/4215> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://www.holygoat.co.uk/owl/redwood/0.1/tags/taggedWithTag> ?object . ?object <http://www.holygoat.co.uk/owl/redwood/0.1/tags/tagName> "004903033091851"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://xmlns.com/foaf/0.1/made> ?object . ?object <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Record> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://xmlns.com/foaf/0.1/maker> ?object . ?object <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/3031359/> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://xmlns.com/foaf/0.1/made> ?object . ?object <http://purl.org/ontology/mo/track> <http://dbtune.org/jamendo/track/97079> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://purl.org/ontology/mo/recorded_as> ?object . ?object <http://purl.org/ontology/mo/time> <http://dbtune.org/jamendo/interval/100000> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://purl.org/ontology/mo/track> ?object . ?object <http://purl.org/ontology/mo/available_as> <http://www.jamendo.com/get/track/id/track/audio/play/100000> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://xmlns.com/foaf/0.1/maker> ?object . ?object <http://xmlns.com/foaf/0.1/name> "Cicada"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://purl.org/ontology/mo/published_as> ?object . ?object <http://purl.org/ontology/mo/available_as> <http://www.jamendo.com/get/track/id/track/audio/xspf/100000> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://purl.org/NET/c4dm/event.owl#factor> ?object . ?object <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Lyrics> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://purl.org/ontology/mo/track> ?object . ?object <http://purl.org/dc/elements/1.1/title> "06-Down"^^<http://www.w3.org/2001/XMLSchema#string> .}

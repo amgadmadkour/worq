@@ -1,0 +1,7 @@
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/format> "ogg3" . ?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Torrent> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/format> "mp32" . ?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Torrent> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/format> "xspf" . ?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Playlist> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Playlist> . ?subject <http://purl.org/dc/elements/1.1/format> "m3u" .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Torrent> . ?subject <http://purl.org/dc/elements/1.1/format> "mp32" .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/format> "m3u" . ?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Playlist> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/ED2K> . ?subject <http://purl.org/dc/elements/1.1/format> "mp32" .}

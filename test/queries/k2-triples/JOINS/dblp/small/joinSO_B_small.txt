@@ -1,0 +1,25 @@
+SELECT ?subject1 ?object WHERE {?subject1 <http://www.w3.org/2002/07/owl#sameAs> ?object . ?object <http://xmlns.com/foaf/0.1/homepage> <http://www.dcs.kcl.ac.uk/staff/kuag/> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://xmlns.com/foaf/0.1/maker> ?object . ?object <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.l3s.de/Authors/%28Max%29+Zong-Ming+Cheng> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://swrc.ontoware.org/ontology#journal> ?object . ?object <http://purl.org/dc/elements/1.1/title> "4OR"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://purl.org/dc/terms/references> ?object . ?object <http://swrc.ontoware.org/ontology#isbn> "ISBN 0-201-59098-0"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://purl.org/dc/terms/partOf> ?object . ?object <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://amazon.com/s/ref=nb_ss_gw?field-keywords=0-201-59098-0> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://purl.org/dc/terms/partOf> ?object . ?object <http://www.w3.org/2002/07/owl#sameAs> <http://bibsonomy.org/uri/bibtexkey/books/acm/Kim95/dblp> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://xmlns.com/foaf/0.1/maker> ?object . ?object <http://xmlns.com/foaf/0.1/name> "(Max) Zong-Ming Cheng" .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://swrc.ontoware.org/ontology#editor> ?object . ?object <http://www.w3.org/2000/01/rdf-schema#label> "\u00C1kos Frohner" .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?object . ?object <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://www.w3.org/2002/07/owl#sameAs> ?object . ?object <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.l3s.de/Authors/%C3%81gnes+Kurucz> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://purl.org/dc/terms/references> ?object . ?object <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#Book> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://xmlns.com/foaf/0.1/maker> ?object . ?object <http://www.w3.org/2000/01/rdf-schema#label> "(Max) Zong-Ming Cheng" .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://purl.org/dc/terms/partOf> ?object . ?object <http://purl.org/dc/elements/1.1/identifier> "ISBN 0-201-59098-0"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://purl.org/dc/terms/references> ?object . ?object <http://purl.org/dc/elements/1.1/publisher> "ACM Press and Addison-Wesley"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://purl.org/dc/terms/partOf> ?object . ?object <http://purl.org/dc/elements/1.1/identifier> "DBLP books/acm/Kim95"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://swrc.ontoware.org/ontology#series> ?object . ?object <http://www.w3.org/2002/07/owl#sameAs> <http://dblp.l3s.de/d2r/resource/publications/books/acm/Kim95> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://swrc.ontoware.org/ontology#editor> ?object . ?object <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.l3s.de/Authors/%C3%81kos+Frohner> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://xmlns.com/foaf/0.1/maker> ?object . ?object <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://www.bibsonomy.org/uri/author/%28Max%29+Zong-Ming+Cheng> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://purl.org/dc/terms/references> ?object . ?object <http://purl.org/dc/elements/1.1/identifier> "DBLP books/acm/Kim95"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://purl.org/dc/terms/references> ?object . ?object <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://amazon.com/s/ref=nb_ss_gw?field-keywords=0-201-59098-0> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://swrc.ontoware.org/ontology#series> ?object . ?object <http://www.w3.org/2000/01/rdf-schema#label> "Modern Database Systems"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://purl.org/dc/terms/partOf> ?object . ?object <http://purl.org/dc/terms/bibliographicCitation> <http://dblp.uni-trier.de/rec/bibtex/books/acm/Kim95> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://swrc.ontoware.org/ontology#series> ?object . ?object <http://purl.org/dc/elements/1.1/title> "Modern Database Systems"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://purl.org/dc/elements/1.1/creator> ?object . ?object <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.l3s.de/Authors/%28Max%29+Zong-Ming+Cheng> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://swrc.ontoware.org/ontology#journal> ?object . ?object <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.l3s.de/Venues/4OR> .}

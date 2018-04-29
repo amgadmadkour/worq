@@ -1,0 +1,25 @@
+SELECT ?subject ?predicate2 WHERE {?subject <http://dbpedia.org/ontology/schoolNumber> "3939107"@en . ?subject ?predicate2 <http://www.bced.gov.bc.ca/reports/pdfs/school_perf/03939107.pdf> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://dbpedia.org/property/namedFor> <http://dbpedia.org/resource/Louis_XVI_of_France> . ?subject ?predicate2 <http://dbpedia.org/resource/General_Electric> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://dbpedia.org/property/week2020Color> "d"@en . ?subject ?predicate2 "Pittsburgh"@en .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://dbpedia.org/property/map1CaptionYooyo> "Location of Pennsylvania in the United States"@en . ?subject ?predicate2 <http://en.wikipedia.org/wiki/Audubon%2C_Pennsylvania> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://dbpedia.org/property/onscode> "30UD"@en . ?subject ?predicate2 <http://dbpedia.org/resource/Padiham> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://dbpedia.org/property/leaders> "Mauricio Jaramillo"@en . ?subject ?predicate2 <http://dbpedia.org/resource/Valle_del_Cauca_Department> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://dbpedia.org/property/appoll> "6"^^<http://www.w3.org/2001/XMLSchema#int> . ?subject ?predicate2 <http://www.aggieathletics.com/sports/m-footbl/spec-rel/tam-m-footbl-1947-stats.html> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://dbpedia.org/property/shipSailPlan> "Brigantine sail rigging"@en . ?subject ?predicate2 <http://dbpedia.org/resource/Shipwrecks_in_the_Pacific_Ocean> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://dbpedia.org/property/divisionHist> "* American Football Conference \n** AFC West"@en . ?subject ?predicate2 <http://dbpedia.org/resource/Willie_Brown_%28American_football%29> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://dbpedia.org/property/fusibility> "3.5"^^<http://www.w3.org/2001/XMLSchema#double> . ?subject ?predicate2 <http://dbpedia.org/resource/Golden%2C_Colorado> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://dbpedia.org/property/szgenePolyid> "31"^^<http://www.w3.org/2001/XMLSchema#int> . ?subject ?predicate2 "1801133"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://dbpedia.org/property/originalRun> "1971\u20131982, 1998\u20132007"@en . ?subject ?predicate2 <http://dbpedia.org/resource/In_the_Cut> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://dbpedia.org/property/mmasubwins> "3"^^<http://www.w3.org/2001/XMLSchema#int> . ?subject ?predicate2 <http://dbpedia.org/resource/Matt_Thompson_%28fighter%29> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://dbpedia.org/property/junSnowCm> "6.5"^^<http://www.w3.org/2001/XMLSchema#double> . ?subject ?predicate2 "1538"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://dbpedia.org/property/_2009Position> "3rd , 2nd /1st"@en . ?subject ?predicate2 <http://dbpedia.org/ontology/SportsTeam> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://dbpedia.org/property/avco> <http://dbpedia.org/resource/1978%E2%80%9379_WHA_season> . ?subject ?predicate2 <http://dbpedia.org/resource/Minnesota_Fighting_Saints> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://dbpedia.org/property/propertyList> <http://dbpedia.org/resource/Isogonal_figure> . ?subject ?predicate2 <http://dbpedia.org/resource/Orthographic_projection_%28geometry%29> .}
+SELECT ?subject ?object2 WHERE {?subject <http://dbpedia.org/property/valvetype> "High pressure: Piston valves . "@en ?predicate ?object2 .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://dbpedia.org/property/power/massMet> "0.31 kW/kg"@en . ?subject ?predicate2 <http://dbpedia.org/resource/Wings_of_Storm> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://dbpedia.org/property/bildpfadKarte> "Karte-Frankenwaldbahn.png"@en . ?subject ?predicate2 <http://dbpedia.org/resource/Kronach> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://dbpedia.org/property/trailingSize> "42.0"^^<http://dbpedia.org/datatype/inch> . ?subject ?predicate2 "57"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://dbpedia.org/property/dailyOut> <https://www.ams-ix.net/technical/stats/> . ?subject ?predicate2 "351"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://dbpedia.org/property/talmud> "Shabbat 32a, Yoma 11a, Menachot 33a,"@en . ?subject ?predicate2 "Tefillin, Mezuzah, veSefer Torah ch 5-6"@en .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://dbpedia.org/property/celloPrev> <http://dbpedia.org/resource/John_Todd_%28cellist%29> . ?subject ?predicate2 <http://dbpedia.org/resource/Roger_Coull> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://dbpedia.org/property/ruClubpoints> "225"^^<http://www.w3.org/2001/XMLSchema#int> . ?subject ?predicate2 <http://dbpedia.org/resource/Rugby_Calvisano> .}

@@ -1,0 +1,8 @@
+PREFIX dbr: <http://dbpedia.org/resource/>
+
+select ?x ?y
+where
+{
+    ?x dbr:mention ?y .
+    ?x dbr:friends ?y .
+}

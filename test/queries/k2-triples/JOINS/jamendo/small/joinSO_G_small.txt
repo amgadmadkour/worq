@@ -1,0 +1,25 @@
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dbtune.org/jamendo/signal/77805> ?predicate1 ?object . ?object ?predicate2 <http://www.jamendo.com/get/track/id/track/audio/play/77805> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dbtune.org/jamendo/artist/669> ?predicate1 ?object . ?object ?predicate2 <http://dbtune.org/jamendo/tag/alternatif> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dbtune.org/jamendo/signal/88958> ?predicate1 ?object . ?object ?predicate2 <http://www.jamendo.com/get/track/id/track/audio/play/88958> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dbtune.org/jamendo/performance/23560> ?predicate1 ?object . ?object ?predicate2 <http://purl.org/ontology/mo/Signal> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dbtune.org/jamendo/performance/17388> ?predicate1 ?object . ?object ?predicate2 <http://purl.org/ontology/mo/Signal> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dbtune.org/jamendo/performance/69912> ?predicate1 ?object . ?object ?predicate2 <http://dbtune.org/jamendo/track/69912> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dbtune.org/jamendo/signal/92027> ?predicate1 ?object . ?object ?predicate2 "FAHOROMEI - HURLE"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dbtune.org/jamendo/performance/86172> ?predicate1 ?object . ?object ?predicate2 <http://dbtune.org/jamendo/interval/86172> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dbtune.org/jamendo/signal/24653> ?predicate1 ?object . ?object ?predicate2 <http://www.jamendo.com/get/track/id/track/audio/xspf/24653> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dbtune.org/jamendo/performance/86138> ?predicate1 ?object . ?object ?predicate2 <http://purl.org/ontology/mo/Lyrics> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dbtune.org/jamendo/signal/39112> ?predicate1 ?object . ?object ?predicate2 <http://www.jamendo.com/get/track/id/track/audio/xspf/39112> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dbtune.org/jamendo/signal/19632> ?predicate1 ?object . ?object ?predicate2 <http://purl.org/ontology/mo/Track> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dbtune.org/jamendo/signal/43684> ?predicate1 ?object . ?object ?predicate2 <http://www.jamendo.com/get/track/id/track/audio/play/43684> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dbtune.org/jamendo/performance/16865> ?predicate1 ?object . ?object ?predicate2 <http://purl.org/ontology/mo/Lyrics> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dbtune.org/jamendo/signal/103190> ?predicate1 ?object . ?object ?predicate2 <http://purl.org/ontology/mo/Track> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dbtune.org/jamendo/signal/40323> ?predicate1 ?object . ?object ?predicate2 <http://purl.org/ontology/mo/Track> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dbtune.org/jamendo/performance/21523> ?predicate1 ?object . ?object ?predicate2 <http://dbtune.org/jamendo/track/21523> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dbtune.org/jamendo/performance/44420> ?predicate1 ?object . ?object ?predicate2 "1 - Upside Down\n(music: croxing .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dbtune.org/jamendo/signal/76742> ?predicate1 ?object . ?object ?predicate2 <http://purl.org/ontology/mo/Track> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dbtune.org/jamendo/signal/81960> ?predicate1 ?object . ?object ?predicate2 <http://purl.org/ontology/mo/Track> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dbtune.org/jamendo/signal/49379> ?predicate1 ?object . ?object ?predicate2 <http://creativecommons.org/licenses/by-nc-sa/3.0/> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dbtune.org/jamendo/signal/16040> ?predicate1 ?object . ?object ?predicate2 <http://www.jamendo.com/get/track/id/track/audio/play/16040> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dbtune.org/jamendo/signal/5496> ?predicate1 ?object . ?object ?predicate2 "Fresh Ass Cleaner"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dbtune.org/jamendo/performance/37094> ?predicate1 ?object . ?object ?predicate2 <http://purl.org/ontology/mo/Signal> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://dbtune.org/jamendo/signal/46005> ?predicate1 ?object . ?object ?predicate2 <http://purl.org/ontology/mo/Track> .}

@@ -1,0 +1,11 @@
+SELECT ?subject1 ?object ?object2 WHERE {?subject1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?object . ?object <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?object2 .}
+SELECT ?subject1 ?object ?object2 WHERE {?subject1 <http://www.w3.org/2002/07/owl#sameAs> ?object . ?object <http://www.w3.org/2000/01/rdf-schema#label> ?object2 .}
+SELECT ?subject1 ?object ?object2 WHERE {?subject1 <http://www.w3.org/2002/07/owl#sameAs> ?object . ?object <http://xmlns.com/foaf/0.1/homepage> ?object2 .}
+SELECT ?subject1 ?object ?object2 WHERE {?subject1 <http://www.w3.org/2002/07/owl#sameAs> ?object . ?object <http://www.w3.org/2000/01/rdf-schema#seeAlso> ?object2 .}
+SELECT ?subject1 ?object ?object2 WHERE {?subject1 <http://xmlns.com/foaf/0.1/maker> ?object . ?object <http://www.w3.org/2000/01/rdf-schema#seeAlso> ?object2 .}
+SELECT ?subject1 ?object ?object2 WHERE {?subject1 <http://purl.org/dc/elements/1.1/creator> ?object . ?object <http://www.w3.org/2000/01/rdf-schema#label> ?object2 .}
+SELECT ?subject1 ?object ?object2 WHERE {?subject1 <http://purl.org/dc/elements/1.1/creator> ?object . ?object <http://www.w3.org/2000/01/rdf-schema#seeAlso> ?object2 .}
+SELECT ?subject1 ?object ?object2 WHERE {?subject1 <http://purl.org/dc/elements/1.1/creator> ?object . ?object <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?object2 .}
+SELECT ?subject1 ?object ?object2 WHERE {?subject1 <http://xmlns.com/foaf/0.1/maker> ?object . ?object <http://www.w3.org/2000/01/rdf-schema#label> ?object2 .}
+SELECT ?subject1 ?object ?object2 WHERE {?subject1 <http://xmlns.com/foaf/0.1/maker> ?object . ?object <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?object2 .}
+SELECT ?subject1 ?object ?object2 WHERE {?subject1 <http://www.w3.org/2002/07/owl#sameAs> ?object . ?object <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?object2 .}

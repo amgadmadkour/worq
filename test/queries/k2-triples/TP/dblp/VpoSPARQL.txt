@@ -1,0 +1,467 @@
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/issued> "1954"^^<http://www.w3.org/2001/XMLSchema#gYear> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#volume> "abs/1109.3556"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2002/07/owl#sameAs> <http://bibsonomy.org/uri/bibtexkey/conf/waim/ZhangJWWZ11a/dblp> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/title> "Cooperative bin-picking with Time-of-Flight camera and impedance controlled DLR lightweight robot III."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/identifier> "DBLP conf/igarss/ChanND10"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#volume> "abs/1107.1974"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/bibliographicCitation> <http://dblp.uni-trier.de/rec/bibtex/journals/fuin/GeilenBTO07> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/references> <http://dblp.l3s.de/d2r/resource/publications/conf/slp/JamilL95> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/creator> <http://dblp.l3s.de/d2r/resource/authors/Sanjida_Moury> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#month> "September"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#number> "42"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/identifier> "DBLP journals/dm/LiL94"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2000/01/rdf-schema#label> "Application Research for Robots Based on a Case."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/bibliographicCitation> <http://dblp.uni-trier.de/rec/bibtex/journals/cma/Chen11> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/homepage> <http://dx.doi.org/10.1016/j.compind.2010.07.002> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#number> "13-15"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/identifier> "DBLP journals/eor/Clegg06"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#number> "161"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/references> <http://dblp.l3s.de/d2r/resource/publications/journals/tcs/GrumbachS97> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/issued> "1936"^^<http://www.w3.org/2001/XMLSchema#gYear> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/page> <http://dx.doi.org/10.1109/TWC.2006.05063> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#month> "January/February"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/page> <http://dx.doi.org/10.1057/jos.2010.19> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#MasterThesis> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/references> <http://dblp.l3s.de/d2r/resource/publications/conf/adbis/KalinichenkoZ95> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/bibliographicCitation> <http://dblp.uni-trier.de/rec/bibtex/conf/crypto/StinsonV87> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/publisher> "Univ. Trier, FB 4, Informatik / Verlag Dr. Hut / Univ. Trier, FB 4, Informatik"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#journal> <http://dblp.l3s.de/d2r/resource/journals/vc> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#journal> <http://dblp.l3s.de/d2r/resource/journals/informaticaLT> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/partOf> <http://dblp.l3s.de/d2r/resource/publications/conf/pakm/1998> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#volume> "abs/0910.3144"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#volume> "cs.NI/0411082"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#pages> "166-190"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/title> "A Framework for Measuring Changes in Data Characteristics."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/subject> "object-oriented composition, object-oriented design patterns, object-oriented frameworks"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#isbn> "ISBN 0-7717-0604-9"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#series> <http://dblp.l3s.de/d2r/resource/conferences/sensys> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/issued> "1952"^^<http://www.w3.org/2001/XMLSchema#gYear> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#isbn> "ISBN 978-1-59593-721-6"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/page> <http://www.inf.u-szeged.hu/kutatas/actacybernetica/vol15n1/cikk8.xml> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2000/01/rdf-schema#label> "Johannes Schwagereit" .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2000/01/rdf-schema#label> "HelperCoreDB: Exploiting multicore technology to improve database performance."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#series> <http://dblp.l3s.de/d2r/resource/conferences/foci> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#pages> "999-1016"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/homepage> <http://dx.doi.org/10.1109/WCRE.2008.22> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/type> <http://purl.org/dc/dcmitype/Text> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/name> "Florian Luca" .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#editor> <http://dblp.l3s.de/d2r/resource/authors/Udi_Manber> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#series> <http://dblp.l3s.de/d2r/resource/conferences/itee> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#journal> <http://dblp.l3s.de/d2r/resource/journals/aaecc> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/title> "Approximation Algorithms for Channel Assignment with Constraints."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#month> "March"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/creator> <http://dblp.l3s.de/d2r/resource/authors/Chao-Yi_Dong> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/publisher> "Institut f\u00FCr Wasserwirtschaft und Kulturtechnik Universit\u00E4t Karlsruhe"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#series> <http://dblp.l3s.de/d2r/resource/conferences/replication> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/identifier> "DBLP conf/grc/KongCY07"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#series> <http://dblp.l3s.de/d2r/resource/conferences/collaboration> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/issued> "1957"^^<http://www.w3.org/2001/XMLSchema#gYear> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/name> "J. Carlos Ruiz-Su\u00E1rez" .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#Conference> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#series> <http://dblp.l3s.de/d2r/resource/conferences/csreaSAM> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/identifier> "DBLP journals/amai/SharirS91"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/identifier> "DBLP conf/iser/GregorioAB93"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#isbn> "ISBN 0-596-00016-2"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dx.doi.org/10.1007/11738695_26> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/title> "Deciding Key Cycles for Security Protocols."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/subject> "Human identification .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#volume> "6174"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/partOf> <http://dblp.l3s.de/d2r/resource/publications/conf/icfie/2007> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.uni-trier.de/db/conf/icassp/icassp2008.html#BilikKK08> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2002/07/owl#sameAs> <http://bibsonomy.org/uri/bibtexkey/conf/ictcs/GiammarresiMW01/dblp> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#isbn> "ISBN 978-0-596-15450-9"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#series> <http://dblp.l3s.de/d2r/resource/conferences/nn> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#isbn> "ISBN 0-412-63950-5"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/partOf> <http://dblp.l3s.de/d2r/resource/publications/conf/scm/1995> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://www.bibsonomy.org/uri/author/Cieh-Pin+Chang> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#journal> <http://dblp.l3s.de/d2r/resource/journals/ijgbl> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#volume> "cs.DS/0309014"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/homepage> <http://doi.ieeecomputersociety.org/10.1109/FOCS.2008.88> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2002/07/owl#sameAs> <http://bibsonomy.org/uri/bibtexkey/conf/icws/YamatoS07/dblp> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/publisher> "Phoenix"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/publisher> "University of Southern California"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/creator> <http://dblp.l3s.de/d2r/resource/authors/Anton_Kozlov> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/tableOfContent> <http://dblp.uni-trier.de/db/conf/webist/webist2005.html> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/title> "On Reducing Error Rate of Data Protected Using Systematic Unordered Codes in Asymmetric Channels."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/title> "Receiver Operating Characteristic Analysis."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/tableOfContent> <http://dblp.uni-trier.de/db/conf/icsnc/icsnc2007.html> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#editor> <http://dblp.l3s.de/d2r/resource/authors/Can_C._%C3%96zturan> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/creator> <http://dblp.l3s.de/d2r/resource/authors/D._A._Kerns> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/name> "David Navarro" .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/creator> <http://dblp.l3s.de/d2r/resource/authors/Sase_Narine_Singh> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/partOf> <http://dblp.l3s.de/d2r/resource/publications/conf/rules/1997> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#journal> <http://dblp.l3s.de/d2r/resource/journals/jms> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/partOf> <http://dblp.l3s.de/d2r/resource/publications/conf/cases/2006> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/issued> "1997"^^<http://www.w3.org/2001/XMLSchema#gYear> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#editor> <http://dblp.l3s.de/d2r/resource/authors/Susan_J._Eggers> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/title> "Evaluation of an inverse filtering technique using physical modeling of voice production."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/issued> "1969"^^<http://www.w3.org/2001/XMLSchema#gYear> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/maker> <http://dblp.l3s.de/d2r/resource/authors/Carlos_J._Luz> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/title> "A Note on Analytic Signals with Nonlinear Phase."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2002/07/owl#sameAs> <http://bibsonomy.org/uri/bibtexkey/conf/fskd/ZhangPZL10/dblp> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#Proceedings> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#number> "53"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/partOf> <http://dblp.l3s.de/d2r/resource/publications/conf/sma/2005> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/homepage> <http://doi.acm.org/10.1145/258734.258870> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/homepage> <http://dx.doi.org/10.1109/ICMLC.2010.5580932> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/tableOfContent> <http://dblp.uni-trier.de/db/conf/swb/spa2006.html> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#volume> "abs/1106.1816"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/issued> "1961"^^<http://www.w3.org/2001/XMLSchema#gYear> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/publisher> "ACL"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2002/07/owl#sameAs> <http://dblp.rkbexplorer.com/id/journals/tii/FerreiraAFPMRRP06> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2000/01/rdf-schema#label> "Luke E. Wilkinson" .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#pages> "2020-2032"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#journal> <http://dblp.l3s.de/d2r/resource/journals/eccc> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/creator> <http://dblp.l3s.de/d2r/resource/authors/Guibin_Zheng> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#volume> "abs/1006.4860"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dx.doi.org/10.1109/18.333896> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#isbn> "ISBN 978-1-59593-630-1"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#isbn> "ISBN 978-3-642-17818-4"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#journal> <http://dblp.l3s.de/d2r/resource/journals/entcs> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/creator> <http://dblp.l3s.de/d2r/resource/authors/Junko_Okumura> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#editor> <http://dblp.l3s.de/d2r/resource/authors/Lee_Spector> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/issued> "1985"^^<http://www.w3.org/2001/XMLSchema#gYear> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/homepage> <http://dx.doi.org/10.1109%2FICSDM.2011.5969028> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/tableOfContent> <http://dblp.uni-trier.de/db/conf/sisap/sisap2011.html> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#journal> <http://dblp.l3s.de/d2r/resource/journals/kais> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/subject> "E-Government, Semantic Web, E-Service Integration, Ontology, Interoperability."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/identifier> "DOI 10.1021%2Fci9904867"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/partOf> <http://dblp.l3s.de/d2r/resource/publications/conf/pakdd/2003> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2002/07/owl#sameAs> <http://dblp.rkbexplorer.com/id/conf/ws/KaneB06> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#number> "069"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/title> "GRISLEE."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/name> "Ellen Sexton" .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2000/01/rdf-schema#label> "Effective Distributed Scheduling of Parallel Workloads."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/publisher> "American Mathematical Society"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/homepage> <http://dx.doi.org/10.1016/j.compbiolchem.2009.10.005> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/references> <http://dblp.l3s.de/d2r/resource/publications/conf/caise/EwaldO93> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#pages> "104-139"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/name> "Airenas Vaiciunas" .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#month> "April/May"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#series> <http://dblp.l3s.de/d2r/resource/conferences/parelec> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#number> "136/137"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/references> <http://dblp.l3s.de/d2r/resource/publications/conf/ewdw/Apers94> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#series> <http://dblp.l3s.de/d2r/resource/conferences/medes> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#pages> "281-309"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#series> <http://dblp.l3s.de/d2r/resource/conferences/dictap> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/tableOfContent> <http://dblp.uni-trier.de/db/conf/ejc/ejc2006.html> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/references> <http://dblp.l3s.de/d2r/resource/publications/conf/iadt/SchwarzTS98> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/name> "Victor Jauregui" .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2000/01/rdf-schema#label> "Siamac Fazli" .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/maker> <http://dblp.l3s.de/d2r/resource/authors/Frederico_Gadelha_Guimar%C3%A3es> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#isbn> "ISBN 978-1-59593-891-6"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/tableOfContent> <http://dblp.uni-trier.de/db/conf/asm/asm2004.html> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/partOf> <http://dblp.l3s.de/d2r/resource/publications/conf/huc/2009melt> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/name> "Caroline Blais" .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#isbn> "ISBN 978-0-201-58049-5"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/maker> <http://dblp.l3s.de/d2r/resource/authors/Yooichi_Yokoyama> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dx.doi.org/10.1504/IJKL.2006.009684> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/references> <http://dblp.l3s.de/d2r/resource/publications/conf/vldb/MatthesS94> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#pages> "1030-1048"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#editor> <http://dblp.l3s.de/d2r/resource/authors/Alan_Adamson> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#editor> <http://dblp.l3s.de/d2r/resource/authors/Jim_Smith> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/name> "L. R. Benning" .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/homepage> <http://www.oreilly.de/catalog/internetforensics/index.html> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/page> <http://dx.doi.org/10.1016/S0167-8396(02)00125-5> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#number> "82"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/page> <http://sites.univ-provence.fr/biaa/-upload/BIAA68.pdf> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/title> "A non-iterative model for switching window computation with crosstalk noise."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#series> <http://dblp.l3s.de/d2r/resource/conferences/dphoto> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/title> "Location based services in a wireless WAN using cellular digital packet data (CDPD)."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2000/01/rdf-schema#label> "A Hybrid Nonlinear Classifier Based on Generalized Choquet Integrals."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/tableOfContent> <http://dblp.uni-trier.de/db/conf/cgi/cgi2009.html> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/identifier> "DBLP conf/hpdc/PetrouSMFPD10"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/subject> "Load balancing and task assignment, Algorithm/protocol design and analysis, Adaptable architectures, Distributed architectures, Correlation and regression analysis, Distribution functions"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/issued> "0"^^<http://www.w3.org/2001/XMLSchema#gYear> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/subject> "Virtualization Oriented Architecture .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/name> "Pramod K. Suri" .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2000/01/rdf-schema#label> "An agent based middleware imposing intelligence over critical infrastructures utilizing Wireless Sensor Networks."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#editor> <http://dblp.l3s.de/d2r/resource/authors/Riko_Jacob> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/subject> "online social networks, structural attacks, malware attacks, security & privacy, survey"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/title> "Evolutionary Reconstruction of Gray Images."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/references> <http://dblp.l3s.de/d2r/resource/publications/journals/ml/Tesauro92> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2000/01/rdf-schema#label> "Panel: eXtreme Programming: Helpful or Harmful?"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#Book> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/identifier> "DOI 10.1007%2F3540635149%5F36"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#journal> <http://dblp.l3s.de/d2r/resource/journals/re> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/publisher> "Harvester Wheatsheaf"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/name> "Emad Al-Susa" .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#volume> "cs.NI/0307026"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/tableOfContent> <http://dblp.uni-trier.de/db/conf/tes/tes2003.html> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/tableOfContent> <http://dblp.uni-trier.de/db/conf/mbees/mbees2006.html> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#series> <http://dblp.l3s.de/d2r/resource/conferences/hldvt> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#pages> "3568-3577"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#month> "July/August"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/publisher> "Universit\u00E4t Leipzig"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/title> "A highly repeatable feature detector: improved Harris-Laplace."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/page> <http://csdl.computer.org/comp/proceedings/isqed/2002/1561/00/15610013abs.htm> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/references> <http://dblp.l3s.de/d2r/resource/publications/journals/micro/BodenCFKSSS95> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#month> "May-June"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/homepage> <http://doi.acm.org/10.1145/278476.278481> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/identifier> "DOI 10.1145%2F1879141.1879184"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#volume> "abs/0711.2832"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/references> <http://dblp.l3s.de/d2r/resource/publications/journals/computer/Wiederhold92> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#isbn> "ISBN 3-540-23071-8"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#editor> <http://dblp.l3s.de/d2r/resource/authors/Can_T%C3%BCrker> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#journal> <http://dblp.l3s.de/d2r/resource/journals/tsc> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#pages> "77-"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#number> "69"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/references> <http://dblp.l3s.de/d2r/resource/publications/journals/cacm/Hanani77> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2002/07/owl#sameAs> <http://dblp.rkbexplorer.com/id/journals/jds/Nolas08> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/creator> <http://dblp.l3s.de/d2r/resource/authors/Gustavo_A._Casa%C3%B1> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#series> <http://dblp.l3s.de/d2r/resource/conferences/icica> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/partOf> <http://dblp.l3s.de/d2r/resource/publications/conf/csee/2003> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#editor> <http://dblp.l3s.de/d2r/resource/authors/Kirk_Pruhs> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dx.doi.org/10.1016/j.ejor.2010.03.003> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/page> <http://doi.acm.org/10.1145/544862.544875> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/creator> <http://dblp.l3s.de/d2r/resource/authors/Jukka_Piiroinen> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/partOf> <http://dblp.l3s.de/d2r/resource/publications/conf/amta/2002> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/issued> "1996"^^<http://www.w3.org/2001/XMLSchema#gYear> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/publisher> "M & T"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#pages> "1092-1099"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/homepage> <http://dx.doi.org/10.1007%2Fs11134-006-0067-2> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#series> <http://dblp.l3s.de/d2r/resource/conferences/wdas> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/references> <http://dblp.l3s.de/d2r/resource/publications/journals/computer/Wah84> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/creator> <http://dblp.l3s.de/d2r/resource/authors/Santosh_Srivastava> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2000/01/rdf-schema#label> "DFS-generated pathways in GA crossover for protein structure prediction."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/references> <http://dblp.l3s.de/d2r/resource/publications/journals/tocs/AklT83> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/creator> <http://dblp.l3s.de/d2r/resource/authors/Theodore_Kisner> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/subject> "in-network processing, key management, security mechanism, sensor networks"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/tableOfContent> <http://dblp.uni-trier.de/db/conf/amire/amire2005.html> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#journal> <http://dblp.l3s.de/d2r/resource/journals/ijgc> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/creator> <http://dblp.l3s.de/d2r/resource/authors/John_C._Bean> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/page> <http://csdl.computer.org/comp/proceedings/avss/2003/1971/00/19710001abs.htm> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/publisher> "Department of Computer Science and Engineering, Faculty of Electrical Engineering, Czech Technical University"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#month> "June"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#editor> <http://dblp.l3s.de/d2r/resource/authors/Jean-Francois_Puget> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#month> "January"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#volume> "abs/cs/0702084"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/publisher> "Department of Geography, University of Zurich"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2002/07/owl#sameAs> <http://dblp.rkbexplorer.com/id/conf/human/KimL03b> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/name> "I. V. Puzynin" .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/references> <http://dblp.l3s.de/d2r/resource/publications/conf/vldb/Otoo84> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/publisher> "VDE Verlag"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2002/07/owl#sameAs> <http://bibsonomy.org/uri/bibtexkey/journals/ijdar/DowntonHL07/dblp> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://www.bibsonomy.org/uri/author/Felix+Chan> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#number> "44"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/identifier> "DBLP journals/acta/CharlierH95"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2002/07/owl#sameAs> <http://bibsonomy.org/uri/bibtexkey/journals/mr/BouyaCMLPCBP07/dblp> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#journal> <http://dblp.l3s.de/d2r/resource/journals/ijia> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#editor> <http://dblp.l3s.de/d2r/resource/authors/Matt_Pharr> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/bibliographicCitation> <http://dblp.uni-trier.de/rec/bibtex/conf/aia/SundararajanP07> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#InProceedings> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/identifier> "DOI 10.1016%2FS0167-6245%2802%2900090-2"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/publisher> "ACM/Springer"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.l3s.de/Authors/Antony+Siahaan> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/subject> "noisy decision tree complexity, tree depth, noisy circuits, lower bound, Boolean circuits, critical number, computational model, static Boolean decision trees, erroneous answers, questions, answers, noisy dynamic decision trees, Boolean functions"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/identifier> "DOI 10.1109%2FHICSS.2011.383"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/name> "Jesus Pulido" .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#editor> <http://dblp.l3s.de/d2r/resource/authors/Xavier_Leroy> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/title> "Approximating Normals for Marching Cubes applied to Locally Supported Isosurfaces."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/page> <http://dx.doi.org/10.4018/jitpm.2010100203> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/subject> "fault tree analysis, dependability, optimization, safety analysis, embedded systems"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/subject> "field programmable gate arrays, series-parallel technology mapping, tree-based technology mapping algorithm, universal logic modules"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#journal> <http://dblp.l3s.de/d2r/resource/journals/jsyml> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/maker> <http://dblp.l3s.de/d2r/resource/authors/Shu-Ting_Liao> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2002/07/owl#sameAs> <http://bibsonomy.org/uri/bibtexkey/conf/acisp/Baraani-DastjerdiPS96/dblp> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#volume> "abs/1108.5450"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2002/07/owl#sameAs> <http://bibsonomy.org/uri/bibtexkey/conf/wsc/BartonNX10/dblp> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#volume> "abs/1104.1872"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2000/01/rdf-schema#label> "Eva Vanhengel" .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#pages> "1465-1473"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/name> "C. Ley-Bosch" .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/bibliographicCitation> <http://dblp.uni-trier.de/rec/bibtex/conf/sigcse/CoppitH05> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#pages> "2411-2437"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/tableOfContent> <http://dblp.uni-trier.de/db/conf/fodo/fodo93.html> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/partOf> <http://dblp.l3s.de/d2r/resource/publications/series/sci/2010-270> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/homepage> <http://dx.doi.org/10.1007/978-3-540-88188-9_21> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#isbn> "ISBN 978-5-12-003975-8"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://www.bibsonomy.org/uri/author/Xiaowei+Han> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#volume> "abs/0712.4057"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#pages> "2689-2700"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/tableOfContent> <http://dblp.uni-trier.de/db/conf/isec/isec2001.html> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#isbn> "ISBN 1-58113-495-9"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.l3s.de/Authors/Ana+G%C3%B3mez+Oliva> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/identifier> "DBLP conf/rcis/PastorLCCEVP10"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#month> "October/November"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/maker> <http://dblp.l3s.de/d2r/resource/authors/J._R._Mitchell> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#volume> "abs/0810.5758"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/partOf> <http://dblp.l3s.de/d2r/resource/publications/conf/wadt/2008> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#journal> <http://dblp.l3s.de/d2r/resource/journals/fss> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/partOf> <http://dblp.l3s.de/d2r/resource/publications/conf/chi/1991> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#series> <http://dblp.l3s.de/d2r/resource/conferences/aim> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/maker> <http://dblp.l3s.de/d2r/resource/authors/Qingding_Guo> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/publisher> "The MIT Press and McGraw-Hill Book Company"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2002/07/owl#sameAs> <http://bibsonomy.org/uri/bibtexkey/conf/fccm/ChapmanD97/dblp> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/page> <http://dx.doi.org/10.1137/060663519> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2000/01/rdf-schema#label> "Computing the Frequency of Partial Orders."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/partOf> <http://dblp.l3s.de/d2r/resource/publications/conf/seke/2001> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/publisher> "Aka Akademische Verlagsgesellschaft Aka GmbH, Berlin"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#journal> <http://dblp.l3s.de/d2r/resource/journals/ijegr> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#journal> <http://dblp.l3s.de/d2r/resource/journals/tplp> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.l3s.de/Authors/Hua+Lu+0006> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2002/07/owl#sameAs> <http://dblp.rkbexplorer.com/id/journals/ai/Bench-CaponDD07> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/issued> "1970"^^<http://www.w3.org/2001/XMLSchema#gYear> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#volume> "abs/1107.0385"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/tableOfContent> <http://dblp.uni-trier.de/db/conf/dagstuhl/P6061.html> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#number> "5-7"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/name> "Jose Mannuel Acro" .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#journal> <http://dblp.l3s.de/d2r/resource/journals/networks> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#number> "Theory"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#number> "002"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/bibliographicCitation> <http://dblp.uni-trier.de/rec/bibtex/conf/nordichi/HavukumpuVGH06> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#volume> "abs/1001.0824"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/tableOfContent> <http://dblp.uni-trier.de/db/conf/isiwi/isi1998.html> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/identifier> "DBLP conf/igarss/WeiH11"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/bibliographicCitation> <http://dblp.uni-trier.de/rec/bibtex/journals/jucs/Dittrich02> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.l3s.de/Authors/Friedrich+Strau%C3%9F> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#volume> "abs/1102.4636"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/name> "Ilhyun Park" .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/homepage> <http://dx.doi.org/10.1109/WCNC.2009.4917593> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/maker> <http://dblp.l3s.de/d2r/resource/authors/Angelo_Carlucci> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#number> "3a"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#pages> "53-74"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#number> "077"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#PhDThesis> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/homepage> <http://dx.doi.org/10.1023/A:1013806902072> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/name> "Harikrishna Samala" .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/title> "Artificial Intelligence Research at NASA Langley Research Center."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#editor> <http://dblp.l3s.de/d2r/resource/authors/Dominique_Burger> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/issued> "2007"^^<http://www.w3.org/2001/XMLSchema#gYear> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/publisher> "Pitman / Morgan Kaufmann"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/references> <http://dblp.l3s.de/d2r/resource/publications/conf/ds/ApersHB86> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/partOf> <http://dblp.l3s.de/d2r/resource/publications/conf/iwpc/1999> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#month> "December"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/subject> "healthcare system, medical care, sensor networks"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/creator> <http://dblp.l3s.de/d2r/resource/authors/Anna_Fiedorowicz> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://www.bibsonomy.org/uri/author/Peter+D.+Lloyd> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/tableOfContent> <http://dblp.uni-trier.de/db/conf/miccai/miccai2006-2.html> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#number> "16-18"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#series> <http://dblp.l3s.de/d2r/resource/conferences/afp> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/references> <http://dblp.l3s.de/d2r/resource/publications/conf/pos/FernandezZ89> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/subject> "shared memory .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://www.bibsonomy.org/uri/author/Milos+Roganovic> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.uni-trier.de/db/journals/rig/rig19.html#DubeBB09> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/tableOfContent> <http://dblp.uni-trier.de/db/series/eptcs/eptcs19.html> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/references> <http://dblp.l3s.de/d2r/resource/publications/conf/aaai/Raschid90> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/partOf> <http://dblp.l3s.de/d2r/resource/publications/conf/dceis/2003> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dblp.uni-trier.de/db/conf/elpub/elpub2002.html#Neun02> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/name> "Lutz Lohmann" .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#journal> <http://dblp.l3s.de/d2r/resource/journals/dbsk> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/references> <http://dblp.l3s.de/d2r/resource/publications/conf/aaai/CohenGD87> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/bibliographicCitation> <http://dblp.uni-trier.de/rec/bibtex/journals/tim/Vountesmeri02> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/references> <http://dblp.l3s.de/d2r/resource/publications/journals/csur/AllenLM82> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/creator> <http://dblp.l3s.de/d2r/resource/authors/Thomas_Tuschl> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2000/01/rdf-schema#label> "RCCT: Robust Clustering with Cooperative Transmission for Energy Efficient Wireless Sensor Networks."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/page> <http://doi.ieeecomputersociety.org/10.1109/CCGRID.2003.1199403> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/identifier> "DBLP journals/ijis/FinnieS02"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/publisher> "mitp-Verlag, Redline GmbH"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#journal> <http://dblp.l3s.de/d2r/resource/journals/ijscn> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/bibliographicCitation> <http://dblp.uni-trier.de/rec/bibtex/conf/sigir/FangTZ04> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/page> <http://csdl.computer.org/comp/proceedings/isqed/2001/1025/00/10250011abs.htm> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/subject> "K-means clustering, angle projection, multi-oriented text line detection, video text detection, wavelet-median-moments"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/subject> "Rough sets .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/name> "Imad I. Abdul Kaream" .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#volume> "5059"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/subject> "aes, computer architecture, cryptographic algorithms, instruction set extensions, public key cryptography, security"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/references> <http://dblp.l3s.de/d2r/resource/publications/journals/jacm/SrikanthT87> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://doi.acm.org/10.1145/1640233.1640348> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#pages> "3534-3537"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/identifier> "DBLP conf/vrcai/TangCD04"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#pages> "8567"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#month> "July-August"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/publisher> "SIPTA"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/references> <http://dblp.l3s.de/d2r/resource/publications/conf/mfdbs/LambrichtsNPPT89> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#number> "112"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/bibliographicCitation> <http://dblp.uni-trier.de/rec/bibtex/journals/mr/LiuKDDSZ09> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/tableOfContent> <http://dblp.uni-trier.de/db/conf/fc/fc2009.html> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/title> "Computer aided hand tuning (CAHT): \"applying case-based reasoning to performance tuning\"."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/title> "Exact and Approximate Distributions of Instantaneous Power for Pulse-Shaped Single-Carrier Signals."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#number> "S-8"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/tableOfContent> <http://dblp.uni-trier.de/db/conf/ac/chd2002.html> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/name> "Kyungmin Poo" .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/page> <http://dx.doi.org/10.1007/s100320050001> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#volume> "abs/1102.3245"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#series> <http://dblp.l3s.de/d2r/resource/conferences/aldt> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/name> "Leisa D. Sargent" .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#volume> "774"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/page> <http://doi.ieeecomputersociety.org/10.1109/FBIT.2007.147> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2000/01/rdf-schema#label> "Integrating Data Warehouses with Web Data: A Survey."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#editor> <http://dblp.l3s.de/d2r/resource/authors/Ant%C3%B3nio_Branco> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#isbn> "ISBN 978-1-56592-449-9"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2002/07/owl#sameAs> <http://bibsonomy.org/uri/bibtexkey/conf/stoc/BartalLMN03/dblp> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://amazon.com/s/ref=nb_ss_gw?field-keywords=86-435-0552-8> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2002/07/owl#sameAs> <http://bibsonomy.org/uri/bibtexkey/journals/interactions/Holmquist07/dblp> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/title> "An Educational Game for Learning Calculus."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/identifier> "DBLP conf/sac/GrubbsHTM94"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2002/07/owl#sameAs> <http://dblp.rkbexplorer.com/id/conf/icalt/ButakovS09> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#InCollection> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#editor> <http://dblp.l3s.de/d2r/resource/authors/Orna_Grumberg> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#pages> "2448-2464"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/maker> <http://dblp.l3s.de/d2r/resource/authors/A._C._Skeldon> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#journal> <http://dblp.l3s.de/d2r/resource/journals/biodatamining> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/bibliographicCitation> <http://dblp.uni-trier.de/rec/bibtex/journals/pami/HuaAG07> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/issued> "1979"^^<http://www.w3.org/2001/XMLSchema#gYear> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/references> <http://dblp.l3s.de/d2r/resource/publications/conf/adb/KempJGF94> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#Collection> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/page> <http://doi.ieeecomputersociety.org/10.1109/SCAM.2001.972682> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/issued> "2011"^^<http://www.w3.org/2001/XMLSchema#gYear> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/homepage> <http://dx.doi.org/10.1007%2F978-3-540-24768-5%5F62> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/type> <http://purl.org/dc/dcmitype/Collection> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#volume> "abs/1103.2648"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/bibliographicCitation> <http://dblp.uni-trier.de/rec/bibtex/conf/tapsoft/LoweEFJ91> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2000/01/rdf-schema#label> "A Decomposition Approach for Mining Frequent Itemsets."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#isbn> "ISBN 978-0-201-59063-0"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://www.bibsonomy.org/uri/author/Paulo+Vieira+Milreu> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/partOf> <http://dblp.l3s.de/d2r/resource/publications/conf/mmm/1998> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#volume> "1290"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://www.bibsonomy.org/uri/author/Venkata+Konda> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2002/07/owl#sameAs> <http://bibsonomy.org/uri/bibtexkey/journals/qic/ElkoussMM11/dblp> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dx.doi.org/10.1007/978-3-540-87877-3_25> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/name> "K. R. Mackie" .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/publisher> "M&T Publishing"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#month> "July"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/partOf> <http://dblp.l3s.de/d2r/resource/publications/conf/ipps/1999> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://www.bibsonomy.org/uri/author/Martina+Kullmann> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#volume> "abs/0707.0562"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/tableOfContent> <http://dblp.uni-trier.de/db/conf/wdag/disc2008.html> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/homepage> <http://dx.doi.org/10.1109%2FICIP.2007.4379128> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2002/07/owl#sameAs> <http://dblp.rkbexplorer.com/id/conf/alt/Yamanishi98> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#pages> "722-756"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/bibliographicCitation> <http://dblp.uni-trier.de/rec/bibtex/journals/tmm/EeckhautDLSLNACVCSWS07> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/name> "Gordon S. Blair" .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/partOf> <http://dblp.l3s.de/d2r/resource/publications/conf/cikm/2008wicow> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/homepage> <http://dx.doi.org/10.1016%2Fj.amc.2007.02.068> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/subject> "availability, mobility, studies of practice, work/life"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/issued> "2010"^^<http://www.w3.org/2001/XMLSchema#gYear> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/name> "Mariusz Stawowski" .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/homepage> <http://dx.doi.org/10.1287%2Fijoc.14.4.387.2830> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2000/01/rdf-schema#label> "Jinqiu Hu" .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/publisher> "epubli GmbH"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/maker> <http://dblp.l3s.de/d2r/resource/authors/Jiangzhou_Wang> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/maker> <http://dblp.l3s.de/d2r/resource/authors/Sai_Sheshank_Burra> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2002/07/owl#sameAs> <http://dblp.rkbexplorer.com/id/conf/fgr/CohenCK96> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#number> "037"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/subject> "optical character recognition .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#journal> <http://dblp.l3s.de/d2r/resource/journals/ijeei> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/partOf> <http://dblp.l3s.de/d2r/resource/publications/conf/saint/2004> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#series> <http://dblp.l3s.de/d2r/resource/conferences/icsdm> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#number> "23-24"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#editor> <http://dblp.l3s.de/d2r/resource/authors/Peter_Nordin> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/homepage> <http://doi.ieeecomputersociety.org/10.1109/ICNS.2006.84> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/maker> <http://dblp.l3s.de/d2r/resource/authors/Tetsuo_Hagiwara> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/title> "A Rule-Based Logic for Quantum Information"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#editor> <http://dblp.l3s.de/d2r/resource/authors/Charles_R._Weisbin> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#volume> "abs/1012.2609"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2000/01/rdf-schema#label> "Can Invisible Watermarks Resolve Rightful Ownerships?"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/publisher> "IEE Press"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/subject> "Legal Risk .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#pages> "7408-7418"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/identifier> "DBLP conf/cadui/DittmarF99"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/publisher> "Addison-Wesley-Longman .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://www.bibsonomy.org/uri/author/Andrea+Bergaglio> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2000/01/rdf-schema#label> "Role Delegation for a Resource-Based Security Model."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#month> "April/May/June"^^<http://www.w3.org/2001/XMLSchema#string> .}

@@ -1,0 +1,10 @@
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://dblp.l3s.de/d2r/resource/authors/Witold_Lukaszewicz> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://dblp.l3s.de/d2r/resource/publications/books/sp/StaabS04> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 "292-312"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://dblp.l3s.de/d2r/resource/authors/Kevin_Q._Gallagher> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://dblp.l3s.de/d2r/resource/authors/Jaime_G%C3%B3mez> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://dblp.l3s.de/d2r/resource/publications/conf/ssdbm/RafanelliR83> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://dblp.l3s.de/d2r/resource/authors/Monika_M%C3%BCllerburg> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://dblp.l3s.de/d2r/resource/authors/Shu-Xiang_Li> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://dblp.l3s.de/d2r/resource/publications/conf/sosp/SpectorDDEP85> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://dblp.l3s.de/d2r/resource/authors/Stefan_Berchtold> .}

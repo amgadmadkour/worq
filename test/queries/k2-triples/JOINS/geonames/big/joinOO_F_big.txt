@@ -1,0 +1,5 @@
+SELECT ?subject1 ?object ?subject2 ?predicate2 WHERE {?subject1 <http://www.geonames.org/ontology#alternateName> ?object . ?subject2 ?predicate2 ?object .}
+SELECT ?subject1 ?object ?subject2 ?predicate2 WHERE {?subject1 <http://www.w3.org/2003/01/geo/wgs84_pos#long> ?object . ?subject2 ?predicate2 ?object .}
+SELECT ?subject1 ?object ?subject2 ?predicate2 WHERE {?subject1 <http://www.geonames.org/ontology#name> ?object . ?subject2 ?predicate2 ?object .}
+SELECT ?subject1 ?object ?subject2 ?predicate2 WHERE {?subject1 <http://www.w3.org/2003/01/geo/wgs84_pos#lat> ?object . ?subject2 ?predicate2 ?object .}
+SELECT ?subject1 ?object ?subject2 ?predicate2 WHERE {?subject1 <http://www.geonames.org/ontology#parentFeature> ?object . ?subject2 ?predicate2 ?object .}

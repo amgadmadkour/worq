@@ -1,0 +1,10 @@
+SELECT ?subject ?predicate2 WHERE {?subject <http://purl.org/dc/elements/1.1/format> "m3u" . ?subject ?predicate2 <http://purl.org/ontology/mo/Playlist> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Playlist> . ?subject ?predicate2 "m3u" .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://purl.org/dc/elements/1.1/format> "mp32" . ?subject ?predicate2 <http://purl.org/ontology/mo/Torrent> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://purl.org/ontology/mo/track_number> "5"^^<http://www.w3.org/2001/XMLSchema#int> . ?subject ?predicate2 <http://purl.org/ontology/mo/Track> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/ED2K> . ?subject ?predicate2 "mp32" .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://purl.org/dc/elements/1.1/format> "xspf" . ?subject ?predicate2 <http://purl.org/ontology/mo/Playlist> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://purl.org/dc/elements/1.1/format> "ogg3" . ?subject ?predicate2 <http://purl.org/ontology/mo/Torrent> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Torrent> . ?subject ?predicate2 "mp32" .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://purl.org/ontology/mo/track_number> "13"^^<http://www.w3.org/2001/XMLSchema#int> . ?subject ?predicate2 <http://purl.org/ontology/mo/Track> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://purl.org/ontology/mo/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> . ?subject ?predicate2 "6"^^<http://www.w3.org/2001/XMLSchema#int> .}

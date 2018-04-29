@@ -1,0 +1,25 @@
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://sws.geonames.org/846164/> ?predicate1 ?object . ?object ?predicate2 "\u00C5lands l\u00E4n"@sv .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://sws.geonames.org/6660661/> ?predicate1 ?object . ?object ?predicate2 <http://www.geonames.org/ontology#A> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://sws.geonames.org/7254544/> ?predicate1 ?object . ?object ?predicate2 <http://sws.geonames.org/5001836/> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://sws.geonames.org/321584/> ?predicate1 ?object . ?object ?predicate2 <http://www.geonames.org/ontology#A> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://sws.geonames.org/2329949/> ?predicate1 ?object . ?object ?predicate2 <http://hu.wikipedia.org/wiki/Nig%C3%A9ria> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://sws.geonames.org/4380100/> ?predicate1 ?object . ?object ?predicate2 <http://www.geonames.org/4398678/missouri.html> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://sws.geonames.org/1669660/> ?predicate1 ?object . ?object ?predicate2 <http://www.geonames.org/7280291/taiwan.html> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://sws.geonames.org/5734200/> ?predicate1 ?object . ?object ?predicate2 "Oregon"@nn .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://sws.geonames.org/3443887/> ?predicate1 ?object . ?object ?predicate2 <http://www.geonames.org/3440771/departamento-de-rocha.html> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://sws.geonames.org/7516459/> ?predicate1 ?object . ?object ?predicate2 "Shan-hsi" .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://sws.geonames.org/1987542/> ?predicate1 ?object . ?object ?predicate2 "Jawa Kulon"@jv .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://sws.geonames.org/6364661/> ?predicate1 ?object . ?object ?predicate2 <http://www.geonames.org/ontology#A> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://sws.geonames.org/7057670/> ?predicate1 ?object . ?object ?predicate2 <http://sws.geonames.org/1633792/contains.rdf> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://sws.geonames.org/996764/> ?predicate1 ?object . ?object ?predicate2 <http://de.wikipedia.org/wiki/Limpopo_%28Provinz%29> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://sws.geonames.org/5343350/> ?predicate1 ?object . ?object ?predicate2 <http://www.geonames.org/ontology#A.ADM1> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://sws.geonames.org/870152/> ?predicate1 ?object . ?object ?predicate2 <http://ta.wikipedia.org/wiki/%E0%AE%A4%E0%AE%BE%E0%AE%95%E0%AF%86%E0%AE%B8%E0%AF%8D%E0%AE%A4%E0%AE%BE%E0%AE%A9%E0%AF%8D> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://sws.geonames.org/108298/> ?predicate1 ?object . ?object ?predicate2 <http://io.wikipedia.org/wiki/Saudia_Arabia> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://sws.geonames.org/3974814/> ?predicate1 ?object . ?object ?predicate2 <http://zh.wikipedia.org/wiki/%E5%A5%87%E7%93%A6%E7%93%A6%E5%B7%9E> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://sws.geonames.org/5318977/> ?predicate1 ?object . ?object ?predicate2 "Arizona"@ca .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://sws.geonames.org/6787942/> ?predicate1 ?object . ?object ?predicate2 <http://www.geonames.org/ontology#A.ADM1> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://sws.geonames.org/2636981/> ?predicate1 ?object . ?object ?predicate2 "50000000" .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://sws.geonames.org/1726804/> ?predicate1 ?object . ?object ?predicate2 <http://www.geonames.org/ontology#A.ADM1> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://sws.geonames.org/2211656/> ?predicate1 ?object . ?object ?predicate2 "Libi\u00EB"@nl .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://sws.geonames.org/706818/> ?predicate1 ?object . ?object ?predicate2 <http://www.geonames.org/ontology#A> .}
+SELECT ?predicate1 ?object ?predicate2 WHERE {<http://sws.geonames.org/6536285/> ?predicate1 ?object . ?object ?predicate2 <http://sws.geonames.org/3164604/contains.rdf> .}

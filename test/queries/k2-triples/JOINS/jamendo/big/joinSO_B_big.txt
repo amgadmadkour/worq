@@ -1,0 +1,9 @@
+SELECT ?subject1 ?object WHERE {?subject1 <http://purl.org/ontology/mo/recorded_as> ?object . ?object <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Signal> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://purl.org/ontology/mo/available_as> ?object . ?object <http://purl.org/dc/elements/1.1/format> "mp32" .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://purl.org/ontology/mo/available_as> ?object . ?object <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Torrent> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://www.holygoat.co.uk/owl/redwood/0.1/tags/taggedWithTag> ?object . ?object <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.holygoat.co.uk/owl/redwood/0.1/tags/Tag> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://purl.org/ontology/mo/published_as> ?object . ?object <http://purl.org/ontology/mo/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://purl.org/ontology/mo/time> ?object . ?object <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/time#Interval> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://purl.org/ontology/mo/published_as> ?object . ?object <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://purl.org/ontology/mo/track> ?object . ?object <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://purl.org/ontology/mo/track> ?object . ?object <http://purl.org/ontology/mo/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .}

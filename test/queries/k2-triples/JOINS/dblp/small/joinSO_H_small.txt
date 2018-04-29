@@ -1,0 +1,25 @@
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://www.bibsonomy.org/uri/author/Judith+L.+Underwood> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 "Yu-Hao Hsu" .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://www.bibsonomy.org/uri/author/M%C3%A1ty%C3%A1s+A.+Sustik> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://www.bibsonomy.org/uri/author/Alain+Ferrarini> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://dblp.l3s.de/Authors/Jaehyoung+Lim> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 "Maria Luisa Damiani" .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 "Ricardo A. Calix" .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://dblp.l3s.de/Authors/Enric+Farguell> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://dblp.l3s.de/Authors/Dick+Hotz> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://dblp.l3s.de/Authors/Mohammad+Ehsan+Basiri> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://dblp.l3s.de/Authors/Chuixiang+Zhou> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://www.bibsonomy.org/uri/author/Pascal+Drazetic> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 "Gabriele Paul" .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 "3928"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 "Vishnu Lakdawala" .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://www.bibsonomy.org/uri/author/Gwen+L.+Stimely> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://dblp.l3s.de/Authors/Girolama+Matozzi> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://www.bibsonomy.org/uri/author/Toshihiro+Nagai> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://dblp.l3s.de/Authors/C.+W.+Hess> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 "Proceedings of the International Conference on Digital Image Computing: Techniques and Applications, DICTA 2005, 6-8 December 2005, Cairns, Australia"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 "Aymen Abdullah Alsaffar" .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 "6184"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://dblp.l3s.de/Authors/Pierre+L.+Dognin> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://dblp.l3s.de/Authors/Takeo+Azuma> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 "Jindan Zhang" .}

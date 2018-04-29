@@ -1,0 +1,25 @@
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://dbpedia.org/resource/D900i> . ?subject ?predicate2 "14937557"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 "13707037"^^<http://www.w3.org/2001/XMLSchema#integer> . ?subject ?predicate2 "326309860"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://dbpedia.org/resource/Havertown%2C_pa> . ?subject ?predicate2 "40882953"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://www.ssb.no/english/municipalities/0425> . ?subject ?predicate2 <http://dbpedia.org/resource/Statistics_Norway> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://dbpedia.org/resource/IDF_366th_Armor_Div.png> . ?subject ?predicate2 <http://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IDF_366th_Armor_Div.png/200px-IDF_366th_Armor_Div.png> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://dbpedia.org/resource/Rasjib_Mohamad> . ?subject ?predicate2 <http://dbpedia.org/resource/Luka_Lipo%C5%A1inovi%C4%87> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 "Le Matin du monde (The Dawn of the World) is the seventeenth book from Yoko Tsuno comic book series written by Roger Leloup and published in 1988."@en . ?subject ?predicate2 "Le Matin du monde (The Dawn of the World) is the seventeenth book from Yoko Tsuno comic book series written by Roger Leloup and published in 1988."@en .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://dbpedia.org/resource/Viscount_Alverstone> . ?subject ?predicate2 <http://dbpedia.org/resource/Viscount_Alverstone> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 "Ilfracombe, Queensland"@en . ?subject ?predicate2 <http://dbpedia.org/ontology/AdministrativeRegion> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://dbpedia.org/resource/Selenops_littoricola> . ?subject ?predicate2 <http://dbpedia.org/resource/Siamspinops> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://eclipse.gsfc.nasa.gov/5MCLEmap/-0199--0100/LE-0183-05-20N.gif> . ?subject ?predicate2 <http://eclipse.gsfc.nasa.gov/5MCLEmap/-0199--0100/LE-0141-08-03T.gif> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://www.baseball-reference.com/teams/WSH/1942.shtml> . ?subject ?predicate2 <http://dbpedia.org/resource/Southern_Association> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 "3663321"^^<http://www.w3.org/2001/XMLSchema#integer> . ?subject ?predicate2 "341246281"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 "8058324"^^<http://www.w3.org/2001/XMLSchema#integer> . ?subject ?predicate2 "290351174"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://en.wikipedia.org/wiki/SH_120_%28TX%29> . ?subject ?predicate2 <http://dbpedia.org/resource/Texas_State_Highway_24> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 "346930229"^^<http://www.w3.org/2001/XMLSchema#integer> . ?subject ?predicate2 "977822"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://dbpedia.org/resource/Yuqin_Ma> . ?subject ?predicate2 <http://dbpedia.org/resource/Nice> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 "Orwin Smith"@en . ?subject ?predicate2 <http://dbpedia.org/resource/2009_ACC_football_season> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://dbpedia.org/resource/Veergati> . ?subject ?predicate2 <http://dbpedia.org/resource/Lisa_Ray> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 "230000627"^^<http://www.w3.org/2001/XMLSchema#integer> . ?subject ?predicate2 "18730815"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://dbpedia.org/resource/InfernoDVD.jpg> . ?subject ?predicate2 <http://dbpedia.org/resource/Anchor_Bay_Entertainment> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 "341887084"^^<http://www.w3.org/2001/XMLSchema#integer> . ?subject ?predicate2 <http://dbpedia.org/resource/Birkeland-Eyde_process> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://en.wikipedia.org/wiki/Women_in_Housing_and_Finance> . ?subject ?predicate2 <http://housingfirst.net/> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://dbpedia.org/resource/Masao_Kotani> . ?subject ?predicate2 <http://dbpedia.org/resource/Jaroslav_Koutecky> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://en.wikipedia.org/wiki/Oleneksky_Ulus> . ?subject ?predicate2 <http://dbpedia.org/resource/Olenyoksky_Ulus> .}

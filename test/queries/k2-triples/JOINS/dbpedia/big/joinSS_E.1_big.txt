@@ -1,0 +1,17 @@
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://dbpedia.org/property/bowlList> ?object1 . ?subject ?predicate2 "0"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://dbpedia.org/property/stat1Header> ?object1 . ?subject ?predicate2 <http://dbpedia.org/resource/Template:Infobox_Airport> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://dbpedia.org/ontology/omim> ?object1 . ?subject ?predicate2 <http://www.w3.org/2002/07/owl#Thing> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://dbpedia.org/property/b_percent_C3_percent_BCrgermeister> ?object1 . ?subject ?predicate2 "10"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://dbpedia.org/property/siteRef> ?object1 . ?subject ?predicate2 <http://www.w3.org/2002/07/owl#Thing> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://dbpedia.org/ontology/deathPlace> ?object1 . ?subject ?predicate2 <http://dbpedia.org/resource/Groningen_%28province%29> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://dbpedia.org/property/similarAircraft> ?object1 . ?subject ?predicate2 <http://dbpedia.org/ontology/MeanOfTransportation> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://dbpedia.org/property/photo> ?object1 . ?subject ?predicate2 <http://dbpedia.org/resource/Watt> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://dbpedia.org/property/scotus> ?object1 . ?subject ?predicate2 <http://dbpedia.org/resource/Philadelphia%2C_Pennsylvania> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://dbpedia.org/property/binomialAuthority> ?object1 . ?subject ?predicate2 <http://dbpedia.org/resource/Campanulaceae> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://dbpedia.org/property/clubUpdate> ?object1 . ?subject ?predicate2 "1"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://dbpedia.org/property/sisterChannels> ?object1 . ?subject ?predicate2 <http://www.w3.org/2002/07/owl#Thing> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://dbpedia.org/property/romaji> ?object1 . ?subject ?predicate2 <http://dbpedia.org/resource/China> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://dbpedia.org/property/hours> ?object1 . ?subject ?predicate2 "1"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://dbpedia.org/property/reductionGear> ?object1 . ?subject ?predicate2 <http://dbpedia.org/resource/United_States> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://dbpedia.org/property/ankcstd> ?object1 . ?subject ?predicate2 "1"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://dbpedia.org/property/associatedActs> ?object1 . ?subject ?predicate2 <http://dbpedia.org/resource/Massive_Attack> .}

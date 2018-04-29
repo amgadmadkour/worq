@@ -1,0 +1,12 @@
+SELECT ?subject ?object1 ?predicate2 ?object2 WHERE {?subject <http://purl.org/dc/terms/bibliographicCitation> ?object1 . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?object1 ?predicate2 ?object2 WHERE {?subject <http://www.w3.org/2002/07/owl#sameAs> ?object1 . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?object1 ?predicate2 ?object2 WHERE {?subject <http://xmlns.com/foaf/0.1/homepage> ?object1 . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?object1 ?predicate2 ?object2 WHERE {?subject <http://purl.org/dc/elements/1.1/identifier> ?object1 . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?object1 ?predicate2 ?object2 WHERE {?subject <http://xmlns.com/foaf/0.1/maker> ?object1 . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?object1 ?predicate2 ?object2 WHERE {?subject <http://purl.org/dc/elements/1.1/title> ?object1 . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?object1 ?predicate2 ?object2 WHERE {?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?object1 . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?object1 ?predicate2 ?object2 WHERE {?subject <http://purl.org/dc/terms/issued> ?object1 . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?object1 ?predicate2 ?object2 WHERE {?subject <http://www.w3.org/2000/01/rdf-schema#seeAlso> ?object1 . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?object1 ?predicate2 ?object2 WHERE {?subject <http://purl.org/dc/elements/1.1/creator> ?object1 . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?object1 ?predicate2 ?object2 WHERE {?subject <http://purl.org/dc/elements/1.1/type> ?object1 . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?object1 ?predicate2 ?object2 WHERE {?subject <http://www.w3.org/2000/01/rdf-schema#label> ?object1 . ?subject ?predicate2 ?object2 .}

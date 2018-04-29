@@ -1,0 +1,3 @@
+SELECT ?subject1 ?object ?predicate2 ?object2 WHERE {?subject1 <http://xmlns.com/foaf/0.1/made> ?object . ?object ?predicate2 ?object2 .}
+SELECT ?subject1 ?object ?predicate2 ?object2 WHERE {?subject1 <http://purl.org/NET/c4dm/event.owl#factor> ?object . ?object ?predicate2 ?object2 .}
+SELECT ?subject1 ?object ?predicate2 ?object2 WHERE {?subject1 <http://xmlns.com/foaf/0.1/maker> ?object . ?object ?predicate2 ?object2 .}

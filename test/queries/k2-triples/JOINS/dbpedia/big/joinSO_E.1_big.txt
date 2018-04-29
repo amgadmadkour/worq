@@ -1,0 +1,11 @@
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://dbpedia.org/property/children> ?object . ?object ?predicate2 <http://dbpedia.org/resource/Living_people> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://dbpedia.org/ontology/deathPlace> ?object . ?object ?predicate2 <http://dbpedia.org/resource/Protestant_Reformation> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://dbpedia.org/property/locale> ?object . ?object ?predicate2 "2005"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://dbpedia.org/property/binomialAuthority> ?object . ?object ?predicate2 <http://dbpedia.org/resource/1866_births> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://dbpedia.org/property/moreUsers> ?object . ?object ?predicate2 "11"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://dbpedia.org/property/sponsors> ?object . ?object ?predicate2 <http://dbpedia.org/ontology/Organisation> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://dbpedia.org/property/associatedActs> ?object . ?object ?predicate2 <http://dbpedia.org/resource/Billboard_charts> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://dbpedia.org/property/schoolColors> ?object . ?object ?predicate2 "0"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://dbpedia.org/property/creator> ?object . ?object ?predicate2 <http://dbpedia.org/resource/Singer-songwriter> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://dbpedia.org/property/productions> ?object . ?object ?predicate2 <http://dbpedia.org/resource/China> .}
+SELECT ?subject1 ?object ?predicate2 WHERE {?subject1 <http://dbpedia.org/property/presenters> ?object . ?object ?predicate2 <http://dbpedia.org/resource/Sweden> .}

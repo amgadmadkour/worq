@@ -1,0 +1,11 @@
+SELECT ?subject ?object1 WHERE {?subject <http://purl.org/NET/c4dm/timeline.owl#onTimeLine> ?object1 . ?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/time#Interval> .}
+SELECT ?subject ?object1 WHERE {?subject <http://purl.org/dc/elements/1.1/format> ?object1 . ?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Playlist> .}
+SELECT ?subject ?object1 WHERE {?subject <http://purl.org/dc/elements/1.1/title> ?object1 . ?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .}
+SELECT ?subject ?object1 WHERE {?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?object1 . ?subject <http://purl.org/dc/elements/1.1/format> "mp32" .}
+SELECT ?subject ?object1 WHERE {?subject <http://purl.org/ontology/mo/published_as> ?object1 . ?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Signal> .}
+SELECT ?subject ?object1 WHERE {?subject <http://purl.org/ontology/mo/track> ?object1 . ?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Record> .}
+SELECT ?subject ?object1 WHERE {?subject <http://purl.org/ontology/mo/license> ?object1 . ?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .}
+SELECT ?subject ?object1 WHERE {?subject <http://purl.org/ontology/mo/time> ?object1 . ?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Signal> .}
+SELECT ?subject ?object1 WHERE {?subject <http://purl.org/ontology/mo/track_number> ?object1 . ?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .}
+SELECT ?subject ?object1 WHERE {?subject <http://purl.org/dc/elements/1.1/title> ?object1 . ?subject <http://purl.org/ontology/mo/track_number> "2"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject ?object1 WHERE {?subject <http://purl.org/ontology/mo/license> ?object1 . ?subject <http://purl.org/ontology/mo/track_number> "1"^^<http://www.w3.org/2001/XMLSchema#int> .}

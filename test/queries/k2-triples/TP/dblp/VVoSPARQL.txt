@@ -1,0 +1,500 @@
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/sigcomm/ZhangK91/dblp> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DBLP conf/euc/OhtsuboTTF04"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Robert M. Sonnemann" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/rec/bibtex/conf/iccS/ChinchalkarCM05> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "217-240"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1016/0954-1810(96)00006-4> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/db/conf/anss/anss2002.html#MaqousiTB02> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/rec/bibtex/journals/mcs/WuCC11> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DBLP conf/icra/DohringN03"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1137/S036301290036968X> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.l3s.de/d2r/resource/authors/Deok_Won_Lim> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.rkbexplorer.com/id/conf/iccS/OttogalliLOSKV01> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1145%2F1791314.1791316> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/db/conf/imaging/cic2000.html#Koenderink00> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DBLP conf/iiwas/HanL10"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/db/conf/jit/agents2002.html#UlieruU02> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.rkbexplorer.com/id/journals/bioinformatics/SuyamaONO93> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/db/conf/igarss/igarss2008-4.html#OloladeALK08> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1093/jigpal/3.2-3.319> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://doi.acm.org/10.1145/1135777.1135930> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/miccai/ChungRNN08/dblp> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/rec/bibtex/conf/mmm/BastanfardFKA10> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1109%2FIAS.2009.199> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/rec/bibtex/conf/ecis/BenslimanePB04> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.l3s.de/d2r/resource/authors/Won-Hwan_Park> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/db/conf/gi/gi2010-2.html#ReppSS10> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "2007 IEEE International Conference on Robotics and Automation, ICRA 2007, 10-14 April 2007, Roma, Italy"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.rkbexplorer.com/id/journals/eor/Brandao04> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1093/ietcom/e91-b.1.29> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1016/j.neucom.2010.02.008> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Middleware, Software configuration, Software architecture, Configuration composition"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.bibsonomy.org/uri/author/Jane+E.+Baran> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DOI 10.1109%2FDFTVS.2003.1250094"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/apn/2000/dblp> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DBLP journals/ipm/Mchombu84"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/rec/bibtex/journals/sigkdd/Evfimievski02> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DOI 10.1080%2F00207729808929536"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DBLP conf/hicss/BonsDLT99"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.l3s.de/Authors/Mithu+Bhattacharya> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Computer art from Newton's, Secant, and Richardson's methods."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/etvc/Amari08/dblp> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Jos\u00E9 A. Blakeley" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1016/j.csda.2006.01.019> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.bibsonomy.org/uri/author/Min-Chiao+Chen> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.bibsonomy.org/uri/author/Jenifer+Tidwell> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.l3s.de/Authors/W.+Hamilton> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Automated Usability Testing."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/db/conf/cav/cav1990.html#Pixley90> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/rec/bibtex/conf/lcpc/2000> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/rec/bibtex/conf/igarss/Camps-VallsRMGC07> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1016%2Fj.comnet.2010.01.010> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/foiks/CiacciaMPT00/dblp> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Hoe Young Kim" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/db/conf/usenix/usenix1999f.html#Fischer99> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.l3s.de/Authors/A.+van+Zanten> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.l3s.de/d2r/resource/authors/Olli_Alkkiom%C3%A4ki> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Jamshid Nazemi" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.rkbexplorer.com/id/conf/iticse/GoldwasserL08a> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.l3s.de/Authors/Xuan+Nam+Tran> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Poisson versus Periodic Path Probing (or, Does PASTA Matter?)."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Fuzzy Evaluation on Software Maintainability Based on Membership Degree Transformation New Algorithm."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/rec/bibtex/journals/dse/KshemkalyaniSC98> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DOI 10.1016%2Fj.cogsys.2007.07.003"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://doi.ieeecomputersociety.org/10.1109/HIS.2007.64> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Ben Song" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1007%2F978-3-642-13953-6%5F5> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.l3s.de/d2r/resource/authors/Sinan_Khan> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://bibsonomy.org/uri/bibtexkey/journals/insk/Rehm91/dblp> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DBLP conf/ictir/CattelanM09"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "I-VI, 1-84"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Double-orthogonal coded space-time-frequency spreading CDMA scheme."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1109%2FISCAS.2007.378690> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/rec/bibtex/journals/scl/FalugiG09> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.l3s.de/d2r/resource/authors/Harriet_Covertson> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Jumail" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Characteristics of scalability and their impact on performance."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1109%2FGLOCOM.2006.662> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1145%2F1967701.1967748> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.l3s.de/d2r/resource/authors/Hiroyuki_Yano> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/rec/bibtex/books/daglib/0022084> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.bibsonomy.org/uri/author/P.+Tsiotras> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DOI 10.1016%2F0022-0000%2878%2990001-6"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://bibsonomy.org/uri/bibtexkey/journals/kbs/Petrovic-LazarevicCA04/dblp> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "curve compression, curve editing, curve fitting, curve smoothing, direct manipulation, scan conversion, wavelets"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "An Analysis of Symmetric Polling Systems with Two Priority Classes."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1007/s00493-002-0006-8> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/db/conf/mmm/mmm2010.html#ZhangGLC10> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/rec/bibtex/conf/ismir/CliffF00> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.bibsonomy.org/uri/author/Toshio+Kojima> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Contextual hidden Markov models .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Symmetry versus Asymmetry in the Molecules of Life: Homomeric Protein Assemblies."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.bibsonomy.org/uri/author/Julio+Alvarez-Builla> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DBLP journals/ior/JiaH09"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/db/journals/computer/computer36.html#Henkel03> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1109%2FIPDPS.2002.1016534> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.bibsonomy.org/uri/author/Andrea+Pelagotti> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.rkbexplorer.com/id/conf/iccsa/MingGS11> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/rec/bibtex/conf/arith/DaumasMM05> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/db/journals/ieicet/ieicet88a.html#ChoiL05> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/avss/JinM07/dblp> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1007/978-3-642-21691-6_8> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/rec/bibtex/conf/sigmod/ChrstodoulakisHT86> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://doi.ieeecomputersociety.org/10.1109/HPDC.2004.24> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/db/conf/wscg/wscg2003.html#RosenbaumT03> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/db/journals/corr/corr0611.html#abs-cs-0611080> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/rec/bibtex/conf/biostec/2008bd1> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DBLP conf/icdcs/GuerraouiS97"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/db/journals/jsw/jsw5.html#GaoZC10a> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/db/conf/vldb/vldb80.html#Peeters80> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1016%2Fj.jbi.2008.09.002> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DOI 10.1142%2FS1469026806001952"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1093%2Fcomjnl%2F21.4.302> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DBLP conf/icdm/MathiakKBSWE07"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.rkbexplorer.com/id/journals/ijon/TetkoV01> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.rkbexplorer.com/id/conf/wads/FominGKKL07> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1016/j.tcs.2006.02.007> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://doi.acm.org/10.1145/366862.366897> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/db/journals/jlp/jlp11.html#WosM91> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DOI 10.1155%2F2010%2F436895"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.rkbexplorer.com/id/conf/emeit/LiZ11a> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DOI 10.1007%2Fs11192-009-0018-x"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.rkbexplorer.com/id/conf/prdc/RajabzadehMM04> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.bibsonomy.org/uri/author/Alessander+Botti+Benevides> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.l3s.de/Authors/Manzil+e+Maqsood> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DOI 10.1007%2F978-3-540-30464-7%5F63"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1137/S0036141004443968> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1109/CCECE.2009.5090212> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Yu Niu" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DOI 10.1287%2Fmoor.1050.0164"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://doi.acm.org/10.1145/97243.97306> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.bibsonomy.org/uri/author/M.+Arias+Oliva> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://doi.acm.org/10.1145/275107.275142> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.l3s.de/Authors/Yao-Min+Chen> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/db/conf/mc/mc2010.html#Seifert10> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/rec/bibtex/journals/jei/FairchildJ04> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1007/978-3-540-75664-4_56> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5967140> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DBLP conf/igarss/ZhangSWZ10"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DBLP journals/npsc/CastellanoCFG03"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.rkbexplorer.com/id/reference/opt/Szantai09> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1007/3-540-36494-3_49> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "LAIOS: une ex\u00E9cution parall\u00E8le de Prolog par recopie des donn\u00E9es."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.bibsonomy.org/uri/author/Marc+Baumann> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DBLP journals/integration/VinodLMM10"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1007%2F3-540-40891-6%5F25> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "An Optimal Orthogonal Expansion for Classification of Patterns."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DOI 10.1016%2Fj.jss.2011.02.041"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/pricai/CaoLZ06/dblp> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/iceis/Castro-SchezVBG07/dblp> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/rec/bibtex/conf/seuh/Kulesz11> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DOI 10.1109%2FICSMC.2009.5346773"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/rec/bibtex/conf/sibgrapi/FrederickGM99> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.l3s.de/d2r/resource/authors/Feng-Tsung_Cheng> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/rec/bibtex/journals/expert/Hurrell90> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.bibsonomy.org/uri/author/Jungjin+Yang> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DOI 10.1109%2FSSME.2009.54"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.l3s.de/Authors/Mehdi+Nasiri> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/rec/bibtex/conf/cvpr/Gonzalez-BanosD04> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DBLP journals/gandc/Zolfaghari09"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://doi.ieeecomputersociety.org/10.1109/VR.2006.46> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Identity theft, identity authentication, risk analysis, security and privacy, multi-party interaction"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DOI 10.1006%2Fjath.2001.3588"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "An Enhanced Autonomic Multiclass Multithreaded Web Server: A Performance Model Approach."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/rec/bibtex/conf/recsys/SymeonidisTM11> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DBLP journals/dm/JegouN09"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.rkbexplorer.com/id/conf/edm/KimC10> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1524/auto.2009.0772> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.l3s.de/Authors/Mikhail+Gilula> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.l3s.de/Authors/Alexandre+Delteil> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/dagstuhl/Hundling05/dblp> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1016/j.asoc.2010.03.006> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.rkbexplorer.com/id/journals/jsc/OmanaP05> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DOI 10.1109%2FCSMR.2005.27"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DBLP conf/wowmom/BelimpasakisSW07"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DBLP conf/chi/YimS11"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DBLP journals/tim/Cimponeriu01"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/rec/bibtex/journals/ijar/Denoeux99> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1145%2F982792.982951> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.rkbexplorer.com/id/journals/corr/abs-0809-3542> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.l3s.de/d2r/resource/authors/Edson_N._Silva_Junior> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <urn:isbn:0-8058-3609-8> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Tommi M\u00E4kel\u00E4inen" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Adaptive Solid Texturing for Web3D Applications."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/rec/bibtex/conf/sat/Szeider09> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.rkbexplorer.com/id/journals/ejasp/Nuno-BarrauP05> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1007%2F978-3-540-39737-3%5F65> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/pvm/NorhashidahRK03/dblp> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.l3s.de/d2r/resource/authors/Klemens_Haegele> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/rec/bibtex/journals/tfs/ChenC09> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/db/conf/fskd/fskd2008-2.html#YuY08> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Optimizing thread throughput for multithreaded workloads on memory constrained CMPs."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/icassp/WatanabeHMN10/dblp> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.rkbexplorer.com/id/reference/mm/X06ek> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/rec/bibtex/journals/tois/WeyerB85> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Stacy Hobson" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://doi.acm.org/10.1145/800178.810153> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.rkbexplorer.com/id/conf/ausai/PehT97> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DBLP conf/asap/AdrshaANN08"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/db/conf/cscw/cscw2000.html#HeGG00> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Aide \u00E0 la navigation sur le web - R\u00E9utilisation de l'exp\u00E9rience des utilisateurs."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/csedu/AdelakunG09/dblp> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.l3s.de/d2r/resource/authors/Richard_A._Martin> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DBLP conf/cgi/FalcidienoS98"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DBLP conf/icip/AsaiOPS10"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1109/IGARSS.2009.5417931> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "World-Wide-Web, XML, databases"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Taking concurrency seriously (position paper)."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/rec/bibtex/conf/delfi/JanneckKPS03> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://clef2010.org/resources/proceedings/clef2010labs_submission_86.pdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DOI 10.1007%2F11816508%5F49"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.l3s.de/Authors/Li-Wen+Lin> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DOI 10.1007%2F3-540-48443-4%5F10"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "A Computer-Aided Advising System for FORTRAN Program Debugging: ADVISOR."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DOI 10.1007%2F978-3-642-21931-3%5F17"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DBLP journals/cma/Csenki06"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/lec/VijayanandCR02/dblp> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "General loop fusion technique for nested loops considering timing and code size."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.rkbexplorer.com/id/conf/nordichi/StrachanM08> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/db/conf/uai/uai1996.html#FriedmanH96> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/rec/bibtex/journals/anor/SchaeferN06> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.bibsonomy.org/uri/author/Zhongcheng+Gong> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "T. Taimre" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/rec/bibtex/journals/fmsd/FujitaM97> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/rec/bibtex/conf/bibe/ChangL09> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.rkbexplorer.com/id/conf/islped/BodapatiN01> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.bibsonomy.org/uri/author/Michael+P.+Kerr> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/rec/bibtex/conf/pris/YouLCB05> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DBLP journals/siamsc/HannemannM10"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/rec/bibtex/journals/dcg/Eppstein95> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DBLP conf/aosd/BagherzadehRLM11"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/db/conf/ifip8-4/ifip8-4-1993.html#McDermid93> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Maintenance Knowledge Base Design Methodology and Building of an Integrated Preventive Maintenance System (IPMAS)."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DOI 10.1007%2F978-3-642-16934-2%5F34"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "G. Morrison" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.l3s.de/d2r/resource/authors/Lucia_Parussini> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.l3s.de/d2r/resource/authors/Pill-Soo_Kim> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DOI 10.1109%2FTPDS.2011.39"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.l3s.de/d2r/resource/authors/Roberto_Fiutem> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DBLP journals/cpc/Thomassen97"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://doi.ieeecomputersociety.org/10.1109/ICDM.2004.10107> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/icip/TranPN10/dblp> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DBLP journals/ijia/RahmanKSKA11"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DOI 10.1007%2F11840541%5F69"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.rkbexplorer.com/id/conf/cmg/Domanski88a> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.l3s.de/d2r/resource/authors/Huanbao_Wang> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Graph-Grammars and Their Application to Computer Science and Biology, International Workshop, Bad Honnef, October 30 - November 3, 1978"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/db/journals/jnw/jnw5.html#BaumgartnerFHK10> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.rkbexplorer.com/id/journals/ijnm/LiakopoulosKMPB09> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DOI 10.1093%2Fcomjnl%2Fbxm074"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1007/978-3-642-04595-0_42> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/db/journals/ase/ase12.html#GrundyCL05> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DBLP journals/computer/MilutinovicCM00"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/ndss/VimercatiLRS99/dblp> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Shin'ichi Suganuma" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1145%2F1035167.1035190> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Adele A. Mitchell" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.rkbexplorer.com/id/journals/jair/ChalkiadakisEMPJ10> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/db/journals/jfr/jfr23.html#TravisDBKBHKKA06> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DBLP conf/rt/FradinMH05"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/db/journals/tc/tc50.html#HadimiogluKL01> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DBLP conf/cec/PandaMMS07"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Path generation .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.l3s.de/Authors/Anuj+Rawat> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DOI 10.1007%2Fs001459900045"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/db/conf/date/date2002.html#PalkovicMC02> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://bibsonomy.org/uri/bibtexkey/journals/comcom/SchodlBKT93/dblp> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "A contour based scheme for representing arbitrary shapes in digital images."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://bibsonomy.org/uri/bibtexkey/journals/nar/AfoninaZKLGM97/dblp> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1109%2FTWC.2007.360379> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DBLP conf/isqed/WangLYLW06"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.bibsonomy.org/uri/author/Kenth+Lumsden> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.bibsonomy.org/uri/author/Brian+E.+Carter> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Jens Krokowski" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://bibsonomy.org/uri/bibtexkey/journals/candc/InoueIS04/dblp> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.l3s.de/d2r/resource/authors/Douglas_M._Brooks> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DBLP conf/icann/GelenbeN03"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/db/conf/ecoop/ecoop94.html#LopesL94> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DOI 10.1007%2F978-3-642-14390-8%5F60"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1016%2F1049-9652%2891%2990058-R> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/rec/bibtex/journals/siamsc/CoudiereH11> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Point Target Detection with Linear Fishertarget."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://bibsonomy.org/uri/bibtexkey/journals/jsa/AliM10/dblp> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.l3s.de/d2r/resource/authors/Hiroshi_Nagahashi> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1007%2FBF00993126> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DBLP conf/isi/Bradford10"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1007%2F978-3-540-74833-5%5F19> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1109/ISCAS.2005.1466059> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.l3s.de/Authors/Anas+Tarah> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/ilp/1996/dblp> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DBLP journals/sigpro/ToMG09"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.bibsonomy.org/uri/author/V.+Morice> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1007%2F3-540-58426-9%5F128> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.rkbexplorer.com/id/conf/icra/ShahdiS05> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Systematic review, software cost estimation, software effort estimation, software cost prediction, software effort prediction, research methods."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1163%2F156855307780132027> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.rkbexplorer.com/id/conf/cores/BieleckiS05> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1007%2F978-0-387-39940-9%5F3026> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/rec/bibtex/journals/tii/HurKT11> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DBLP journals/ijcomsys/XinJ05"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1145%2F1376916.1376922> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1145%2F266838.266862> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1016%2Fj.comgeo.2004.07.001> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "An Antisocial Strategy for Scheduling Mechanisms."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "8306-8319"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.l3s.de/Authors/Gideon+F.+Inbar> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/db/journals/corr/corr1108.html#abs-1108-5703> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.l3s.de/d2r/resource/authors/Elvira_Popescu> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1145%2F1979742.1979618> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Steven M. Miller" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/rec/bibtex/journals/jss/LucredioBAGAFM08> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.rkbexplorer.com/id/conf/iscas/ArgyridesZP07> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DBLP conf/iccS/BalisBFW02"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DOI 10.1007%2Fs10278-006-0927-7"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.rkbexplorer.com/id/journals/algorithmica/PanduranganP07> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1109%2FARES.2007.101> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/db/conf/soda/soda2008.html#BabaiNP08> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DOI 10.1155%2F2008%2F736508"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/rec/bibtex/conf/fungames/Korhonen10> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/rec/bibtex/journals/vc/WangHDPB06> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/rec/bibtex/conf/iscas/KidaZZTN04> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/db/conf/icip/icip1998-2.html#StewartL98> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1186%2F1471-2105-10-21> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/db/conf/icpr/icpr2006-4.html#WangWLJK06> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DBLP journals/cma/Cipu08"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Information credibility analysis of web content."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/iwinac/VelezSMM11/dblp> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/rec/bibtex/conf/ahs/VladimirovaWJB07> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/db/conf/icc/icc2010.html#CaoWRL10> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Test Integration for SOC Supporting Very Low-Cost Testers."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DOI 10.1145%2F1518701.1519008"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DBLP conf/icsap/AgarwalAJK10"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DBLP conf/wcnc/BelbekkoucheRH10"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Aleksander Ivanov" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.rkbexplorer.com/id/conf/wstfeus/ShinLP04> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://bibsonomy.org/uri/bibtexkey/journals/ton/JuL98/dblp> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/db/journals/vc/vc24.html#Magnenat-ThalmannPRLPFLBT08> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/db/conf/wscg/wscg2004.html#HastBB04> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://doi.acm.org/10.1145/200883.200884> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/rta/Marche91/dblp> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DBLP journals/dm/KelarevRY09"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.l3s.de/Authors/Frank+E.+Levine> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://bibsonomy.org/uri/bibtexkey/journals/cacm/GardnerL83/dblp> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/rec/bibtex/conf/iwcmc/TaddiaM06> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.l3s.de/Authors/I.+G.+Shukhman> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1023%2FA%3A1025358319677> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DOI 10.1109%2FICPR.2006.986"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "McLaren's Improved Snub Cube and Other New Spherical Designs in Three Dimensions."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/db/journals/scjapan/scjapan35.html#MasudaI04> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://bibsonomy.org/uri/bibtexkey/journals/sigcse/Moskal02/dblp> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DOI 10.1007%2F978-3-540-69497-7%5F16"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Yoram Dayan" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "soft tissue deformation, surgical simulation, adaptive simulation, tetrahedral mesh refinement, finite-element model, mass-spring system"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.rkbexplorer.com/id/journals/automatica/MichielsV05> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1007%2F3-540-44595-1%5F19> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DBLP conf/icee/KunJB10"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1057/palgrave.ejis.3000541> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DOI 10.1109%2FHICSS.2006.490"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/ism/Smith08/dblp> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Gesture Recognition in the Haptic Creature."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1007%2F978-3-540-32263-4%5F12> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1007%2F978-3-642-14496-7%5F12> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/db/conf/igarss/igarss2008-3.html#BaillarinSG08> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DBLP conf/ifip10-3/SteffenM06"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1007/3-540-17218-1_63> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.rkbexplorer.com/id/conf/icra/YangA98> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1109/CDC.2009.5399878> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/db/conf/infocom/infocom2003.html#SaengudomlertMG03> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DOI 10.1007%2F3-540-19426-6%5F12"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/db/conf/dcc/dcc94.html#HirschbergS94> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/db/conf/IEEEcit/IEEEcit2004.html#AbugessaisaS04> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.bibsonomy.org/uri/author/Peera+Liewlom> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://bibsonomy.org/uri/bibtexkey/journals/cacm/PapazoglouG03/dblp> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.l3s.de/d2r/resource/authors/Tianwen_Zhang> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/rec/bibtex/journals/tgrs/BianchiAA08> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.rkbexplorer.com/id/journals/artmed/CoupePOH99> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DBLP conf/pdcat/BordimHN05"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.rkbexplorer.com/id/conf/fskd/YangTDS09> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "An Efficiency Comparison of Two Content-Based Image Retrieval Systems, GIFT and PicSOM."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "A Binary Encoding Supporting Both Mutation and Recombination."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.l3s.de/d2r/resource/authors/Julie_Cameron> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1007/978-3-642-19170-1_51> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://bibsonomy.org/uri/bibtexkey/journals/ac/Abrahams68/dblp> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DBLP conf/sigdial/GeorgilaANRTS11"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/rec/bibtex/books/daglib/0017766> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://bibsonomy.org/uri/bibtexkey/journals/micro/Moore03/dblp> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DBLP journals/oopsm/HerndonSD94"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.bibsonomy.org/uri/author/Chuanjian+Yang> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "ISBN 3-540-23212-5"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Laurent-Walter Goix" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/rec/bibtex/conf/pods/PagelS96> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.l3s.de/Authors/H%C3%A9l%C3%A8ne+de+Boissezon> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Transmission line based FIR structures for high speed adaptive equalization."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DOI 10.1109%2FISQED.2011.5770773"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.bibsonomy.org/uri/author/Osamu+Miyake> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1007/978-3-540-77684-0_13> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.rkbexplorer.com/id/conf/eurocast/GreblickiK09b> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DBLP conf/ches/RudraDJKRR01"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Taizo Uda" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DBLP books/sp/wehrle10"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/db/journals/ac/ac13.html#ThompsonT75> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DBLP conf/seke/KimBBSA08"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.l3s.de/d2r/resource/authors/Alin_Mazare> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/ausai/ShiGWS08/dblp> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.bibsonomy.org/uri/author/C.+W.+Li> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.bibsonomy.org/uri/author/Ramendu+Roy> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1007%2F11821731%5F1> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/db/conf/interspeech/interspeech2002.html#TaoC02> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/wscg/EconomopoulosM01/dblp> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "A Neuro-Fuzzy Solution for Fine-Motion Control Based on Vision and Force Sensors."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/rec/bibtex/journals/pr/WeldonHD96> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.bibsonomy.org/uri/author/Piotr+Kuzora> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DBLP journals/ipm/GrumbachT94"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DBLP conf/pimrc/NairK08"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://bibsonomy.org/uri/bibtexkey/reference/db/X09cg/dblp> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.l3s.de/Authors/Guangdi+Yang> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DOI 10.1109%2FICHIS.2004.65"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Fast Adaptive Blind MMSE Equalizer for Multichannel FIR Systems."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1007/s00153-003-0184-0> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/db/journals/jcc/jcc23.html#GomesC02> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://bibsonomy.org/uri/bibtexkey/journals/interfaces/BrownHMWZ10/dblp> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://doi.acm.org/10.1145/240518.240596> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/db/conf/fuzzIEEE/fuzzIEEE2008.html#ChenHW08> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/serp/FuCJYZ05/dblp> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/igarss/ChenLCZL09/dblp> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.bibsonomy.org/uri/author/Eugene+L.+Poole> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.eg.org/EG/CGF/volume24/issue3/v24i3pp527-536.pdf> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "M. Nguyen Tho" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1155%2F2010%2F740594> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.l3s.de/Authors/M.+H.+Lee> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1007/978-3-540-30111-0_38> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/db/journals/jfr/jfr28.html#ThompsonWP11> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1007/978-3-642-21283-3_15> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.rkbexplorer.com/id/journals/jgs/JacquezGK05> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DOI 10.1109%2FSMI.2002.10009"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Xi-ru Hou" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1007/BFb0033333> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.bibsonomy.org/uri/author/V.+Veerakumar> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Nazish Irfan" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.l3s.de/Authors/J.+B.+Gou> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://bibsonomy.org/uri/bibtexkey/journals/tsp/ScharfCZGR08/dblp> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.bibsonomy.org/uri/author/Kazuo+Mizukoshi> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1145%2F191246.191285> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.rkbexplorer.com/id/conf/cikm/WanGLD05> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/iscc/TurkyM09/dblp> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1145%2F1148493.1148539> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.l3s.de/d2r/resource/authors/Kohei_Muratani> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.rkbexplorer.com/id/conf/iv/ScottFF99> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.rkbexplorer.com/id/conf/iccS/Kroc06> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/rec/bibtex/conf/isi/FuC08> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://bibsonomy.org/uri/bibtexkey/journals/tgrs/TakayamaIYMHMO11/dblp> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Hongbing Huang" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1109%2FTSMCA.2003.809185> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/db/conf/dsd/dsd2007.html#ManganoFPS07> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1016/S0020-0190(97)00131-2> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.rkbexplorer.com/id/conf/fedcsis/Kashfi11> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.l3s.de/d2r/resource/authors/Josef_Voss> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://doi.ieeecomputersociety.org/10.1109/ATS.2005.37> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "A multi-criteria agency model with incomplete preference information."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1109/IROS.2008.4650604> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/db/journals/toit/toit9.html#KwonRML09> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.l3s.de/d2r/resource/authors/C._T._Kitzmiller> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DBLP journals/jcp/LiuYCYL10"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DBLP journals/ijon/CoxA00"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1016%2Fj.ijar.2011.06.002> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "The social life of social networks: Facebook linkage patterns in the 2008 U.S. presidential election."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/rec/bibtex/conf/rtss/Baruah04> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/db/conf/icmcs/icme2007.html#SuSB07> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.rkbexplorer.com/id/journals/jcisd/RaguzB05> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/db/conf/middleware/middleware2004-w3.html#Oberle04> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DOI 10.1109%2FAICT-ICIW.2006.63"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.rkbexplorer.com/id/conf/ciarp/ZunigaB10> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1109%2F90.720872> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "An Adaptive CMOS-based PG-ISFET for pH Sensing."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.rkbexplorer.com/id/journals/ijbc/GovaertsD02> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Kim Hardam Christensen" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DOI 10.1017%2FS0956796803002715"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/pdpta/LeeKKSV99/dblp> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/rec/bibtex/conf/ftdcs/BellavistaCMS01> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://bibsonomy.org/uri/bibtexkey/journals/prl/RomaniukDRD04/dblp> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://bibsonomy.org/uri/bibtexkey/journals/nrhm/WillsMBCGHG05/dblp> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://bibsonomy.org/uri/bibtexkey/journals/ieicet/UedaTK10/dblp> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "GIS, GeoCollaboration, crisis management, human-centered design, knowledge elicitation, multimodal interfaces"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1016%2FS0928-4869%2898%2900026-3> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.rkbexplorer.com/id/conf/sigdoc/DykeW00> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.rkbexplorer.com/id/conf/iscc/NuaymiG00> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1103-5451> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DOI 10.1007%2FBFb0015248"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://bibsonomy.org/uri/bibtexkey/journals/ais/Vesna00/dblp> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://www.bibsonomy.org/uri/author/Marcel+Vijn> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.rkbexplorer.com/id/conf/dgci/CoeurjollyDJS06> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1093%2Fietisy%2Fe88-d.5.963> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DBLP journals/dam/Lausen92"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1093/nar/gkl873> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.rkbexplorer.com/id/journals/eswa/PyonLP09> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "DBLP journals/ijbi/HeHCJSLZT11"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/rec/bibtex/conf/cec/ZhouZJTO05> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://bibsonomy.org/uri/bibtexkey/conf/kesamsta/ChoLKC08/dblp> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dblp.uni-trier.de/db/journals/it/it49.html#DittmannRSHSN07> .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate "Adolf Hohl" .}
+SELECT ?subject ?predicate WHERE {?subject ?predicate <http://dx.doi.org/10.1007%2F978-3-540-69304-8%5F21> .}

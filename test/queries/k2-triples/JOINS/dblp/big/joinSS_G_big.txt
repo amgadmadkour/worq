@@ -1,0 +1,25 @@
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 "I-XVI, 1-251"^^<http://www.w3.org/2001/XMLSchema#string> . ?subject ?predicate2 <http://purl.org/dc/dcmitype/Text> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 "Using the Knowledge of the Constraints Network to Design an Evolutionary Algorithm that Solves CSP."^^<http://www.w3.org/2001/XMLSchema#string> . ?subject ?predicate2 <http://xmlns.com/foaf/0.1/Document> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 "Norman Lo" . ?subject ?predicate2 <http://xmlns.com/foaf/0.1/Agent> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 "DBLP conf/icip/JohnsenSBI07"^^<http://www.w3.org/2001/XMLSchema#string> . ?subject ?predicate2 <http://purl.org/dc/dcmitype/Text> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 "DOI 10.1109%2FWI.2003.1241179"^^<http://www.w3.org/2001/XMLSchema#string> . ?subject ?predicate2 <http://swrc.ontoware.org/ontology#InProceedings> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://bibsonomy.org/uri/bibtexkey/conf/ict/SilvaLF04/dblp> . ?subject ?predicate2 <http://swrc.ontoware.org/ontology#InProceedings> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 "Andreas K\u00FChn" . ?subject ?predicate2 <http://xmlns.com/foaf/0.1/Agent> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://dblp.uni-trier.de/rec/bibtex/conf/slp/Lindgren94> . ?subject ?predicate2 <http://swrc.ontoware.org/ontology#InProceedings> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://dblp.uni-trier.de/db/conf/eckm/eckm2005.html#ParsonsJDA05> . ?subject ?predicate2 <http://xmlns.com/foaf/0.1/Document> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://bibsonomy.org/uri/bibtexkey/conf/ictai/DanakRK05/dblp> . ?subject ?predicate2 <http://purl.org/dc/dcmitype/Text> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://dblp.uni-trier.de/db/conf/csedu/csedu2011-1.html#RomenyBLK11> . ?subject ?predicate2 <http://xmlns.com/foaf/0.1/Document> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 "Enterprise Cloud Service Architecture."^^<http://www.w3.org/2001/XMLSchema#string> . ?subject ?predicate2 <http://xmlns.com/foaf/0.1/Document> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://dblp.l3s.de/d2r/resource/authors/Gertrude_Neuman_Levine> . ?subject ?predicate2 "2003"^^<http://www.w3.org/2001/XMLSchema#gYear> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://www.bibsonomy.org/uri/author/Gani+Tr.+Stamov> . ?subject ?predicate2 <http://xmlns.com/foaf/0.1/Agent> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://dblp.l3s.de/Authors/Per-Olof+%C3%85strand> . ?subject ?predicate2 <http://xmlns.com/foaf/0.1/Agent> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 "DBLP journals/iam/SomersN04"^^<http://www.w3.org/2001/XMLSchema#string> . ?subject ?predicate2 <http://xmlns.com/foaf/0.1/Document> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://dblp.l3s.de/Authors/Paul+Baginski> . ?subject ?predicate2 <http://xmlns.com/foaf/0.1/Agent> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://dx.doi.org/10.1007%2F3-540-61697-7%5F14> . ?subject ?predicate2 <http://purl.org/dc/dcmitype/Text> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://dblp.uni-trier.de/rec/bibtex/conf/vtc/SorrentinoM08> . ?subject ?predicate2 <http://swrc.ontoware.org/ontology#InProceedings> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://bibsonomy.org/uri/bibtexkey/journals/dke/Claypool08/dblp> . ?subject ?predicate2 <http://swrc.ontoware.org/ontology#Article> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://dblp.uni-trier.de/rec/bibtex/journals/fss/Fang01> . ?subject ?predicate2 <http://swrc.ontoware.org/ontology#Article> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://www.bibsonomy.org/uri/author/Yuriy+V.+Chesnokov> . ?subject ?predicate2 <http://xmlns.com/foaf/0.1/Agent> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 "DBLP conf/iata/GibneyJ98"^^<http://www.w3.org/2001/XMLSchema#string> . ?subject ?predicate2 <http://xmlns.com/foaf/0.1/Document> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 "Jennison V. Asuncion" . ?subject ?predicate2 <http://xmlns.com/foaf/0.1/Agent> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 "Comparison of simulation modeling techniques that use preemption to capture design uncertainty."^^<http://www.w3.org/2001/XMLSchema#string> . ?subject ?predicate2 <http://xmlns.com/foaf/0.1/Document> .}

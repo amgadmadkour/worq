@@ -1,0 +1,14 @@
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://dbtune.org/jamendo/track/17960> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://dbtune.org/jamendo/track/37537> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://img.jamendo.com/artists/t/talking.cure.jpg> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://alcormusic.com> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://dbtune.org/jamendo/track/92482> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://dbtune.org/jamendo/tag/acid> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://www.jamendo.com/get/album/id/album/p2p/redirect/6773/?p2pnet=bittorrent&are=ogg3> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://zitgist.com/music/track/de7eb5f9-63bf-44f0-b0c7-e9442687ae22> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://www.jamendo.com/get/track/id/track/audio/play/24433> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://dbtune.org/jamendo/tag/synt> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://www.jamendo.com/get/album/id/album/p2p/redirect/7417/?p2pnet=ed2k&are=mp32> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://img.jamendo.com/albums/8526/covers/1.300.jpg> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://dbtune.org/jamendo/tag/pinkfloyd> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 "Where we belong to..."^^<http://www.w3.org/2001/XMLSchema#string> .}

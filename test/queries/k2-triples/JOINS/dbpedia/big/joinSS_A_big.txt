@@ -1,0 +1,12 @@
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/alma_percent_2Bmater> <http://dbpedia.org/resource/Valley_City_State_Teachers_College> . ?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/othersymbol> "Fish"@en . ?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/gml/_Feature> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/_2optionColor> "#99CCFF"@en . ?subject <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/Mexico> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/staticImage2Name> "RAF wheaton aston.jpg"@en . ?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/gml/_Feature> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/yearOfRelease> "1999"^^<http://www.w3.org/2001/XMLSchema#int> . ?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/yod> "1995"^^<http://www.w3.org/2001/XMLSchema#int> . ?subject <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/United_States> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/subsequent> "408 F. Supp. 857, affirmed."@en . ?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/areaBlank1Km> "4.3"^^<http://www.w3.org/2001/XMLSchema#double> . ?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/otherBeers> "Root Beer"@en . ?subject <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/United_States> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/areaPercent> "5.7"^^<http://www.w3.org/2001/XMLSchema#double> . ?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PopulatedPlace> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/rd2t6Loc> <http://dbpedia.org/resource/Germany> . ?subject <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/United_States> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/updateProteinBox> "yes"@en . ?subject <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/Enzyme> .}

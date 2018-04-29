@@ -1,0 +1,13 @@
+SELECT ?subject1 ?object WHERE {?subject1 <http://www.geonames.org/ontology#name> ?object . <http://sws.geonames.org/1789373/> <http://www.geonames.org/ontology#alternateName> ?object .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://www.geonames.org/ontology#name> ?object . <http://sws.geonames.org/3920896/> <http://www.geonames.org/ontology#alternateName> ?object .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://www.geonames.org/ontology#name> ?object . <http://sws.geonames.org/2140463/> <http://www.geonames.org/ontology#alternateName> ?object .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://www.geonames.org/ontology#name> ?object . <http://sws.geonames.org/2218834/> <http://www.geonames.org/ontology#alternateName> ?object .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://www.geonames.org/ontology#alternateName> ?object . <http://sws.geonames.org/1579039/> <http://www.geonames.org/ontology#alternateName> ?object .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://www.geonames.org/ontology#name> ?object . <http://sws.geonames.org/2377483/> <http://www.geonames.org/ontology#alternateName> ?object .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://www.geonames.org/ontology#name> ?object . <http://sws.geonames.org/2032906/> <http://www.geonames.org/ontology#alternateName> ?object .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://www.geonames.org/ontology#name> ?object . <http://sws.geonames.org/3586160/> <http://www.geonames.org/ontology#alternateName> ?object .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://www.geonames.org/ontology#name> ?object . <http://sws.geonames.org/6879869/> <http://www.geonames.org/ontology#alternateName> ?object .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://www.geonames.org/ontology#name> ?object . <http://sws.geonames.org/6423521/> <http://www.geonames.org/ontology#alternateName> ?object .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://www.geonames.org/ontology#alternateName> ?object . <http://sws.geonames.org/2036348/> <http://www.geonames.org/ontology#alternateName> ?object .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://www.geonames.org/ontology#alternateName> ?object . <http://sws.geonames.org/1896849/> <http://www.geonames.org/ontology#alternateName> ?object .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://www.geonames.org/ontology#name> ?object . <http://sws.geonames.org/1750507/> <http://www.geonames.org/ontology#alternateName> ?object .}

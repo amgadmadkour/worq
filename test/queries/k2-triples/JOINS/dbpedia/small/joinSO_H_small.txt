@@ -1,0 +1,25 @@
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://www.neilbrown.newcastlefans.com/player3/johnmarsh.htm> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://en.wikipedia.org/wiki/Moyra_Fraser> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 "17208691"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 "Rika Izumi"@en .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://dbpedia.org/resource/Gethyn_Ap_Iestyn> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 "Inventive"@en .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 "Beledweyn"@en .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 "9885199"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 "11557910"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 "Dam bae"@en .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 "17999809"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 "Prisons in India"@en .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://dbpedia.org/resource/Escudo_de_la_UCR.jpg> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://upload.wikimedia.org/wikipedia/commons/d/d0/In_Solvent_See.jpg> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://dbpedia.org/resource/Cholesterol_embolus> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://dbpedia.org/resource/Sangeris> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 "Kategoria superiore 1937"@en .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://daccess-dds-ny.un.org/doc/RESOLUTION/GEN/NR0/596/61/IMG/NR059661.pdf?OpenElement> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 "Phillip Winston Hennigan is a right-handed former Major League Baseball pitcher who played from 1969 to 1973 with the Cleveland Indians and New York Mets. He attended Jasper High School in Jasper, Texas and then Sam Houston State University. Drafted by the Cleveland Indians in the fourth round of the 1966 draft, Hennigan began his professional career that same year. Pitching for the Reno Silver Sox, Hennigan went 3-8 with a 4.03 ERA and 82 strikeouts in 96 innings of work."@en .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 "344651272"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 "4.714"^^<http://www.w3.org/2001/XMLSchema#double> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://dbpedia.org/resource/Body_Ritual_among_the_Nacirema> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 <http://dbpedia.org/resource/UpShot> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 "2429993"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT ?subject1 ?predicate1 ?object ?predicate2 WHERE {?subject1 ?predicate1 ?object . ?object ?predicate2 "Gornomariyskiy Raion"@en .}

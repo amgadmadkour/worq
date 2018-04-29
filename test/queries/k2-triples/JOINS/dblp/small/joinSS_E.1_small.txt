@@ -1,0 +1,25 @@
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://www.w3.org/2002/07/owl#sameAs> ?object1 . ?subject ?predicate2 <http://www.bibsonomy.org/uri/author/Takashi+Muramatsu> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://purl.org/dc/elements/1.1/subject> ?object1 . ?subject ?predicate2 <http://dblp.l3s.de/d2r/resource/authors/Wang_Li> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://purl.org/dc/elements/1.1/type> ?object1 . ?subject ?predicate2 "Springer"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://swrc.ontoware.org/ontology#series> ?object1 . ?subject ?predicate2 <http://dblp.uni-trier.de/rec/bibtex/books/acm/kim95/Blakeley95> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://purl.org/dc/terms/tableOfContent> ?object1 . ?subject ?predicate2 <http://dblp.l3s.de/d2r/resource/conferences/anthology> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://purl.org/dc/terms/partOf> ?object1 . ?subject ?predicate2 "69-88"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://purl.org/dc/elements/1.1/publisher> ?object1 . ?subject ?predicate2 <http://bibsonomy.org/uri/bibtexkey/conf/gameon/2000/dblp> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?object1 . ?subject ?predicate2 "Modern Database Systems"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://purl.org/dc/elements/1.1/title> ?object1 . ?subject ?predicate2 "ISBN 0-7695-1703-X"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?object1 . ?subject ?predicate2 <http://dblp.l3s.de/d2r/resource/publications/books/acm/Kim95> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://swrc.ontoware.org/ontology#month> ?object1 . ?subject ?predicate2 "Handbook of Multimedia Information Management."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://purl.org/dc/terms/bibliographicCitation> ?object1 . ?subject ?predicate2 <http://dblp.l3s.de/d2r/resource/authors/Marc_Rettig> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://purl.org/dc/elements/1.1/subject> ?object1 . ?subject ?predicate2 "DBLP conf/fskd/LiW09a"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://xmlns.com/foaf/0.1/homepage> ?object1 . ?subject ?predicate2 "TSQL2 Temporal Query Language / TSQL2 and SQL3 Interactions: Copy of ftp://ftp.cs.arizona.edu/tsql/tsql2/"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://purl.org/dc/elements/1.1/creator> ?object1 . ?subject ?predicate2 <http://dx.doi.org/10.1186%2F1471-2105-12-79> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://swrc.ontoware.org/ontology#pages> ?object1 . ?subject ?predicate2 <http://dblp.uni-trier.de/db/conf/vldb/vldb75.html#MahmoudR75> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://www.w3.org/2002/07/owl#sameAs> ?object1 . ?subject ?predicate2 "Takashi Muramatsu" .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://purl.org/dc/terms/partOf> ?object1 . ?subject ?predicate2 <http://dblp.l3s.de/d2r/resource/authors/Jos%C3%A9_A._Blakeley> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://swrc.ontoware.org/ontology#series> ?object1 . ?subject ?predicate2 <http://swrc.ontoware.org/ontology#InCollection> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://purl.org/dc/elements/1.1/creator> ?object1 . ?subject ?predicate2 <http://dblp.l3s.de/d2r/resource/authors/Gerald_A._Tuskan> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://purl.org/dc/terms/references> ?object1 . ?subject ?predicate2 <http://dblp.l3s.de/d2r/resource/publications/conf/ideas/McClatcheyKEGHBFB98> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://purl.org/dc/elements/1.1/type> ?object1 . ?subject ?predicate2 <http://dx.doi.org/10.1007/978-3-540-36998-1> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://purl.org/dc/terms/bibliographicCitation> ?object1 . ?subject ?predicate2 <http://bibsonomy.org/uri/bibtexkey/books/acm/0082477/dblp> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://purl.org/dc/terms/references> ?object1 . ?subject ?predicate2 <http://dblp.l3s.de/d2r/resource/authors/Florida_Estrella> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://swrc.ontoware.org/ontology#pages> ?object1 . ?subject ?predicate2 "1975"^^<http://www.w3.org/2001/XMLSchema#gYear> .}

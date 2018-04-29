@@ -1,0 +1,9 @@
+SELECT ?subject1 ?object WHERE {?subject1 <http://dbpedia.org/property/discoverySite> ?object . ?object <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/1985> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://dbpedia.org/property/lowerAge> ?object . ?object <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/Kuwait> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://dbpedia.org/property/formerSchool_percent_28s_percent_29> ?object . ?object <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://dbpedia.org/property/media> ?object . ?object <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/Dalmatia> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://dbpedia.org/property/zoosectio> ?object . ?object <http://dbpedia.org/ontology/phylum> <http://dbpedia.org/resource/Arthropod> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://dbpedia.org/property/p> ?object . ?object <http://dbpedia.org/property/populationDensityKm> "auto"@en .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://dbpedia.org/property/redirect> ?object . ?object <http://www.w3.org/2004/02/skos/core#subject> <http://dbpedia.org/resource/Category:Musical_groups_from_California> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://dbpedia.org/property/venue> ?object . ?object <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/Municipality> .}
+SELECT ?subject1 ?object WHERE {?subject1 <http://dbpedia.org/property/homecaptain> ?object . ?object <http://www.w3.org/2004/02/skos/core#subject> <http://dbpedia.org/resource/Category:Living_people> .}

@@ -1,0 +1,25 @@
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://purl.org/ontology/mo/track> ?object1 . ?subject ?predicate2 <http://dbtune.org/jamendo/track/99994> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://purl.org/ontology/mo/track_number> ?object1 . ?subject ?predicate2 "space"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://xmlns.com/foaf/0.1/made> ?object1 . ?subject ?predicate2 <http://img.jamendo.com/artists/s/school.in.parapsichico.jpg> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://purl.org/ontology/mo/time> ?object1 . ?subject ?predicate2 <http://dbtune.org/jamendo/track/100000> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://purl.org/ontology/mo/available_as> ?object1 . ?subject ?predicate2 <http://dbtune.org/jamendo/track/97080> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://xmlns.com/foaf/0.1/based_near> ?object1 . ?subject ?predicate2 <http://purl.org/ontology/mo/MusicArtist> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://purl.org/ontology/mo/image> ?object1 . ?subject ?predicate2 <http://img.jamendo.com/albums/10000/covers/1.100.jpg> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://purl.org/dc/elements/1.1/title> ?object1 . ?subject ?predicate2 <http://creativecommons.org/licenses/by-nc-nd/2.0/de/> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://xmlns.com/foaf/0.1/maker> ?object1 . ?subject ?predicate2 <http://img.jamendo.com/albums/1086/covers/1.300.jpg> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://purl.org/NET/c4dm/event.owl#factor> ?object1 . ?subject ?predicate2 <http://dbtune.org/jamendo/signal/100252> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://purl.org/dc/elements/1.1/description> ?object1 . ?subject ?predicate2 <http://dbtune.org/jamendo/track/31144> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://purl.org/ontology/mo/available_as> ?object1 . ?subject ?predicate2 <http://dbtune.org/jamendo/track/97011> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://purl.org/ontology/mo/biography> ?object1 . ?subject ?predicate2 <http://www.myspace.com/lagrange4%20%20> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://purl.org/ontology/mo/biography> ?object1 . ?subject ?predicate2 <http://purl.org/ontology/mo/MusicArtist> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://purl.org/dc/elements/1.1/date> ?object1 . ?subject ?predicate2 <http://dbtune.org/jamendo/tag/hardcore> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://vocab.sindice.net/date> ?object1 . ?subject ?predicate2 "1049644"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://purl.org/ontology/mo/track> ?object1 . ?subject ?predicate2 <http://dbtune.org/jamendo/track/99995> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://vocab.sindice.net/size> ?object1 . ?subject ?predicate2 "2011-12-06T23:41:12+01:00" .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://www.w3.org/2002/07/owl#sameAs> ?object1 . ?subject ?predicate2 <http://purl.org/ontology/mo/MusicArtist> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://www.holygoat.co.uk/owl/redwood/0.1/tags/tagName> ?object1 . ?subject ?predicate2 <http://www.holygoat.co.uk/owl/redwood/0.1/tags/Tag> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://purl.org/ontology/mo/recorded_as> ?object1 . ?subject ?predicate2 <http://dbtune.org/jamendo/lyrics/100252> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://purl.org/ontology/mo/available_as> ?object1 . ?subject ?predicate2 "2007-10-26 15:08:53" .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://purl.org/dc/elements/1.1/date> ?object1 . ?subject ?predicate2 <http://dbtune.org/jamendo/tag/hard> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://purl.org/dc/elements/1.1/date> ?object1 . ?subject ?predicate2 <http://www.jamendo.com/get/track/id/album/audio/play/24/?item_o=track_no_asc&aue=ogg2&n=all> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://purl.org/dc/elements/1.1/date> ?object1 . ?subject ?predicate2 <http://img.jamendo.com/albums/24/covers/1.0.jpg> .}

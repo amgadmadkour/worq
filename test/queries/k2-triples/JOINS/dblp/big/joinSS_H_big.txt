@@ -1,0 +1,25 @@
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 "2010"^^<http://www.w3.org/2001/XMLSchema#gYear> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 "DOI 10.1007%2Fs10898-009-9432-0"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://dblp.uni-trier.de/rec/bibtex/journals/entcs/Pottier06> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://dblp.uni-trier.de/db/conf/cikm/cikm93.html#CrompC93> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://dblp.l3s.de/d2r/resource/authors/Viviana_Mascardi> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://dblp.l3s.de/d2r/resource/conferences/icscCd> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 "Analysis of orientation and scale in smoothly varying textures."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://dblp.l3s.de/d2r/resource/authors/Axel_Th%C3%BCmmler> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://purl.org/dc/dcmitype/Text> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://dblp.l3s.de/d2r/resource/authors/Peter_Wi%C3%9Fkirchen> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://dblp.l3s.de/d2r/resource/publications/conf/icde/ChuLC91> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 "A layout technique for class diagrams to be used in product configuration projects."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://dblp.l3s.de/d2r/resource/publications/conf/icip/2010> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://purl.org/dc/dcmitype/Text> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://dblp.l3s.de/d2r/resource/authors/Guofu_Zhai> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://dx.doi.org/10.1109%2FTCAD.2005.853685> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://bibsonomy.org/uri/bibtexkey/conf/fgr/EveringhamZ06/dblp> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://dblp.l3s.de/d2r/resource/authors/Sriram_Krishnamoorthy> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://swrc.ontoware.org/ontology#Article> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://dblp.rkbexplorer.com/id/journals/jcss/Alton76> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://dblp.uni-trier.de/rec/bibtex/conf/iscas/SekiyaOLY03> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 "The simulation project life-cycle: models and realities."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://purl.org/dc/dcmitype/Text> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 "2011"^^<http://www.w3.org/2001/XMLSchema#gYear> .}
+SELECT ?subject ?predicate1 ?object1 ?predicate2 WHERE {?subject ?predicate1 ?object1 . ?subject ?predicate2 <http://dblp.uni-trier.de/rec/bibtex/conf/shape/1999> .}

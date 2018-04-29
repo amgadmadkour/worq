@@ -1,0 +1,6 @@
+SELECT ?subject ?predicate2 WHERE {?subject <http://purl.org/dc/elements/1.1/type> <http://purl.org/dc/dcmitype/Text> . ?subject ?predicate2 <http://swrc.ontoware.org/ontology#Book> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://purl.org/dc/terms/issued> "1981"^^<http://www.w3.org/2001/XMLSchema#gYear> . ?subject ?predicate2 <http://xmlns.com/foaf/0.1/Document> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://purl.org/dc/elements/1.1/type> <http://purl.org/dc/dcmitype/Text> . ?subject ?predicate2 <http://dblp.l3s.de/d2r/resource/authors/Won_Kim> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://purl.org/dc/terms/issued> "2008"^^<http://www.w3.org/2001/XMLSchema#gYear> . ?subject ?predicate2 <http://purl.org/dc/dcmitype/Text> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://swrc.ontoware.org/ontology#journal> <http://dblp.l3s.de/d2r/resource/journals/combinatorica> . ?subject ?predicate2 <http://xmlns.com/foaf/0.1/Document> .}
+SELECT ?subject ?predicate2 WHERE {?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#PhDThesis> . ?subject ?predicate2 <http://purl.org/dc/dcmitype/Text> .}

@@ -1,0 +1,500 @@
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/37406> ?predicate <http://www.jamendo.com/get/track/id/track/audio/xspf/37406> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/8277> ?predicate <http://www.jamendo.com/get/album/id/album/p2p/redirect/8277/?p2pnet=ed2k&are=mp32> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/6474> ?predicate "Made in China"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/tag/wav> ?predicate "wav"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/9628> ?predicate <http://img.jamendo.com/albums/9628/covers/1.300.jpg> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/interval/22478> ?predicate <http://dbtune.org/jamendo/timeline/22478> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/21401> ?predicate <http://dbtune.org/jamendo/track/21401> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/6579> ?predicate <http://www.jamendo.com/get/album/id/album/p2p/redirect/6579/?p2pnet=ed2k&are=mp32> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/10569> ?predicate <http://dbtune.org/jamendo/signal/10569> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/6818> ?predicate <http://www.jamendo.com/get/album/id/album/p2p/redirect/6818/?p2pnet=bittorrent&are=mp32> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/7735> ?predicate <http://dbtune.org/jamendo/artist/8395> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/35335> ?predicate <http://dbtune.org/jamendo/lyrics/35335> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/23253> ?predicate "->...Merengue"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/8886> ?predicate <http://www.jamendo.com/get/track/id/track/audio/play/8886> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/1727> ?predicate <http://www.jamendo.com/get/track/id/album/audio/xspf/1727/?item_o=track_no_asc&aue=ogg2&n=all> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/tag/gonzalez> ?predicate "gonzalez"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/21106> ?predicate "Sortir le soir"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/9072> ?predicate <http://dbtune.org/jamendo/signal/9072> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/57744> ?predicate <http://dbtune.org/jamendo/signal/57744> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/3114> ?predicate <http://dbtune.org/jamendo/track/22420> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/36107> ?predicate "Dream'Ed Of You"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/artist/336711> ?predicate "Brigitte Bop"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/6136> ?predicate <http://dbtune.org/jamendo/tag/electrocantautoriale> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/7218> ?predicate <http://dbtune.org/jamendo/track/79252> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/12684> ?predicate <http://img.jamendo.com/albums/12684/covers/1.500.jpg> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/47950> ?predicate <http://dbtune.org/jamendo/lyrics/47950> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/52620> ?predicate <http://dbtune.org/jamendo/signal/52620> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/48232> ?predicate <http://www.jamendo.com/get/track/id/track/audio/play/48232> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/7390> ?predicate <http://www.jamendo.com/get/track/id/track/audio/xspf/7390> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/26272> ?predicate <http://dbtune.org/jamendo/track/26272> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/86131> ?predicate "13 Project System 12 - Robot Rabbit"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/interval/26231> ?predicate <http://dbtune.org/jamendo/timeline/26231> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/738> ?predicate "Focused Energy In A Box"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/26060> ?predicate "Medi@-solitude"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/7267> ?predicate <http://www.jamendo.com/get/album/id/album/p2p/redirect/7267/?p2pnet=bittorrent&are=ogg3> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/103852> ?predicate <http://dbtune.org/jamendo/signal/103852> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/5118> ?predicate <http://dbtune.org/jamendo/track/42244> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/lyrics/46406> ?predicate "Autor: Alves\n\nPelas estradas um sonho bom\nNa madruga solid\u00E3o\nEstrelas cansadas se apagam em mim\n\nSe \u00E9 amor o que sinto \nN\u00E3o sei dizer\nO que sinto por ti \nO que sinto por mim\nEu n\u00E3o sei, nada\nEu n\u00E3o sei, nada\n\nSe \u00E9 amor o que sinto \nN\u00E3o sei dizer\nO que sinto por ti \nO que sinto por mim\nEu n\u00E3o sei, nada\nEu n\u00E3o sei, nada\n\nSe o mar \u00E9 fundo \nSe o ce\u00FA \u00E9 azul\nSem voc\u00EA n\u00E3o sou\nNada\nSem voc\u00EA n\u00E3o sou\nNada"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/13314> ?predicate "\u00BFY el horizonte? - Pista 16"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/69931> ?predicate "La Seule"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/36206> ?predicate <http://dbtune.org/jamendo/interval/36206> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/15142> ?predicate <http://dbtune.org/jamendo/signal/15142> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/88627> ?predicate <http://dbtune.org/jamendo/interval/88627> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/101946> ?predicate <http://dbtune.org/jamendo/track/101946> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/3085> ?predicate <http://img.jamendo.com/albums/3085/covers/1.0.jpg> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/35198> ?predicate <http://dbtune.org/jamendo/signal/35198> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/2488> ?predicate <http://dbtune.org/jamendo/tag/ragas> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/102781> ?predicate <http://www.jamendo.com/get/track/id/track/audio/xspf/102781> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/interval/14446> ?predicate <http://dbtune.org/jamendo/timeline/14446> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/45136> ?predicate "SpyNepThing"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/44447> ?predicate <http://dbtune.org/jamendo/signal/44447> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/26762> ?predicate <http://dbtune.org/jamendo/signal/26762> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/32827> ?predicate <http://dbtune.org/jamendo/interval/32827> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/4675> ?predicate <http://dbtune.org/jamendo/track/38110> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/25280> ?predicate <http://www.jamendo.com/get/track/id/track/audio/xspf/25280> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/73530> ?predicate "Bienvenue au pays des gorilles des montagnes"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/9518> ?predicate <http://www.jamendo.com/get/album/id/album/p2p/redirect/9518/?p2pnet=ed2k&are=ogg3> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/3322> ?predicate <http://dbtune.org/jamendo/track/3322> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/13317> ?predicate "\u00BFY el horizonte? - Pista 19"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/25651> ?predicate <http://dbtune.org/jamendo/signal/25651> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/14632> ?predicate <http://dbtune.org/jamendo/interval/14632> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/34352> ?predicate <http://www.jamendo.com/get/track/id/track/audio/play/34352> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/15790> ?predicate <http://dbtune.org/jamendo/signal/15790> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/34866> ?predicate <http://dbtune.org/jamendo/interval/34866> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/5621> ?predicate <http://www.jamendo.com/get/album/id/album/p2p/redirect/5621/?p2pnet=bittorrent&are=mp32> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/38583> ?predicate <http://www.jamendo.com/get/track/id/track/audio/play/38583> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/interval/10999> ?predicate <http://dbtune.org/jamendo/timeline/10999> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/907> ?predicate <http://dbtune.org/jamendo/track/5919> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/104590> ?predicate <http://dbtune.org/jamendo/signal/104590> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/87382> ?predicate <http://dbtune.org/jamendo/signal/87382> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/1967> ?predicate <http://img.jamendo.com/albums/1967/covers/1.100.jpg> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/artist/987> ?predicate <http://www.drunksouls.com> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/interval/77435> ?predicate <http://dbtune.org/jamendo/timeline/77435> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/5265> ?predicate <http://dbtune.org/jamendo/track/43717> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/14713> ?predicate <http://www.jamendo.com/get/track/id/track/audio/play/14713> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/35596> ?predicate <http://dbtune.org/jamendo/interval/35596> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/47012> ?predicate <http://www.jamendo.com/get/track/id/track/audio/xspf/47012> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/88602> ?predicate <http://www.jamendo.com/get/track/id/track/audio/play/88602> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/10294> ?predicate <http://www.jamendo.com/get/track/id/album/audio/xspf/10294/?item_o=track_no_asc&aue=ogg2&n=all> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/interval/38852> ?predicate <http://dbtune.org/jamendo/timeline/38852> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/48473> ?predicate <http://dbtune.org/jamendo/interval/48473> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/18781> ?predicate <http://dbtune.org/jamendo/signal/18781> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/1279> ?predicate <http://www.jamendo.com/get/album/id/album/p2p/redirect/1279/?p2pnet=bittorrent&are=ogg3> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/artist/3440> ?predicate <http://---> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/91047> ?predicate <http://www.jamendo.com/get/track/id/track/audio/play/91047> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/94573> ?predicate <http://www.jamendo.com/get/track/id/track/audio/xspf/94573> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/44084> ?predicate <http://dbtune.org/jamendo/signal/44084> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/55091> ?predicate "Le Rap Des Bourges"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/interval/109535> ?predicate <http://dbtune.org/jamendo/timeline/109535> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/4418> ?predicate <http://img.jamendo.com/albums/4418/covers/1.0.jpg> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/11448> ?predicate "Guess Anthem"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/30092> ?predicate <http://www.jamendo.com/get/track/id/track/audio/play/30092> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/23017> ?predicate <http://dbtune.org/jamendo/track/23017> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/interval/33981> ?predicate <http://dbtune.org/jamendo/timeline/33981> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/5726> ?predicate <http://www.jamendo.com/get/album/id/album/p2p/redirect/5726/?p2pnet=bittorrent&are=mp32> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/11054> ?predicate <http://dbtune.org/jamendo/track/99619> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/37233> ?predicate <http://dbtune.org/jamendo/signal/37233> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/45368> ?predicate <http://dbtune.org/jamendo/signal/45368> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/tag/progresivo> ?predicate "progresivo"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/46860> ?predicate <http://dbtune.org/jamendo/interval/46860> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/lyrics/35366> ?predicate "LONGTIME, \u00E7a fait longtemps que j\u2019attends ce moment\n\n\n\u00C7a fait longtemps que j\u2019attends ce moment\nQue les blocs se mettent en place   \nQue par le feu et la glace              \nS\u2019embo\u00EEtent les \u00E9l\u00E9ments                       \n\n\n\u00C7a fait longtemps que j\u2019attends ce moment   \nQue la vie prenne tournure                   \nPar les chemins de torture                   \nQu\u2019empruntent les sentiments           \n                           \n\u00C7a fait longtemps que j\u2019attends ce moment\nQue s\u2019enclenchent les m\u00E9canismes\nEnfin, je sens l\u2019av\u00E8nement\nD\u2019un jour nouveau, d\u2019un schisme.\n\n\u00C7a fait longtemps que j\u2019attends ce moment\nQue chantent les lendemains\nApr\u00E8s un si\u00E8cle d\u00E9primant\nBas les c\u0153urs, haut les mains.\n\nlongtime qu\u2019on gobe des \u0153ufs d\u2019autruche\nVl\u2019\u00E0 l\u2019\u00E9tincelle qui f\u2019ra.\nDEBORDER LA CRUCHE\n\nlongtime qu\u2019on a plac\u00E9 ces barils sous la foudre\nVl\u2019\u00E0 la goutte d\u2019eau qui meTTRA LE FEU AUX POUDRES"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/4551> ?predicate <http://dbtune.org/jamendo/track/37238> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/artist/1288> ?predicate <http://dbtune.org/jamendo/record/1275> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/20883> ?predicate <http://dbtune.org/jamendo/track/20883> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/19974> ?predicate <http://www.jamendo.com/get/track/id/track/audio/xspf/19974> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/22017> ?predicate <http://www.jamendo.com/get/track/id/track/audio/play/22017> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/7293> ?predicate <http://img.jamendo.com/albums/7293/covers/1.100.jpg> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/105570> ?predicate <http://www.jamendo.com/get/track/id/track/audio/xspf/105570> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/46865> ?predicate <http://www.jamendo.com/get/track/id/track/audio/play/46865> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/548> ?predicate <http://dbtune.org/jamendo/track/3471> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/6063> ?predicate <http://www.jamendo.com/get/track/id/track/audio/play/6063> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/34886> ?predicate <http://dbtune.org/jamendo/signal/34886> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/94838> ?predicate <http://www.jamendo.com/get/track/id/track/audio/xspf/94838> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/47034> ?predicate <http://dbtune.org/jamendo/signal/47034> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/16700> ?predicate <http://www.jamendo.com/get/track/id/track/audio/xspf/16700> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/7082> ?predicate "2007-08-16 17:21:09" .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/3625> ?predicate <http://dbtune.org/jamendo/signal/3625> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/100111> ?predicate <http://dbtune.org/jamendo/track/100111> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/5906> ?predicate <http://www.jamendo.com/get/album/id/album/p2p/redirect/5906/?p2pnet=bittorrent&are=mp32> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/38896> ?predicate <http://www.jamendo.com/get/track/id/track/audio/play/38896> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/19199> ?predicate <http://dbtune.org/jamendo/track/19199> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/7451> ?predicate <http://dbtune.org/jamendo/track/81323> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/35540> ?predicate <http://dbtune.org/jamendo/track/35540> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/79080> ?predicate <http://dbtune.org/jamendo/interval/79080> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/3023> ?predicate <http://www.jamendo.com/get/track/id/track/audio/play/3023> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/7408> ?predicate <http://img.jamendo.com/albums/7408/covers/1.0.jpg> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/15538> ?predicate <http://www.jamendo.com/get/track/id/track/audio/xspf/15538> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/interval/109382> ?predicate <http://dbtune.org/jamendo/timeline/109382> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/29981> ?predicate <http://dbtune.org/jamendo/signal/29981> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/7363> ?predicate <http://zitgist.com/music/track/96437f9b-f204-46eb-8acf-935102e9da84> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/tag/daujourdhui> ?predicate "daujourdhui"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/13385> ?predicate <http://dbtune.org/jamendo/track/109202> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/92313> ?predicate <http://dbtune.org/jamendo/signal/92313> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/5141> ?predicate <http://www.jamendo.com/get/album/id/album/p2p/redirect/5141/?p2pnet=bittorrent&are=mp32> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/19649> ?predicate <http://dbtune.org/jamendo/signal/19649> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/12083> ?predicate <http://dbtune.org/jamendo/signal/12083> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/5278> ?predicate <http://img.jamendo.com/albums/5278/covers/1.0.jpg> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/interval/94750> ?predicate <http://dbtune.org/jamendo/timeline/94750> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/1741> ?predicate "Blog"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/7509> ?predicate <http://www.jamendo.com/get/album/id/album/p2p/redirect/7509/?p2pnet=bittorrent&are=mp32> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/105804> ?predicate "Stinkende Fische F\u00FCr Diddi II"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/interval/48531> ?predicate <http://dbtune.org/jamendo/timeline/48531> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/4746> ?predicate <http://dbtune.org/jamendo/tag/varierande> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/27951> ?predicate <http://dbtune.org/jamendo/interval/27951> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/interval/38764> ?predicate <http://dbtune.org/jamendo/timeline/38764> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/interval/6427> ?predicate <http://dbtune.org/jamendo/timeline/6427> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/artist/6070> ?predicate <http://www.kowalskisko.net> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/73764> ?predicate <http://dbtune.org/jamendo/interval/73764> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/47368> ?predicate <http://dbtune.org/jamendo/signal/47368> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/2567> ?predicate <http://img.jamendo.com/albums/2567/covers/1.0.jpg> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/3929> ?predicate "This is Shearer's first official studio album. Visit http://www.shearer.de for up to date news, tour info and downloads."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/interval/24157> ?predicate <http://dbtune.org/jamendo/timeline/24157> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/82665> ?predicate "bruno mix foret1"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/16764> ?predicate <http://dbtune.org/jamendo/interval/16764> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/23586> ?predicate <http://www.jamendo.com/get/track/id/track/audio/xspf/23586> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/90816> ?predicate <http://www.jamendo.com/get/track/id/track/audio/play/90816> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/950> ?predicate <http://www.jamendo.com/get/album/id/album/p2p/redirect/950/?p2pnet=ed2k&are=ogg3> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/interval/33732> ?predicate <http://dbtune.org/jamendo/timeline/33732> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/4823> ?predicate <http://dbtune.org/jamendo/artist/5519> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/2575> ?predicate <http://dbtune.org/jamendo/track/2575> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/lyrics/13242> ?predicate "9) \"La Teuf 2\" - (4:14) - (Dr Jekyll - Skifano)\n\n\nCouplet 1:\t\tApr\u00E8s avoir squatt\u00E9 quelques f\u00EAtes rat\u00E9es\n\t\t\tLe Komit\u00E9 a d\u00E9cid\u00E9 d\u2019organiser une big tef\u00E8\n\t\t\tPas une teuf loup\u00E9e, avec des meufs, gazi\u00E9\n\t\t\tD\u2019ailleurs on se les garde pour nous alors t\u2019es pas invit\u00E9 !\n\t\t\tMais arr\u00EAte de pleurer sur ta pauvre existence,\n\t\t\tDe toutes fa\u00E7ons tu n\u2019aurais eu aucune chance !\n\t\t\tDans toutes les circonstances, admire ma biens\u00E9ance,\n\t\t\tTu vois j\u2019suis comme \u00E7a ! ! ! - Heu non mais tu t\u2019\u00E9gares l\u00E0!\n\t\t\tJ\u2019organise, je pr\u00E9pare le terrain pour mes homies\nEt fais en sorte que la bi\u00E8re ne soit pas omise\nJ\u2019augmente la mise, rajoute du matos et de l\u2019herbe,\nSors de ton pub! Rejoins mon Fan-club!\nMais pas pour foutre la merde, sinon j\u2019te p\u00E8te la t\u00EAte !\nPas de prise de t\u00EAte on est l\u00E0 pour faire la f\u00EAte !\nPour entrer, faudra pas te montrer trop f\u00E9roce,\nMais si t\u2019essaies tu risques de tomber sur un... Boss!\n\tRefrain :\t\tLa Kro prend la rel\u00E8ve de ton cerveau !!!   x8\n\nCouplet 2 :\t\tJe ne veux pas des cadavres dans tous les coins\n\t\t\tJe ne veux pas que l\u2019on comate jusqu\u2019au petit matin\n\t\t\tAttention ! Il ne faut pas croire qu\u2019il ne faut pas boire,\n\t\t\tC\u2019est un excellent rem\u00E8de contre les coups de barre\n\t\t\tEt si une meuf se barre derri\u00E8re le bar\n\t\t\tPour boire une chope, moi j\u2019me la chope dare-dare !\n\t\t\tCinq minutes apr\u00E8s au plus tard au plumard\n\t\t\tSans vouloir \u00EAtre vantard ma technique est un art !\n\t\t\tA part \u00E7\u00E0, on continue de bouger sans enfreints\n\t\t\tOn boit et le rythme se maintient c\u2019est bien\n\t\t \tPour pouvoir s\u2019exprimer avec plus de libert\u00E9s\n\t\t\tPour pouvoir se mouvoir sans jamais s\u2019\u00E9puiser\n\t\t\tIntimement les rapports se cr\u00E9ent plus facilement\n\t\t\tM\u00EAme si les discours se font moins \u00E9loquents\n\t\t\t\u00AB Beau ch\u00E2ssis, fille t\u2019es sexy j\u2019ai une envie,\n\t\t\tViens avec moi ch\u00E9rie t\u2019en ressortira \u00E9panouie \u00BB\n\t\t\tLaisse l\u2019ivresse t\u2019envahir, d\u00E9laisse le stress\n\t\t\tLa tristesse, est-ce la richesse qui t\u2019int\u00E9resse ?\n\t\t\tEcoute la sagesse de mon message est-ce\n\t\t\tQue le bonheur est dans le pr\u00E9... ou dans le bl\u00E9 ?\n\nRefrain\n\nCouplet 3 :\t\tDraguer dans les teufs, ah ! Moi je n\u2019ai rien contre\n\t\t\tAu contraire c\u2019est un bon moyen pour faire des rencontres\n\t\t\tJe rep\u00E8re ma proie, j\u2019attaque et puis \u00E7a y est\n\t\t\tY a moyen de passer une excellente soir\u00E9e\n\t\t\tMais le probl\u00E8me avec les meufs le lendemain des teufs\n\t\t\tC\u2019est qu\u2019elles me menacent, et moi je crois qu\u2019elles bluffent\n\t\t\tMais non ! Elles ont bien l\u2019intention de me garder\n\t\t\tTout \u00E7\u00E0 parsque j\u2019suis styl\u00E9, friqu\u00E9 et du Komit\u00E9 !\nPutain les filles \u00E7a pense qu\u2019\u00E0 se caser,\nSe trouver une planque et puis squatter \u00E0 jamais !\nM\u00EAme si t\u2019es myso, faut bien admettre que mettre c\u2019est bien\nPar contre y a pas moyen qu\u2019elles arrivent \u00E0 leur fins\nCes dames abusent de leur charmes pour que l\u2019on se damne\nComme un \u00E2ne et cherchent \u00E0 se caser avant qu\u2019elles ne se fanent\nMais moi jamais de la vie j\u2019accepte \u00E7a, tu comprends \u00E7a,\nLes meufs avec moi c\u2019est pas comme \u00E7a que \u00E7a se sepa !\nJuste une soir\u00E9e c\u2019est bien, en abuser \u00E7a craint\nLe lendemain matin c\u2019est clair tu fais moins le malin !\nQuand tu te r\u00E9veilles ne tombe pas dans leur jeu\nAlors pour oublier t\u2019as qu\u2019\u00E0 boire encore un peu !\n\n\tRefrain x2"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/12322> ?predicate "Limited EXP."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/15522> ?predicate <http://dbtune.org/jamendo/interval/15522> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/8351> ?predicate <http://dbtune.org/jamendo/signal/8351> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/lyrics/21560> ?predicate "(c) Andr\u00E9 Weet\n\n\nWell we used to get along\nAnd love was all our own.\nBut when the money\u00B4s gone,\nYour love it falls apart.\nShe left me for a guy,\nWho\u00B4s handsome, tall and small\nThis I can never be,\nSee me in my misery.\n\nREF: Where I left the road you shouldn\u00B4t go boys\nWithout knowing all the tears you might find \ngoing there...\n\n\nShe\u00B4ll leave the town real soon,\nto see what she can find.\nAnd if your love is gone,\ntell yourself you have been blind.\n\nREF: Where I left...\n\n\nWhere I left the road, you were a heavy load\nAnd if your love is gone, tell you self you have\nbeen wrong!\n\nREF: Where I left..."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/25220> ?predicate <http://dbtune.org/jamendo/interval/25220> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/93770> ?predicate "13 Project System 12 - Nebulouse"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/interval/45343> ?predicate <http://dbtune.org/jamendo/timeline/45343> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/5223> ?predicate <http://img.jamendo.com/albums/5223/covers/1.300.jpg> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/89388> ?predicate <http://www.jamendo.com/get/track/id/track/audio/xspf/89388> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/45195> ?predicate <http://www.jamendo.com/get/track/id/track/audio/xspf/45195> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/3511> ?predicate <http://dbtune.org/jamendo/track/25562> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/100246> ?predicate <http://dbtune.org/jamendo/signal/100246> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/2428> ?predicate <http://www.jamendo.com/get/album/id/album/p2p/redirect/2428/?p2pnet=ed2k&are=ogg3> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/4133> ?predicate <http://www.jamendo.com/get/album/id/album/p2p/redirect/4133/?p2pnet=ed2k&are=ogg3> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/2889> ?predicate <http://img.jamendo.com/albums/2889/covers/1.0.jpg> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/74887> ?predicate <http://dbtune.org/jamendo/track/74887> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/19571> ?predicate <http://dbtune.org/jamendo/signal/19571> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/3848> ?predicate <http://www.jamendo.com/get/album/id/album/p2p/redirect/3848/?p2pnet=ed2k&are=ogg3> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/35504> ?predicate <http://dbtune.org/jamendo/signal/35504> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/42362> ?predicate "Ke du lete \u00E6tte?"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/83928> ?predicate <http://dbtune.org/jamendo/lyrics/83928> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/7549> ?predicate <http://www.jamendo.com/get/track/id/track/audio/xspf/7549> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/interval/4233> ?predicate <http://dbtune.org/jamendo/timeline/4233> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/37737> ?predicate <http://dbtune.org/jamendo/track/37737> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/6108> ?predicate <http://dbtune.org/jamendo/track/52883> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/6125> ?predicate <http://dbtune.org/jamendo/track/53254> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/14391> ?predicate <http://dbtune.org/jamendo/lyrics/14391> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/13548> ?predicate <http://dbtune.org/jamendo/track/109928> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/5149> ?predicate <http://www.jamendo.com/get/track/id/track/audio/xspf/5149> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/149> ?predicate <http://dbtune.org/jamendo/tag/noche> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/15470> ?predicate <http://dbtune.org/jamendo/interval/15470> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/3611> ?predicate <http://www.jamendo.com/get/track/id/album/audio/play/3611/?item_o=track_no_asc&aue=ogg2&n=all> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/interval/41789> ?predicate <http://dbtune.org/jamendo/timeline/41789> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/81660> ?predicate <http://www.jamendo.com/get/track/id/track/audio/play/81660> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/5409> ?predicate "The Hermit's Cavern"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/85814> ?predicate <http://www.jamendo.com/get/track/id/track/audio/xspf/85814> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/interval/33967> ?predicate <http://dbtune.org/jamendo/timeline/33967> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/45492> ?predicate "Tears Of Joy"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/artist/812> ?predicate <http://dbtune.org/jamendo/record/1054> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/13585> ?predicate <http://dbtune.org/jamendo/signal/13585> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/8730> ?predicate <http://www.jamendo.com/get/track/id/track/audio/play/8730> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/interval/86550> ?predicate <http://dbtune.org/jamendo/timeline/86550> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/10125> ?predicate "Crazy Cat"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/10381> ?predicate "Reverie (2000)"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/interval/13559> ?predicate <http://dbtune.org/jamendo/timeline/13559> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/11238> ?predicate <http://dbtune.org/jamendo/signal/11238> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/106055> ?predicate <http://dbtune.org/jamendo/signal/106055> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/44093> ?predicate <http://dbtune.org/jamendo/signal/44093> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/98552> ?predicate <http://dbtune.org/jamendo/signal/98552> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/108692> ?predicate <http://www.jamendo.com/get/track/id/track/audio/xspf/108692> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/89445> ?predicate "Mi Verdad"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/20287> ?predicate "En vandring"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/33808> ?predicate <http://dbtune.org/jamendo/signal/33808> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/31438> ?predicate <http://dbtune.org/jamendo/signal/31438> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/87342> ?predicate "Es un crimen"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/77094> ?predicate "Maybe in Heaven the Angels are Born"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/104000> ?predicate <http://dbtune.org/jamendo/signal/104000> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/2821> ?predicate <http://dbtune.org/jamendo/track/20072> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/interval/89559> ?predicate <http://dbtune.org/jamendo/timeline/89559> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/76016> ?predicate <http://www.jamendo.com/get/track/id/track/audio/play/76016> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/1959> ?predicate <http://dbtune.org/jamendo/signal/1959> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/artist/3042> ?predicate "Deafsound"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/tag/lelite> ?predicate "lelite"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/5990> ?predicate <http://www.jamendo.com/get/album/id/album/p2p/redirect/5990/?p2pnet=bittorrent&are=ogg3> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/6743> ?predicate <http://dbtune.org/jamendo/track/75430> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/6587> ?predicate <http://dbtune.org/jamendo/track/74191> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/10773> ?predicate <http://dbtune.org/jamendo/signal/10773> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/36405> ?predicate <http://www.jamendo.com/get/track/id/track/audio/play/36405> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/4206> ?predicate "Mister E.P"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/100315> ?predicate <http://dbtune.org/jamendo/interval/100315> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/46868> ?predicate <http://www.jamendo.com/get/track/id/track/audio/xspf/46868> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/3216> ?predicate <http://www.jamendo.com/get/track/id/track/audio/xspf/3216> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/16786> ?predicate <http://dbtune.org/jamendo/signal/16786> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/5142> ?predicate <http://www.jamendo.com/get/album/id/album/p2p/redirect/5142/?p2pnet=bittorrent&are=mp32> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/artist/6064> ?predicate <http://www.govannon.es> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/10153> ?predicate <http://dbtune.org/jamendo/artist/336868> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/42770> ?predicate <http://www.jamendo.com/get/track/id/track/audio/play/42770> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/4187> ?predicate "2007-02-05 17:31:36" .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/2299> ?predicate <http://dbtune.org/jamendo/track/16171> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/18567> ?predicate <http://www.jamendo.com/get/track/id/track/audio/play/18567> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/76882> ?predicate <http://www.jamendo.com/get/track/id/track/audio/xspf/76882> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/39794> ?predicate <http://dbtune.org/jamendo/signal/39794> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/17468> ?predicate <http://dbtune.org/jamendo/lyrics/17468> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/8841> ?predicate "Hojas y goteos (parte II)"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/91821> ?predicate <http://www.jamendo.com/get/track/id/track/audio/play/91821> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/26507> ?predicate <http://www.jamendo.com/get/track/id/track/audio/play/26507> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/3428> ?predicate <http://dbtune.org/jamendo/track/24853> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/interval/40376> ?predicate <http://dbtune.org/jamendo/timeline/40376> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/32624> ?predicate <http://www.jamendo.com/get/track/id/track/audio/xspf/32624> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/4179> ?predicate <http://dbtune.org/jamendo/track/34032> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/1780> ?predicate <http://dbtune.org/jamendo/track/12080> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/29199> ?predicate <http://www.jamendo.com/get/track/id/track/audio/xspf/29199> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/6662> ?predicate <http://www.jamendo.com/get/album/id/album/p2p/redirect/6662/?p2pnet=bittorrent&are=ogg3> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/98056> ?predicate <http://www.jamendo.com/get/track/id/track/audio/xspf/98056> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/45183> ?predicate <http://dbtune.org/jamendo/interval/45183> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/37070> ?predicate "Ensemble"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/39873> ?predicate <http://www.jamendo.com/get/track/id/track/audio/play/39873> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/102766> ?predicate <http://www.jamendo.com/get/track/id/track/audio/play/102766> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/6786> ?predicate <http://www.jamendo.com/get/album/id/album/p2p/redirect/6786/?p2pnet=bittorrent&are=ogg3> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/tag/uk> ?predicate "uk"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/82288> ?predicate <http://www.jamendo.com/get/track/id/track/audio/xspf/82288> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/55734> ?predicate "summer"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/2122> ?predicate "Gravez et faites touner"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/artist/7708> ?predicate <http://dbtune.org/jamendo/record/10907> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/interval/15855> ?predicate <http://dbtune.org/jamendo/timeline/15855> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/artist/589> ?predicate <http://gpnouest.supersite.fr> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/61909> ?predicate <http://dbtune.org/jamendo/signal/61909> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/4705> ?predicate <http://www.jamendo.com/get/track/id/album/audio/play/4705/?item_o=track_no_asc&aue=ogg2&n=all> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/8120> ?predicate <http://dbtune.org/jamendo/lyrics/8120> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/interval/77062> ?predicate <http://dbtune.org/jamendo/timeline/77062> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/21666> ?predicate <http://dbtune.org/jamendo/interval/21666> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/interval/19654> ?predicate <http://dbtune.org/jamendo/timeline/19654> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/2357> ?predicate <http://dbtune.org/jamendo/artist/1399> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/87001> ?predicate <http://dbtune.org/jamendo/interval/87001> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/2980> ?predicate <http://dbtune.org/jamendo/track/21326> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/interval/99115> ?predicate <http://dbtune.org/jamendo/timeline/99115> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/81920> ?predicate <http://dbtune.org/jamendo/lyrics/81920> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/6194> ?predicate <http://www.jamendo.com/get/track/id/track/audio/xspf/6194> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/35515> ?predicate <http://www.jamendo.com/get/track/id/track/audio/play/35515> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/12647> ?predicate <http://www.jamendo.com/get/track/id/track/audio/play/12647> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/46770> ?predicate <http://dbtune.org/jamendo/signal/46770> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/3997> ?predicate <http://dbtune.org/jamendo/track/32040> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/8896> ?predicate <http://www.jamendo.com/get/track/id/album/audio/play/8896/?item_o=track_no_asc&aue=ogg2&n=all> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/91864> ?predicate <http://dbtune.org/jamendo/track/91864> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/46048> ?predicate <http://dbtune.org/jamendo/track/46048> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/1879> ?predicate <http://www.jamendo.com/get/track/id/track/audio/play/1879> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/38371> ?predicate "Alors, inn\u00E9 ou acquis au final?"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/1341> ?predicate <http://www.jamendo.com/get/track/id/album/audio/xspf/1341/?item_o=track_no_asc&aue=ogg2&n=all> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/3272> ?predicate "Habanera"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/47695> ?predicate <http://www.jamendo.com/get/track/id/track/audio/xspf/47695> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/7423> ?predicate <http://dbtune.org/jamendo/track/81032> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/24024> ?predicate <http://dbtune.org/jamendo/track/24024> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/31366> ?predicate "Dorian"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/65961> ?predicate <http://dbtune.org/jamendo/interval/65961> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/79882> ?predicate <http://dbtune.org/jamendo/interval/79882> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/97986> ?predicate <http://dbtune.org/jamendo/signal/97986> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/interval/99169> ?predicate <http://dbtune.org/jamendo/timeline/99169> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/5580> ?predicate "Improvisaci\u00F3n para trio, N\u00BA 2 (\u00ABM\u00FAsica por el fin de los tiempos\u00BB)"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/3923> ?predicate <http://www.jamendo.com/get/track/id/album/audio/play/3923/?item_o=track_no_asc&aue=ogg2&n=all> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/73143> ?predicate <http://www.jamendo.com/get/track/id/track/audio/play/73143> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/80337> ?predicate <http://www.jamendo.com/get/track/id/track/audio/play/80337> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/26702> ?predicate <http://www.jamendo.com/get/track/id/track/audio/xspf/26702> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/lyrics/48501> ?predicate "Unrequited Love\n\nI really do love you,\nI really want you now,\n\nPlease, please don't make me see that,\nYou cannot love me,\n\nI have to think of my\nPain that is killing me,\n\nYou cannot do a thing,\nTo help me out of this,"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/89363> ?predicate "OnSlow - Hit"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/26543> ?predicate "Halloween 2"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/35981> ?predicate "Tous des pions"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/32652> ?predicate <http://dbtune.org/jamendo/track/32652> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/interval/18928> ?predicate <http://dbtune.org/jamendo/timeline/18928> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/9412> ?predicate <http://dbtune.org/jamendo/interval/9412> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/2410> ?predicate <http://img.jamendo.com/albums/2410/covers/1.300.jpg> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/lyrics/47106> ?predicate "feel allright..\nlet enjoy now"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/103592> ?predicate <http://www.jamendo.com/get/track/id/track/audio/xspf/103592> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/90880> ?predicate <http://dbtune.org/jamendo/interval/90880> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/79750> ?predicate "Erable invit\u00E9"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/1498> ?predicate <http://dbtune.org/jamendo/tag/sologuitare> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/artist/2326> ?predicate "Whiskey Therapy"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/18977> ?predicate "Brass Fantazy"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/47302> ?predicate "Les musardises de la muse"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/9085> ?predicate <http://www.jamendo.com/get/track/id/track/audio/xspf/9085> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/tag/tight> ?predicate "tight"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/39042> ?predicate "Paulo"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/6570> ?predicate <http://dbtune.org/jamendo/tag/bitpop> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/2169> ?predicate <http://dbtune.org/jamendo/track/15217> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/2288> ?predicate <http://www.jamendo.com/get/album/id/album/p2p/redirect/2288/?p2pnet=ed2k&are=mp32> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/6525> ?predicate <http://dbtune.org/jamendo/track/73632> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/96259> ?predicate <http://dbtune.org/jamendo/track/96259> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/49232> ?predicate <http://www.jamendo.com/get/track/id/track/audio/xspf/49232> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/101763> ?predicate <http://www.jamendo.com/get/track/id/track/audio/play/101763> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/89186> ?predicate <http://dbtune.org/jamendo/signal/89186> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/interval/25877> ?predicate <http://dbtune.org/jamendo/timeline/25877> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/interval/71032> ?predicate <http://dbtune.org/jamendo/timeline/71032> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/73230> ?predicate <http://dbtune.org/jamendo/track/73230> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/9043> ?predicate <http://www.jamendo.com/get/album/id/album/p2p/redirect/9043/?p2pnet=ed2k&are=ogg3> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/81719> ?predicate <http://www.jamendo.com/get/track/id/track/audio/xspf/81719> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/2807> ?predicate "Plug And Play (Loud)"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/10210> ?predicate "Cruel Universe"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/interval/87973> ?predicate <http://dbtune.org/jamendo/timeline/87973> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/2671> ?predicate <http://www.jamendo.com/get/track/id/album/audio/play/2671/?item_o=track_no_asc&aue=ogg2&n=all> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/10146> ?predicate <http://dbtune.org/jamendo/interval/10146> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/81146> ?predicate <http://dbtune.org/jamendo/interval/81146> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/interval/30781> ?predicate <http://dbtune.org/jamendo/timeline/30781> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/12998> ?predicate <http://dbtune.org/jamendo/track/107912> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/96000> ?predicate <http://www.jamendo.com/get/track/id/track/audio/play/96000> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/1958> ?predicate <http://dbtune.org/jamendo/signal/1958> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/78375> ?predicate <http://dbtune.org/jamendo/interval/78375> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/31168> ?predicate <http://www.jamendo.com/get/track/id/track/audio/play/31168> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/17923> ?predicate <http://dbtune.org/jamendo/track/17923> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/89924> ?predicate "Sp\u00F3\u017Aniony"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/2085> ?predicate <http://zitgist.com/music/track/daee0149-7135-4896-9fe9-42d620ec370a> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/96055> ?predicate <http://www.jamendo.com/get/track/id/track/audio/play/96055> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/6619> ?predicate <http://dbtune.org/jamendo/track/74469> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/101126> ?predicate <http://dbtune.org/jamendo/interval/101126> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/31466> ?predicate "Toi tu quittes les gens..."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/4034> ?predicate <http://www.jamendo.com/get/track/id/track/audio/xspf/4034> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/5308> ?predicate <http://www.jamendo.com/get/album/id/album/p2p/redirect/5308/?p2pnet=ed2k&are=ogg3> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/80341> ?predicate "Good Shepard"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/interval/74478> ?predicate <http://dbtune.org/jamendo/timeline/74478> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/12071> ?predicate "Post Crucifixi\u00F3n"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/1703> ?predicate <http://www.jamendo.com/get/album/id/album/p2p/redirect/1703/?p2pnet=bittorrent&are=mp32> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/artist/357> ?predicate <http://foxapet.fr> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/72790> ?predicate <http://dbtune.org/jamendo/signal/72790> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/41744> ?predicate "Down the frozen River"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/interval/98968> ?predicate <http://dbtune.org/jamendo/timeline/98968> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/36354> ?predicate <http://www.jamendo.com/get/track/id/track/audio/play/36354> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/10638> ?predicate <http://img.jamendo.com/albums/10638/covers/1.300.jpg> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/23555> ?predicate "Tranquilizer Jam"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/3916> ?predicate <http://dbtune.org/jamendo/track/31262> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/4955> ?predicate "Slow"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/5224> ?predicate <http://img.jamendo.com/albums/5224/covers/1.500.jpg> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/5997> ?predicate <http://img.jamendo.com/albums/5997/covers/1.0.jpg> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/6903> ?predicate <http://dbtune.org/jamendo/signal/6903> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/97362> ?predicate <http://dbtune.org/jamendo/track/97362> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/1749> ?predicate <http://img.jamendo.com/albums/1749/covers/1.100.jpg> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/73487> ?predicate <http://www.jamendo.com/get/track/id/track/audio/play/73487> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/interval/96462> ?predicate <http://dbtune.org/jamendo/timeline/96462> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/1946> ?predicate <http://dbtune.org/jamendo/tag/rockmestizo> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/1121> ?predicate <http://dbtune.org/jamendo/track/7426> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/78316> ?predicate <http://www.jamendo.com/get/track/id/track/audio/xspf/78316> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/interval/90433> ?predicate <http://dbtune.org/jamendo/timeline/90433> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/19548> ?predicate <http://dbtune.org/jamendo/signal/19548> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/104367> ?predicate <http://www.jamendo.com/get/track/id/track/audio/play/104367> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/48840> ?predicate <http://dbtune.org/jamendo/lyrics/48840> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/9941> ?predicate <http://dbtune.org/jamendo/signal/9941> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/12079> ?predicate <http://dbtune.org/jamendo/interval/12079> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/15648> ?predicate "Fin Avril"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/46557> ?predicate <http://www.jamendo.com/get/track/id/track/audio/xspf/46557> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/48538> ?predicate <http://www.jamendo.com/get/track/id/track/audio/play/48538> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/79595> ?predicate <http://www.jamendo.com/get/track/id/track/audio/play/79595> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/97884> ?predicate <http://dbtune.org/jamendo/interval/97884> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/artist/3017> ?predicate <http://dbtune.org/jamendo/record/2881> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/4714> ?predicate <http://dbtune.org/jamendo/artist/5096> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/40274> ?predicate "Wibra"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/15144> ?predicate "Mind Sick"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/39210> ?predicate <http://dbtune.org/jamendo/interval/39210> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/13474> ?predicate <http://www.jamendo.com/get/album/id/album/p2p/redirect/13474/?p2pnet=bittorrent&are=ogg3> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/49502> ?predicate <http://www.jamendo.com/get/track/id/track/audio/play/49502> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/tag/fever> ?predicate "fever"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/79305> ?predicate <http://www.jamendo.com/get/track/id/track/audio/xspf/79305> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/3851> ?predicate <http://www.jamendo.com/get/album/id/album/p2p/redirect/3851/?p2pnet=ed2k&are=mp32> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/106652> ?predicate "HeLLO"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/lyrics/48128> ?predicate "strumentale."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/7273> ?predicate <http://www.jamendo.com/get/album/id/album/p2p/redirect/7273/?p2pnet=ed2k&are=mp32> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/13146> ?predicate <http://dbtune.org/jamendo/interval/13146> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/interval/34266> ?predicate <http://dbtune.org/jamendo/timeline/34266> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/7155> ?predicate <http://img.jamendo.com/albums/7155/covers/1.100.jpg> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/94576> ?predicate <http://www.jamendo.com/get/track/id/track/audio/play/94576> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/tag/water> ?predicate "water"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/3938> ?predicate <http://img.jamendo.com/albums/3938/covers/1.0.jpg> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/4688> ?predicate <http://img.jamendo.com/albums/4688/covers/1.300.jpg> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/8585> ?predicate <http://dbtune.org/jamendo/interval/8585> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/92024> ?predicate "FAHORO MEI - CHAUDE JOURNEE"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/interval/6472> ?predicate <http://dbtune.org/jamendo/timeline/6472> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/interval/16628> ?predicate <http://dbtune.org/jamendo/timeline/16628> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/75062> ?predicate <http://dbtune.org/jamendo/lyrics/75062> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/62641> ?predicate "Watch out"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/5830> ?predicate "Saving force"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/35416> ?predicate "paren 4uk"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/59367> ?predicate <http://www.jamendo.com/get/track/id/track/audio/xspf/59367> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/4676> ?predicate <http://img.jamendo.com/albums/4676/covers/1.500.jpg> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/5054> ?predicate <http://img.jamendo.com/albums/5054/covers/1.300.jpg> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/19819> ?predicate "Extrem"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/7019> ?predicate <http://zitgist.com/music/track/a80927a1-c3bf-4fa9-8c40-0d753854cbba> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/24101> ?predicate <http://www.jamendo.com/get/track/id/track/audio/xspf/24101> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/6983> ?predicate <http://img.jamendo.com/albums/6983/covers/1.300.jpg> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/39124> ?predicate <http://dbtune.org/jamendo/interval/39124> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/98215> ?predicate <http://dbtune.org/jamendo/lyrics/98215> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/lyrics/35548> ?predicate "\u03A3\u0391\u039B\u03A9\u039C\u0397\n\n\u039C\u03AC\u03C4\u03B9\u03B1 \u03C4\u03B1\u03BE\u03B9\u03B4\u03B5\u03BC\u03AD\u03BD\u03C9\u03BD \u03B5\u03C1\u03B1\u03C3\u03C4\u03CE\u03BD\n\u03C3\u03BF\u03C5 \u03BC\u03AC\u03C4\u03C9\u03C3\u03B1\u03BD \u03C4\u03BF \u03C0\u03AD\u03BB\u03B1\u03B3\u03BF \u03C4\u03B7\u03C2 \u03C3\u03BA\u03AD\u03C8\u03B7\u03C2\n\u03BA\u03B9 \u03AE\u03C1\u03B8\u03B5\u03C2 \u03BC\u03B5 \u03C4\u03B1 \u03B5\u03C6\u03C4\u03AC \u03C0\u03AD\u03C0\u03BB\u03B1 \u03BD\u03B1 \u03C7\u03BF\u03C1\u03AD\u03C8\u03B5\u03B9\u03C2\n\u03C4\u03BF \u03C6\u03BF\u03BD\u03B9\u03BA\u03CC \u03C6\u03BF\u03BE \u03C4\u03C1\u03BF\u03C4 \u03C4\u03C9\u03BD \u03B9\u03C0\u03C0\u03BF\u03C4\u03CE\u03BD.\n\n\u03A3\u03C6\u03B1\u03B3\u03BC\u03AD\u03BD\u03B7 \u03BC\u03B5\u03C2 \u03C3\u03C4\u03BF \u03B3\u03C5\u03AC\u03BB\u03B9\u03BD\u03BF \u03BA\u03B5\u03BB\u03AF \u03C3\u03BF\u03C5,\n\u03BC\u03B5\u03C4\u03C1\u03CE\u03BD\u03C4\u03B1\u03C2 \u03C4' \u03AC\u03B4\u03B5\u03B9\u03B1 \u03B5\u03C1\u03B5\u03AF\u03C0\u03B9\u03B1 \u03BE\u03B1\u03B3\u03C1\u03C5\u03C0\u03BD\u03AC\u03C2\n\u03BA\u03B1\u03B9 \u03C3\u03C4\u03B1 \u03C3\u03B7\u03BC\u03AC\u03B4\u03B9\u03B1 \u03C4\u03B7\u03C2 \u03B2\u03C1\u03BF\u03C7\u03AE\u03C2 \u03B3\u03C5\u03C1\u03BD\u03AC\u03C2\n\u03BD\u03B1 \u03B3\u03B5\u03AF\u03C1\u03B5\u03B9\u03C2 \u03C0\u03B9\u03B1 \u03C4\u03BF \u03B1\u03BD\u03AE\u03C3\u03C5\u03C7\u03BF \u03BA\u03BF\u03C1\u03BC\u03AF \u03C3\u03BF\u03C5.\n\n\u03A3\u03BA\u03CC\u03C1\u03C0\u03B9\u03C3\u03B5 \u03B7 \u03BD\u03CD\u03C7\u03C4\u03B1 \u03C4\u03B1 \u03C4\u03C1\u03B9\u03B1\u03BD\u03C4\u03AC\u03C6\u03C5\u03BB\u03BB\u03AC \u03C4\u03B7\u03C2\n\u03BA\u03B9 \u03B5\u03C3\u03CD, \u03C0\u03AD\u03BD\u03B8\u03B9\u03BC\u03BF \u03C0\u03C1\u03CC\u03C3\u03C9\u03C0\u03BF \u03B8\u03B1\u03C1\u03C1\u03B5\u03AF\u03C2,\n\u03C7\u03AC\u03BD\u03B5\u03C3\u03B1\u03B9, \u03C4' \u03AC\u03C3\u03C4\u03C1\u03B1 \u03B1\u03B3\u03B3\u03AF\u03B6\u03B5\u03B9\u03C2 \u03BA\u03B9 \u03B1\u03C0\u03BF\u03C1\u03B5\u03AF\u03C2\n\u03C3\u03C4\u03B7 \u03C1\u03AF\u03B6\u03B1 \u03C4\u03B7\u03C2 \u03B4\u03B9\u03BA\u03AE\u03C2 \u03C3\u03BF\u03C5 \u03BF\u03C6\u03B8\u03B1\u03BB\u03BC\u03B1\u03C0\u03AC\u03C4\u03B7\u03C2.\n\n\u03A7\u03AC\u03B4\u03B9\u03B1 \u03B1\u03C1\u03B3\u03BF\u03C0\u03BF\u03C1\u03B7\u03BC\u03AD\u03BD\u03C9\u03BD \u03B5\u03C1\u03B1\u03C3\u03C4\u03CE\u03BD\n\u03C3\u03BF\u03C5 \u03C0\u03AE\u03C1\u03B1\u03BD \u03C4\u03BF\u03BD \u03BF\u03C1\u03AF\u03B6\u03BF\u03BD\u03C4\u03B1 \u03BA\u03B1\u03B9 \u03BC\u03CC\u03BD\u03B7\n\u03BC\u03B5\u03C2 \u03C3\u03C4\u03BF \u03C3\u03BA\u03BF\u03C4\u03AC\u03B4\u03B9 \u03C0\u03BF\u03C5 \u03C3\u03B5 \u03C3\u03C4\u03B5\u03C6\u03B1\u03BD\u03CE\u03BD\u03B5\u03B9,\n\u03C3\u03AD\u03C1\u03BD\u03B5\u03B9\u03C2 \u03C3\u03B1\u03C1\u03B4\u03C9\u03BD\u03B9\u03BA\u03AC \u03C4\u03BF \u03C3\u03B7\u03BC\u03B5\u03B9\u03C9\u03C4\u03CC\u03BD."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/82852> ?predicate <http://dbtune.org/jamendo/interval/82852> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/37540> ?predicate <http://dbtune.org/jamendo/interval/37540> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/4567> ?predicate <http://www.jamendo.com/get/album/id/album/p2p/redirect/4567/?p2pnet=ed2k&are=ogg3> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/31495> ?predicate "Perdre tout le temps"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/72763> ?predicate <http://www.jamendo.com/get/track/id/track/audio/xspf/72763> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/44385> ?predicate "LITE ROCK"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/45040> ?predicate <http://dbtune.org/jamendo/signal/45040> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/32976> ?predicate <http://dbtune.org/jamendo/interval/32976> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/12747> ?predicate <http://www.jamendo.com/get/track/id/album/audio/play/12747/?item_o=track_no_asc&aue=ogg2&n=all> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/93881> ?predicate <http://www.jamendo.com/get/track/id/track/audio/play/93881> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/15070> ?predicate <http://www.jamendo.com/get/track/id/track/audio/xspf/15070> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/3511> ?predicate <http://www.jamendo.com/get/track/id/album/audio/xspf/3511/?item_o=track_no_asc&aue=ogg2&n=all> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/9234> ?predicate <http://www.jamendo.com/get/track/id/track/audio/xspf/9234> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/9368> ?predicate <http://img.jamendo.com/albums/9368/covers/1.300.jpg> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/lyrics/56363> ?predicate "E' il pi\u00F9 imponente per complessit\u00E0 e durata. Dal punto di vista melodico si compone di frasi musicali reiterate che accompagnano \"frammenti emotivi\" diversi, ma concatenati. Per \"frammenti emotivi\" intendo porzioni musicali che dal punto di vista melodico e armonico inducono in stati umorali ora \"allegri\" ora \"tristi\"."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/57845> ?predicate <http://dbtune.org/jamendo/signal/57845> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/73131> ?predicate <http://dbtune.org/jamendo/interval/73131> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/tag/speech> ?predicate "speech"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/99184> ?predicate <http://dbtune.org/jamendo/interval/99184> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/91104> ?predicate <http://dbtune.org/jamendo/track/91104> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/lyrics/78047> ?predicate "Uno\nDos\nTres\nQuatro\n..."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/22547> ?predicate "Tema de Daniela (Cari\u00F1o Prestado)"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/9976> ?predicate <http://dbtune.org/jamendo/interval/9976> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/5439> ?predicate <http://dbtune.org/jamendo/track/45392> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/78199> ?predicate <http://dbtune.org/jamendo/signal/78199> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/11916> ?predicate <http://dbtune.org/jamendo/signal/11916> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/interval/39141> ?predicate <http://dbtune.org/jamendo/timeline/39141> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/76817> ?predicate <http://www.jamendo.com/get/track/id/track/audio/play/76817> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/artist/336816> ?predicate "S\u00EDndrome Rock"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/artist/7270> ?predicate <http://dbtune.org/jamendo/record/6370> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/10318> ?predicate <http://dbtune.org/jamendo/track/98511> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/186> ?predicate <http://dbtune.org/jamendo/interval/186> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/32625> ?predicate "Palmier"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/48578> ?predicate "\u00BFPor qu\u00E9 vivir?"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/80813> ?predicate <http://www.jamendo.com/get/track/id/track/audio/play/80813> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/61541> ?predicate <http://www.jamendo.com/get/track/id/track/audio/play/61541> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/7513> ?predicate <http://dbtune.org/jamendo/tag/creativite> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/34903> ?predicate <http://www.jamendo.com/get/track/id/track/audio/play/34903> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/6384> ?predicate <http://dbtune.org/jamendo/track/71201> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/artist/336619> ?predicate <http://dbtune.org/jamendo/record/8924> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/tag/enjoue> ?predicate "enjoue"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/93735> ?predicate <http://dbtune.org/jamendo/interval/93735> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/48474> ?predicate <http://dbtune.org/jamendo/interval/48474> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/83633> ?predicate <http://dbtune.org/jamendo/signal/83633> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/interval/74824> ?predicate <http://dbtune.org/jamendo/timeline/74824> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/lyrics/9606> ?predicate "Un po\u00E8me de Friedrich Nietzsche :\n\nDie Kr\u00E4hen schrein\nUnd ziehen schwirren Flugs zur Stadt:\nBald wird es schnein, -\nWohl dem, der jetzt noch - Heimat hat!\n\nNun stehst du starr,\nSchaust r\u00FCckw\u00E4rts, ach! wie lange schon!\nWas bist du Narr\nVor Winters in die Welt entflohn?\n\nDie Welt - ein Tor\nZu tausend W\u00FCsten stumm und kalt!\nWer das verlor,\nWas du verlorst, macht nirgends Halt.\n\nNun stehst du bleich,\nZur Winter-Wanderschaft verflucht,\nDem Rauche gleich,\nDer stets nach k\u00E4ltern Himmeln sucht.\n\nFlieg, Vogel, schnarr\nDein Lied im W\u00FCstenvogel-Ton! -\nVersteck, du Narr,\nDein blutend Herz in Eis und Hohn!\n\nDie Kr\u00E4hen schrein\nUnd ziehen schwirren Flugs zur Stadt:\nBald wird es schnein, -\nWeh dem, der keine Heimat hat!"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/interval/32366> ?predicate <http://dbtune.org/jamendo/timeline/32366> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/10156> ?predicate <http://www.jamendo.com/get/album/id/album/p2p/redirect/10156/?p2pnet=bittorrent&are=mp32> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/109505> ?predicate <http://dbtune.org/jamendo/interval/109505> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/89077> ?predicate <http://www.jamendo.com/get/track/id/track/audio/xspf/89077> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/397> ?predicate <http://www.jamendo.com/get/album/id/album/p2p/redirect/397/?p2pnet=ed2k&are=mp32> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/78226> ?predicate <http://dbtune.org/jamendo/signal/78226> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/artist/7907> ?predicate <http://dbtune.org/jamendo/record/7049> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/4399> ?predicate "2007-02-20 15:14:01" .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/interval/47287> ?predicate <http://dbtune.org/jamendo/timeline/47287> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/1233> ?predicate <http://dbtune.org/jamendo/signal/1233> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/2927> ?predicate <http://dbtune.org/jamendo/interval/2927> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/80574> ?predicate <http://dbtune.org/jamendo/interval/80574> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/artist/336654> ?predicate <http://dbtune.org/jamendo/record/9189> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/track/8339> ?predicate <http://www.jamendo.com/get/track/id/track/audio/xspf/8339> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/86270> ?predicate <http://dbtune.org/jamendo/signal/86270> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/2902> ?predicate <http://dbtune.org/jamendo/tag/comercial> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/interval/15099> ?predicate <http://dbtune.org/jamendo/timeline/15099> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/38293> ?predicate <http://dbtune.org/jamendo/interval/38293> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/1703> ?predicate <http://img.jamendo.com/albums/1703/covers/1.0.jpg> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/5417> ?predicate <http://img.jamendo.com/albums/5417/covers/1.500.jpg> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/lyrics/1734> ?predicate "No old age, and death\nno end to old age, and death\nNo suffering, No cause\nno end to suffering.\nNo Path,\nNo wisdom\nand no gain.\nno gain.\n\n(Little Buddah)"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/signal/97182> ?predicate <http://dbtune.org/jamendo/interval/97182> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/tag/elctro> ?predicate "elctro"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/4210> ?predicate <http://img.jamendo.com/albums/4210/covers/1.500.jpg> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/performance/44892> ?predicate <http://dbtune.org/jamendo/signal/44892> .}
+SELECT ?predicate WHERE {<http://dbtune.org/jamendo/record/6239> ?predicate "<p>Enregistr&eacute .}

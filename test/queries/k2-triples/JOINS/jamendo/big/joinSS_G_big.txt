@@ -1,0 +1,25 @@
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://www.jamendo.com/get/track/id/track/audio/play/14989> . ?subject ?predicate2 <http://purl.org/ontology/mo/Track> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://dbtune.org/jamendo/timeline/40069> . ?subject ?predicate2 <http://www.w3.org/2006/time#Interval> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://dbtune.org/jamendo/interval/73720> . ?subject ?predicate2 <http://purl.org/ontology/mo/Signal> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://www.jamendo.com/get/track/id/track/audio/play/35977> . ?subject ?predicate2 <http://purl.org/ontology/mo/Track> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://dbtune.org/jamendo/interval/47270> . ?subject ?predicate2 <http://purl.org/ontology/mo/Signal> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 "Waiting For The Night"^^<http://www.w3.org/2001/XMLSchema#string> . ?subject ?predicate2 <http://purl.org/ontology/mo/Track> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://dbtune.org/jamendo/timeline/109497> . ?subject ?predicate2 <http://www.w3.org/2006/time#Interval> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://dbtune.org/jamendo/interval/92746> . ?subject ?predicate2 <http://purl.org/ontology/mo/Signal> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 "Cars and girls"^^<http://www.w3.org/2001/XMLSchema#string> . ?subject ?predicate2 <http://purl.org/ontology/mo/Track> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://www.jamendo.com/get/track/id/track/audio/xspf/76682> . ?subject ?predicate2 <http://purl.org/ontology/mo/Track> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://dbtune.org/jamendo/timeline/870> . ?subject ?predicate2 <http://www.w3.org/2006/time#Interval> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://dbtune.org/jamendo/timeline/36386> . ?subject ?predicate2 <http://www.w3.org/2006/time#Interval> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://www.jamendo.com/get/track/id/track/audio/xspf/75367> . ?subject ?predicate2 <http://purl.org/ontology/mo/Track> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://dbtune.org/jamendo/interval/19896> . ?subject ?predicate2 <http://purl.org/ontology/mo/Signal> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://www.jamendo.com/get/track/id/track/audio/play/35867> . ?subject ?predicate2 <http://purl.org/ontology/mo/Track> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://dbtune.org/jamendo/timeline/89601> . ?subject ?predicate2 <http://www.w3.org/2006/time#Interval> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://dbtune.org/jamendo/timeline/53854> . ?subject ?predicate2 <http://www.w3.org/2006/time#Interval> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://www.jamendo.com/get/track/id/track/audio/xspf/35326> . ?subject ?predicate2 <http://purl.org/ontology/mo/Track> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 "05-DavidBowman _ Liga der Traenen"^^<http://www.w3.org/2001/XMLSchema#string> . ?subject ?predicate2 <http://purl.org/ontology/mo/Track> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://dbtune.org/jamendo/timeline/46309> . ?subject ?predicate2 <http://www.w3.org/2006/time#Interval> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://www.jamendo.com/get/track/id/track/audio/play/25794> . ?subject ?predicate2 <http://purl.org/ontology/mo/Track> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://dbtune.org/jamendo/timeline/74180> . ?subject ?predicate2 <http://www.w3.org/2006/time#Interval> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://www.jamendo.com/get/track/id/track/audio/play/97753> . ?subject ?predicate2 <http://purl.org/ontology/mo/Track> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://www.jamendo.com/get/track/id/track/audio/xspf/31207> . ?subject ?predicate2 <http://purl.org/ontology/mo/Track> .}
+SELECT ?subject ?predicate1 ?predicate2 WHERE {?subject ?predicate1 <http://dbtune.org/jamendo/timeline/25997> . ?subject ?predicate2 <http://www.w3.org/2006/time#Interval> .}

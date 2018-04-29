@@ -1,0 +1,5 @@
+SELECT ?subject WHERE {?subject <http://purl.org/dc/terms/issued> "1992"^^<http://www.w3.org/2001/XMLSchema#gYear> . ?subject <http://purl.org/dc/elements/1.1/type> <http://purl.org/dc/dcmitype/Text> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/type> <http://purl.org/dc/dcmitype/Text> . ?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/type> <http://purl.org/dc/dcmitype/Collection> . ?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/type> <http://purl.org/dc/dcmitype/Text> . ?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#Book> .}
+SELECT ?subject WHERE {?subject <http://swrc.ontoware.org/ontology#number> "11"^^<http://www.w3.org/2001/XMLSchema#string> . ?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#Article> .}

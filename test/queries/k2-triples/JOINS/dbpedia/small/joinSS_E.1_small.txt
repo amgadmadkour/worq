@@ -1,0 +1,25 @@
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://dbpedia.org/property/greatGreatNieces> ?object1 . ?subject ?predicate2 <http://dbpedia.org/resource/Ian_Beale> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://dbpedia.org/property/t3f> ?object1 . ?subject ?predicate2 "SVK"@en .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://dbpedia.org/property/removeDate> ?object1 . ?subject ?predicate2 <http://dbpedia.org/resource/Category:COINTELPRO_targets> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://dbpedia.org/property/assistantSuperintendent> ?object1 . ?subject ?predicate2 <http://dbpedia.org/resource/Category:School_districts_in_California> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://dbpedia.org/property/tempsort> ?object1 . ?subject ?predicate2 ". lc is the Internet country code top-level domain for Saint Lucia. Any entity may register domain names under . lc once guidelines are met."@en .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://dbpedia.org/property/religiousStance> ?object1 . ?subject ?predicate2 "Independent Democratic Party of Russia"@en .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://dbpedia.org/property/conferenceRegularSeasonChampions> ?object1 . ?subject ?predicate2 <http://dbpedia.org/resource/2009_NBA_Draft> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://dbpedia.org/property/contry> ?object1 . ?subject ?predicate2 <http://dbpedia.org/resource/Drazki_torpedo_boat> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://dbpedia.org/property/boxSets> ?object1 . ?subject ?predicate2 "Angus Young ' and Bon Scott ', performing at the Ulster Hall, August 1979"@en .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://dbpedia.org/property/demographic> ?object1 . ?subject ?predicate2 <http://dbpedia.org/resource/Hiroaki_Samura> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://dbpedia.org/property/periodActive> ?object1 . ?subject ?predicate2 <http://dbpedia.org/resource/Category:Pet_rabbits> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://dbpedia.org/property/originPlace> ?object1 . ?subject ?predicate2 <http://dbpedia.org/resource/Lesvos> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://dbpedia.org/property/maxThermalFlux> ?object1 . ?subject ?predicate2 <http://dbpedia.org/resource/2000> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://dbpedia.org/property/mouthElevationImperial> ?object1 . ?subject ?predicate2 <http://dbpedia.org/resource/Shit> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://dbpedia.org/property/bb> ?object1 . ?subject ?predicate2 <http://dbpedia.org/resource/Indianapolis_Indians_players> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://dbpedia.org/property/motogpManufacturers> ?object1 . ?subject ?predicate2 <http://dbpedia.org/resource/Casey_Stoner> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://dbpedia.org/property/voiceOver> ?object1 . ?subject ?predicate2 "Evgenia Obraztsova"@en .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://dbpedia.org/property/plat> ?object1 . ?subject ?predicate2 "1963"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://dbpedia.org/property/developedBy> ?object1 . ?subject ?predicate2 <http://dbpedia.org/resource/Paulo_Franco> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://dbpedia.org/property/pedigree> ?object1 . ?subject ?predicate2 <http://dbpedia.org/resource/Grape_varieties> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://dbpedia.org/property/narator> ?object1 . ?subject ?predicate2 <http://dbpedia.org/resource/Lord_Asriel> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://dbpedia.org/property/week107Color> ?object1 . ?subject ?predicate2 "u"@en .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://dbpedia.org/property/numberOfFastFoodRestaurants> ?object1 . ?subject ?predicate2 "Kuala Lumpur-Karak Expressway"@en .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://dbpedia.org/property/_12a> ?object1 . ?subject ?predicate2 <http://dbpedia.org/resource/James_Joyce> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://dbpedia.org/property/icApps> ?object1 . ?subject ?predicate2 <http://dbpedia.org/resource/Arrows_Ostrava> .}

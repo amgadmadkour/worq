@@ -1,0 +1,432 @@
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/made> <http://dbtune.org/jamendo/record/4098> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/image> <http://img.jamendo.com/albums/12866/covers/1.300.jpg> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/time> <http://dbtune.org/jamendo/interval/609> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/date> "2007-10-12 09:31:46" .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/title> "Creoussa' s arrival"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/available_as> <http://www.jamendo.com/get/track/id/track/audio/xspf/46021> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/maker> <http://dbtune.org/jamendo/artist/5567> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/available_as> <http://www.jamendo.com/get/track/id/track/audio/play/47122> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/track_number> "13"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/recorded_as> <http://dbtune.org/jamendo/signal/9709> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/time#Interval> .}
+SELECT ?subject WHERE {?subject <http://purl.org/NET/c4dm/event.owl#factor> <http://dbtune.org/jamendo/lyrics/11343> .}
+SELECT ?subject WHERE {?subject <http://www.holygoat.co.uk/owl/redwood/0.1/tags/tagName> "thoughtful"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/made> <http://dbtune.org/jamendo/record/6703> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/image> <http://img.jamendo.com/albums/140/covers/1.500.jpg> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2002/07/owl#sameAs> <http://zitgist.com/music/track/a6d952b5-990b-455a-88e6-bf676c5485ea> .}
+SELECT ?subject WHERE {?subject <http://www.holygoat.co.uk/owl/redwood/0.1/tags/tagName> "eletrorock"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/text> "Can't open file\nsystem not ready...\n\ncomputers\ninvader..."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/name> "Mekah"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/license> <http://creativecommons.org/licenses/by-nc/2.0/> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/name> "Franck Mouzon"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/published_as> <http://dbtune.org/jamendo/track/34869> .}
+SELECT ?subject WHERE {?subject <http://www.holygoat.co.uk/owl/redwood/0.1/tags/tagName> "trancetechno"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/license> <http://creativecommons.org/licenses/by-sa/2.0/fr/> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/available_as> <http://www.jamendo.com/get/track/id/track/audio/play/21336> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/available_as> <http://www.jamendo.com/get/album/id/album/p2p/redirect/2447/?p2pnet=bittorrent&are=ogg3> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/maker> <http://dbtune.org/jamendo/artist/5160> .}
+SELECT ?subject WHERE {?subject <http://purl.org/NET/c4dm/timeline.owl#onTimeLine> <http://dbtune.org/jamendo/timeline/14561> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/format> "m3u" .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/homepage> <http://mirekkrawczyk-jrotten.blogspot.com/> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/description> "An experiment in Linux sound.&nbsp .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/published_as> <http://dbtune.org/jamendo/track/45712> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/name> "Mister M"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/name> "piach"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/img> <http://img.jamendo.com/artists/v/vertiges.jpg> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/maker> <http://dbtune.org/jamendo/artist/1389> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/maker> <http://dbtune.org/jamendo/artist/4576> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/date> "2007-10-03 10:40:07" .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/track_number> "25"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/description> "Early album #3.&nbsp .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/time> <http://dbtune.org/jamendo/interval/9924> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/description> "This collections of songs recorded between 1998 - 2002 represents the pure innocence of someone who's following only his instinct and not a trend. <br />\n<br />\nThe only instruments used were a classical (nylon) guitar, my &quot .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/published_as> <http://dbtune.org/jamendo/track/10321> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/track> <http://dbtune.org/jamendo/track/39787> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/license> <http://creativecommons.org/licenses/by-nd/3.0/> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/license> <http://creativecommons.org/licenses/by-nc-nd/2.5/ar/> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/name> "AWAKEN"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/description> "This album is the first album that I recorded, &amp .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/description> "Over two years in the making, Connor comes back with a smash in &quot .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/title> "My love"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/license> <http://creativecommons.org/licenses/by-nc-nd/2.5/ca/> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/image> <http://img.jamendo.com/albums/3070/covers/1.300.jpg> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/biography> "HOTEL 7 is a music collective founded by Mario Ermoli (musician and photographer) in Milan. Many othes musicians are involved in this project so we don't define ourselves as a band, we are a group of musicians, dj's, producers and our intent is to create an electro-acoustic jam."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/text> "BARCKLE Lyrics\n\nVerse 1\n\nCan you see\nThe sun's going to set\nOn the world...\n\nNo pollution,\nCivilisation has\nNo reason to be\n\nChorus\n\nCan you hear,\nNo scream, no fear,\nNo cry...\nHere comes a new world,\nEmpty of hate,\nEmpty of lies,\nI see the world without man...\n\nVerse 2\n\nCan you sleep\nWhen your spirit is far\nFar from this world...\n\nNo submission,\nTaking possession of\nall things who're virgin\n\nChorus\n\nCan you dream\nNo fear, no scream,\nNo light...\nHere comes a new world,\nEmpty of shame,\nEmpty of fight,\nI see the world without man...\n\nFinal chorus\n\nI dream of\nA new world,\nWhere foundations are more pure\nOur confort will drive us to the end"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2002/07/owl#sameAs> <http://zitgist.com/music/track/ca4bdb7b-93bf-4bb8-ab14-86d8a9fc96b7> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/name> "Chantonneur anonyme"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/image> <http://img.jamendo.com/albums/7104/covers/1.300.jpg> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/description> "This is The Disclaimers performing an hourish set at the All Asia Bar in Cambridge Massachusettes.&nbsp .}
+SELECT ?subject WHERE {?subject <http://www.holygoat.co.uk/owl/redwood/0.1/tags/taggedWithTag> <http://dbtune.org/jamendo/tag/reblochon> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/image> <http://img.jamendo.com/albums/564/covers/1.0.jpg> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/available_as> <http://www.jamendo.com/get/track/id/track/audio/play/44580> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/2738782/> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/format> "ogg3" .}
+SELECT ?subject WHERE {?subject <http://www.holygoat.co.uk/owl/redwood/0.1/tags/tagName> "raucous"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://www.holygoat.co.uk/owl/redwood/0.1/tags/taggedWithTag> <http://dbtune.org/jamendo/tag/scoremovie> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/track_number> "19"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://vocab.sindice.net/size> "1049644"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/made> <http://dbtune.org/jamendo/record/6645> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/track> <http://dbtune.org/jamendo/track/43892> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/title> "Luna Mare (intro)"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/2971090/> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/time> <http://dbtune.org/jamendo/interval/45659> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/made> <http://dbtune.org/jamendo/record/3062> .}
+SELECT ?subject WHERE {?subject <http://www.holygoat.co.uk/owl/redwood/0.1/tags/taggedWithTag> <http://dbtune.org/jamendo/tag/lirico> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/license> <http://creativecommons.org/licenses/by-nc-sa/2.0/at/> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/made> <http://dbtune.org/jamendo/record/408> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/track> <http://dbtune.org/jamendo/track/23055> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/biography> "ARTSomerville is not an artist, but an arts organization based in Somerville, Massachusetts, USA, that sponsors artists.&nbsp .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/track> <http://dbtune.org/jamendo/track/38602> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/title> "tout se sait"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/track> <http://dbtune.org/jamendo/track/49008> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/image> <http://img.jamendo.com/albums/4151/covers/1.0.jpg> .}
+SELECT ?subject WHERE {?subject <http://purl.org/NET/c4dm/event.owl#factor> <http://dbtune.org/jamendo/lyrics/20045> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/name> "scal.g"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/name> "carloscopia"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/made> <http://dbtune.org/jamendo/record/7594> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/img> <http://img.jamendo.com/artists/p/piso.jpg> .}
+SELECT ?subject WHERE {?subject <http://www.holygoat.co.uk/owl/redwood/0.1/tags/taggedWithTag> <http://dbtune.org/jamendo/tag/multiple> .}
+SELECT ?subject WHERE {?subject <http://purl.org/NET/c4dm/timeline.owl#onTimeLine> <http://dbtune.org/jamendo/timeline/80882> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/image> <http://img.jamendo.com/albums/9350/covers/1.0.jpg> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/available_as> <http://www.jamendo.com/get/track/id/track/audio/xspf/106075> .}
+SELECT ?subject WHERE {?subject <http://www.holygoat.co.uk/owl/redwood/0.1/tags/taggedWithTag> <http://dbtune.org/jamendo/tag/conviale> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/image> <http://img.jamendo.com/albums/1292/covers/1.100.jpg> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/text> "The words that I say don\u2019t mean nothin\u2019\nThe words that I say don\u2019t mean shit\nYou just keep on with your killin\u2019\nI\u2019ll just keep on biting my lip\n \nThere\u2019s always another election\nAlways a war we can fight\nIt\u2019s a virus, an infection\nStrike a match it will ignite\n\nYou can torture a muslim\nYou can make friends with the jews\nYou can hang yourself a \u2018nigger\u2019\nBut who\u2019ll be the judge of you\n\nFor this I pledge my allegiance\nTo this country and for which it stands\nFor honor, power and glory\nThe brotherhood of man\n\nI\u2019ve lost my faith in justice\nI\u2019ve forgot just what it means\nFrom the towers in New York City\nTo the levees down in New Orleans\n\nBomb the women and children\nThe sacrifice must be made\nThe politics of war and murder\nWe\u2019ve blown are cover, we\u2019ve been made\nDeep, deep within the battle\nA sacrifice is made\nA man give his life for another\nThis is the part he\u2019s played"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/published_as> <http://dbtune.org/jamendo/track/24736> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/recorded_as> <http://dbtune.org/jamendo/signal/30651> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/license> <http://creativecommons.org/licenses/sampling%2B/1.0/> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/3166546/> .}
+SELECT ?subject WHERE {?subject <http://www.holygoat.co.uk/owl/redwood/0.1/tags/tagName> "increased"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/title> "To be forgotten"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Signal> .}
+SELECT ?subject WHERE {?subject <http://www.holygoat.co.uk/owl/redwood/0.1/tags/taggedWithTag> <http://dbtune.org/jamendo/tag/spiritofacoldwave> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/biography> "<p style=\"text-align: justify .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/published_as> <http://dbtune.org/jamendo/track/78837> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/img> <http://img.jamendo.com/artists/s/smoo.jpg> .}
+SELECT ?subject WHERE {?subject <http://www.holygoat.co.uk/owl/redwood/0.1/tags/taggedWithTag> <http://dbtune.org/jamendo/tag/ok> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/image> <http://img.jamendo.com/albums/13726/covers/1.300.jpg> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/maker> <http://dbtune.org/jamendo/artist/337067> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/license> <http://creativecommons.org/licenses/by-nd-nc/1.0/il/> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/3035691/> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/img> <http://img.jamendo.com/artists/z/zagan.jpg> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/recorded_as> <http://dbtune.org/jamendo/signal/47880> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/name> "Double|)"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/available_as> <http://www.jamendo.com/get/track/id/track/audio/play/37105> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/name> "Brigitte Bop"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/name> "Max Heros"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/license> <http://creativecommons.org/licenses/by-nc-sa/2.5/es/> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/track_number> "23"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/time> <http://dbtune.org/jamendo/interval/40472> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/made> <http://dbtune.org/jamendo/record/4514> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/img> <http://img.jamendo.com/artists/m/moonshiners.gif> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/homepage> <http://antoniogervasoni.tripod.com> .}
+SELECT ?subject WHERE {?subject <http://purl.org/NET/c4dm/event.owl#factor> <http://dbtune.org/jamendo/lyrics/47736> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2002/07/owl#sameAs> <http://zitgist.com/music/track/eefac258-3f86-4d3c-a3b4-99d2ee2d4d73> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/maker> <http://dbtune.org/jamendo/artist/2235> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/available_as> <http://www.jamendo.com/get/album/id/album/p2p/redirect/4027/?p2pnet=bittorrent&are=mp32> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/img> <http://img.jamendo.com/artists/l/laura.liis.jpg> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/made> <http://dbtune.org/jamendo/record/5618> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/title> "Fantastic Symphony"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/maker> <http://dbtune.org/jamendo/artist/87> .}
+SELECT ?subject WHERE {?subject <http://www.holygoat.co.uk/owl/redwood/0.1/tags/taggedWithTag> <http://dbtune.org/jamendo/tag/composer> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/146411/> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/published_as> <http://dbtune.org/jamendo/track/25020> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/format> "xspf" .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/recorded_as> <http://dbtune.org/jamendo/signal/6381> .}
+SELECT ?subject WHERE {?subject <http://www.holygoat.co.uk/owl/redwood/0.1/tags/tagName> "meme"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2002/07/owl#sameAs> <http://zitgist.com/music/track/512d73dc-3d4a-4df2-b18e-649c704c31da> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/made> <http://dbtune.org/jamendo/record/5593> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/published_as> <http://dbtune.org/jamendo/track/107865> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/homepage> <http://labetemalade.com> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/made> <http://dbtune.org/jamendo/record/13053> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/title> "Mesh m18 - Il Est Temps"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/available_as> <http://www.jamendo.com/get/track/id/track/audio/play/98794> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/time> <http://dbtune.org/jamendo/interval/8702> .}
+SELECT ?subject WHERE {?subject <http://www.holygoat.co.uk/owl/redwood/0.1/tags/taggedWithTag> <http://dbtune.org/jamendo/tag/blowup> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/title> "Freaky Dreams"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/track_number> "91"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/title> "05 Electric Zoom - Big Boy"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/2994932/> .}
+SELECT ?subject WHERE {?subject <http://www.holygoat.co.uk/owl/redwood/0.1/tags/taggedWithTag> <http://dbtune.org/jamendo/tag/aristotle> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/title> "Parade"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/NET/c4dm/timeline.owl#onTimeLine> <http://dbtune.org/jamendo/timeline/4678> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/track> <http://dbtune.org/jamendo/track/101318> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/available_as> <http://www.jamendo.com/get/album/id/album/p2p/redirect/6547/?p2pnet=ed2k&are=mp32> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/description> "This album was kind of an experimental in 1997. It was never released until now. Some of you have maybe heard the Enharmon in some of my gigs. Once again, thanks to Al Cabaro being with me in these studio sessions as a mental help and co-drinker. And thanks to all my friends for just being there all the time.<br />\n<br />\nPlease sit down in a peacful corner, take a deep breath, relax and press play."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/3077311/> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/description> "This is a demo that contains some original songs of ours. At the moment it's the one we leave to pubs in our area to make ourselves known, together with another one recorded in 2006 containing some covers.<br />\n<br />\nArrangements do not always correspond to the current ones, that are more rock and without keyboards."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/track> <http://dbtune.org/jamendo/track/24238> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/track_number> "65"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://www.holygoat.co.uk/owl/redwood/0.1/tags/taggedWithTag> <http://dbtune.org/jamendo/tag/enamoradissssimo> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/3013719/> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/track> <http://dbtune.org/jamendo/track/37567> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/name> "1.0"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/image> <http://img.jamendo.com/albums/6023/covers/1.0.jpg> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/time> <http://dbtune.org/jamendo/interval/74204> .}
+SELECT ?subject WHERE {?subject <http://purl.org/NET/c4dm/event.owl#factor> <http://dbtune.org/jamendo/lyrics/23829> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Lyrics> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/track_number> "61"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/date> "2006-10-14 17:48:44" .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/description> "<h1>Now it's a trilogy!</h1>\nThis is the final improvisation album that we will record in this way. And the last one recorded in our old rehearsal room with just two microphones.<br />\n<br />\n<em>Bulbus</em> is a bit different from <em><a href=\"http://www.jamendo.com/en/album/1059/\">Gonzo Jazz</a> </em>and <a href=\"http://www.jamendo.com/en/album/2832/\"><em>Where's The Station</em></a> as it was recorded in one July evening and there is no edits besides the obvious dropping of the non-happenings before and after the improvs. The feeling of the album is different, too. A bit darker, a bit more furious in parts, and there's the vocalizing of your's truly. (I'd be caught dead before I call it singing..)<br />\n<br />\nSo there you have it. Three improvisation albums put out in 2006, two of them recorded this year. In 2007 you'll be hearing our composed recordings. That's a promise!<br />\n<br />\nHave a merry christmas (or what ever your holiday preference is) and a splendid new year!<br />\n<br />\nSincerely,<br />\nJari Schroderus"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/track_number> "71"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Torrent> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/published_as> <http://dbtune.org/jamendo/track/97785> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/maker> <http://dbtune.org/jamendo/artist/4943> .}
+SELECT ?subject WHERE {?subject <http://purl.org/NET/c4dm/timeline.owl#onTimeLine> <http://dbtune.org/jamendo/timeline/73359> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/img> <http://img.jamendo.com/artists/p/plafagh.gif> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2002/07/owl#sameAs> <http://zitgist.com/music/record/a5b1383b-f07b-44b7-91e1-b758e3ef5fd9> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/text> "sans toi electronique ..."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/recorded_as> <http://dbtune.org/jamendo/signal/79622> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/published_as> <http://dbtune.org/jamendo/track/30765> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/track> <http://dbtune.org/jamendo/track/5726> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/date> "2007-02-05 16:46:14" .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/title> "Number One of Marles"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/name> "Christophe Bosch"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/image> <http://img.jamendo.com/albums/4435/covers/1.500.jpg> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/homepage> <http://otoshiii.spaces.live.com/> .}
+SELECT ?subject WHERE {?subject <http://www.holygoat.co.uk/owl/redwood/0.1/tags/tagName> "racism"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/description> "Once upon a time, the magnanimous SGX was troubled with a distinct lack of remix within his realm.&nbsp .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/track> <http://dbtune.org/jamendo/track/15002> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/track> <http://dbtune.org/jamendo/track/18293> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/date> "2007-08-22 09:41:44" .}
+SELECT ?subject WHERE {?subject <http://www.holygoat.co.uk/owl/redwood/0.1/tags/tagName> "creme"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/track_number> "90"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/name> "Scott Alexander"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/maker> <http://dbtune.org/jamendo/artist/2178> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/published_as> <http://dbtune.org/jamendo/track/22884> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/track> <http://dbtune.org/jamendo/track/78500> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/img> <http://img.jamendo.com/artists/t/the.chameleon.orchestra.jpg> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/track_number> "85"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/made> <http://dbtune.org/jamendo/record/4635> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/license> <http://creativecommons.org/licenses/by-sa/2.5/se/> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/published_as> <http://dbtune.org/jamendo/track/33892> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/published_as> <http://dbtune.org/jamendo/track/94571> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/text> "Taking my wine\nAnd the sun always shines\nThe war's far away\nAnd I make my own way\nThe world in my head\nHappy things come\n\n\nTaking my time, \nWhen there's sky in my mind\nOnly a silence of trees and diamonds\nNoise out of my head\nHappy things come\n\n\nBut I'm not drunk\n\nTaking my wine\nOn a saturday night\nDreaming awake of the stars in my head\nThe world in my hair happy things come\n\nSleeping outside\nOn a real silly lie\nThe peace in my hair and the life goes away\nThe wolrd in my head happy things come"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/NET/c4dm/event.owl#factor> <http://dbtune.org/jamendo/lyrics/55183> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/title> "V. Allegro"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/published_as> <http://dbtune.org/jamendo/track/34260> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Record> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/date> "2007-10-09 15:52:04" .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/made> <http://dbtune.org/jamendo/record/1863> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/license> <http://creativecommons.org/licenses/by-nc/2.5/it/> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/recorded_as> <http://dbtune.org/jamendo/signal/80254> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/homepage> <http://www.2MaTao.za.pl> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/available_as> <http://www.jamendo.com/get/track/id/track/audio/play/23330> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/biography> "John Russell, Guitarist/Singer/Songwriter has fought his way through various musical avenues to finally end up yet again alone. Hanging up his Gibson he reached for his acoustic guitar and has never looked back. <br />\n<br />\nJohn's music demonstrates uplifting, melancholy acoustic tunes with a soulful and often darker edge as well as full on rock tunes that retain their acoustic foundation. Critics have already described him as 'Cat Stevens meets Kiedis' a fitting indication of the mix of influences which makes John Russell something special.<br />\n<br />\nJohn has worked hard to perfect his unique sound creating instantly memorable songs combined with melodic choruses and classic finger picking guitars all topped off with hes soulful, meaning felt vocals. John Russell is currently recording his debut album (From my hands) scheduled for release this summer. In the meantime he will be playing a series of dates around the Midlands, as well as occasional shows in London in front of an ever-growing number of industry admirers!"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/img> <http://img.jamendo.com/artists/k/katchin-a.gif> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/image> <http://img.jamendo.com/albums/6915/covers/1.500.jpg> .}
+SELECT ?subject WHERE {?subject <http://www.holygoat.co.uk/owl/redwood/0.1/tags/taggedWithTag> <http://dbtune.org/jamendo/tag/dilletantismus> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/text> "Old Dream Child\n\n(Arne Pahlke, Juli 2007)\n\n\n\nI can hope\n\nI can dream \n\nI can running by the forests \n\n\n\nIm a men\n\nIm a child\n\nI am a dreamer against the heaviness (hevinis)\n\n\n\nI am old\n\nI am young\n\nI can fly to the paradies\n\n\n\n\nI am poor \n\nI am rich\n\nAnd my fantasy works like dynamite\n\n\n\naffect my heart \n\ncatch my soul \n\nkidnap me from my empty \n\n\n\n\nlet us fly \n\nlet us dip \n\ncome, we look for a new country"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/2970140/> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/available_as> <http://www.jamendo.com/get/track/id/track/audio/xspf/16370> .}
+SELECT ?subject WHERE {?subject <http://purl.org/NET/c4dm/timeline.owl#onTimeLine> <http://dbtune.org/jamendo/timeline/37711> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/homepage> <http://www.jamendo.com/fr/artist/franckmoon/admin/?edit=artist_infos> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/date> "2007-06-26 21:24:53" .}
+SELECT ?subject WHERE {?subject <http://purl.org/NET/c4dm/event.owl#factor> <http://dbtune.org/jamendo/lyrics/47740> .}
+SELECT ?subject WHERE {?subject <http://purl.org/NET/c4dm/event.owl#factor> <http://dbtune.org/jamendo/lyrics/104154> .}
+SELECT ?subject WHERE {?subject <http://purl.org/NET/c4dm/timeline.owl#onTimeLine> <http://dbtune.org/jamendo/timeline/15015> .}
+SELECT ?subject WHERE {?subject <http://purl.org/NET/c4dm/timeline.owl#onTimeLine> <http://dbtune.org/jamendo/timeline/186> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/image> <http://img.jamendo.com/albums/8227/covers/1.500.jpg> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/made> <http://dbtune.org/jamendo/record/12750> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/title> "Caf\u00E9 Flesh Pt. 2: 'The Nuclear Assault'"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/NET/c4dm/timeline.owl#onTimeLine> <http://dbtune.org/jamendo/timeline/54965> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/title> "Philip Glass - Knee Play IV from Einstein on the Beach"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/text> "(Instrumental)"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/published_as> <http://dbtune.org/jamendo/track/81809> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/description> "The Flykicks plays laidback electronic dub. Nice echoes!"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://www.holygoat.co.uk/owl/redwood/0.1/tags/taggedWithTag> <http://dbtune.org/jamendo/tag/estamos> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/made> <http://dbtune.org/jamendo/record/3848> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/time> <http://dbtune.org/jamendo/interval/42222> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/maker> <http://dbtune.org/jamendo/artist/684> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/img> <http://img.jamendo.com/artists/v/viam.jpg> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/maker> <http://dbtune.org/jamendo/artist/337186> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/maker> <http://dbtune.org/jamendo/artist/7771> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/3017382/> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/description> "The intoxicating delight of the sounds of bells. \n\nThe Christmas Bells CD blends virtual analogue modelling synthesis with the crystal clear realistic multisampling of bell sounds by Roland (SRX/XV series). \n\nThe warm rendering of an analogue mix on mmb\u2019s Fostex 350 vintage mixer has preserved the emotion of this music composed, produced and performed amid the atmosphere of Christmas. The album ends with homage to Gabriel, Marc\u2019s regretted uncle. \n\n\n\u201CI hope this music composed with the loving kindness sounds of bells in the ambiance of Christmas time will rejoice, soothe and appease, as a recollection of Xmas agape\u2026 This CD is dedicated in memoriam Gabriel, with a special attention to his kind wife, children and grand-children who are still missing him very much.\u201D"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/track> <http://dbtune.org/jamendo/track/53334> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/time> <http://dbtune.org/jamendo/interval/35786> .}
+SELECT ?subject WHERE {?subject <http://purl.org/NET/c4dm/timeline.owl#onTimeLine> <http://dbtune.org/jamendo/timeline/46949> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/text> "D\u00E9licatement je pose \nsur ton nombril une main. \nSur ton ventre au teint de rose, \nje d\u00E9c\u00E8le un embonpoint. \nEst-ce l\u2019abus de glucose \nou le manque d\u2019entretien ? \nOu encore, ah non ! je n\u2019ose \ny penser, un gaz malsain ! \nCertes, tu n\u2019es plus tr\u00E8s svelte. \nMais non ! ne t\u2019inqui\u00E8te \npas pour \u00E7a.  \nTu n\u2019as plus ta taille de gu\u00EApe, \nmais tu vois je l\u2019accepte : \ntu es mon Poussah. \n\nJe ne sais quelle est la cause \nde cette rondeur. En vain, \nje m\u2019interroge et je glose, \nmais nul eur\u00EAka ! ne vient. \nA tout prendre, je suppose \nque ces deux gros Zeppelins, \n\u00E9trange m\u00E9tamorphose, \nsont l\u2019avatar de tes seins. \nCertes, tu n\u2019es plus tr\u00E8s svelte. \nMais non ! ne t\u2019inqui\u00E8te \npas pour \u00E7a. \nTu n\u2019as plus ta taille de gu\u00EApe, \nmais tu vois je l\u2019accepte : \ntu es mon Poussah. \n\nParoles et musique : Siegfried Gautier\n\nTandis que je me repose \n\u00E0 l\u2019ombre de ton soutien-\ngorge, tu dis que les choux, les roses \nne sont qu\u2019un conte enfantin. \nSoudain je me d\u00E9compose \ncar je sens que sous mes mains, \nIl y a bien quelque chose \nqui bouge. Ah ! mais qu\u2019est-ce que c\u2019est qu\u2019ce machin ? \nEt voil\u00E0 que tu me traites de cr\u00E9tin inepte. \nJe n\u2019comprends pas. \nTu me dis que je suis b\u00EAte, \nqu\u2019il faut que je m\u2019appr\u00EAte \n\u00E0 \u00EAtre papa."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://www.holygoat.co.uk/owl/redwood/0.1/tags/taggedWithTag> <http://dbtune.org/jamendo/tag/skool> .}
+SELECT ?subject WHERE {?subject <http://www.holygoat.co.uk/owl/redwood/0.1/tags/tagName> "poulp"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/biography> "Well, I've always had a minimal interest in music, never much skill at the piano frankly. I can .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/name> "SyNopTiK"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/name> "osaeris"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/NET/c4dm/timeline.owl#onTimeLine> <http://dbtune.org/jamendo/timeline/16667> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/available_as> <http://www.jamendo.com/get/track/id/track/audio/play/25941> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/description> "black techno experimental"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/track_number> "80"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/name> "TURBULENCE"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/license> <http://creativecommons.org/licenses/by/2.5/> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/3020989/> .}
+SELECT ?subject WHERE {?subject <http://www.holygoat.co.uk/owl/redwood/0.1/tags/tagName> "medley"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/homepage> <http://jaunt.free.fr/> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/track> <http://dbtune.org/jamendo/track/80619> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/date> "2006-06-14 02:27:27" .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/description> "go to <a href=\"http://www.jclmusic.co.uk\">http://www.jclmusic.co.uk</a> for more info."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/published_as> <http://dbtune.org/jamendo/track/38213> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2002/07/owl#sameAs> <http://zitgist.com/music/track/75ab237e-9b0c-4d2d-b571-30d083bc2985> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/img> <http://img.jamendo.com/artists/d/dj-cat.jpg> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/image> <http://img.jamendo.com/albums/2556/covers/1.500.jpg> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/homepage> <http://www.smileymusic.fr> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/track> <http://dbtune.org/jamendo/track/23211> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/image> <http://img.jamendo.com/albums/3522/covers/1.100.jpg> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/time> <http://dbtune.org/jamendo/interval/52634> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/homepage> <http://www.havok.se> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/text> "My life exists only on my video game\nI'm playing with the ghosts of y dreams \nAnd I want to be alive\nLiberty has become a fight\n\nThe images of a starved people\nThose of the president merry chritmas\nHaunt my spirit I can't get rid of it\nEquality has become a myth\n\nAnd I'm dancing on a bomb\n\nThe ones Who pretend to run our country\nAre actually struggling between themselves\nWith no aim but power\nDemocracy has become a dream\n\nPalaces of silver gold and diamonds\nWorld tours in private jets\nHere is the selfish wish of anyone\nMoney has become a reality\n\n\nAnd we're dancing on a bomb"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/text> "Je lis dans vos pens\u00E9es me nourris de vos \u00E2mes\nJ\u2019ai le c\u0153ur et les mots tranchants comme une lame\nDe mes yeux transparents je dissous vos souvenirs\nJe peux d\u00E9sint\u00E9grer ce qui me fait plaisir\n\nJe suis tout sauf humain je d\u00E9gage des ondes\nQui \u00E0 elles seules peuvent abolir votre monde\nMes v\u0153ux destructeurs commandent \u00E0 la Terre\nDe br\u00FBler de trembler de rejoindre l\u2019Enfer\n\nEt vous me faites rire car vos vies corrompues\nFont que je suis celui de la tribu\nQui est le plus honn\u00EAte, oui mais dans l\u2019imm\u00E9diat\nVeuillez baisser la t\u00EAte que je la coupe \u00E0 ras !\n\nJe n\u2019\u00E9pargne personne et vous y passerez tous\nJe n\u2019accorde d\u2019importance qu\u2019\u00E0 cette force qui me pousse\nA r\u00E9pandre partout des montagnes de fange\nA guerroyer sans cesse contre vos troupeaux d\u2019anges\n\nSur mon ordre elle \u00E9touffe vos rires et vos images\nEt jamais vous ne pourrez forcer mon doux barrage\nD\u2019un claquement de doigts vous tombez amoureux\nD\u2019un hochement de t\u00EAte je vous arrache les yeux\u2026\n\nEt vous me faites rire car vos vies corrompues\nFont que je suis celui de la tribu\nQui est le plus honn\u00EAte, oui mais dans l\u2019imm\u00E9diat\nVeuillez baisser la t\u00EAte que je la coupe \u00E0 ras !"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/text> "Mira atr\u00E1s que es lo que ves\nPas\u00F3 el tiempo y ahora que?\nTanto mundo por cambiar\nY eres una oveja m\u00E1s.\nMi reflejo nunca est\u00E1 \nEn ese espejo que es plural\nPierdo el tiempo en mirar\nNo es mi mundo y no es real.\nY es que no encuentro mi lugar\nEn tu programa cultural\nQue habla de gente honesta \nY de sociedad abierta\nEn la que yo no quiero entrar.\nAprend\u00ED, a tragar su verdad.\nY es que no encuentro mi lugar\nEn tu programa cultural\nQue habla de gente honesta \nY de sociedad enferma\nEn la que yo no voy a entrar.\nAprend\u00ED, a tragar su verdad.\nQu\u00E9 m\u00E1s da?!!"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2002/07/owl#sameAs> <http://zitgist.com/music/artist/53c170a2-d609-4b90-adc9-b91e57e4327f> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/maker> <http://dbtune.org/jamendo/artist/4671> .}
+SELECT ?subject WHERE {?subject <http://purl.org/NET/c4dm/event.owl#factor> <http://dbtune.org/jamendo/lyrics/29431> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/img> <http://img.jamendo.com/artists/j/jampy.jpg> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/name> "Circuit Noir"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/license> <http://creativecommons.org/licenses/by-nc-sa/2.5/pe/> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/name> "Minch in the From"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/text> "ache\n\n\nache\n\n\nengange the noise\n\n\nache\n\n\npure pain\n\n\ninside your brain\n\n\nrhythm still dead\n\n\ntearing no aims\n\n\nfeel the pain in your head\n\n\naoow\n\n\nfeel the pain in your head\n\n\naoow"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/homepage> <file:/home/invitados/bhscmcyt/santiago/rdf3x/experimentsESWC2012/jamendo-rdf/www.myspace.com/slogangroupe> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/available_as> <http://www.jamendo.com/get/track/id/track/audio/xspf/16883> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/available_as> <http://www.jamendo.com/get/track/id/track/audio/xspf/18786> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/date> "2007-03-09 16:08:40" .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/img> <http://img.jamendo.com/artists/b/birds.of.fire.jpg> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/name> "Kryptic Mood"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/date> "2007-07-30 20:19:08" .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/available_as> <http://www.jamendo.com/get/track/id/album/audio/xspf/13385/?item_o=track_no_asc&aue=ogg2&n=all> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/track_number> "47"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/title> "On a trip to Vega 'radio edit'"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/track> <http://dbtune.org/jamendo/track/17127> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/track_number> "5"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/biography> "The project \u201Czoop\u201D and the album \u201CMusic On Hold\u201D is the result of a work two Moscow\u2019s musicians \u2013 bassist, composer \u201Czoop\u201D and saxophonist Mikhail \u201CSyntheticsax\u201D Morozov."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/img> <http://img.jamendo.com/artists/d/dj.overdrive.j.r.jpg> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/name> "Assez PAULINE"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/text> "Docteur Plastoc\n\nParoles et musique : Fabrice Fenoy http://elfes.tv\n\nDeux piq\u00FBres de gu\u00EApe    qui pointent\n\nSous le d\u00E9bardeur        les feintes\n\nNe trompent personne     push-up\n\nCoton, Wonderbra      le flop\n\n \n\nLe reste est pas mal      qu\u2019importe\n\nSon r\u00EAve une poitrine     plus forte\n\nAdieu l\u2019androgyne     bimbo !\n\nDe seins des nichons     (des) lolos !\n\n \n\nDocteur aux dents blanches\n\nBronz\u00E9 carnassier\n\nD\u00E9taille sa peau blanche\n\nDe la t\u00EAte aux pieds\n\nIl faut pas qu\u2019elle flanche\n\nDans les mains du sorcier\n\n \n\nRefrain :\n\nDocteur Plastique\n\nPour beaut\u00E9 en toc\n\nFait un audit\n\nDe son corps en kit\n\nDocteur Plastoc\n\nPour beaut\u00E9 plastique\n\nSculpte une ic\u00F4ne\n\nEn silicone\n\n \n\nUn gros marqueur noir    qui trace\n\nDes stries sur son corps     de glace\n\nSur l\u2019\u0153uvre de Dieu     dessin\n\nDe la part du diable     ses seins\n\n \n\nL\u2019examen ana-      tomique\n\nD\u00E9bouche sur le diag-    nostic\n\nProth\u00E8se de 300    cc\n\nEn silicone tex-     tur\u00E9\n\n \n\nVa-t-elle \u00E9couter\n\nLe grand manitou\n\nFaut pas reculer\n\nFaut vous d\u00E9cider\n\nMontrer la beaut\u00E9\n\nQui sommeille en vous\n\n \n\nRefrain\n\n \n\nDe la salle de r\u00E9a     retour\n\nDans la bouche un dr\u00F4le     de go\u00FBt\n\nElle a mal un peu     partout\n\nDes bleus c\u2019est pas tr\u00E8s     glamour\n\n \n\nMais elle a bien fait\n\nSon buste est parfait\n\nMaintenant elle met\n\nDe si gros bonnets\n\nDommage \u00E7a s\u2019affaisse\n\nDu c\u00F4t\u00E9 des fesses"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://www.holygoat.co.uk/owl/redwood/0.1/tags/tagName> "holds"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/license> <http://creativecommons.org/licenses/by/2.0/at/> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/date> "2007-09-13 18:50:37" .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/track_number> "55"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/6459162/> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/description> "<p>&nbsp .}
+SELECT ?subject WHERE {?subject <http://purl.org/NET/c4dm/event.owl#factor> <http://dbtune.org/jamendo/lyrics/23968> .}
+SELECT ?subject WHERE {?subject <http://www.holygoat.co.uk/owl/redwood/0.1/tags/taggedWithTag> <http://dbtune.org/jamendo/tag/exhibition> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/name> "Aor Agni"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://www.holygoat.co.uk/owl/redwood/0.1/tags/taggedWithTag> <http://dbtune.org/jamendo/tag/standstill> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/track_number> "1"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/track> <http://dbtune.org/jamendo/track/98617> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/time> <http://dbtune.org/jamendo/interval/86264> .}
+SELECT ?subject WHERE {?subject <http://purl.org/NET/c4dm/timeline.owl#onTimeLine> <http://dbtune.org/jamendo/timeline/9968> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2002/07/owl#sameAs> <http://zitgist.com/music/track/a10c9c7f-14aa-4bae-bd9f-c800182e0d58> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/maker> <http://dbtune.org/jamendo/artist/7791> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/available_as> <http://www.jamendo.com/get/track/id/album/audio/play/11362/?item_o=track_no_asc&aue=ogg2&n=all> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/description> "http://www.demonoid.com/files/details/977002/12623776/\nhttp://www.myspace.com/ofthei\nhttp://www.mp3.com"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/published_as> <http://dbtune.org/jamendo/track/15541> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/track_number> "-2"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/made> <http://dbtune.org/jamendo/record/4715> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/biography> "Ruined Machines are an experimental, instrumental rock band out of Linden, New Jersey, formed in July 2006. With influences ranging from post- and space-rock bands such as Red Sparowes and Explosions in the Sky, hard rock and metal acts like CKY and Hopesfall, and even classic rock outfits like Queen and Pink Floyd, Ruined Machines make use of mellow, atmospheric sounds as well as heavy rock guitar solos to make their sound more creative and enjoyable to listen to.<br />\n<br />\nCurrent members:<br />\nJoe Kenyon - guitars"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://www.holygoat.co.uk/owl/redwood/0.1/tags/tagName> "endlessbasslines"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/track> <http://dbtune.org/jamendo/track/661> .}
+SELECT ?subject WHERE {?subject <http://www.holygoat.co.uk/owl/redwood/0.1/tags/taggedWithTag> <http://dbtune.org/jamendo/tag/vibraphone> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/img> <http://img.jamendo.com/artists/l/liscus.jpg> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/date> "2007-10-17 15:11:04" .}
+SELECT ?subject WHERE {?subject <http://www.holygoat.co.uk/owl/redwood/0.1/tags/tagName> "bout"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/date> "2007-06-11 19:05:54" .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/track> <http://dbtune.org/jamendo/track/74833> .}
+SELECT ?subject WHERE {?subject <http://purl.org/NET/c4dm/timeline.owl#onTimeLine> <http://dbtune.org/jamendo/timeline/8977> .}
+SELECT ?subject WHERE {?subject <http://purl.org/NET/c4dm/event.owl#factor> <http://dbtune.org/jamendo/lyrics/8889> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/biography> "Sonny Munroe is a concept band that consists of three songwriters, and a producer all of whom contribute to these demo recordings that are labors of love.&nbsp .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/made> <http://dbtune.org/jamendo/record/8698> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/license> <http://creativecommons.org/licenses/by-nc-sa/1.0/fi/> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/title> "In The Teenage Years"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2002/07/owl#sameAs> <http://zitgist.com/music/track/f02a6d4a-b6ce-43c8-ae20-c8032ae1284f> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/description> "Friends of dark meditative ambient are in for another treat with this new co-creation from the Finnish ambient producer Doc and the Russian pianist Lena Selyanina. This album was inspired by Maurice Ravel's waltzes for the piano, and Lena's soulful and introspective piano takes quite naturally a prominent role on this material. As on their earlier releases (MT002 &amp .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/text> "Nourri aux bons vers de Brassens,\nQue vouliez-vous que je devinsse\nPass\u00E9s mes d\u00E9buts de gratteur\nSinon auteur-compositeur ?\nEt je me suis mis au boulot\nJ'ai pondu mes propres br\u00FBlots\nEn songeant \" Ces mots que j'ass\u00E8ne\nVont mettre le feu \u00E0 la sc\u00E8ne !\"\n\nJ'ai fait la tourn\u00E9e des bistrots : \nOn m'a dit \"Tu l'ouvres de trop.\nTiens regarde, m\u00EAme le poivrot d\u00E9tale,\nEssaie plut\u00F4t l'instrumental.\"\nJ'ai fait le tour des producteurs :\nOn m'a dit \" ca n'est pas porteur,\nTes rythmes ne ciblent que les grabataires.\"\nLa suite, laissez-moi la taire...\n\nMes a\u00EEn\u00E9s pouvaient se hisser\nEntre caf' conc' et MJC.\nJoyeuse \u00E9poque o\u00F9 l'artiste boh\u00E8me\nFaisait la nique \u00E0 la FM.\nLa mode \u00E9tait de se commettre\nEn claironnant \" Ni Dieu ni Ma\u00EEtre !\"\nPlus question de jouer \u00E0 ce petit jeu\nSans un physique avantageux.\n\nFaudra-t-il que je collabore\nEn graissant la patte aux majors.\nEn me pliant au go\u00FBt du grand public\nPatriote et bon catholique ?\nFaudra-t-il que je me d\u00E9guise\nEn yuppie, en pr\u00EAtre, en marquise\nPour atteindre enfin l'\u00E9tape cruciale :\nL'intronisation commerciale ?\n\nAvant que ma passion ne sombre,\nQue les invendus ne m'encombrent,\nAvant que ma muse ne file au mitard\nJ'ai des chansons plein la guitare.\nQuelques bons vers vaches ou tendres\nSoupirant qu'on les veuille entendre.\nDes vers qui ne riment \u00E0 rien et qui doutent.\nMerci \u00E0 toi qui nous \u00E9coutes."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/maker> <http://dbtune.org/jamendo/artist/6994> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/made> <http://dbtune.org/jamendo/record/4321> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/license> <http://creativecommons.org/licenses/by-nc-nd/2.0/at/> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/description> "Lost among the machinery."^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/6252001/> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/track> <http://dbtune.org/jamendo/track/37894> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/made> <http://dbtune.org/jamendo/record/4558> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/453733/> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/3137400/> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/date> "2006-06-26 11:18:58" .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/published_as> <http://dbtune.org/jamendo/track/17450> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/text> "Le matin du premier jour, il a ouvert les yeux et il a senti ce parfum qui courait par dessus les collines. \nElle est arriv\u00E9e avec le vent, le soir du troisi\u00E8me jour. Il a tout oubli\u00E9, jusqu\u2019au vide de ses draps blancs. \nElle s\u2019est mise \u00E0 \u00AB parler \u00BB, ses projections mentales \u00E9taient troublantes\u2026"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/available_as> <http://www.jamendo.com/get/track/id/track/audio/xspf/26466> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/published_as> <http://dbtune.org/jamendo/track/37126> .}
+SELECT ?subject WHERE {?subject <http://www.holygoat.co.uk/owl/redwood/0.1/tags/taggedWithTag> <http://dbtune.org/jamendo/tag/neopsych> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/track> <http://dbtune.org/jamendo/track/94827> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/maker> <http://dbtune.org/jamendo/artist/4794> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/license> <http://creativecommons.org/licenses/by-nc-sa/2.0/uk/> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/img> <http://img.jamendo.com/artists/l/lock.jpg> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/made> <http://dbtune.org/jamendo/record/5565> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/date> "2007-06-18 20:29:00" .}
+SELECT ?subject WHERE {?subject <http://www.holygoat.co.uk/owl/redwood/0.1/tags/taggedWithTag> <http://dbtune.org/jamendo/tag/psychotik> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/track_number> "76"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/recorded_as> <http://dbtune.org/jamendo/signal/103604> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/text> "LIFE IS \n\nLife is wonderful\nLife is mysterious\n\nOh girl! What have you done to me?\nWhen I see your smile I\u2019m happy, happy as can be, happy as can be\nI even get shivers all over my body\nYou make me feel alive\n\nOulalaou\u2026\n\nMe without me woman am not a real man\n\nLife is wonderful\nLife is mysterious\n\nPeople spend their life\nLooking for the right one\nBut I stopped searching\nThe day I met you girl you are the only one\n\nOulalaou\u2026\n\nMe without me woman am not a real man\n\nOulalaou\u2026"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/time> <http://dbtune.org/jamendo/interval/15273> .}
+SELECT ?subject WHERE {?subject <http://www.holygoat.co.uk/owl/redwood/0.1/tags/tagName> "morceaux"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/published_as> <http://dbtune.org/jamendo/track/38230> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/date> "2007-10-19 17:34:21" .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/track> <http://dbtune.org/jamendo/track/35053> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/maker> <http://dbtune.org/jamendo/artist/887> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/available_as> <http://www.jamendo.com/get/track/id/track/audio/xspf/3125> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/maker> <http://dbtune.org/jamendo/artist/5096> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/date> "2007-09-03 19:07:10" .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/2525065/> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/biography> "<a href=\"http://www.myspace.com/Sam_from_Faltsaband \"><strong>V. SAM</strong></a> was born in Trikala of Thessaly , Greece in June 1979. Since 12 years old 's getting on with music &amp .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/description> "I've known about Jamendo for awhile, but I'm new to being a member. This is the first album I've created. I just got into this music bit not too long ago so be nice critics!"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/published_as> <http://dbtune.org/jamendo/track/33861> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/image> <http://img.jamendo.com/albums/4293/covers/1.100.jpg> .}
+SELECT ?subject WHERE {?subject <http://purl.org/NET/c4dm/event.owl#factor> <http://dbtune.org/jamendo/lyrics/37939> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/license> <http://creativecommons.org/licenses/by-nc-nd/2.5/> .}
+SELECT ?subject WHERE {?subject <http://purl.org/NET/c4dm/event.owl#factor> <http://dbtune.org/jamendo/lyrics/35862> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/name> "Israel Calzada"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/title> "beat junkies"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/NET/c4dm/timeline.owl#onTimeLine> <http://dbtune.org/jamendo/timeline/75665> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/time> <http://dbtune.org/jamendo/interval/31620> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/published_as> <http://dbtune.org/jamendo/track/73354> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/description> "This is the fourth album from the Finnish ambient producer Doc and the Russian pianist Lena Selyanina. Like their second album 'An Island of Joy (In a Sea of Electronic Dreams)' this one also gets its musical inspiration from the works of the French composer Claude Debussy, and the themes of water are again strongly present in the cinematic and impressionistic soundworlds of these long ambient tracks. The original piano works that inspired these tracks are: Reflets dans l'eau (Reflections on Water), Mouvement (Movement in Stillness) and La Cath&eacute .}
+SELECT ?subject WHERE {?subject <http://www.holygoat.co.uk/owl/redwood/0.1/tags/taggedWithTag> <http://dbtune.org/jamendo/tag/tcheque> .}
+SELECT ?subject WHERE {?subject <http://www.holygoat.co.uk/owl/redwood/0.1/tags/taggedWithTag> <http://dbtune.org/jamendo/tag/string> .}
+SELECT ?subject WHERE {?subject <http://purl.org/NET/c4dm/timeline.owl#onTimeLine> <http://dbtune.org/jamendo/timeline/103417> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/homepage> <http://riffhifi.skyblog.com/> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/track_number> "11"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/homepage> <http://home.earthlink.net/~fkrasicki> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/time> <http://dbtune.org/jamendo/interval/40196> .}
+SELECT ?subject WHERE {?subject <http://purl.org/NET/c4dm/event.owl#factor> <http://dbtune.org/jamendo/lyrics/34646> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/available_as> <http://www.jamendo.com/get/album/id/album/p2p/redirect/1048/?p2pnet=bittorrent&are=mp32> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/published_as> <http://dbtune.org/jamendo/track/31178> .}
+SELECT ?subject WHERE {?subject <http://www.holygoat.co.uk/owl/redwood/0.1/tags/taggedWithTag> <http://dbtune.org/jamendo/tag/experimantal> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/available_as> <http://www.jamendo.com/get/album/id/album/p2p/redirect/11439/?p2pnet=bittorrent&are=ogg3> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/homepage> <http://www.martoland.com> .}
+SELECT ?subject WHERE {?subject <http://purl.org/NET/c4dm/timeline.owl#onTimeLine> <http://dbtune.org/jamendo/timeline/3432> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/track> <http://dbtune.org/jamendo/track/36705> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/track> <http://dbtune.org/jamendo/track/47764> .}
+SELECT ?subject WHERE {?subject <http://purl.org/NET/c4dm/event.owl#factor> <http://dbtune.org/jamendo/lyrics/7197> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/recorded_as> <http://dbtune.org/jamendo/signal/105451> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/text> "one day before\n\nIt's a rainy day today\nI don't care for what they say \nIf they thought that all is wrong \nbut I like to play this song\n\nNow I only run away\nwith the rain over my hair\nnow I listen not your words\nbut only drops going down my coat\n\nOn the road I walk alone \nBut it is my only home\nI don't want see you again \nI want only change my way \n\nNot your voice and not your face\nnow I remind only the rain\nthat begins to fall on me\nfrom this always stormy sky\n\nI feel alone but I'm not scared\nand begin to understand \nthat it's not the wonder land \nwhich I believed one day before"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/name> "Taxi Brouss'"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/2002/07/owl#sameAs> <http://zitgist.com/music/track/0fa1325f-882e-435b-a30a-b573d2fb205e> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/biography> "<div style=\"MARGIN: 0in 0in 0pt\">About DaveFilms Digital Media</div>\n<div style=\"MARGIN: 0in 0in 0pt\">davefilms.us@gmail.com</div>\n<div style=\"MARGIN: 0in 0in 0pt\">&nbsp .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/track_number> "33"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/published_as> <http://dbtune.org/jamendo/track/94820> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/maker> <http://dbtune.org/jamendo/artist/3991> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/time> <http://dbtune.org/jamendo/interval/42209> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/published_as> <http://dbtune.org/jamendo/track/48282> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/img> <http://img.jamendo.com/artists/b/boris.blend.jpg> .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/format> "mp32" .}
+SELECT ?subject WHERE {?subject <http://purl.org/dc/elements/1.1/title> "Entre les gouttes"^^<http://www.w3.org/2001/XMLSchema#string> .}
+SELECT ?subject WHERE {?subject <http://vocab.sindice.net/date> "2011-12-06T23:41:12+01:00" .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/img> <http://img.jamendo.com/artists/E/Enden_Wickers.jpg> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/biography> "Ben Akusto started 1995 in an experimental electro band called Parametric Fixation. This band later broke after few years and nowadays Ben Akusto has had a solo project since 1998. Sometimes Ben Akusto appears with name Fixation when he does something very odd, like black magic with band called X-Sanguis (Finnish dark wave industrial band).<br />\n<br />\nLast time when Ben Akusto had a concert April 2005, everything went so perfect that he thought of starting a tour, which never happened... But let's see if he's ready to make a short tour maybe this year (summer?)<br />\n<br />\nThe active studio project is to revisit some old projects (from 1995 to today) and release them in Jamendo. So, keep visiting here, if you are interested...<br />\n<br />\nGreetings to my BuzzTeam! I hope you have as much fun listening these as I had making them  .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/track> <http://dbtune.org/jamendo/track/11475> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/track> <http://dbtune.org/jamendo/track/101709> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.holygoat.co.uk/owl/redwood/0.1/tags/Tag> .}
+SELECT ?subject WHERE {?subject <http://xmlns.com/foaf/0.1/made> <http://dbtune.org/jamendo/record/7596> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/track_number> "49"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Playlist> .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/biography> "Been recording for about 6 years, and have influences ranging from the Beatles and the Beach Boys to Hank Williams to Radiohead and electronic dance music.&nbsp .}
+SELECT ?subject WHERE {?subject <http://purl.org/ontology/mo/track> <http://dbtune.org/jamendo/track/30011> .}

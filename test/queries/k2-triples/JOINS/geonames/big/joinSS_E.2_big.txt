@@ -1,0 +1,14 @@
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://www.geonames.org/ontology#featureClass> <http://www.geonames.org/ontology#P> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://www.geonames.org/ontology#featureClass> <http://www.geonames.org/ontology#L> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://www.geonames.org/ontology#countryCode> "AF" . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://www.geonames.org/ontology#featureClass> <http://www.geonames.org/ontology#T> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://www.geonames.org/ontology#parentCountry> <http://sws.geonames.org/3017382/> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.geonames.org/ontology#Feature> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://www.geonames.org/ontology#featureClass> <http://www.geonames.org/ontology#H> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://www.geonames.org/ontology#featureClass> <http://www.geonames.org/ontology#A> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://www.geonames.org/ontology#featureClass> <http://www.geonames.org/ontology#S> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://www.geonames.org/ontology#countryCode> "MY" . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://www.geonames.org/ontology#parentCountry> <http://sws.geonames.org/1327865/> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://www.geonames.org/ontology#parentADM1> <http://sws.geonames.org/4398678/> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://www.geonames.org/ontology#countryCode> "DZ" . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://www.geonames.org/ontology#featureCode> <http://www.geonames.org/ontology#T.MT> . ?subject ?predicate2 ?object2 .}

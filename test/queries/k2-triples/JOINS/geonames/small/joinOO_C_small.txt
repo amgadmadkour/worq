@@ -1,0 +1,8 @@
+SELECT ?subject1 ?object ?subject2 WHERE {?subject1 <http://www.geonames.org/ontology#postalCode> ?object . ?subject2 <http://www.geonames.org/ontology#postalCode> ?object .}
+SELECT ?subject1 ?object ?subject2 WHERE {?subject1 <http://www.geonames.org/ontology#parentADM4> ?object . ?subject2 <http://www.geonames.org/ontology#parentFeature> ?object .}
+SELECT ?subject1 ?object ?subject2 WHERE {?subject1 <http://www.geonames.org/ontology#parentADM3> ?object . ?subject2 <http://www.geonames.org/ontology#parentADM3> ?object .}
+SELECT ?subject1 ?object ?subject2 WHERE {?subject1 <http://www.geonames.org/ontology#officialName> ?object . ?subject2 <http://www.geonames.org/ontology#name> ?object .}
+SELECT ?subject1 ?object ?subject2 WHERE {?subject1 <http://www.geonames.org/ontology#population> ?object . ?subject2 <http://www.w3.org/2003/01/geo/wgs84_pos#alt> ?object .}
+SELECT ?subject1 ?object ?subject2 WHERE {?subject1 <http://www.geonames.org/ontology#parentADM4> ?object . ?subject2 <http://www.geonames.org/ontology#parentADM4> ?object .}
+SELECT ?subject1 ?object ?subject2 WHERE {?subject1 <http://www.geonames.org/ontology#parentADM3> ?object . ?subject2 <http://www.geonames.org/ontology#parentFeature> ?object .}
+SELECT ?subject1 ?object ?subject2 WHERE {?subject1 <http://www.geonames.org/ontology#wikipediaArticle> ?object . ?subject2 <http://www.geonames.org/ontology#wikipediaArticle> ?object .}

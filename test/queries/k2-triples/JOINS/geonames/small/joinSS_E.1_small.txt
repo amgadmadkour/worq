@@ -1,0 +1,25 @@
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://www.geonames.org/ontology#population> ?object1 . ?subject ?predicate2 "44.6" .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://www.geonames.org/ontology#featureClass> ?object1 . ?subject ?predicate2 "48.1" .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://www.geonames.org/ontology#parentFeature> ?object1 . ?subject ?predicate2 "Sumulic"@de .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://www.geonames.org/ontology#locationMap> ?object1 . ?subject ?predicate2 <http://www.geonames.org/ontology#T.MT> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://www.geonames.org/ontology#neighbouringFeatures> ?object1 . ?subject ?predicate2 <http://fr.wikipedia.org/wiki/Arabie_saoudite> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://www.geonames.org/ontology#parentADM1> ?object1 . ?subject ?predicate2 <http://www.geonames.org/101627/mintaqat-tabuk.html> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://www.w3.org/2003/01/geo/wgs84_pos#lat> ?object1 . ?subject ?predicate2 <http://sws.geonames.org/6913855/nearby.rdf> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://www.w3.org/2003/01/geo/wgs84_pos#alt> ?object1 . ?subject ?predicate2 <http://sws.geonames.org/4330435/nearby.rdf> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://www.w3.org/2003/01/geo/wgs84_pos#long> ?object1 . ?subject ?predicate2 <http://sws.geonames.org/2635167/> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://www.geonames.org/ontology#parentADM4> ?object1 . ?subject ?predicate2 <http://www.geonames.org/ontology#A> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://www.geonames.org/ontology#wikipediaArticle> ?object1 . ?subject ?predicate2 <http://sws.geonames.org/4191014/> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://www.geonames.org/ontology#nearbyFeatures> ?object1 . ?subject ?predicate2 <http://www.geonames.org/ontology#T.MT> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://www.w3.org/2003/01/geo/wgs84_pos#alt> ?object1 . ?subject ?predicate2 "-90.00646" .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://www.geonames.org/ontology#neighbouringFeatures> ?object1 . ?subject ?predicate2 <http://de.wikipedia.org/wiki/Saudi-Arabien> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://www.geonames.org/ontology#alternateName> ?object1 . ?subject ?predicate2 <http://sws.geonames.org/96243/nearby.rdf> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://www.geonames.org/ontology#alternateName> ?object1 . ?subject ?predicate2 <http://sws.geonames.org/99237/> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://www.w3.org/2003/01/geo/wgs84_pos#alt> ?object1 . ?subject ?predicate2 <http://sws.geonames.org/4331987/> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://www.geonames.org/ontology#nearbyFeatures> ?object1 . ?subject ?predicate2 "K\u016Bh-e Zardar" .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://www.geonames.org/ontology#countryCode> ?object1 . ?subject ?predicate2 "42.57688" .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://www.geonames.org/ontology#featureCode> ?object1 . ?subject ?predicate2 <http://sws.geonames.org/101627/contains.rdf> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?object1 . ?subject ?predicate2 <http://www.geonames.org/1/kuh-e-zardar.html> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://www.geonames.org/ontology#parentADM4> ?object1 . ?subject ?predicate2 "Bait Gujji" .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://www.geonames.org/ontology#featureClass> ?object1 . ?subject ?predicate2 "Ab\u016B al Kha\u015F\u012Bb" .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://www.geonames.org/ontology#parentCountry> ?object1 . ?subject ?predicate2 <http://www.geonames.org/101304/turayfah.html> .}
+SELECT ?subject ?object1 ?predicate2 WHERE {?subject <http://www.geonames.org/ontology#population> ?object1 . ?subject ?predicate2 <http://sws.geonames.org/6430194/contains.rdf> .}

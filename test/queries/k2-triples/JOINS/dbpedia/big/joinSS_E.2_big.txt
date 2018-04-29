@@ -1,0 +1,25 @@
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://dbpedia.org/property/yearsOfSeason> "2005-06"@en . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://dbpedia.org/property/hm12Exit> "Day 20"@en . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://dbpedia.org/property/award6n> "1"^^<http://www.w3.org/2001/XMLSchema#int> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://dbpedia.org/property/nopl> "3"^^<http://www.w3.org/2001/XMLSchema#int> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://dbpedia.org/property/small> "yes"@en . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://dbpedia.org/property/seasonlist> "Template:UAAP seasons"@en . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://dbpedia.org/property/coachwins> "26"^^<http://www.w3.org/2001/XMLSchema#int> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://dbpedia.org/property/obverseDesignDate> "2003"^^<http://www.w3.org/2001/XMLSchema#int> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://dbpedia.org/ontology/awards> <http://dbpedia.org/resource/Listed_building> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://dbpedia.org/property/householdsAsOf> "2004"^^<http://www.w3.org/2001/XMLSchema#int> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://dbpedia.org/property/borough> <http://dbpedia.org/resource/Worthing> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://dbpedia.org/property/populationlastyear> "2007"^^<http://www.w3.org/2001/XMLSchema#int> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://dbpedia.org/property/week322Color> "u"@en . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://dbpedia.org/property/sect> <http://dbpedia.org/resource/Nyingma> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://dbpedia.org/property/mapCustom> "no"@en . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://dbpedia.org/property/seriesLink> "Series 2"@en . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://dbpedia.org/property/serviceclass> "cab"@en . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://dbpedia.org/property/confedCup> <http://dbpedia.org/resource/UEFA_Futsal_Cup> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://dbpedia.org/property/otherRodalies> "yes"@en . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://dbpedia.org/property/_2v1b> "1-2"@en . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://dbpedia.org/property/linkout> "HAwA"@en . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://dbpedia.org/property/dv> "1"^^<http://www.w3.org/2001/XMLSchema#int> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://dbpedia.org/property/updateCitations> "no"@en . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://dbpedia.org/property/week174Color> "u"@en . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://dbpedia.org/property/weighting> <http://dbpedia.org/resource/Market_value-weighted_index> . ?subject ?predicate2 ?object2 .}

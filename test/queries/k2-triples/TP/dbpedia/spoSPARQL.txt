@@ -1,0 +1,500 @@
+SELECT * WHERE {<http://dbpedia.org/resource/Fishburn> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "54.68309"^^<http://www.w3.org/2001/XMLSchema#float> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/History_of_Communist_Albania> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/History_of_Communist_Albania> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Research_Medical_Center> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Research_Medical_Center> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Zhigulyov_Hydroelectric_Station> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Marast> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Marast> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Fishing_in_South_Africa> <http://dbpedia.org/property/pageId> "24778427"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Category:Unknown-importance_Ohio_articles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Max_%28Album%29> <http://xmlns.com/foaf/0.1/page> <http://en.wikipedia.org/wiki/Max_%28Album%29> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Nova_Sports_highlights> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://dbpedia.org/resource/JEC_Welldon> <http://dbpedia.org/property/redirect> <http://dbpedia.org/resource/James_Edward_Cowell_Welldon> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Martti_Turunen> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Martti_Turunen> .}
+SELECT * WHERE {<http://upload.wikimedia.org/wikipedia/commons/b/b4/Mudvayne_scream_with_me.png> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/Image:Mudvayne_scream_with_me.png> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/RxPG> <http://dbpedia.org/property/pageId> "11976074"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Chanel_J12> <http://dbpedia.org/property/pageId> "13827998"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Ka-poho-i-kahi-ola> <http://www.w3.org/2000/01/rdf-schema#label> "Ka-poho-i-kahi-ola"@en .}
+SELECT * WHERE {<http://dbpedia.org/resource/MythBusters_%282009_season%29__135> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TelevisionEpisode> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Area_code_732> <http://dbpedia.org/property/pageId> "18811228"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://upload.wikimedia.org/wikipedia/commons/9/9b/Nemateleotris_magnifica.jpg> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/Image:Nemateleotris_magnifica.jpg> .}
+SELECT * WHERE {<http://dbpedia.org/resource/450s> <http://dbpedia.org/ontology/abstract> "The 450s decade ran from January 1, 450, to December 31, 459."@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Bommerlunder_%28Die_Toten_Hosen_song%29> <http://dbpedia.org/property/pageId> "21496285"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Merrow_F_C> <http://dbpedia.org/property/revisionId> "184071797"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Nuutele> <http://dbpedia.org/property/pageId> "5118837"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Watchmenbabies.png> <http://dbpedia.org/property/pageId> "14320486"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Solaar_pleure.jpg/200px-Solaar_pleure.jpg> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/Image:Solaar_pleure.jpg> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Lovey_Howell> <http://dbpedia.org/property/pageId> "2171153"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Gustav_schwab_1850.jpg/200px-Gustav_schwab_1850.jpg> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/Image:Gustav_schwab_1850.jpg> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Australian_rules_football_on-field_positions> <http://dbpedia.org/property/revisionId> "118922189"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Izumo-shi_Station> <http://dbpedia.org/property/redirect> <http://dbpedia.org/resource/Izumoshi_Station> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Stevan_E._Pearce> <http://dbpedia.org/property/redirect> <http://dbpedia.org/resource/Steve_Pearce> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Vinnytsia-geo-stub> <http://dbpedia.org/property/revisionId> "309812605"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/AGOA> <http://dbpedia.org/property/revisionId> "21734045"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://dbpedia.org/resource/List_of_gelechiid_genera:_U> <http://dbpedia.org/property/reference> <http://www.nhm.ac.uk/jdsml/research-curation/projects/butmoth/GenusList3.dsml?searchPageURL=index.dsml&SUPERFAMIL=&FAMILYqtype=starts+with&FAMILY=gelechiidae&SUBFAMILYqtype=starts+with&SUBFAMILY=&TRIBEqtype=starts+with&TRIBE=&SUBTRIBEqtype=starts+with&SUBTRIBE=&GENUSqtype=starts+with&GENUS=&AUTHORqtype=starts+with&AUTHOR=&YEARqtype=equals&YEAR=&sort=GENUS> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Soeren_Pirson> <http://dbpedia.org/property/redirect> <http://dbpedia.org/resource/S%C3%B6ren_Pirson> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Marshall> <http://xmlns.com/foaf/0.1/page> <http://en.wikipedia.org/wiki/Marshall> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/FC_Lokomotiv_St._Petersburg> <http://dbpedia.org/property/pageId> "22409235"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://upload.wikimedia.org/wikipedia/commons/1/14/Walton-on-the-Naze_Station.jpg> <http://xmlns.com/foaf/0.1/thumbnail> <http://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Walton-on-the-Naze_Station.jpg/200px-Walton-on-the-Naze_Station.jpg> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Crossing_the_Line_%28short%29> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Imdb_title> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Croot> <http://www.w3.org/2000/01/rdf-schema#label> "Croot"@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Muputu> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Wildlife_World_Zoo> <http://dbpedia.org/property/revisionId> "342686234"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://dbpedia.org/resource/%C5%81ys%C3%B3w%2C_Masovian_Voivodeship> <http://dbpedia.org/property/longs> "24"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Mort_%28Syriac%29> <http://xmlns.com/foaf/0.1/page> <http://en.wikipedia.org/wiki/Mort_%28Syriac%29> .}
+SELECT * WHERE {<http://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Hokuto_no_Ken_%281986_movie_pamphlet%29.jpg/200px-Hokuto_no_Ken_%281986_movie_pamphlet%29.jpg> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/Image:Hokuto_no_Ken_%281986_movie_pamphlet%29.jpg> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Ian_Hamilton_%28footballer%29> <http://dbpedia.org/property/pageId> "24068078"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Indiana_State_Road_113> <http://dbpedia.org/property/pageId> "15318105"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Meenas> <http://www.w3.org/2000/01/rdf-schema#label> "Meenas"@en .}
+SELECT * WHERE {<http://dbpedia.org/resource/Yurakar> <http://xmlns.com/foaf/0.1/page> <http://en.wikipedia.org/wiki/Yurakar> .}
+SELECT * WHERE {<http://upload.wikimedia.org/wikipedia/en/1/11/OSL10Party.jpg> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/Image:OSL10Party.jpg> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/That%27s_the_Way_I_Like_It> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/That%27s_the_Way_I_Like_It> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Still_Tippin%27> <http://dbpedia.org/property/length> "4:37"@en .}
+SELECT * WHERE {<http://dbpedia.org/resource/Slingsby_T.2_Falcon_II> <http://xmlns.com/foaf/0.1/page> <http://en.wikipedia.org/wiki/Slingsby_T.2_Falcon_II> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Bratmobile> <http://www.w3.org/2000/01/rdf-schema#comment> "Bratmobile was an American punk band. Bratmobile was a first-generation Riot Grrrl band that grew from the Northwest and Washington DC underground. It was influenced by indie pop in the United States as well as Britpop, girl groups, surf, and punk rock."@en .}
+SELECT * WHERE {<http://upload.wikimedia.org/wikipedia/commons/f/f0/MunsBoyaca_Paez.png> <http://xmlns.com/foaf/0.1/thumbnail> <http://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/MunsBoyaca_Paez.png/200px-MunsBoyaca_Paez.png> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/The_Comeback_%281993%29> <http://dbpedia.org/property/pageId> "1897918"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/CIMG0221.JPG> <http://dbpedia.org/property/pageId> "12129614"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Luis_Fern%C3%A1ndez_de_C%C3%B3rdoba_y_Arce> <http://dbpedia.org/ontology/abstract> "Luis Fern\u00E1ndez de C\u00F3rdoba y Arce was a Spanish sailor and military man who was Governor of Chile between May 1625 and December 1629. A Spanish noble gentleman of El Carpio, in the Province of Cordova and member of an influential family, Luis Fernandez de Cordoba y Arce made his military career in the navy becoming a general of the Navy of the Philippines. After that he was given a post, by his uncle the Viceroy of Peru, Diego Fern\u00E1ndez de C\u00F3rdoba, Marquis of Guadalc\u00E1zar. He was made general of the plaza and presidio of El Collo, one of the major naval bases in the Spanish Pacific at the time. When the Marquess of Guadalc\u00E1zar, heard of the death of the Governor of Chile, Pedro Osores de Ulloa, he decided to replace the temporary governor, Francisco de Alava and Nure\u00F1a. Nure\u00F1a was the brother-in-law of the deceased Osores, designated by Osores during his final hours. In order to replace him the viceroy designated as temporary Governor his own nephew Luis Fern\u00E1ndez de C\u00F3rdoba y Arce, hoping that he would have occasion to display his military skills in the War of Arauco. He was later confirmed in the position by king Philip III of Spain. From his arrival in Chile, the governor was immediately in the most urgent situation with the Mapuche toqui Butapich\u00FAn making frequent incursions into Spanish territory north of the Bio-Bio River. In order to contain him, the new governor divided the border into two districts .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Incandescent_bulb> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/1865_in_art> <http://dbpedia.org/property/revisionId> "334264749"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Ali_Azmat> <http://dbpedia.org/ontology/associatedMusicalArtist> <http://dbpedia.org/resource/Junoon_%28band%29> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Clavell%27s_Tower> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Rabaul> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://dbpedia.org/resource/Mamoru_Osh%C3%AE> <http://xmlns.com/foaf/0.1/page> <http://en.wikipedia.org/wiki/Mamoru_Osh%C3%AE> .}
+SELECT * WHERE {<http://dbpedia.org/resource/List_of_Sister%2C_Sister_episodes__20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TelevisionEpisode> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Born_in_East_L._A.> <http://dbpedia.org/property/revisionId> "180965921"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Ryan_Flamingo> <http://www.w3.org/2000/01/rdf-schema#comment> "The Ryan Flamingo was a small monoplane produced by the Ryan Aeronautical Company in the 1930s. The plane is best remembered for its role in the discovery of Angel Falls by Jimmy Angel in 1935. Although well known to the local indigenous population, the falls had only been glimpsed by European explorers until Jimmy Angel crash landed while attempting to land above the falls on Auyan-tepui during gold exploration."@en .}
+SELECT * WHERE {<http://dbpedia.org/resource/Nikki_Gemmell> <http://xmlns.com/foaf/0.1/homepage> <http://www.nikkigemmell.com/> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Olofstorp> <http://dbpedia.org/property/pageId> "5530296"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://dbpedia.org/resource/List_of_synthetic_polymers> <http://www.w3.org/2000/01/rdf-schema#label> "List of synthetic polymers"@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Sound_of_the_Desert> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Sound_of_the_Desert> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Te_Kura_Kaupapa_Maori_o_Kaikohe> <http://dbpedia.org/property/redirect> <http://dbpedia.org/resource/Kaikohe%23Education> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Minot_Train_Derailment> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Minot_Train_Derailment> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Zoonavena_sylvatica> <http://xmlns.com/foaf/0.1/page> <http://en.wikipedia.org/wiki/Zoonavena_sylvatica> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Fake-orgasm> <http://dbpedia.org/property/revisionId> "33079158"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Bhs_int_drama.jpg> <http://dbpedia.org/property/pageId> "9270579"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Indostomus> <http://dbpedia.org/property/pageId> "10253729"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Neo-medievalism> <http://dbpedia.org/ontology/abstract> "Neo-medievalism (or neomedievalism) is a neologism that was first popularized by Italian medievalist Umberto Eco in his 1973 essay \"Dreaming in the Middle Ages\". The term has no clear definition but has since been used by various writers such as medieval historians who see it as the intersection between popular fantasy and medieval history .}
+SELECT * WHERE {<http://dbpedia.org/resource/Category:1822_in_military_history> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Raging_Wolf_Bobs> <http://dbpedia.org/property/revisionId> "332965612"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://dbpedia.org/resource/%C5%8Csumi> <http://dbpedia.org/property/disambiguates> <http://dbpedia.org/resource/%C5%8Csumi_%28satellite%29> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/State_of_california> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Canyon_prince> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Canyon_prince> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Octave_of_Christmas> <http://dbpedia.org/property/redirect> <http://dbpedia.org/resource/Octave_of_the_Nativity> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/3rd_Division> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/3rd_Division> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Perichlor> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://dbpedia.org/resource/Poland_%28novel%29> <http://www.w3.org/2000/01/rdf-schema#label> "Poland (novel)"@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Houston_Baptist_University_alumni> <http://dbpedia.org/property/pageId> "24375836"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/George_Webley> <http://dbpedia.org/property/revisionId> "338870340"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Porcellanite> <http://xmlns.com/foaf/0.1/page> <http://en.wikipedia.org/wiki/Porcellanite> .}
+SELECT * WHERE {<http://dbpedia.org/resource/GJ_1214b> <http://www.w3.org/2000/01/rdf-schema#label> "GJ 1214b"@en .}
+SELECT * WHERE {<http://dbpedia.org/resource/Uromyces_lineolatus_ssp._nearcticus> <http://www.w3.org/2000/01/rdf-schema#label> "Uromyces lineolatus ssp. nearcticus"@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/KFPH-TV_logo.png> <http://dbpedia.org/property/revisionId> "344643390"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Alhaji_Jeng> <http://dbpedia.org/ontology/abstract> "Alhaji Jeng is a Swedish pole vaulter and actor. He came to Sweden when he was just 3 months old but retained his Gambian citizenship until he was 18 years old, when he applied for and was granted Swedish citizenship. He currently has the Gambian national record at 5.30 metres, set before his Swedish citizenship. For Sweden he won the silver medal at the 2006 IAAF World Indoor Championships. He holds the Swedish national indoor record at 5.80 metres. His outdoor personal best is also 5.80 metres, achieved in June 2006 in Zhukovskiy. This places him third on the Swedish all-time list, behind Oscar Janson and Patrik Kristiansson and equal to Martin Eriksson."@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Frank_Barsalona> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Frank_Barsalona> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Halifax_Citadel> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Halifax_Citadel> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Sheikh_Adi_Ibn_Musafir> <http://xmlns.com/foaf/0.1/page> <http://en.wikipedia.org/wiki/Sheikh_Adi_Ibn_Musafir> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Vapor_Trail_%28video_game%29> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://dbpedia.org/resource/1996_Australian_Men%27s_Hardcourt_Championships_-_Doubles> <http://dbpedia.org/property/redirect> <http://dbpedia.org/resource/1996_Australian_Men%27s_Hardcourt_Championships_%E2%80%93_Doubles> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Waynesboro%2C_MS> <http://dbpedia.org/property/redirect> <http://dbpedia.org/resource/Waynesboro%2C_Mississippi> .}
+SELECT * WHERE {<http://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Rufford_Hall_Rear.JPG/200px-Rufford_Hall_Rear.JPG> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/Image:Rufford_Hall_Rear.JPG> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Winter_Gardens_%28Cleethorpes%29> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Winter_Gardens_%28Cleethorpes%29> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Clondalkin_RFC> <http://dbpedia.org/property/pageId> "20756021"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/M._Clyde_Kelly> <http://dbpedia.org/property/revisionId> "64268963"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Cricket_pitch> <http://xmlns.com/foaf/0.1/page> <http://en.wikipedia.org/wiki/Cricket_pitch> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Broom_flower> <http://dbpedia.org/property/redirect> <http://dbpedia.org/resource/Broom_%28shrub%29> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Hypopyra_restorans> <http://www.w3.org/2000/01/rdf-schema#label> "Hypopyra restorans"@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Sbardellat_Andrzej_Dudith> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Sbardellat_Andrzej_Dudith> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Division_of_O%27Connor> <http://dbpedia.org/property/revisionId> "332360531"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://dbpedia.org/resource/William_Henry_Barber> <http://www.w3.org/2000/01/rdf-schema#label> "William Henry Barber"@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Kirsch_%28disambiguation%29> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://dbpedia.org/resource/Category:French_surfers> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:French_sportspeople> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/China_Military_Museum> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/China_Military_Museum> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Ring_%28jewellery%29> <http://www.w3.org/2000/01/rdf-schema#label> "Ring (jewellery)"@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/NKL-23> <http://dbpedia.org/property/revisionId> "31889011"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Howlong> <http://dbpedia.org/property/revisionId> "115273044"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Venuses> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://dbpedia.org/resource/68881_Microprocessor> <http://dbpedia.org/property/redirect> <http://dbpedia.org/resource/Motorola_68881> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Against_All_Flags_1952.jpg> <http://dbpedia.org/property/pageId> "9430529"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Camp_Spaulding%2C_California> <http://dbpedia.org/property/pageId> "22983816"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Abies_fraseri_cone.jpg/200px-Abies_fraseri_cone.jpg> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/Image:Abies_fraseri_cone.jpg> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Tucuman_pygmy_owl> <http://www.w3.org/2000/01/rdf-schema#label> "Tucuman pygmy owl"@en .}
+SELECT * WHERE {<http://dbpedia.org/resource/Gemuenden_%28Westerwald%29> <http://xmlns.com/foaf/0.1/page> <http://en.wikipedia.org/wiki/Gemuenden_%28Westerwald%29> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Cremona_Baptistery> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://dbpedia.org/resource/Spangereid> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "58.04527777777778"^^<http://www.w3.org/2001/XMLSchema#float> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Kingswood_Park%2C_New_South_Wales> <http://dbpedia.org/property/pageId> "2781646"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Derrick_haro> <http://xmlns.com/foaf/0.1/page> <http://en.wikipedia.org/wiki/Derrick_haro> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Alan_Rickmansnape.jpg> <http://dbpedia.org/property/revisionId> "347123523"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://upload.wikimedia.org/wikipedia/commons/1/1b/Michigan_102_map.png> <http://xmlns.com/foaf/0.1/thumbnail> <http://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Michigan_102_map.png/200px-Michigan_102_map.png> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Gakhar> <http://dbpedia.org/property/pageId> "2854242"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/XLT_agar> <http://dbpedia.org/property/pageId> "10285447"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/NWA_World_Heavyweight_Championship> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://dbpedia.org/resource/Jask%C3%B3%C5%82ki> <http://www.w3.org/2000/01/rdf-schema#label> "Jask\u00F3\u0142ki"@en .}
+SELECT * WHERE {<http://dbpedia.org/resource/St._Elzear_de_Sabran> <http://dbpedia.org/property/redirect> <http://dbpedia.org/resource/Elz%C3%A9ar_of_Sabran> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Arbeidsforskningsinstituttet> <http://www.w3.org/2000/01/rdf-schema#label> "Arbeidsforskningsinstituttet"@en .}
+SELECT * WHERE {<http://dbpedia.org/resource/Category:United_States_history_books> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .}
+SELECT * WHERE {<http://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Buzlukens.jpg/200px-Buzlukens.jpg> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/Image:Buzlukens.jpg> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/PBS_South_Dakota> <http://dbpedia.org/property/pageId> "5627664"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Himeji> <http://dbpedia.org/property/pageId> "25253420"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Petr_Drobisz> <http://dbpedia.org/property/pageId> "24163720"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Category:1477_in_Scotland> <http://www.w3.org/2004/02/skos/core#prefLabel> "1477 in Scotland"@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Vakhtang_Kobalia> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://dbpedia.org/resource/David_J._Kern> <http://dbpedia.org/ontology/thumbnail> <http://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/United_States_Department_of_the_Navy_Seal.svg/200px-United_States_Department_of_the_Navy_Seal.svg.png> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Enneastichus> <http://www.w3.org/2004/02/skos/core#subject> <http://dbpedia.org/resource/Category:Eulophidae> .}
+SELECT * WHERE {<http://upload.wikimedia.org/wikipedia/commons/9/9a/Lomas_de_Chapultepec.png> <http://xmlns.com/foaf/0.1/thumbnail> <http://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Lomas_de_Chapultepec.png/200px-Lomas_de_Chapultepec.png> .}
+SELECT * WHERE {<http://dbpedia.org/resource/360-day_calendar> <http://www.w3.org/2004/02/skos/core#subject> <http://dbpedia.org/resource/Category:Bonds> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Category:Businesspeople_by_industry> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Businesspeople> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Arterial_bruits> <http://dbpedia.org/property/redirect> <http://dbpedia.org/resource/Bruit> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Walmington> <http://dbpedia.org/property/revisionId> "64101676"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Panurge_%28opera%29> <http://www.w3.org/2000/01/rdf-schema#label> "Panurge (opera)"@en .}
+SELECT * WHERE {<http://dbpedia.org/resource/Pyramids_Of_Mars> <http://xmlns.com/foaf/0.1/page> <http://en.wikipedia.org/wiki/Pyramids_Of_Mars> .}
+SELECT * WHERE {<http://dbpedia.org/resource/King_I> <http://dbpedia.org/ontology/abstract> "King I is the abbreviated name for the King Report on Corporate Governance published 1994 in South Africa. Produced by the King Committee on Corporate Governance, that was led by former High Court judge, Mervyn King, it included a Code of Corporate Practices and Conduct, the first of its kind in South Africa."@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Resident_Evil_4_Story> <http://dbpedia.org/property/pageId> "2780811"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Santa_Fe_Province> <http://dbpedia.org/property/longEw> "W"@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Roman_Catholic_secondary_schools_in_Rhode_Island> <http://dbpedia.org/property/revisionId> "217528631"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/FC_Elta_Yelets> <http://dbpedia.org/property/revisionId> "283544349"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Richmond%2C_Yorkshire> <http://dbpedia.org/property/redirect> <http://dbpedia.org/resource/Richmond%2C_North_Yorkshire> .}
+SELECT * WHERE {<http://dbpedia.org/resource/The_Tin_Flute> <http://dbpedia.org/property/oclc> "20541923"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT * WHERE {<http://upload.wikimedia.org/wikipedia/commons/4/44/Autocine%2772shot.jpg> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/Image:Autocine%2772shot.jpg> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Vicariate_Apostolic_of_Kimberley_in_Orange> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Tbong_Kmum> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Tbong_Kmum> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Holstein%2C_Nebraska> <http://dbpedia.org/property/revisionId> "342625548"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Umbilicaria_mammulata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Eukaryote> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/PRPNPnominees> <http://dbpedia.org/property/pageId> "4015337"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/YourFreeGift.gif> <http://dbpedia.org/property/revisionId> "145695457"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/French_rule_in_India> <http://dbpedia.org/property/revisionId> "332997757"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://dbpedia.org/resource/MSZ-006_Zeta_Gundam> <http://xmlns.com/foaf/0.1/page> <http://en.wikipedia.org/wiki/MSZ-006_Zeta_Gundam> .}
+SELECT * WHERE {<http://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Delaware_County_Iowa_Incorporated_and_Unincorporated_areas_Dundee_Highlighted.svg/200px-Delaware_County_Iowa_Incorporated_and_Unincorporated_areas_Dundee_Highlighted.svg.png> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/Image:Delaware_County_Iowa_Incorporated_and_Unincorporated_areas_Dundee_Highlighted.svg> .}
+SELECT * WHERE {<http://dbpedia.org/resource/United_Hospice_of_Rockland> <http://www.w3.org/2000/01/rdf-schema#comment> "United Hospice of Rockland (UHR) is a non-profit hospice serving Rockland and lower Orange counties in New York. UHR has been a resource in hospice and palliative care since 1988. UHR is credited with implementing the first New York-based Advance Directive online storage website called AssuringYourWishes. Org. The organization is also the proud recipient of one of the largest philanthropic donations ever made in Rockland County."@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Speckled_sanddab> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://dbpedia.org/resource/Frank_Bola%C3%B1os> <http://www.w3.org/2000/01/rdf-schema#label> "Frank Bola\u00F1os"@en .}
+SELECT * WHERE {<http://upload.wikimedia.org/wikipedia/commons/6/6f/SouthAbbeyYoughalSite.JPG> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/Image:SouthAbbeyYoughalSite.JPG> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Milena_Dravi%C4%87> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Milena_Dravi%C4%87> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Hej_Slaveni> <http://dbpedia.org/property/revisionId> "16978348"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Short%2C_OK> <http://dbpedia.org/property/redirect> <http://dbpedia.org/resource/Short%2C_Oklahoma> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Pedagogical_University_of_Tallinn> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://dbpedia.org/resource/List_of_DirecTV_Channels_Family_%28North_America%29> <http://dbpedia.org/property/redirect> <http://dbpedia.org/resource/List_of_DirecTV_channels_%28United_States%29> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Category:Lists_of_films_by_year> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Bob_Storer> <http://dbpedia.org/property/redirect> <http://dbpedia.org/resource/Robert_Treat_Paine_Storer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Orca2jonas1987.jpg> <http://dbpedia.org/property/pageId> "12723759"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Dinozaurs:_The_Series> <http://xmlns.com/foaf/0.1/page> <http://en.wikipedia.org/wiki/Dinozaurs:_The_Series> .}
+SELECT * WHERE {<http://upload.wikimedia.org/wikipedia/commons/c/c2/Flag_of_Sabah.png> <http://xmlns.com/foaf/0.1/thumbnail> <http://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Flag_of_Sabah.png/200px-Flag_of_Sabah.png> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Category:Protestant_Jacobites> <http://www.w3.org/2004/02/skos/core#prefLabel> "Protestant Jacobites"@en .}
+SELECT * WHERE {<http://dbpedia.org/resource/Sari%C3%B1ena%2C_Spain> <http://dbpedia.org/property/redirect> <http://dbpedia.org/resource/Sari%C3%B1ena> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Titular_line> <http://www.w3.org/2000/01/rdf-schema#label> "Titular line"@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Legality_of_marijuana> <http://dbpedia.org/property/pageId> "10137231"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://dbpedia.org/resource/The_Blindswordsman:_Zatoichi> <http://xmlns.com/foaf/0.1/page> <http://en.wikipedia.org/wiki/The_Blindswordsman:_Zatoichi> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Dell_Computers> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/St._Patrick%27s_Cathedral%2C_New_York> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/St._Patrick%27s_Cathedral%2C_New_York> .}
+SELECT * WHERE {<http://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Hunt_House_%28St._Charles%2C_IL%29_02.JPG/200px-Hunt_House_%28St._Charles%2C_IL%29_02.JPG> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/Image:Hunt_House_%28St._Charles%2C_IL%29_02.JPG> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Mycenean_Greeks> <http://www.w3.org/2000/01/rdf-schema#label> "Mycenean Greeks"@en .}
+SELECT * WHERE {<http://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Erie_Crossing_-_Cresent_Bridge_-_East_Side.jpg/200px-Erie_Crossing_-_Cresent_Bridge_-_East_Side.jpg> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/Image:Erie_Crossing_-_Cresent_Bridge_-_East_Side.jpg> .}
+SELECT * WHERE {<http://dbpedia.org/resource/San_Martin_de_Burzaco> <http://xmlns.com/foaf/0.1/page> <http://en.wikipedia.org/wiki/San_Martin_de_Burzaco> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/W._R._Bennet_Bridge> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/W._R._Bennet_Bridge> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/KPEN> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/KPEN> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Johnny_Alegre_AFFINITY> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Johnny_Alegre_AFFINITY> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Marsupial_carnivore> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Mentzer_index> <http://dbpedia.org/property/revisionId> "328007242"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Gavin_McNiece> <http://dbpedia.org/property/pageId> "21293623"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/2009_Saudi_Arabia_floods> <http://dbpedia.org/property/pageId> "25256007"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://dbpedia.org/property/castingProducers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Pungent_Pipistrelle> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Lenzburg_Township_StClair.PNG> <http://dbpedia.org/property/pageId> "9493294"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Frederick_Sherman_Field> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://dbpedia.org/resource/List_of_Captain_Scarlet_and_the_Mysterons_episodes__13> <http://xmlns.com/foaf/0.1/name> "Point 783"@en .}
+SELECT * WHERE {<http://dbpedia.org/resource/Category:Var> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Personal_tutor> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Personal_tutor> .}
+SELECT * WHERE {<http://upload.wikimedia.org/wikipedia/commons/9/98/Jaraquemada_Ulloa_y_Talaverano.jpg> <http://xmlns.com/foaf/0.1/thumbnail> <http://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Jaraquemada_Ulloa_y_Talaverano.jpg/200px-Jaraquemada_Ulloa_y_Talaverano.jpg> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Atlanta_Historical_Society> <http://xmlns.com/foaf/0.1/page> <http://en.wikipedia.org/wiki/Atlanta_Historical_Society> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Zone_Multicast_Address> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Zone_Multicast_Address> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Thomas_W._Bifwoli> <http://xmlns.com/foaf/0.1/page> <http://en.wikipedia.org/wiki/Thomas_W._Bifwoli> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Russia_St._Petersburg> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Russia_St._Petersburg> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Category:Central_African_Roman_Catholic_bishops> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Central_African_Roman_Catholic_priests> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/FA-Class_Nepal_articles> <http://dbpedia.org/property/revisionId> "172883138"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Andre_Lakos> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Andre_Lakos> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Pedro_Segura_y_Saenz> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://dbpedia.org/resource/Beelzeboss_%28The_Final_Showdown%29> <http://xmlns.com/foaf/0.1/page> <http://en.wikipedia.org/wiki/Beelzeboss_%28The_Final_Showdown%29> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/List_of_Lepidoptera_which_feed_on_Viburnum> <http://dbpedia.org/property/pageId> "14708960"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/U_S_Route_2_Business_%28Montpelier%2C_Vermont%29> <http://dbpedia.org/property/pageId> "15540249"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Mr._Wise_Guy> <http://dbpedia.org/property/runtime> "58.0"^^<http://dbpedia.org/datatype/minute> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Eldhr%C3%ADmnir> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Aloise_%28film%29> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://dbpedia.org/resource/Bottlenose_skate> <http://dbpedia.org/ontology/class> <http://dbpedia.org/resource/Chondrichthyes> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Atl%C3%A9tico-GO> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Atl%C3%A9tico-GO> .}
+SELECT * WHERE {<http://upload.wikimedia.org/wikipedia/commons/2/29/Wroclaw_stadion_olimpijski_z_bramy.jpg> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/Image:Wroclaw_stadion_olimpijski_z_bramy.jpg> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/A_Bunch_of_Fives> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/A_Bunch_of_Fives> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Divertimento_from_%E2%80%9CLe_Baiser_de_la_F%C3%A9e%E2%80%9D> <http://dbpedia.org/property/revisionId> "327953883"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Proposed_beaconsfield_tram_route.gif> <http://dbpedia.org/property/pageId> "24038877"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Major_party> <http://www.w3.org/2004/02/skos/core#subject> <http://dbpedia.org/resource/Category:Political_parties> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/CNPA> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Amedeo_Nazzari.jpg/200px-Amedeo_Nazzari.jpg> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/Image:Amedeo_Nazzari.jpg> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Keskadale_Beck> <http://dbpedia.org/ontology/abstract> "Keskadale Beck is a minor river of Cumbria, England. The beck rises at the confluence of High Hole Beck (which rises beneath Robinson Crags) and Moss Beck. From there, Keskadale Beck flows north east, picking up Dudmanscomb Gill (running north from Robinson). Ill Gill joins near Keskadale Farm. The beck joins Newlands Beck opposite Little Town."@en .}
+SELECT * WHERE {<http://dbpedia.org/resource/Istria%2C_Constanta> <http://dbpedia.org/property/redirect> <http://dbpedia.org/resource/Istria%2C_Constan%C5%A3a> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/A._O._Bacon> <http://dbpedia.org/property/revisionId> "210407377"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Kaolin_pneumoconiosis> <http://dbpedia.org/property/revisionId> "50363576"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/AIESEC> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/AIESEC> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Swine_flu_%28outbreak_in_the_US%29> <http://www.w3.org/2000/01/rdf-schema#label> "Swine flu (outbreak in the US)"@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Mayo-Kebbi_Ouest_Region> <http://dbpedia.org/property/pageId> "25054933"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/History_of_buddhism_in_india> <http://dbpedia.org/property/pageId> "14951413"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Kraski_Teks> <http://xmlns.com/foaf/0.1/page> <http://en.wikipedia.org/wiki/Kraski_Teks> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Krosino%2C_%C5%9Awidwin_County> <http://dbpedia.org/property/pageId> "22000643"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Access_Slope> <http://dbpedia.org/property/pageId> "16517735"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Berryz_Kobo_-_Fighting_Pose_wa_Date_ja_Nai%21_single_cover.jpg> <http://dbpedia.org/property/pageId> "21951419"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://upload.wikimedia.org/wikipedia/commons/d/d1/John_Riley_Painter.jpg> <http://xmlns.com/foaf/0.1/thumbnail> <http://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/John_Riley_Painter.jpg/200px-John_Riley_Painter.jpg> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Lissa_Halls_Johnson> <http://www.w3.org/2000/01/rdf-schema#comment> "Lissa Halls Johnson is the author of novels for teens, preteens and young adults. Notably, she was the creator, editor and writer for the Brio girls series and for the Kid Witness book series. She has contributed to Brio, Breakaway, Focus on the Family Magazine, TQ, and other periodicals. She has written radio drama scripts and was previously a member of the Adventures in Oddyssey creative team."@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Andries_Nieman> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://upload.wikimedia.org/wikipedia/commons/b/b6/DeSoto_Map_Leg_4_HRoe_2008.jpg> <http://xmlns.com/foaf/0.1/thumbnail> <http://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/DeSoto_Map_Leg_4_HRoe_2008.jpg/200px-DeSoto_Map_Leg_4_HRoe_2008.jpg> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Place_Saint-Michel> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/UK_Air_Transport_Movements_1981_2006_.jpg> <http://dbpedia.org/property/pageId> "13654495"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Harlow_Town_railway_station> <http://www.georss.org/georss/point> "51.781 0.095"@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Elaeocarpus_cordifolius> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Elaeocarpus_cordifolius> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Dragonball_Z_American_Soundtrack_series__Dragonball_Z_American_Soundtrack_Best_of_Dragonbal> <http://xmlns.com/foaf/0.1/name> "Dragonball Z American Soundtrack Best of Dragonball Z: Volume II"@en .}
+SELECT * WHERE {<http://upload.wikimedia.org/wikipedia/commons/3/3c/TheDelivery_JeffFrancis.jpg> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/Image:TheDelivery_JeffFrancis.jpg> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Kildonan_%28Manitoba_riding%29> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Hyperemesis_gravidarum> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Hyperemesis_gravidarum> .}
+SELECT * WHERE {<http://dbpedia.org/resource/The_Reverend_Samuel_Hopkins> <http://dbpedia.org/property/redirect> <http://dbpedia.org/resource/Samuel_Hopkins_%281721%E2%80%931803%29> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Pitchers_who_struck_out_three_batters_on_nine_pitches> <http://www.w3.org/2000/01/rdf-schema#label> "Pitchers who struck out three batters on nine pitches"@en .}
+SELECT * WHERE {<http://dbpedia.org/resource/Parque_de_la_Independencia> <http://dbpedia.org/ontology/abstract> "The Parque de la Independencia (Independence Park) is a large public park in Rosario, province of Santa Fe, Argentina. It is located near the geographical center of the city, its limits defined by Moreno Street and three important avenues: Pellegrini Avenue, Ovidio Lagos Avenue, and 27 de Febrero Boulevard. It has a surface area of 1.26 km\u00B2 and includes a number of attractions: The Rosedal (Rose Garden), finished in 1915, with several species of roses, as well as sculptures and fountains. The French Garden, built in 1942, with many flower arrangements and a large marble fountain. The Calendar, where every evening since 1946 gardeners re-arrange the flowers to show the date written on the ground. An area reserved for fairs, initially intended for agricultural expositions, then also industry and commerce. The former Rosario Jockey Club's horsetrack. The Museum of the City, opened in 1902, initially the School of Gardener Apprentices. The Jorge Newbery Municipal Stadium, started in 1925, the first state-funded sports venue for public use in the country. The Juan B. Castagnino Fine Arts Museum, opened in 1937. The Dr. Julio Marc Provincial Historical Museum, opened in 1939. The Children's Garden, an area of 35,000 m\u00B2 with amusement and educational facilities. The park also hosts three sports clubs: Club Gimnasia y Esgrima. Club Atl\u00E9tico Newell's Old Boys (one of the main football teams in the city). Club Atl\u00E9tico Provincial."@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Varj%C3%A3o_de_Minas> <http://dbpedia.org/property/revisionId> "342868782"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Ron_Cahute> <http://www.w3.org/2004/02/skos/core#subject> <http://dbpedia.org/resource/Category:1955_births> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Sports_Car_GT> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Whitecar_coaches> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Whitecar_coaches> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/M/V_Pont_L%27Abb%C3%A9> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Battle_on_the_Ice_of_Lake_Vaenern> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Battle_on_the_Ice_of_Lake_Vaenern> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Driver_ant> <http://xmlns.com/foaf/0.1/page> <http://en.wikipedia.org/wiki/Driver_ant> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Category:1299_establishments> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Eucharist_%28Catholic_Church%29> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Dinio_Garc%C3%ADa> <http://dbpedia.org/property/revisionId> "65785829"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Trinidad_Drilling_logo.svg> <http://dbpedia.org/property/pageId> "21440122"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Saint_Petersburg_Academic_Symphony_Orchestra> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/J.B._Statham> <http://dbpedia.org/property/pageId> "1747509"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Herbig> <http://dbpedia.org/property/revisionId> "339431600"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Tulsa_Race_Riot> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Tulsa_Race_Riot> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Dharma-maharaja> <http://dbpedia.org/property/revisionId> "49163173"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Alex_Lees> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Alex_Lees> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Rock_Star_%28N.E.R.D._song%29> <http://dbpedia.org/property/revisionId> "345716637"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Into_The_Fire> <http://xmlns.com/foaf/0.1/page> <http://en.wikipedia.org/wiki/Into_The_Fire> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Sensory_evidental_mood> <http://dbpedia.org/property/revisionId> "101222381"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/M%C3%A0bba_Jaxu_Ba> <http://dbpedia.org/property/pageId> "11885892"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Hamsunsenteret> <http://dbpedia.org/property/revisionId> "335081119"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Category:Behavioral_economists> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Economists_by_area_of_research> .}
+SELECT * WHERE {<http://upload.wikimedia.org/wikipedia/en/thumb/1/10/TokaidoHakone.jpg/200px-TokaidoHakone.jpg> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/Image:TokaidoHakone.jpg> .}
+SELECT * WHERE {<http://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Katowice_-_BSKING.JPG/200px-Katowice_-_BSKING.JPG> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/Image:Katowice_-_BSKING.JPG> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Rome_Fiumicino_airport> <http://xmlns.com/foaf/0.1/page> <http://en.wikipedia.org/wiki/Rome_Fiumicino_airport> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Massachusetts_Defense_Expeditionary_Ribbon> <http://dbpedia.org/property/redirect> <http://dbpedia.org/resource/Awards_and_decorations_of_the_National_Guard%23Massachusetts> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Theory_of_Indigenous_Aryans_in_India> <http://dbpedia.org/property/pageId> "12162922"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Chaeryong> <http://xmlns.com/foaf/0.1/page> <http://en.wikipedia.org/wiki/Chaeryong> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Yeyo> <http://xmlns.com/foaf/0.1/page> <http://en.wikipedia.org/wiki/Yeyo> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/CTHF> <http://dbpedia.org/property/pageId> "24787635"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/P2250067.jpg> <http://dbpedia.org/property/revisionId> "313916148"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Rsbot> <http://dbpedia.org/property/revisionId> "349351681"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/List_of_football_clubs_in_the_Democratic_Republic_of_the_Congo> <http://dbpedia.org/property/pageId> "17111683"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Forgotten_Coast_Florida.png/200px-Forgotten_Coast_Florida.png> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/Image:Forgotten_Coast_Florida.png> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/YLPM1> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://dbpedia.org/resource/Christmas_on_the_Sea_%28song%29> <http://dbpedia.org/property/redirect> <http://dbpedia.org/resource/Christmas_on_the_Sea> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Point_d%27Angleterre> <http://dbpedia.org/property/revisionId> "215808679"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://upload.wikimedia.org/wikipedia/commons/d/d6/USA_inauguration_1921.jpg> <http://xmlns.com/foaf/0.1/thumbnail> <http://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/USA_inauguration_1921.jpg/200px-USA_inauguration_1921.jpg> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Aagneya> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Travesty_of_Heavenly_Essence> <http://dbpedia.org/property/pageId> "10655176"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/11548_Jerrylewis> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/11548_Jerrylewis> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Dingnan> <http://xmlns.com/foaf/0.1/page> <http://en.wikipedia.org/wiki/Dingnan> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Key_West%2C_FL_%C2%B5SA> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Key_West%2C_FL_%C2%B5SA> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Underwater_Artery%2C_Thessaloniki> <http://xmlns.com/foaf/0.1/page> <http://en.wikipedia.org/wiki/Underwater_Artery%2C_Thessaloniki> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Non-religious_funeral> <http://dbpedia.org/property/redirect> <http://dbpedia.org/resource/Funeral> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Maryland_State_Highway_275> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://dbpedia.org/resource/Category:United_States_civil_utility_aircraft_1930-1939> <http://www.w3.org/2004/02/skos/core#prefLabel> "United States civil utility aircraft 1930-1939"@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Manure_spreader> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Katsura_Villa> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/United_Nations_Security_Council_Resolution_427> <http://dbpedia.org/property/pageId> "25919029"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Paramakudi> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Last_Gordo_comic_strip.jpg/200px-Last_Gordo_comic_strip.jpg> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/Image:Last_Gordo_comic_strip.jpg> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Tinius_Nagell-Erichsen> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Tinius_Nagell-Erichsen> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Mirzaci> <http://dbpedia.org/property/redirect> <http://dbpedia.org/resource/M%C3%AErze%C5%9Fti> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/How_long%2C_o_Catiline%2C_will_you_abuse_our_patience> <http://dbpedia.org/property/pageId> "16916260"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Dr._perry_cox> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://dbpedia.org/resource/Category:China_League_One> <http://www.w3.org/2004/02/skos/core#prefLabel> "China League One"@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/The_McGraw-Hill_Companies_Inc.> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Tom_Cole_%28playwright%29> <http://dbpedia.org/property/revisionId> "275134413"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Civil_Action_08-cv-01222> <http://dbpedia.org/property/revisionId> "242542850"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Ugoda> <http://www.w3.org/2000/01/rdf-schema#label> "Ugoda"@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Fish_Hook_River> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/LewisGunckel.jpg> <http://dbpedia.org/property/pageId> "5700119"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Chess_Oscar> <http://dbpedia.org/property/revisionId> "335726471"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/James_Blake_House%2C_Dorchester%2C_Massachusetts_-_interior.JPG> <http://dbpedia.org/property/pageId> "2555442"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/AberllefenniQuarry.jpeg/200px-AberllefenniQuarry.jpeg> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/Image:AberllefenniQuarry.jpeg> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Scottish_Affairs_Committee> <http://dbpedia.org/property/pageId> "20253641"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Topotecan> <http://dbpedia.org/property/pageId> "4497996"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Petru_Lucinschi> <http://dbpedia.org/ontology/successor> <http://dbpedia.org/resource/Grigore_Eremei> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Master_of_James_IV_of_Scotland> <http://dbpedia.org/property/revisionId> "339768639"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/WLTM-FM.png> <http://dbpedia.org/property/pageId> "20740795"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Church_Ordinance> <http://dbpedia.org/property/revisionId> "232848429"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Gustave_Van_de_Woestijne> <http://dbpedia.org/property/pageId> "2690902"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Map_of_Mississippi_highlighting_Madison_County.png/200px-Map_of_Mississippi_highlighting_Madison_County.png> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/Image:Map_of_Mississippi_highlighting_Madison_County.png> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Dave_Strack> <http://dbpedia.org/ontology/abstract> "Dave Strack is a retired college basketball coach. He was the head coach at the University of Michigan from 1960 to 1968. He led the Wolverines to three NCAA tournament appearances and one title game appearance. He was also the head coach at the University of Idaho for one year. Strack had played collegiately at the University of Michigan and professionally for the Indianapolis Kautskys of the NBL."@en .}
+SELECT * WHERE {<http://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Minimi.jpg/200px-Minimi.jpg> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/Image:Minimi.jpg> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Scripture_Gift_Mission> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Raven-Symon%C3%A9_Christina_Pearman> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Raven-Symon%C3%A9_Christina_Pearman> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Montclar> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Montclar> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Sound_intensity_level> <http://dbpedia.org/property/revisionId> "273671536"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Sasuke_%28TV_series%29> <http://dbpedia.org/property/revisionId> "349801032"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/The_Humblebums> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/The_Humblebums> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Lake_B%C3%A4stetr%C3%A4sk> <http://www.w3.org/2000/01/rdf-schema#label> "Lake B\u00E4stetr\u00E4sk"@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/SR_38_%28CA%29> <http://dbpedia.org/property/revisionId> "53743290"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://dbpedia.org/resource/John_McKane> <http://dbpedia.org/property/title> "Member of Parliament for Mid Armagh"@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Dendrolagus_scottae> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://dbpedia.org/resource/Fried_slice> <http://xmlns.com/foaf/0.1/page> <http://en.wikipedia.org/wiki/Fried_slice> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Abdul_Razak_Ali> <http://dbpedia.org/property/pageId> "19459682"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Emily_van_Egmond> <http://dbpedia.org/property/revisionId> "327704886"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Special_Herbs_5_%26_6_cover.jpg> <http://dbpedia.org/property/revisionId> "173768337"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Science_Fiction_Book_Club> <http://dbpedia.org/property/redirect> <http://dbpedia.org/resource/Book_of_the_Month_Club%23Clubs_operated_by_Bookspan_and_affiliates> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Emilio_Bot%C3%ADn> <http://dbpedia.org/ontology/networth> "1.1E9"^^<http://dbpedia.org/datatype/euro> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Fred_MacLean> <http://xmlns.com/foaf/0.1/page> <http://en.wikipedia.org/wiki/Fred_MacLean> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Ajahn_Mun_Bhuridatta_Thera> <http://dbpedia.org/property/revisionId> "135116952"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/KCMC> <http://dbpedia.org/property/revisionId> "306907202"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://upload.wikimedia.org/wikipedia/commons/d/d5/Svend_Foyn.jpg> <http://xmlns.com/foaf/0.1/thumbnail> <http://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Svend_Foyn.jpg/200px-Svend_Foyn.jpg> .}
+SELECT * WHERE {<http://dbpedia.org/resource/List_of_sports_idioms> <http://dbpedia.org/ontology/abstract> "the ball is in one's (or another's) court \u2013 Tennis: Responsibility now belongs to the person named .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Francois_Cousin_House_%28Slidell%2C_Louisiana%29> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Francois_Cousin_House_%28Slidell%2C_Louisiana%29> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Category:1803_in_the_United_Kingdom> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:1800s_in_the_United_Kingdom> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Aro_gTer> <http://www.w3.org/2000/01/rdf-schema#label> "Aro gTer"@en .}
+SELECT * WHERE {<http://dbpedia.org/resource/Vickers_FB_5> <http://www.w3.org/2000/01/rdf-schema#label> "Vickers FB 5"@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Schisms> <http://dbpedia.org/property/revisionId> "16864612"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Treasongate> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://dbpedia.org/resource/Sony_bmg> <http://www.w3.org/2000/01/rdf-schema#label> "Sony bmg"@en .}
+SELECT * WHERE {<http://dbpedia.org/resource/Li_Yuejiu> <http://www.w3.org/2000/01/rdf-schema#label> "Li Yuejiu"@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/John_Kennedy%2C_Jr.> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/John_Kennedy%2C_Jr.> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/1995_World_Rhythmic_Gymnastics_Championships> <http://dbpedia.org/property/revisionId> "342907147"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/The_Eagle:_A_Crime_Odyssey> <http://dbpedia.org/property/pageId> "25600454"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Armillaria_affinis> <http://dbpedia.org/ontology/class> <http://dbpedia.org/resource/Agaricomycetidae> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Croydon%2C_Ontario> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://dbpedia.org/resource/Tall_in_the_saddle> <http://xmlns.com/foaf/0.1/page> <http://en.wikipedia.org/wiki/Tall_in_the_saddle> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Members_of_the_Legislative_Assembly_of_the_Province_of_Canada> <http://dbpedia.org/property/pageId> "3590133"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Bracket_%28architecture%29> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Song_Chaoqing> <http://dbpedia.org/property/revisionId> "344522403"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Bonhomme_Richard> <http://dbpedia.org/property/pageId> "555064"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://dbpedia.org/resource/USS_Galilea> <http://dbpedia.org/property/redirect> <http://dbpedia.org/resource/USS_Montauk_%28LSV-6%29> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Category:Museums_of_Ancient_Rome_in_the_United_Kingdom> <http://www.w3.org/2000/01/rdf-schema#label> "Museums of Ancient Rome in the United Kingdom"@en .}
+SELECT * WHERE {<http://upload.wikimedia.org/wikipedia/commons/9/9c/Logos_Hope_Kiel2008.jpg> <http://xmlns.com/foaf/0.1/thumbnail> <http://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logos_Hope_Kiel2008.jpg/200px-Logos_Hope_Kiel2008.jpg> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Category:Guinea%E2%80%93Mali_border_crossings> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .}
+SELECT * WHERE {<http://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/BMW_750il.jpg/200px-BMW_750il.jpg> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/Image:BMW_750il.jpg> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Buildings_and_structures_in_Saskatchewan> <http://dbpedia.org/property/revisionId> "348046552"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/1973_FINA_Men%27s_World_Water_Polo_Championship> <http://dbpedia.org/property/revisionId> "278623156"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Lawrence_W._Steinkraus> <http://dbpedia.org/property/revisionId> "320187246"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Sepetiba> <http://dbpedia.org/property/pageId> "2500174"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Conrad%2C_Greve_von_Reventlow> <http://dbpedia.org/property/pageId> "14240717"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Canadian_Television_Fund> <http://dbpedia.org/property/reference> <http://www.canada.com/ottawacitizen/news/story.html?id=dacb8918-918b-4652-83a1-39c3027a925a> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Bodhesako> <http://dbpedia.org/property/pageId> "21396723"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Cherangani_Hills> <http://www.w3.org/2004/02/skos/core#subject> <http://dbpedia.org/resource/Category:Great_Rift_Valley> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Danaher_Corporation_brands> <http://dbpedia.org/property/pageId> "26413889"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://dbpedia.org/resource/List_of_F.A._Cup_winners> <http://xmlns.com/foaf/0.1/page> <http://en.wikipedia.org/wiki/List_of_F.A._Cup_winners> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Category:Towns_in_Chile> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Towns_by_country> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Douglas_K._Bereuter> <http://xmlns.com/foaf/0.1/page> <http://en.wikipedia.org/wiki/Douglas_K._Bereuter> .}
+SELECT * WHERE {<http://dbpedia.org/resource/List_of_To_the_Manor_Born_episodes__9> <http://xmlns.com/foaf/0.1/name> "Episode One"@en .}
+SELECT * WHERE {<http://dbpedia.org/resource/Department_of_the_Interior> <http://dbpedia.org/property/redirect> <http://dbpedia.org/resource/United_States_Department_of_the_Interior> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Hercules_Farnese> <http://dbpedia.org/property/redirect> <http://dbpedia.org/resource/Farnese_Hercules> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Pingat_Penghargaan_%28Tentera%29_-_Navy_-_medal.png> <http://dbpedia.org/property/pageId> "12227203"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Louis-Francois_Le_Tourneur> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Red_spotted_purple> <http://dbpedia.org/property/pageId> "18061326"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Pennsylvania_Route_75> <http://dbpedia.org/ontology/abstract> "Pennsylvania Route 75 is a 76-mile (122 km) long north&ndash .}
+SELECT * WHERE {<http://dbpedia.org/resource/Luchuan_County> <http://dbpedia.org/property/translitLang> <http://dbpedia.org/resource/Chinese_character> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Der_Zauberstein> <http://www.w3.org/2000/01/rdf-schema#label> "Der Zauberstein"@en .}
+SELECT * WHERE {<http://dbpedia.org/resource/Route_19A_%28Prince_Edward_Island%29> <http://www.w3.org/2000/01/rdf-schema#comment> "Route 19A (also known as Canoe Cove Road and Long Creek Road) is a secondary provincial highway located in Queens County, Prince Edward Island, Canada. The highway begins in Canoe Cove as a more direct route towards Cornwall, as Route 19 veers off towards Rocky Point. Route 19A meets up with route 19 again just before crossing the West River into Meadowbank."@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/List_of_chocolate_brands> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://dbpedia.org/resource/Hybrid_%28Venom%29> <http://xmlns.com/foaf/0.1/page> <http://en.wikipedia.org/wiki/Hybrid_%28Venom%29> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Jairo_Neira> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://dbpedia.org/resource/Category:Commonwealth_Games_gymnasts_by_year> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Commonwealth_Games_competitors_by_year> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Plexus_pampiniformis> <http://dbpedia.org/property/revisionId> "320524653"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Chinese_Wildman> <http://dbpedia.org/property/redirect> <http://dbpedia.org/resource/Yeren> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Glasgow_Tigers_speedway_team> <http://dbpedia.org/property/revisionId> "161891230"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Category:Archaeological_sites_in_Hertfordshire> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Archaeological_sites_in_England> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Vice_Principal_Nero> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Vice_Principal_Nero> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/West_Liberty%2C_Iowa> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://dbpedia.org/resource/Category:Honduran_Roman_Catholic_bishops> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .}
+SELECT * WHERE {<http://upload.wikimedia.org/wikipedia/commons/thumb/5/52/BishopWilliamFraserSeal.jpg/200px-BishopWilliamFraserSeal.jpg> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/Image:BishopWilliamFraserSeal.jpg> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Marshal_de_Gu%C3%A9briant> <http://xmlns.com/foaf/0.1/page> <http://en.wikipedia.org/wiki/Marshal_de_Gu%C3%A9briant> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/D._Kazhdan> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://dbpedia.org/resource/Category:Batman_templates> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Cossi_fan_tutti> <http://dbpedia.org/property/redirect> <http://dbpedia.org/resource/Cos%C3%AC_fan_tutte> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Noether_fundamental_theorem> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://dbpedia.org/resource/Disciples_of_%60Abdu%27l-Bah%C3%A1> <http://www.w3.org/2000/01/rdf-schema#comment> "Shoghi Effendi, Guardian of the Bah\u00E1'\u00ED Faith, designated nineteen Western Bah\u00E1'\u00EDs as Disciples of 'Abdu'l-Bah\u00E1 and 'Heralds of the Covenant': Dr. John E. Esslemont Thornton Chase Howard MacNutt Sarah Farmer Hippolyte Dreyfuss-Barney Lillian Kappes Robert Turner Albert Schwarz Lua Getsinger Joseph Hannan Chester I. Thatcher Charles Greenleaf Mrs. J. D. Brittingham Mrs. Thornburgh Helen S. Goodall Arthur P. Dodge William H. Hoar Dr. J. G."@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Nikephorus_Bryennios> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Nikephorus_Bryennios> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Hena> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Hiroaki_Rocky_Aoki> <http://dbpedia.org/property/revisionId> "191879955"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Smilacales> <http://xmlns.com/foaf/0.1/page> <http://en.wikipedia.org/wiki/Smilacales> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Fette_Fraktur> <http://dbpedia.org/property/style> <http://dbpedia.org/resource/Serif> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Shillingford_%28disambiguation%29> <http://dbpedia.org/property/revisionId> "304874088"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/B%C5%82a%C5%BCejewo%2C_%C5%9Arem_County> <http://dbpedia.org/property/revisionId> "329008282"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Peng> <http://dbpedia.org/property/reference> <http://www.eng.eseig.ipp.pt/peng/> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Wheel_nut> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Early_life_and_military_career_of_Hugo_Ch%C3%A1vez> <http://dbpedia.org/property/revisionId> "36687790"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Lake_Anita_State_Park> <http://dbpedia.org/property/city> <http://dbpedia.org/resource/Anita%2C_Iowa> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Hoceima_Airport> <http://dbpedia.org/property/pageId> "24187615"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Presidents_of_the_National_Parliament_of_East_Timor> <http://dbpedia.org/property/pageId> "25580428"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Stamps_and_postal_history_of_the_New_Hebrides> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Stamps_and_postal_history_of_the_New_Hebrides> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Wait_for_the_Blackout> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://dbpedia.org/resource/Asous> <http://www.w3.org/2000/01/rdf-schema#label> "Asous"@en .}
+SELECT * WHERE {<http://dbpedia.org/resource/Wendi_Deng> <http://dbpedia.org/property/name> "Wendi Deng Murdoch"@en .}
+SELECT * WHERE {<http://dbpedia.org/resource/Cairn_Island> <http://dbpedia.org/property/archipelago> <http://dbpedia.org/resource/Canadian_Arctic_Archipelago> .}
+SELECT * WHERE {<http://dbpedia.org/resource/List_of_species_native_to_Hong_Kong> <http://xmlns.com/foaf/0.1/page> <http://en.wikipedia.org/wiki/List_of_species_native_to_Hong_Kong> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Centre_gallery> <http://www.w3.org/2000/01/rdf-schema#label> "Centre gallery"@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Dark_suns_existence.jpg> <http://dbpedia.org/property/pageId> "8789044"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/His_Reasons> <http://dbpedia.org/property/revisionId> "127834549"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://upload.wikimedia.org/wikipedia/commons/c/c5/Manuel_Godoy_Spain.jpg> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/Image:Manuel_Godoy_Spain.jpg> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Koja%2C_Jakarta> <http://www.w3.org/2004/02/skos/core#subject> <http://dbpedia.org/resource/Category:Subdistricts_of_Jakarta> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Category:Pathophysiology> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pathophysiology"@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/English_jazz_trumpeters> <http://dbpedia.org/property/pageId> "11667502"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Part_time_pal> <http://dbpedia.org/property/redirect> <http://dbpedia.org/resource/Part_Time_Pal> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Dizimax> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://dbpedia.org/resource/Wedran> <http://www.w3.org/2000/01/rdf-schema#label> "Wedran"@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Pseudotaxus_chienii> <http://dbpedia.org/property/revisionId> "50290175"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Dylan_Jones-Evans> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Infobox_Politician> .}
+SELECT * WHERE {<http://upload.wikimedia.org/wikipedia/commons/7/7a/Amblyglyphidodon_curacao.jpg> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/Image:Amblyglyphidodon_curacao.jpg> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Rajyasevapraveena_G._Parameswaran_Pillai> <http://dbpedia.org/ontology/abstract> "G. Parameswaran Pillai (1890-1963) also known as \"GP\", was the Chief Secretary and Officiating Dewan of the erstwhile Travancore kingdom in pre-Independent India. He started his career as a lawyer, and later became Judge of the Court of Travancore, before joining the administration. The Maharaja of Travancore conferred on him the title of Rajyasevapraveena. His contributions to the State of Travancore and later to India are numerous. Being an authority on constitutional matters, he attended India's Round Table Conference in London, in the delegation led by Mahatma Gandhi. He served as Post-War Reconstruction Officer following several years of service as Chief Secretary. He negotiated with the Federal Government, working closely with Sardar Patel and V.P. Menon, on behalf of Travancore to finalise the Instrument of Accession. After India won Independence, he served as the first Trade Commissioner to Australia and New Zealand (the Trade Commissioner position was later known as High Commissioner). He also served as Director of the Reserve Bank of India and was instrumental in founding the Co-operative Bank movement. His service on administrative reforms committee set up by the State Government is well recognized. He also served on educational committees set up by Prime Minister Jawaharlal Nehru, working in close association with Maulana Abul Kalam Azad, Dr. Zakir Husain, Rao Bahadur Krishnamachari, Honourable Rajkumari Amrit Kaur et al."@en .}
+SELECT * WHERE {<http://dbpedia.org/resource/Conquer_and_divide> <http://www.w3.org/2000/01/rdf-schema#label> "Conquer and divide"@en .}
+SELECT * WHERE {<http://dbpedia.org/resource/Inline-four_engine> <http://www.w3.org/2000/01/rdf-schema#label> "Inline-four engine"@en .}
+SELECT * WHERE {<http://dbpedia.org/resource/Samantha_Stosur> <http://dbpedia.org/property/australianopenmixedresult> "W"@en .}
+SELECT * WHERE {<http://dbpedia.org/resource/Akashic_field> <http://dbpedia.org/property/redirect> <http://dbpedia.org/resource/Akashic_records> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Category:Valleys_of_New_Zealand> <http://www.w3.org/2004/02/skos/core#broader> <http://dbpedia.org/resource/Category:Landforms_of_New_Zealand> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Superluminosity> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Ildaal.jpg/200px-Ildaal.jpg> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/Image:Ildaal.jpg> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Maitrank> <http://xmlns.com/foaf/0.1/page> <http://en.wikipedia.org/wiki/Maitrank> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Category:Buildings_and_structures_on_the_Hanover-W%C3%BCrzburg_high-speed_rail_line> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/CHKB_%28gene%29> <http://dbpedia.org/property/pageId> "15029537"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Australian_performance_poetry> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Camera_flare> <http://dbpedia.org/property/revisionId> "289734077"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Sermilik_Station> <http://xmlns.com/foaf/0.1/depiction> <http://upload.wikimedia.org/wikipedia/en/2/2a/Sermilik.jpg> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/N65> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/N65> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Anthus_melindae> <http://xmlns.com/foaf/0.1/page> <http://en.wikipedia.org/wiki/Anthus_melindae> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Kirtik> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Kirtik> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Eerste_Divisie_2004%E2%80%9305> <http://www.w3.org/2004/02/skos/core#subject> <http://dbpedia.org/resource/Category:2004-05_domestic_football_%28soccer%29_leagues> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Vectored-thrust> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://upload.wikimedia.org/wikipedia/commons/8/8a/Caff%C3%A9_giubbe_rosse_insegna.JPG> <http://xmlns.com/foaf/0.1/thumbnail> <http://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Caff%C3%A9_giubbe_rosse_insegna.JPG/200px-Caff%C3%A9_giubbe_rosse_insegna.JPG> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Too_Much_%28Dave_Matthews_Band_song%29> <http://dbpedia.org/property/pageId> "6133846"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Eschach_%28bei_Schwaebisch_Gmuend%29> <http://xmlns.com/foaf/0.1/page> <http://en.wikipedia.org/wiki/Eschach_%28bei_Schwaebisch_Gmuend%29> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Riddell_Akua> <http://xmlns.com/foaf/0.1/page> <http://en.wikipedia.org/wiki/Riddell_Akua> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Nott_Square_1.jpg> <http://dbpedia.org/property/revisionId> "240073787"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Damion_Marley> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://dbpedia.org/resource/Congressional_District_of_Aklan> <http://dbpedia.org/property/redirect> <http://dbpedia.org/resource/Legislative_district_of_Aklan> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Councillors_in_Lorentzweiler> <http://dbpedia.org/property/revisionId> "201181437"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Faber_%28disambiguation%29> <http://xmlns.com/foaf/0.1/page> <http://en.wikipedia.org/wiki/Faber_%28disambiguation%29> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Half_salute> <http://www.w3.org/2000/01/rdf-schema#label> "Half salute"@en .}
+SELECT * WHERE {<http://dbpedia.org/resource/Szczebrzeszy%C5%84ski> <http://dbpedia.org/property/redirect> <http://dbpedia.org/resource/Szczebrzeszyn_Landscape_Park> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Ghazi_Kanaan> <http://dbpedia.org/property/pageId> "2890119"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Koichi_Tokita> <http://dbpedia.org/property/redirect> <http://dbpedia.org/resource/K%C5%8Dichi_Tokita> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Johann_Angelo_Ferrari> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Johann_Angelo_Ferrari> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Cyprus_Iraq_Locator.png> <http://dbpedia.org/property/revisionId> "314398399"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Friedrich_Kiel> <http://dbpedia.org/property/birth> "1821-10-08"^^<http://www.w3.org/2001/XMLSchema#date> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Prasten> <http://dbpedia.org/property/redirect> <http://dbpedia.org/resource/The_Clergyman> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Mutton-birding> <http://www.w3.org/2000/01/rdf-schema#label> "Mutton-birding"@en .}
+SELECT * WHERE {<http://dbpedia.org/resource/Viktor_Kostyrko> <http://www.w3.org/2000/01/rdf-schema#comment> "Viktor Ivanovich Kostyrko (born May 24, 1948) is the mayor of Tiraspol, the capital of the de facto independent Pridnestrovian Moldavian Republic (PMR). He was born in Komsomolsk-on-Amur and is of Ukrainian ethnicity. Originally elected in 1999, he has since been re-elected once. Viktor Kostyrko is a political ally of the PMR's president, Igor Smirnov."@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Conference_on_programming_language_design_and_implementation> <http://dbpedia.org/property/pageId> "23372792"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Badnik> <http://purl.org/dc/elements/1.1/language> "en"@en .}
+SELECT * WHERE {<http://dbpedia.org/resource/Don_Lamb> <http://dbpedia.org/property/portrayer> <http://dbpedia.org/resource/Michael_Muhney> .}
+SELECT * WHERE {<http://dbpedia.org/resource/2007-08_Portland_Trail_Blazers_season> <http://dbpedia.org/property/redirect> <http://dbpedia.org/resource/2007%E2%80%9308_Portland_Trail_Blazers_season> .}
+SELECT * WHERE {<http://dbpedia.org/resource/Koml%C3%B3dt%C3%B3tfalu> <http://xmlns.com/foaf/0.1/name> "Koml\u00F3dt\u00F3tfalu"@en .}
+SELECT * WHERE {<http://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Australia-Map-VIC-LGA-Ballarat.png/200px-Australia-Map-VIC-LGA-Ballarat.png> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/Image:Australia-Map-VIC-LGA-Ballarat.png> .}
+SELECT * WHERE {<http://dbpedia.org/resource/St._George%27s_Episcopal_Church_%28Manhattan%29> <http://dbpedia.org/property/added> "1976-12-08"^^<http://www.w3.org/2001/XMLSchema#date> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Ludwig_Kakumei_volume_1.jpg> <http://dbpedia.org/property/revisionId> "323309331"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Nebraska_State_Constitution> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Nebraska_State_Constitution> .}
+SELECT * WHERE {<http://upload.wikimedia.org/wikipedia/commons/f/f3/Tom_Adams.jpg> <http://xmlns.com/foaf/0.1/thumbnail> <http://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Tom_Adams.jpg/200px-Tom_Adams.jpg> .}
+SELECT * WHERE {<http://dbpedia.org/resource/William_Penn_Charter_School> <http://dbpedia.org/ontology/mascot> "Quaker"@en .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Medea%E2%80%99s_Meditation_and_Dance_of_Vengeance> <http://dbpedia.org/property/pageId> "11201041"^^<http://www.w3.org/2001/XMLSchema#integer> .}
+SELECT * WHERE {<http://en.wikipedia.org/wiki/Chondropython_viridis> <http://dbpedia.org/property/revisionId> "158927547"^^<http://www.w3.org/2001/XMLSchema#integer> .}

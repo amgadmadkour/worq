@@ -1,0 +1,25 @@
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://xmlns.com/foaf/0.1/name> "Nooshin Esmaeili" . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#PhDThesis> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://purl.org/dc/elements/1.1/title> "On Sequence Synchronization Analysis Against Chaos Based Spread Spectrum Image Steganography."^^<http://www.w3.org/2001/XMLSchema#string> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://xmlns.com/foaf/0.1/homepage> <http://dx.doi.org/10.1002/spe.1107> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://purl.org/dc/terms/bibliographicCitation> <http://dblp.uni-trier.de/rec/bibtex/conf/qest/FranksPWXT06> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://purl.org/dc/terms/references> <http://dblp.l3s.de/d2r/resource/publications/conf/ssdbm/Ghosh86> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://xmlns.com/foaf/0.1/page> <http://www.aaai.org/ojs/index.php/aimagazine/article/view/1887> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://swrc.ontoware.org/ontology#number> "2A"^^<http://www.w3.org/2001/XMLSchema#string> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://purl.org/dc/elements/1.1/identifier> "DOI 10.1007%2F978-3-540-77704-5%5F2"^^<http://www.w3.org/2001/XMLSchema#string> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://swrc.ontoware.org/ontology#series> <http://dblp.l3s.de/d2r/resource/conferences/cisis> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://purl.org/dc/elements/1.1/subject> "cross-layer optimization, energy efficiency, protocols, testbed, wireless wensor network"^^<http://www.w3.org/2001/XMLSchema#string> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://purl.org/dc/elements/1.1/subject> "JPEG, Markov, SVM, generalized gaussian distribution, image complexity, joint density, steganalysis"^^<http://www.w3.org/2001/XMLSchema#string> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://swrc.ontoware.org/ontology#month> "August/September"^^<http://www.w3.org/2001/XMLSchema#string> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://purl.org/dc/terms/bibliographicCitation> <http://dblp.uni-trier.de/rec/bibtex/journals/tit/ViswanathanB00> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://swrc.ontoware.org/ontology#isbn> "ISBN 3-540-44225-1"^^<http://www.w3.org/2001/XMLSchema#string> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://swrc.ontoware.org/ontology#series> <http://dblp.l3s.de/d2r/resource/conferences/adis> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://swrc.ontoware.org/ontology#pages> "3389-3396"^^<http://www.w3.org/2001/XMLSchema#string> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://purl.org/dc/terms/partOf> <http://dblp.l3s.de/d2r/resource/publications/conf/ic/2010> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://purl.org/dc/terms/bibliographicCitation> <http://dblp.uni-trier.de/rec/bibtex/conf/igarss/SerbinHDBMD10> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#Conference> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://purl.org/dc/elements/1.1/identifier> "DOI 10.1007%2F978-3-540-31807-1%5F12"^^<http://www.w3.org/2001/XMLSchema#string> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://swrc.ontoware.org/ontology#number> "086"^^<http://www.w3.org/2001/XMLSchema#string> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://www.w3.org/2002/07/owl#sameAs> <http://dblp.rkbexplorer.com/id/conf/interspeech/MyrvollPS01> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://purl.org/dc/elements/1.1/identifier> "DBLP conf/icip/NguyenZ03"^^<http://www.w3.org/2001/XMLSchema#string> . ?subject ?predicate2 ?object2 .}
+SELECT ?subject ?predicate2 ?object2 WHERE {?subject <http://purl.org/dc/elements/1.1/title> "Large Neural Network: Object Modeling and Parallel Simulation."^^<http://www.w3.org/2001/XMLSchema#string> . ?subject ?predicate2 ?object2 .}

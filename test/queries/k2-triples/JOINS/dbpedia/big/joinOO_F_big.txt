@@ -1,0 +1,1 @@
+SELECT ?subject1 ?object ?subject2 ?predicate2 WHERE {?subject1 <http://dbpedia.org/property/wikilink> ?object . ?subject2 ?predicate2 ?object .}

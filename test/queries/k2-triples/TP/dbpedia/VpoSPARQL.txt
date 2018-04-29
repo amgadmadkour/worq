@@ -1,0 +1,496 @@
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/socialSite> "http://www.tequilajalisco.ning.com"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/sourceConfluenceState> <http://dbpedia.org/resource/Kentucky> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/englishTitle> "Free and independent Artsakh"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/temple> "L\u00EChu\u00E0 Temple"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/mouthLat> "41.5823158"^^<http://www.w3.org/2001/XMLSchema#double> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/finishDate> "--10-09"^^<http://www.w3.org/2001/XMLSchema#gMonthDay> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/demos> "2"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/verticalDescent> "1000.0"^^<http://dbpedia.org/datatype/foot> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/valvetype> "Outside cylinders: Piston valves,"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/mllTeam> <http://dbpedia.org/resource/Bridgeport_Barrage> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/r2t4n> "Hamilton Steelers"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/drug> "x"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/grbCarKonstantinM.jpgNickname> "CAREVI"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/inmateNumber> "18330-424"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/childLeft> <http://dbpedia.org/resource/Grahovsko_field> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/bakoti_percent_C4_percent_87PetarLeague> <http://dbpedia.org/resource/Tre%C4%87a_HNL> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/conflit> <http://dbpedia.org/resource/Guerre_d%27ind%C3%A9pendance_des_%C3%89tats-Unis_d%27Am%C3%A9rique> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/pc> <http://dbpedia.org/resource/Etienne_De_Wilde> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/debutleague> <http://dbpedia.org/resource/Negro_league_baseball> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/shipFreshWaterGenerators> "2 x Evaporator 1 x Osmosis"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/superMaroon> "Vicky Jones"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/_2005JointChamps_percent_28tamilUinion_percent_29> <http://dbpedia.org/resource/Premier_Limited_Overs_Tournament> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/totalSeatingCapacity> "6050"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/softballfield> "Softball Complex"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/notableraces> "Oak Tree Racing Association:"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/ontology/runningMate> <http://dbpedia.org/resource/David_Bergland> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/spire> "106.6 m"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/danishleague> <http://dbpedia.org/resource/Vojens> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/wikispecies> "Anabas"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/notabilty> "April 2009"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/pointb> "3"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/subjects> "all things nerdy"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/unbundling> "No"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/steampunk> "first"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/wikilink> <http://dbpedia.org/resource/Acartia_negligens> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/kickReturner> "Tyron Carrier"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/dialectsSpoken> "Avadhi"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/recentDayEnd> "30"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/curatorOfEducation> "Jason Trimmer"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/parenthood> "Muay Boran, Muay Thai,"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/shipFate> "Sold in 1697"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/payloadCapacity> "800.0"^^<http://dbpedia.org/datatype/kilogram> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/cruiseSpeedKts> "113"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/churchDistrict> <http://dbpedia.org/resource/Calvary_Chapel> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/genereviewsname> "Aicardi-Gouti\u00E8res Syndrome"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/catOnCover> "Dovekit"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/tkiPage> <http://www.tki.org.nz/e/schools/display_school_info.php?school_id=261> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/_1MinWinds> "20"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/odiShirtNo.> "5"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/hm30Enter> "Day 118"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/diversize> "42.5"^^<http://dbpedia.org/datatype/inch> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/divtitles> "5"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/centered> "yes"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/websi> "=\nte                ="@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/bestCupPosition> "60th - 2009"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/minister5pfo> "Member"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/febSnowInch> "5.3"^^<http://www.w3.org/2001/XMLSchema#double> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/rd4Score1a> "3"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/sentenced> "Never sentenced"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/pcforest> "35"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/acceleration0100Km> "2.0 L engine - 11.5 seconds. 2.4 L engine - 13.4 seconds"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/seniorPin_percent_2820082009_percent_29> "Ali York"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/superclassisAuthority> "Huxley, 1880"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/overlay11left> "480"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/datepop> "2003"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/darts> "Signature 21g"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/sirenType> "Omni-directional"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/websiteUrl> <http://www.dal.net/> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/nightsweekends> "show"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/commencement> "1980-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/typologieN.Geo.Lage> "Hilltop castle"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/bobSweeney> "Head of Trade Show Marketing"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/sourceCoordinatesNote> <http://mdc.mo.gov/fish/watershed/current/watqual/> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/tackleFootballTeam> "Arawaks"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/subchannels> "6.1 Fox"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/hobeyBakerTeam> <http://dbpedia.org/resource/Michigan_Wolverines> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/imageMapTitle> "Kloster Schussenried in 1721"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/moderator> <http://dbpedia.org/resource/Mr._Rhandy_Salvani%2C_RN_MAN> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/movieRating> "PG"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/week912Color> "u"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/southTerm> <http://dbpedia.org/resource/Whitehall_Street_%E2%80%93_South_Ferry_%28BMT_Broadway_Line%29> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/pa> "105"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/peak11a> "33"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/currentTenents> "Glasgow City Council"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/spinoffOf> <http://dbpedia.org/resource/Settlers_of_Catan> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/siteWeb> <http://www.pays-de-bergerac.com/mairie/varennes/index.asp> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/thesNatsci> "56"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/pastPublishers> <http://dbpedia.org/resource/Renegade_Press> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/clancy> "1"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/discipline> <http://dbpedia.org/resource/Stratigraphy> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/serverPlatform> "Linux"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/debtPayment> "C$29.5 billion"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/cdp> <http://dbpedia.org/resource/Markleeville%2C_California> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/headMaster> "Mr.N.Y.Casie Chetty"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/stadiumNname> "TUI Arena"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/ontology/openingFilm> <http://dbpedia.org/resource/Rebecca_%281940_film%29> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/minister2name> "His Worship George W. Peary"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/stationvisitlength> "185 days 16:04"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/dejaVoodoo_percent_27sFourthAlbumReleased> "1987"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/mvpan> "3"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/parti7prosentendring> "-0.3"^^<http://www.w3.org/2001/XMLSchema#double> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/panAmericanGamesName> <http://dbpedia.org/resource/Football_at_the_Pan_American_Games> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/telephonePrefix> "0341, 039, 031"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/shipReasonForLoss> "Wind change"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/team2score> "0-4"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/areaCodeType> <http://dbpedia.org/resource/North_American_Numbering_Plan> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/mepEngineer> "Cosentini Associates, Inc."@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/thesQsSoc> "2"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/period13Left> "0.305"^^<http://www.w3.org/2001/XMLSchema#double> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/gene5name> <http://dbpedia.org/resource/HLA-DRB3> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/birthEra> "1888-1916"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/spuerordo> <http://dbpedia.org/resource/Archaeoceti> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/toothpicture> "Image:Mandibular canines01-01-06.png"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/divisionrank> "3.0"^^<http://dbpedia.org/datatype/rod> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/ownwer> <http://dbpedia.org/resource/Iberdrola> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/populationCsa> "1147850"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/councildetails> "http://www.angus.gov.uk/"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/sabbs> "Chris Peel, Jamie Morgado, Henry Chambers, Hannah Beazley, Rich Smith, James Spokoini, Jamie Oliver, Brian 'Budge' Parkinson"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/away16player> "Dmytro Yeremenko"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/legImage> "Da esquerda pra direita: Ponte JK, Pal\u00E1cio do Planalto, Eixo Monumental, Pra\u00E7a dos Tr\u00EAs Poderes com destaque a bandeira do Brasil, Catedral de Bras\u00EDlia e o Congresso Nacional."@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/numCyclonesText> "24 cyclones"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/nearSsw> <http://dbpedia.org/resource/Carlton%2C_Victoria> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/endianness> "Big or little"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/bionmialAuthority> "Oliver"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/hips> "33\u00BD\""@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/markerSize> "10"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/boardingHostel> "Malcom House"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/railstation> "Yes, Sheffield railway station 200 metres away."@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/animationDepartment> <http://dbpedia.org/resource/Dick_Drew> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/snackName> "Bakauke"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/alt2Boosters> "9"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/marketingDirector> "Jon Gettle"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/hoursInDay> "~10 hrs."@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/subsidiaryOf> "Pacific Brands Australia Ltd."@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/wing1Title> "Coalition"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/peabodyawards> "Personal Award"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/otherarticle> "}"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/peak13d> "50"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/chief1name> "Valdez B. Demings"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/totalFatG> "0"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/prevseason> <http://dbpedia.org/resource/Leeds_United_A.F.C._season_2007%E2%80%9308> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/ontology/honours> <http://dbpedia.org/resource/JFF_Champions_Cup> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/pushpinMap1Caption> "Location in Sweden"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/colstyle> "text-align:center .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/ratedRImage> "Gray1003.png"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/lowelevation> "below sea level"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/otherDesigners> <http://dbpedia.org/resource/B._Marcus_Priteca> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/junctionA> "20px25px US 67/US 167"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/seatingCapicity> "4000"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/managementAndBudgetStart> "1998"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/treibraddurchmesser> "1676.0"^^<http://dbpedia.org/datatype/millimetre> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/totalEpisodes> "79"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/primeMinsiters> "Bemnet Debebe, Nikki Dhaliwal"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/dropM> "50"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/gesamtradstand> "9200.0"^^<http://dbpedia.org/datatype/millimetre> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/mascotLink> "Pouncer"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/endNote> "The final section to Hardings Wood Junction was built as part of the Trent and Mersey Canal"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/term> "1934\u20131959"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/decon> "1"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/www.ghazipur.nic.inFootnotes> "Famous for Ghats,Opium Factory and Flower Business"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/yrke> "f\u00F6rfattare, \u00F6vers\u00E4ttare, litteraturvetare, ortodox pr\u00E4st"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/summitName> "Arab League 14th summit"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/mmf> "Stefan the Great"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/cnName> "\u9B6F\u51B0\u82B1"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/dispostion> "All scrapped"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/gpr> "32"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/advisoryBoard> "Dr. Ward Dean, M.D.  .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/bowltourneyresult> "W, 13\u20130"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/issuingAuthority> "Banque de l'Alg\u00E9rie et de la Tunisie"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/week152Color> "u"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/scheduletype> "semestered"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/pcpp> "9.5/10"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/provence> "Lenster\n nickname ="@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/pole2Driver> <http://dbpedia.org/resource/Narain_Karthikeyan> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/newstteam> <http://dbpedia.org/resource/Tampa_Bay_Devil_Rays> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/hoverCeilingIgeAlt> "4307 m"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/lspnLetter> "j"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/electrificaion> "1346"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/painter> "Jacques-Louis David"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/oddstyle> "padding-top:0.4em .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/stanleyCups> <http://dbpedia.org/resource/1938%E2%80%9339_NHL_season> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/rd1Score03Agg> "16"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/home10player> "Morten Rasmussen"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/can7Stat> "fired"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/basseNormandie> "#Basse-Normandie"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/postdocs> <http://dbpedia.org/resource/Anders_Krogh> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/prevseasonLink> "1996\u201397 NBA season"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/coasters> "4"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/ontology/AutomobileEngine/pistonStroke> "85.0"^^<http://dbpedia.org/datatype/millimetre> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/debut4year> "1921"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/dHeadLabel> "Deputy Headteachers"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/thirdDriverR> <http://dbpedia.org/resource/Tristan_Vautier> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/thesQs> "39"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/instrument11Name> "RES-K"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/rd4Score1Agg> "2"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/ontology/contractor> <http://dbpedia.org/resource/Howard_S._Wright> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/usaEng> "1"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/no.ofFloors> "1 floor for Bldg.A and 2 floors for Bldg.B"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/dub> "Negamoon Family"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/_percent_27_percent_27_percent_27founder_percent_27_percent_27_percent_27> <http://dbpedia.org/resource/Clessie_Cummins> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/annotations> "bulge in spinal cord"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/piccap> "Northern portal of Sha Tin Heights Tunnel"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/away12no> "11"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/aftershocks> "61"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/overlay13top> "78"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/filmHouse> "'''Merelion Pictures"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/tlacateccatl> <http://dbpedia.org/resource/Itzcoatl> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/sisterNames> <http://dbpedia.org/resource/TMF_Australia> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/regionalRanking> "12"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/rd2Team26Goals> "2"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/fisheryConsumption> "31.0 kg fish per capita"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/oic> "Helen Sun Parco"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/albanyFemaleAcademyBuildingCirca1901Established> "1814"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/quelleRegion> "CZ-US"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/fort> "y"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/add> "1953 West wing expansion"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/establishedTitle3_percent_C2_percent_A0_percent_C2_percent_A0_percent_C2_percent_A0_percent_C2_percent_A0> "\u00A0"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/parti11seterendring> "0"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/currencyName> "Euro"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/taxonWissname> "Caryophylliidae"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/repeaters> "KSTY-FM1"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/waterway> <http://dbpedia.org/resource/Regent%27s_Canal> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/tributeBand> "UnSkinny Bop from Phoenix, Arizona www.unskinnybop.com"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/fname> "Provinsje Frysl\u00E2n"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/r3LengthF> "2691"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/loaded> "50000.0"^^<http://dbpedia.org/datatype/kilogram> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/laundry> "November 2008"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/altitudeAlt> "11,000 m"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/fancruft> "August 2009"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/firstShown> "France"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/notableInmates> <http://dbpedia.org/resource/Viktor_Frankl> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/basilica> <http://dbpedia.org/resource/Mission_San_Francisco_de_As%C3%ADs> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/breederYou> <http://dbpedia.org/resource/Eduardo_Cojuangco%2C_Jr.> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/url_percent_28s_percent_29> <http://www.myspace.com/iamghost> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/visitationType> "Passages"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/sport3Wom> "?"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/categorize> "June 2009"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/allPro> "4"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/rd5t1Loc> <http://dbpedia.org/resource/Zagreb> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/pencilers> <http://dbpedia.org/resource/Scott_Benefiel> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/sailType> "Common sails, Faue\u00EBl streamlined leading edges"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/complementClass> "self"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/deanAcademics> "Dr. Anand Vaz"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/tv> "Catch 47/ESPN Regional"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/amountResidentialProperties> "1121751"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/anavetCups> "2"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/rd1Score4Agg> "2"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/vehicleCapacity> "16"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/clubcrest> "clubnumber =  29\n  position = Right Back"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/footer> "Silver penny of St Edmund Memorial Coinage, moneyer Wine, East Anglia, c. 895-910."@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/type1alle4freq> "81"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/apastronGm> "72.6"^^<http://www.w3.org/2001/XMLSchema#double> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/strongestCpacName> <http://dbpedia.org/resource/Hurricane_Uleki> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/sepRainfallMm> "102.4"^^<http://www.w3.org/2001/XMLSchema#double> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/acceleration> "0 - 38 mph in 3 sec"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/updateProteinBox> "yes"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/careerearnings> "227650.0"^^<http://dbpedia.org/datatype/usDollar> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/exitramps> "Foreshore Estate, Elliots Beach"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/rd1Score5firstleg> "0"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/sourceConfluenceLengthImperial> "17"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/academicDepartments> "37"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/coalitionWebsite> "http://www.epno.org/"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/hdiYear> "2009"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/advertisement> "February 2010"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/ukNationalStoreCount> "314"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/imsgeSize> "230px"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/meteorshowers> <http://dbpedia.org/resource/Crucids> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/countryabbr> "ITA"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/pdgenePolyid> "13"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/alWriting> <http://dbpedia.org/resource/Vinnie_Moore> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/wizardsImageUrl> "http://www.wizards.com/dnd/images/leof_gallery/86716.jpg"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/occurrenceType> "Airspace violation incident"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/writings> "Intelligent Life in the Universe? ,"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/ageRating> <http://dbpedia.org/resource/Free> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/lastHeadmaster> "Lesia Lawrin"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/akcmisc> "true"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/armament> "*2 fixed front-firing 7.7 mm Vickers machineguns\n*2 movable 7.7 mm Lewis machineguns\n*light bombs"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/dismantled> "2009"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/_250LastPosition> "6"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/stockholm> "yes"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/image4Cap> "Slug sucking juices from dead earthworm"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/away12pos> "FW"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/prevCupPos> "24"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/periastron> "2.54"^^<http://www.w3.org/2001/XMLSchema#double> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/employee> "?"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/lon6Deg> "30"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/nearbyMajorCities> "Aurangabad  and Pune"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/coastGuard> "Yes"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/jcrWebsite> <http://johnsjcr.org.uk/> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/imagestylel> "padding 30px 5px 5px 6px"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/imageRight> "Image:5lirevittorioemanueleii1874back.jpg"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/tenderweight> "Empty:"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/ontology/manager> <http://dbpedia.org/resource/Williams_Rodrigues> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/formatn> <http://dbpedia.org/resource/CD_single> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/forces> "9 British warships"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/bevolkerungsdichte> "75 inhabitants per km\u00B2"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/scout> "Tim Stanfill"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/fou> <http://dbpedia.org/resource/Yoshiki_%28musician%29> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/subcatPub> "Batman"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/ontology/showJudge> <http://dbpedia.org/resource/Heidi_Klum> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/valuationSurplus> "Rs.12,463 crores"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/literacyWomen> "97.4"^^<http://www.w3.org/2001/XMLSchema#double> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/susseccor> <http://dbpedia.org/resource/One_Canada_Square> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/secondrepeat> "Friday night/Saturday morning ITV1"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/aggravatedAssault> "245.5"^^<http://www.w3.org/2001/XMLSchema#double> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/scriptConsultant> "Tom August"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/areaLandImperial> "3.7"^^<http://www.w3.org/2001/XMLSchema#double> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/prayer> "Precellentem pro merito"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/burials> "1868"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/bestPerformance> "Semi-finals"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/runnerup2Manager> <http://dbpedia.org/resource/Johnny_Oates> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/highestCountry> <http://dbpedia.org/resource/India> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/longdew> "W"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/ffh> <http://dbpedia.org/resource/Nguy%E1%BB%85n_Dynasty> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/labela> "\u201EMelodija\u201C, Atra Musica Records"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/try> <http://dbpedia.org/resource/Akapusi_Qera> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/currentEvent> "2010 Giro d'Italia"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/romanEquivalent> <http://dbpedia.org/resource/Jupiter_%28mythology%29> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/ontology/disbanded> "1945-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/row> "http://www.surhul.co.uk/"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/post8preceded> <http://dbpedia.org/resource/Paul_Martin> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/otherElements> "acronym \"\u0411\u0421\u0421\u0420\""@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/tipo> "Privada"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/artist_percent_28s_percent_29> <http://dbpedia.org/resource/Brett_Blevins> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/knesset_percent_28s_percent_29> <http://dbpedia.org/resource/Israeli_legislative_election%2C_1988> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/t5l> "0"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/demolevel> "undefined"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/produce> <http://dbpedia.org/resource/J._G._Thirlwell> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/overlay28left> "455"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/dateRatified> "--11-09"^^<http://www.w3.org/2001/XMLSchema#gMonthDay> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/facilitieslink> "http://www.viclink.com.au/stop/view/19980"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/blackboard> "\"'Bagman' is not a legitimate career choice\""@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/p3blinebackground> "#"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/singerOfTitleSong> <http://dbpedia.org/resource/Marianne_Faithfull> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/icleague> "1"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/week22Color> "u"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/numberBuilt> "71, with about 100 orders"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/mark8size> "1"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/equal> <http://dbpedia.org/resource/Asiatic-Pacific_Campaign_Medal> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/mcrPresident> "Andrew Lodder"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/dean_percent_28fbl_percent_29> "Dr. Hishamuddin Ismail"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/ceremonyVenue> <http://dbpedia.org/resource/Senayan_Sports_Stadium> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/flights3Up> "Second"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/partnerUniversities> <http://dbpedia.org/resource/University_of_Chester> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/prayerAttrib> "Troparion, Tone 4"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/generation> "Unit 1: 9,158 GW\u00B7h"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/majorleague> "Arizona Diamondbacks"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/underIncubationOperatingSystem> <http://dbpedia.org/resource/Cross-platform> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/continentalcup4Qualifiers> <http://dbpedia.org/resource/Hamburger_SV> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/urbanpct> "100"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/topo11Map> "Lost River State Park"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/engineRpm> "71rpm"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/lapRecord> "1:24.30 - 123.843 km/h"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/_3seedScore> "76"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/tickerSymbol> "OCZ.L"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/apAllPros> "Roy  Jefferson"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/ordinal3Fs> "1"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/boiler> "LMS type J3"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/trainingFacility> <http://dbpedia.org/resource/Kor%C3%A7%C3%AB> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/mlcts> "hta: wai mrui."@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/cflallstar> "1995, 1998, 2000"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/ontology/club> <http://dbpedia.org/resource/R.S.C._Anderlecht> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/channelOfOrigin> "ABC"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/law> "Yes"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/percentGrayCollar> "10.1"^^<http://www.w3.org/2001/XMLSchema#double> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/week1610Color> "d"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/specLabel> "FN-6"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/maxLength> "456.0"^^<http://dbpedia.org/datatype/millimetre> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/cascadeCups> "0"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/chassisNumber> "548"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/subunitGenes> "HLA-A*01--, \u03B22-microglobulin"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/bazars> "Cheruvannur, Kolathara, Kundayithode, Rahman Bazar, Kannattikkulam, and Madhura Bazar"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/marchingband> "USAF Academy Band"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/binding> "Three pamphlets"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/associatedProducers> <http://dbpedia.org/resource/Piet_Souer> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/firstPitch> "F"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/landsize> "4200.0"^^<http://dbpedia.org/datatype/acre> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/studentsPerTeacherRatio> "14.7:1"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/chiarmanname> "Ali Fatollahzadeh"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/shipBeam> "Type XVIIA Wk 202 :"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/gamezoneNG> "6.5/10"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/meanAltitude> "~ 50 km"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/associatedMembers> "Ria Osorio , Joey Quirino , Jerri de Leon , Simon Tan , Terry Undag"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/occcupation> "Film actor"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/currentCommandingOfficer> "Commander Malcolm H. Potts, USN"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/datePassed> "2007-05-03"^^<http://www.w3.org/2001/XMLSchema#date> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/centralPlains> "yes"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/schoolDays> "K, 8:30, 2:30, 1-8, 8:30-3:15"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/discharch> "15.0"^^<http://dbpedia.org/datatype/cubicMetrePerSecond> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/pts> "50"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/metalB> "M/H = 0.2"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/vfxArtist> <http://dbpedia.org/resource/Jeremiah_Purugganan> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/inactivepitchers> "* \n*"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/sisterStation_percent_28s_percent_29> <http://dbpedia.org/resource/WINK_%28AM%29> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/constituencyManxParliament> <http://dbpedia.org/resource/Ayre> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/nextRaceInSeason> <http://dbpedia.org/resource/2004_European_Grand_Prix> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/started/released> "--12-26"^^<http://www.w3.org/2001/XMLSchema#gMonthDay> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/allAmerican> "44"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/garage> "Pipera"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/voteby> "Singers voted for each other"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/playPsp> "7.5/10"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/centuries> "39"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/leader1Type> <http://dbpedia.org/resource/List_of_Presidents_of_the_Chamber_of_Deputies_of_Brazil> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/lat3Min> "33"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/usnwrPolsci> "10"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/eps> "207"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/birthame> "John Howard Carpenter"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/areaUrbanImperial> "31"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/weightLlb> "212"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/carheight> "4.382"^^<http://dbpedia.org/datatype/metre> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/perimeter> "235"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/disbursement> "Rs. 210,540 Million"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/away6pos> "RM"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/awardedBy> "France"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/sourceLocationNote> "near tramba village"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/ontology/originalStartPoint> <http://dbpedia.org/resource/Salford%2C_Greater_Manchester> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/mayPrecipInch> "4.81"^^<http://www.w3.org/2001/XMLSchema#double> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/orbit> "Sun-synchronous"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/imdbId_percent_C2_percent_A0> "106292"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/ncaasweetsixteen> "1978, 1980, 1981, 1982, 1984, 1985, 1987, 1989, 1990, 1991, 1995, 1998, 2001, 2007"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/relegatedTeams> <http://dbpedia.org/resource/Partick_Thistle_F.C.> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/eng2Number> "1"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/flavour> <http://dbpedia.org/resource/Fruit> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/breeds> <http://dbpedia.org/resource/Catahoula_Leopard_Dog> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/genusName> "Protothaca"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/workdaysTime> "4.50-22.25"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/dischargeMaxMonth> "April"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/gamesPlayed> "472"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/physicalLabel> "Abeano Music - XL Recordings"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/week187Color> "d"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/altcaptain> "John Bucyk"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/typeOfTheRegion> "area"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/sepPrecipIn> "20"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/cu> "yes"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/moor> "11594"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/industrialCapital> <http://dbpedia.org/resource/Visakhapatnam%2C_Andhra_Pradesh> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/views> "Average Views a Month = 500000"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/unrestrictedFreeAgents> "* Vacant"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/gridref> "SE090196"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/ukOnly> "yes"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/winnerName> <http://dbpedia.org/resource/Adil_Khan> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/campusPublication> "The Newsette, Ang Talabalita"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/previewUrl> "http://blogs.zdnet.com/microsoft/?p=5063&tag=content .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/icpositionh> "Full-back"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/intromissing> "July 2009"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/highschool> <http://dbpedia.org/resource/La_Salle_High_School_%28Milwaukie%2C_Oregon%29> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/longD> "-87.625528"^^<http://www.w3.org/2001/XMLSchema#double> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/jhigherseedSeries> "1"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/currentLocation> <http://dbpedia.org/resource/Indianapolis> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/bench1Sg> "Duke Mondy"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/chamber2Leader> <http://dbpedia.org/resource/Dave_Hunt_%28Oregon_politician%29> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/longmchange> "-10"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/period6Right> "0.55"^^<http://www.w3.org/2001/XMLSchema#double> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/playeryears> "1974"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/demographics1Footnotes> "2000 Census"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/isbnh> "ISBN 0-86140-324-X"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/spirit> "Heather Peterson"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/team2Image> "Flag of Afghanistan.svg"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/sriLankanTamil> "95560"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/ignPc> "4.5/10"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/yearOfCreation> "2000"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/villageTrustees> "Tyson Wingler"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/remake> <http://dbpedia.org/resource/T%C3%BA_o_Nadie> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/dod> "14"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/lasttesthome> "New Zealand"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/madridmastersresults> "W"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/scrips> <http://dbpedia.org/resource/The_Bible> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/locationSetting> "Large Town"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/siLatn> "pirit"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/team1TestsMostRuns> "Phil Jaques"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/BeBe_Winans> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/licensedHospitalBeds> "913"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/spouseName> "Lena"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/ontology/port2DockedTime> "86400.0"^^<http://www.w3.org/2001/XMLSchema#double> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/parti1stemmerendring> "12539"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/train> "Going clockwise: Flinders St, Southern Cross, Flemington Bridge, Rushall and Heyington stations"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/ewcPodiums> "9"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/plane2Stopover> <http://dbpedia.org/resource/Orio_al_Serio_Airport> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/oneisoform> "yes"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/accw> "0"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/transmissionSite> <http://dbpedia.org/resource/Clarkstown_radio_transmitter> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/corporateSite> <http://www.macysinc.com/> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/influence> "National folk ensemble of Yugoslavia"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/att> "56128"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/sinkRateMore> "at 80 km/h"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/metricRwy> <http://dbpedia.org/resource/Sorong> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/nobiblio> "1"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/p2destcolor> "#F1CF29"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/avcocupwin> "Yes"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/t8total> "8897+6514+7173+6745+6191+6332+7587+5356+5287+7031+7610+4156+8517"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/overlay17left> "350"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/population_percent_27_percent_27_percent_27total> "24610"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/lon10Deg> "28"^^<http://www.w3.org/2001/XMLSchema#int> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/rangeNote> "estimated"@en .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/designAssistant> <http://dbpedia.org/resource/Susan_Glavich> .}
+SELECT ?subject WHERE {?subject <http://dbpedia.org/property/bursar> "Mr John Reid"@en .}
